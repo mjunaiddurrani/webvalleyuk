@@ -71,101 +71,6 @@
 </head>
 <body class="hompg hdar-clr">
 
-<!--<div class="overlay-bg"></div>
-<div class="mypopup-wrap">
-  <div class="mypopup">
-    <div class="left">
-      <figure>
-        <img src="assets/images/popup.png">
-      </figure>
-    </div>
-    <div class="right">
-      <div class="closebutton">x</div>
-      <div class="mypopup-innerwrap">
-        
-        <div class="form_wrap">
-        <h3> <span>50% OFF </span>by Placing Order Today</h3>
-                  </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="eggoffer">
-    <a href="javascript:;">
-  <div class="top">
-    <figure>
-      <img src="assets/images/icon.png">
-    </figure>
-  </div>
-  
-  </a>
-</div>-->
-
-<!-- exit form start -->
-<!--<div class="ys-layer"></div>-->
-<!--<div class="ys-container" id="ys-container">-->
-<!--   <div class="ys-box">-->
-<!--       <a class="ys-popup-close ys-exit" href="#">x</a>-->
-       
-<!--       <div class="ys-popup-content">-->
-            
-
-<!--           <div class="popupform tabform clearfix  text-left">-->
-             
-<!--             <h3 class="main-heading"><span>Get Special</span> Discount</h3>-->
-<!--             <figure>-->
-<!--               <img src="assets/images/popup-img.jpg" alt="">-->
-<!--             </figure>-->
-<!--             <P>Don't miss out on special discount offer</P>-->
-<!--             <form id="popupfrm" class="cmxform"  method="POST" action="webpages/bookacallFormController.php">-->
-
-<!--               <div class="fldst">-->
-<!--                 <input id="username" name="Name" minlength="2" type="text" placeholder="Full Name" required />-->
-<!--               </div>-->
-
-<!--               <div class="fldst fldstrght">-->
-<!--                 <input id="cemail" type="Email" name="Email" placeholder="Email Address" required>-->
-<!--               </div>-->
-
-<!--               <div class="fldst">-->
-<!--                      <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />-->
-<!--                      <script>-->
-<!--                      document.getElementById('location').value = window.location.href;-->
-<!--                      </script>-->
-<!--                      <input type="hidden" name="hiddencapcha" value="">-->
-<!--                      <input type="hidden" name="ctry" value="">-->
-<!--                      <input type="hidden" name="pc" value="">-->
-<!--               </div>-->
-
-               <!-- <div class="fldst">
-<!--                 <textarea name="Message" placeholder="Enter a brief description of your Book Project"></textarea>-->
-
-<!--               </div> -->
-
-               
-<!--               <div class="fldst btnattach">-->
-<!--                 <button type="submit" value="Submit" class="btn-theme-outline btn btn-white btn-animate"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
-<!--                 <script>-->
-<!--                  document.getElementById('location').value = window.location.href;-->
-<!--                  </script>-->
-<!--                  <input type="hidden" name="hiddencapcha" value="">-->
-<!--                  <input type="hidden" id="location" name="locationURL" value="http://www.octaanimations.com/" />-->
-<!--               </div>-->
-<!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+441442902150">+44 144 290 2150</a></span></p>-->
-<!--             </form>-->
-<!--           </div>-->
-<!--       </div>-->
-<!--   </div>-->
-<!--</div>-->
-
-
-<!-- exit form end -->
-
-
-<noscript>
-<div id="jqcheck"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB60lEQVQ4T2NkwAHePzrxf3ebL1jWp/0oA5egGiM2pVgFQQq31uj/N/ANZvj+8T3D7aNHGDwbTxNvwKtbO/9f3dLHYJ+axfDn5w+GI/NnMRhFtTEISJtjGIIh8Pv39/87ak0ZzCLiGMRUNMCufnLxDMOlrZsY3JtOMrCwsKPowTDg3tGZ/59f2sVgFRvPkO+bAzZgwsZJDEcXzWNQtIlikDGIwG3Az+9v/+9qsGOwTc1h4JeQhhswcfMUhrcP7zEcXzyXwb3xMAMbuwDcEBTTzi7P/s/M8IFB3zccbDPMBSADQODs2sUMzFwyDIah/ZgGfHt/7/+BvmAGm+RsBl4RMawGfHr5jOHowlkMjiUbGDj55MCGwE060Of1X0RZi0Hb2Q4e3eguAElc2X2A4e2DmwwOhVsRBnx6cfH/yXm5DFZxyQxcAoJ4Dfj24T3DsUVzGcwSJjLwSxkygk3ZVmv4X805gkHZRBNXwkQRv3/+NsP1nUsYvFvOMzI+PLXo/73DSxgsouIYOHj5UBRi8wJIwY8vnxlOLV/CIGcewsC4vkDhv01yLoOIoiqG7bgMACn88Owxw8HpvQyMGwqV/vs19TMwQnxDEthYW8DAeGCC3/9XN46TpBGmWEzDkoHx06dP/z9//kyWAby8vAwAcza2SBMOSCMAAAAASUVORK5CYII=" alt="No Script" /> Javascript is disabled. Please enable it for better working experience.</div>
-</noscript>
 <div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.svg" alt="*" /></a>
   <nav>
 
@@ -306,11 +211,16 @@
     <div class="row">
       <div class="">
         <div class="ban-form">
-          <form class="cmxform" id="bannerform"  method="POST" action="https://webprohub.co.uk/webpages/bannerFormController.php">
+          <form class="cmxform" id="bannerform"  method="POST" action="/leads/">
+            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+            <input type="hidden" name="brand" value="webvalleyuk">   
+            <input type="hidden" name="tag" value="modal-auto">
+            <input type="hidden" name="price" value="null">
+            <input type="hidden" name="news" value="1">
             <div class="row">
               <div class="col-lg-12">
                 <div class="fldset">
-                  <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+                  <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
                 </div>
               </div>
               <div class="col-lg-12">
@@ -320,12 +230,12 @@
               </div>
               <div class="col-lg-12">
                 <div class="fldset">
-                  <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
+                  <input id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
                 </div>
               </div>
               <div class="col-lg-12">
                 <div class="fldset">
-                  <textarea name="Message" id="" rows="7" placeholder="Talk About Your Project"></textarea>
+                  <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
                 </div>
               </div>
               
@@ -2841,115 +2751,32 @@ Place purchasing requests.</li>
         <div class="form-box-main clearfix">
   <h2>Let’s talk about your next Big thing!</h2>
   <p>Heads up! We require that you sign up for Web Prohub services and packages. We make all your dreams come true in a successful project.</p>
-  <form class="cmxform" id="contactForm"  method="POST" action="https://webprohub.co.uk/webpages/orderFormController.php"  enctype="multipart/form-data">
+  <form class="cmxform" id="contactForm"  method="POST" action="/leads/"  enctype="multipart/form-data">
+    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+    <input type="hidden" name="brand" value="webvalleyuk">   
+    <input type="hidden" name="tag" value="modal-auto">
+    <input type="hidden" name="price" value="null">
+    <input type="hidden" name="news" value="1">
     <div class="row">
       <div class="col-md-12">
         <label class="field-txt">Name <span>*</span></label>
-          <input id="username" name="Name" minlength="2" type="text" placeholder="" required />
+          <input id="username" name="name" minlength="2" type="text" placeholder="" required />
      </div>
       <div class="col-md-6">
         <label class="field-txt">Email <span>*</span></label>
-        <input id="cemail" type="email" name="Email" placeholder="" required>
+        <input id="cemail" type="email" name="email" placeholder="" required>
      </div>
      <div class="col-md-6">
         <label class="field-txt">Phone Number<span>*</span></label>
-       <input id="phone-country" name="Number" type="number" placeholder="" required/>
+       <input id="phone-country" name="phone" type="number" placeholder="" required/>
      </div>
 
-     <div class="col-md-12">
-         <div class="forarrowselect">
-            <label class="field-txt">Select Package <span>*</span></label>
-
-            <select name="Packages" id="packages" class="valid safari_only" aria-invalid="false" >
-              <option  value="" pack="0">Select Package</option>
-              
-              <!-- <option  value="Special Logo Package - £17.99" pack="1">Special Logo Package - £17.99</option> 
-              <option  value="Bronze Logo Package - £39.99" pack="2">Bronze Logo Package - £39.99</option>
-              <option  value="Silver Logo Package - £74.99" pack="3">Silver Logo Package - £74.99</option>
-              <option  value="Gold Logo Package - £99.99" pack="4">Gold Logo Package - £99.99</option>
-              <option  value="Platinum Logo Package - £119.99" pack="5">Platinum Logo Package - £119.99</option>
-
-
-              <option  value="Basic Illustration Logo Package - £149.99" pack="6">Basic Illustration Logo Package - £149.99</option>
-              <option  value="Startup Illustration Logo Package - £249.99" pack="7">Startup Illustration Logo Package - £249.99</option>
-              <option  value="Professional Illustration Logo Package - £349.99" pack="8">Professional Illustration Logo Package - £349.99</option>
-              <option  value="3D Logo Package - £399.99" pack="9">3D Logo Package - £399.99</option>
-              <option  value="Startup Combo Package - £699.99" pack="10">Startup Combo Package - £699.99</option> -->
-
-
-
-              
-
-
-
-              <option  value="Startup Website Package - £230.00" pack="1">Startup Website Package - £230.00</option>
-              <option  value="Professional Website Package - £409.99" pack="2">Professional Website Package - £409.99</option>
-              <option  value="Elite Website Package - £709.99" pack="3">Elite Website Package - £709.99</option>
-              <option  value="E-Commerce Website Package - £1004.99" pack="4">E-Commerce Website Package - £1004.99</option>
-              <option  value="Silver Website Package - £1609.99" pack="5">Silver Website Package - £1609.99</option>
-
-              <option  value="E-Commerce Startup Package - £600.00" pack="6">E-Commerce Startup Package - £600.00</option>
-              <option  value="E-Commerce Professional Package - £1,394.00" pack="7">E-Commerce Professional Package - £1,394.00</option>
-              <option  value="E-Commerce Elite Package - £3,694.00" pack="8">E-Commerce Elite Package - £3,694.00</option>
-
-               <option  value="Startup Video Package - £209.99" pack="9">Startup Video Package - £209.99</option>
-              <option  value="Classic Video Package - £409.99" pack="10">Classic Video Package - £409.99</option>
-              <option  value="Premium Video Package - £809.99" pack="11">Premium Video Package - £809.99</option>
-              <option  value="Unlimited Animation Package - £1409.99" pack="12">Unlimited Animation Package - £1409.99</option>
-              <option  value="Professional 3D VFX Animation - £2009.99" pack="13">Professional 3D VFX Animation - £2009.99</option>
-              <option  value="Elite 3D VFX Animation - £2509.99" pack="14">Elite 3D VFX Animation - £2509.99</option>
-
-
-              <option  value="Stationery Package - £74.99" pack="15" >Stationery Package - £74.99</option>
-              <option  value="Infographic Package - £139.99"  pack="16" >Infographic Package - £139.99</option>
-              <option  value="Brochure/Flyer Package - £134.99"  pack="17" >Brochure/Flyer Package - £134.99</option>
-
-              <option  value="Basic Combo Package - £444.99"  pack="18" >Basic Combo Package - £444.99</option>
-              <option  value="Startup Combo Package - £794.00"  pack="19" >Startup Combo Package - £794.00</option>
-              <option  value="Professional  Combo Package - £1,044.99"  pack="20" >Professional  Combo Package - £1,044.99</option>
-              <option  value="Corporate  Combo Package - £1,344.99"  pack="21" >Corporate  Combo Package - £1,344.99</option>
-              <option  value="Elite  Combo Package - £1,994.99"  pack="22" >Elite  Combo Package - £1,994.99</option>
-
-              <option  value="Seo Booster Package - £200.00" pack="23">Seo Booster Package - £200.00</option>
-              <option  value="Seo Value Package - £400.00" pack="24">Seo Value Package - £400.00</option>
-              <option  value="Seo Pro Package - £600.00" pack="25">Seo Pro Package - £600.00</option>
-
-
-              <option  value="Business Website Package - £1999.00" pack="26">Business Website Package - £1999.00</option>
-              <option  value="Automated/Interactive Conferencing Portal - £3999.00" pack="27">Automated/Interactive Conferencing Portal - £3999.00</option>
-              <option  value="Automated/Interactive E-Commerce Website - £4999.00" pack="28">Automated/Interactive E-Commerce Website - £4999.00</option>
-
-
-
-              <!-- <option  value="Basic Social Package - £250"  pack="18" >Basic Social Package - £250</option>
-              <option  value="Advance Social Package - £500"  pack="19" >Advance Social Package - £500</option>
-              <option  value="Banner Ads Package - £750"  pack="20" >Banner Ads Package - £750</option>
-              <option  value="Email Template Package - £94.99"  pack="21" >Email Template Package - £94.99</option>
-              <option  value="Landing Pages - £144.99"  pack="22" >Landing Pages - £144.99</option> -->
-
-             <!-- 
-              <option  value="Article Writing Package - £25.00" pack="33">Article Writing Package - £25.00</option>
-              <option  value="Press Release Package - £30.00" pack="33">Press Release Package - £30.00</option>
-              <option  value="Web Content Writing Package - £35.00" pack="35">Web Content Writing Package - £35.00</option> -->
-            </select>
-        </div>
-     </div>
-     
-     
-
-     
-
-      
-     <div class="col-md-12">
-        <label class="field-txt">Please Attach Relevant Documents MS Word, JPG &amp; PNG Preferred </label>
-        <input type="file" name="wordfile" id="fileToUpload">
-     </div>
-     
+  
      
       
     <div class="col-md-12 pb-0">
         <label class="field-txt">Additional Comments <span>*</span></label>
-        <textarea name="Comment" placeholder="" /></textarea>
+        <textarea name="brief" placeholder="" ></textarea>
      </div>
      
     <div class="col-md-12">
@@ -3128,43 +2955,34 @@ Place purchasing requests.</li>
           <div class="container">
             <div class="row">
                 <div class="ban-form">
-                  <form class="cmxform" id="bannerform" method="POST" action="https://webprohub.co.uk/webpages/orderFormController.php">
+                  <form class="cmxform" id="bannerform" method="POST" action="/leads/">
+                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+                    <input type="hidden" name="brand" value="webvalleyuk">   
+                    <input type="hidden" name="tag" value="modal-auto">
+                    <input type="hidden" name="price" value="null">
+                    <input type="hidden" name="news" value="1">
                     <div class="row">
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input id="username" name="Name" minlength="2" type="text" placeholder="Enter your name" required />
+                          <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
                           <i class="fa fa-user" aria-hidden="true"></i>
                         </div>
                       </div>
+                     
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <div class="fldset flt-slct">
-                          <select id="packages" name="Packages" class="valid" aria-invalid="false" >
-                              <option value="-1" pack="0">Interested in?</option>
-                              <option value="Web Design">Web Design</option>
-                              <option value="Ecommerce">Ecommerce</option>
-                              <option value="Branding">Branding</option>
-                              <option value="Video Animation">Video Animation</option>
-                              <option value="SEO">SEO</option>
-                            </select>
-                          <i class="fa fa-university" aria-hidden="true"></i>
-                        </div>
-                        </div>
-                      </div>
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+                          <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
                           <i class="fa fa-envelope-o" aria-hidden="true"></i>
                         </div>
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />
+                          <input id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
                         </div>
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <textarea name="Message" id="" rows="7" placeholder="Talk About Your Project"></textarea>
+                          <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
                           <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
                         </div>
                       </div>
