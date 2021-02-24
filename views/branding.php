@@ -10,12 +10,9 @@
 
 
 
+<?php include_once('includes/head.php');?>
 
 
-
-<!--[if IE]>
-  <script src="assets/js/html5.js"></script>
-<![endif]-->
 
 
 
