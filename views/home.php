@@ -1,57 +1,14 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-GB">
 
-<!-- Mirrored from webprohub.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:38:43 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <title>Innovative Website Designing Services In UK | Web Pro Hub</title>
-<meta name="keywords" content="Website design, website designer, website designer , video creator">
-<meta name="description" content="Web Pro Hub is a UK based company offering website designing services .We construct custom websites around your needs. Great design, functionality and user experience. Find out more about our website ">
-<link rel='stylesheet' id='main-style-css'  href='../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css' type="text/css" />
+<link rel='stylesheet' id='main-style-css'  href='../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css' type="text/css"/>
 
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@ webprohub " />
-<meta name="twitter:description" content=" Custom websites constructed around your needs. Great design, functionality and user experience. Find out more about our web development & design services." />
-<meta name="twitter:title" content=" Custom Website Design and Development Service In Uk | Web Pro Hub" />
-<meta name="twitter:site" content="@ webprohub " />
-<meta name="twitter:image" content=" https://webprohub.co.uk/assets/images/logo.svg " />
-
-<meta property="og:title" content=" Custom Website Design and Development Service In Uk | Web Pro Hub" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content=" https://webprohub.co.uk/" />
-<meta property="og:description" content=" Custom websites constructed around your needs. Great design, functionality and user experience. Find out more about our web development & design services." />
-<meta property="og:site_name" content="@ webprohub " />
-<meta property="og:image" content=" https://webprohub.co.uk/assets/images/logo.svg " />
-  
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144583106-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-144583106-1');
-</script>
-
-
-
-
-
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="../js.hs-scripts.com/6296508.html"></script>
-<!-- End of HubSpot Embed Code -->
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="google-site-verification" content="u2Hu5XSG3LkMhd_Zpz2yXQYspUbPr7mhqNDdt3zF3NA" />
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
-<link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
-<link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-<!--  -->
-<!-- <link href="https://fonts.googleapis.com/css?family=Exo:300,400,500,600,700,900&display=swap" rel="stylesheet"> -->
-<link href="https://fonts.googleapis.com/css?family=Poppins:400,600,800,900&amp;display=swap" rel="stylesheet">
-<!-- <link href="https://fonts.googleapis.com/css?family=Quattrocento+Sans&display=swap" rel="stylesheet"> -->
-<link rel="stylesheet" type="text/css" href="../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<?php 
+include_once('includes/head.php');
+?>
 
 
 
