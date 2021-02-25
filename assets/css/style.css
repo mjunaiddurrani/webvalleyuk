@@ -6306,6 +6306,7 @@ p.small{font-size: 14px;color: #000;text-align: center;display: block;}
     border-radius: 50px 0px 0px 50px;
     padding: 15px 4px;
 }
+
 .floatbutton .clickbutton .crossplus:before{content: ""; display:none;position: absolute;width: 20px;height: 2px;right: 0;background: #fbb334;z-index: 99;top: 0;left: 0;bottom: 0;margin: auto;}
 .floatbutton .clickbutton .crossplus:after{content: ""; display:none;position: absolute;width: 2px;height: 20px;right: 0;background: #fab334;z-index: 99;top: 0;left: 0;bottom: 0;margin: auto;}
 .floatbutton .clickbutton .crossplus{
@@ -6317,23 +6318,6 @@ p.small{font-size: 14px;color: #000;text-align: center;display: block;}
     -o-transition: 0.4s;
     transition: 0.4s;
     }
-.floatbutton .clickbutton .crossplus:before{
-    position: absolute;
-    content: "";
-    background: url(../images/float-icon.png);
-    width:26px;
-    height: 25px;
-    display: block;
-    left: -171px;
-    top: -96px;
-    /*background-repeat: no-repeat;
-    width: 124px;
-    height: 96px;
-    left: -73px;
-    top: 75px;
-    display: block;
-    background-color: transparent;*/
-}
 
 p.parafloat {
     color: #fff;
