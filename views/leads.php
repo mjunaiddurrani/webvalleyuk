@@ -43,7 +43,7 @@ curl_close($curl);
 $decodeResponse = json_decode($response);
 $msg = $decodeResponse[1];
 
-session_start();
+
 $_SESSION['thanksMsg'] = $msg;
 
 header("location:/thank-you/");
