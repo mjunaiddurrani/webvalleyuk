@@ -107,7 +107,7 @@ include_once('includes/head.php');
               </div>
               <div class="col-lg-12">
                 <div class="fldset">
-                  <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+                  <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
                 </div>
               </div>
               <div class="col-lg-12">
@@ -2660,18 +2660,9 @@ Place purchasing requests.</li>
         <label class="field-txt">Additional Comments <span>*</span></label>
         <textarea name="brief" placeholder="" ></textarea>
      </div>
-     
-    <div class="col-md-12">
-        <div class="check-list col-lg-12 nopaddding">
-          <input  type="checkbox" name="NDA" value="Required NDA" >
-          <label for="checkbox22">Please send me a Non Disclosure Agreement for a Confidential Consultation</label>
-        </div>
-    </div>
+
     <div class="col-md-12">
         <input class="submit" type="submit" value="Submit" />
-        <input class="" type="hidden" name="ctry" value="" />
-          <input type="hidden" name="pc" value="">
-          <input type="hidden" name="hiddencapcha" value="">
      </div>
      </div>
   </form>
