@@ -1,4 +1,4 @@
-var stripe = Stripe("pk_test_51HiNeKAT56gI6LGHGKpcFsqOIyiF1IyqZhSskqQZVNkU3W8QxjfQRODxdNMIKXXtOaA6Tyrqb2ytWHlpPoP3xL9L00yo6TculW");
+var stripe = Stripe("pk_live_51IHtDwCqRn7S2f1udaPu306FkNTfg75KhtQ6N3w1DHCOK1ROPncTfCfi7BtlnKpIvvP0354C3gvnbFHQQ1yt88sT000Ok9hoxO");
 var elements = stripe.elements();
 var style = { base: { fontSize: "16px", color: "#000" } };
 var card = elements.create("card", { style: style });
