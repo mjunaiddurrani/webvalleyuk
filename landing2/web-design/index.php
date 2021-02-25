@@ -150,6 +150,11 @@ ul, li {
     border: none;
     color: #fff;
     background: rgb(38 204 202)
+
+}
+.pricing-sec .nav-pills li a:hover,
+.pricing-sec .nav-pills li a.active{
+  text-decoration:none;
 }
 .packages-sec-before .nav-pills li a {
     color: #687087;
@@ -358,7 +363,8 @@ ul, li {
     padding: 0px 0 12px 0;
     font-size: 12px;
     text-transform: uppercase;
-    color: #2261d1;
+    color: #26ccca;
+    text-align:center;
     background: #ffffff;
     border: none;
 }
@@ -2835,9 +2841,6 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-462">
                                         <a href=/terms-conditions/>Terms &#038; Conditions</a>
                                     </li>
-                                    <li id=menu-item-863
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863">
-                                        <a href=/disclaimer/>Disclaimer</a></li>
                                 </ul>
                             </div>
                         </div>
