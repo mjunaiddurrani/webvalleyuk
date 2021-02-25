@@ -30,7 +30,7 @@
       <div class="col-lg-3">
         <div class="logo">
             <a href="index.html">
-              <img class="img-fluid black" src="assets/images/logo.svg" alt="*" />
+              <img class="img-fluid black" src="img/logo.png" alt="logo" />
             </a>
           </div>
       </div>

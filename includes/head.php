@@ -1,5 +1,16 @@
 
 
+<?php 
+
+if (isset($_SERVER['HTTPS'])) {
+	$requesMet = "https";
+}else{
+	$requesMet = "http";
+}
+
+?>
+
+<base href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].'/' ?>">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-site-verification" content="u2Hu5XSG3LkMhd_Zpz2yXQYspUbPr7mhqNDdt3zF3NA" />
