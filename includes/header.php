@@ -40,12 +40,12 @@
           <div class="main-menu align-self-center d-none d-lg-block">
             <ul class="forpgactive">
               <li class="active"><a href="index.html">Home</a></li>
-              <li class=""><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
-               <li class=""><a href="web-app-development.html">Web App Development</a></li>
+              <li class=""><a href="/ecommerce-website-design/">Ecommerce Solutions</a></li>
+               <li class=""><a href="/web-app-development/">Web App Development</a></li>
 
                    
-                    <li class=""><a href="video-animation.html">Video Animation</a></li>
-                    <li class=""><a href="combo-packages.html">Combo Packages</a></li>
+                    <li class=""><a href="/video-animation/">Video Animation</a></li>
+                    <li class=""><a href="/combo-packages/">Combo Packages</a></li>
               <li class=""><a href="packages.html">Packages</a></li>
               
               <li class=""><a href="portfolio.html">Portfolio</a></li>
