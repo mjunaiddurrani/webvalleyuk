@@ -102,10 +102,6 @@
 
 
 
-
-
-
-
         /* tabs styling */
 
         .packages-sec-before {
@@ -153,7 +149,7 @@ ul, li {
 .pricing-sec .nav-pills li a.active {
     border: none;
     color: #fff;
-    background: linear-gradient(to right, rgb(129, 40, 185) 0%, #0c6ed6 100%);
+    background: linear-gradient(to right, rgb(38 204 202) 0%, #fdee3d 100%);
 }
 .packages-sec-before .nav-pills li a {
     color: #687087;
@@ -187,7 +183,7 @@ ul, li {
     /* margin-bottom: 32px; */
     /* margin-right: 25px; */
     margin: 12px 12px;
-    border: 2px solid #508dde;
+    border: 2px solid #fdee3d;
     -webkit-transition: all 200ms ease-in;
     -webkit-transform: scale(1.05);
     -ms-transition: all 200ms ease-in;
@@ -211,7 +207,7 @@ ul, li {
 }
 .smallboxes .smallbox h2 {
     font-size: 44px;
-    color: #d12e49;
+    color: #26ccca;
     padding-bottom: 0;
     text-align: left;
     line-height: 1;
@@ -317,7 +313,123 @@ ul, li {
     position: relative;
     line-height: 24px;
 }
-    </style>
+
+
+
+
+.smallboxes .smallbox .price-btnwrap a.btn-packages, .smallboxes .smallbox .price-btnwrap a.btn-packages:hover {
+  background: linear-gradient(to right, rgb(253 238 61) 0%, #26ccca 100%);
+    color: #fff;
+    text-decoration: none;
+}
+
+.smallboxes .smallbox .price-btnwrap a + a:hover {
+    color: #333333;
+    text-decoration: underline;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    background: transparent;
+}
+
+.smallboxes .smallbox .price-btnwrap .btn-packages {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -30px;
+    padding: 15px 30px;
+    
+}
+.smallboxes .smallbox .price-btnwrap a + a {
+    color: #d8d8d8;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.smallboxes .smallbox .price-btnwrap a {
+    display: block;
+    max-width: 175px;
+    margin: 3px auto;
+    height: 45px;
+    padding: 0px 0 12px 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #2261d1;
+    background: #ffffff;
+    border: none;
+}
+.btn-packages:hover {
+    transform: translateY(-0.625rem);
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+    color: #ffffff;
+}
+
+@media only screen and (max-width: 736px){
+
+
+.pricing-sec, .weDifferent-sec, .who-we-sec, .ourprocesses, .packages-sec, .ourapproachsec, .bottom-form, .faqsection, .singletestimonials, .cta, .satisfactionfold {
+    padding: 30px 0;
+}
+}
+@media only screen and (max-width: 769px) and (min-width: 0px){
+
+
+.pricing-sec, .weDifferent-sec, .who-we-sec, .ourprocesses, .packages-sec, .ourapproachsec, .bottom-form, .faqsection, .singletestimonials, .cta, .satisfactionfold {
+    padding: 60px 0;
+}
+}
+
+
+@media only screen and (max-width: 480px) and (min-width: 0px)
+.smallboxes .smallbox {
+    margin: 12px 0px;
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 1024px){
+.smallboxes .smallbox {
+    width: 30%;
+}
+}
+@media only screen and (max-width: 769px) and (min-width: 0px){
+.smallboxes .smallbox {
+    width: 100%;
+}
+}
+@media only screen and (max-width: 736px){
+.smallboxes .smallbox {
+    width: 47%;
+    padding: 15px;
+    margin: 12px 6px;
+    border: 1px solid #732fb9;
+}
+}
+@media only screen and (max-width: 769px) and (min-width: 0px){
+.smallboxes .smallbox {
+    width: 100%;
+}
+}
+@media only screen and (max-width: 769px) and (min-width: 0px){
+.smallboxes .smallbox .price-btnwrap a {
+    padding: 12px 0 7px 30px !important;
+}
+}
+@media only screen and (max-width: 1024px){
+.btn-packages {
+    font-size: 14px;
+    padding: 16px 16px;
+}
+}
+</style>
     <link rel=stylesheet id=wp-block-library-css
         href='../wp-includes/css/dist/block-library/style.min5697.css?ver=5.5.3' type=text/css media=all>
     <link rel=stylesheet id='Main stylesheet-css' href='../wp-content/themes/edigisol/style84e2.css?ver=1.00'
@@ -370,6 +482,66 @@ ul, li {
 
 <body data-rsssl=1 class="page-template-default page page-id-83">
   
+
+
+<!-- Modal For Queries -->
+<div class="modal fade" id="modalForDiscount" tabindex="-1" role="dialog" aria-labelledby="modalForDiscount" aria-hidden="true">
+  <div class="modal-dialog modal-xl" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+	  <button type="button" class="close modalClose" data-dismiss="modal">&times;</button>
+	  <div class="container">
+			<div class="row">
+				<div class="col-lg-5 col-md-12 mbl-none p-0">
+						<!--<a type="button" class="modalClose" data-dismiss="modal" style="text-align: right;"><i class="fa fa-times"></i></a>-->
+					
+					<!-- <img src="img/footer.jpg" style="width:100%;height:100%;" alt=""> -->
+				</div>
+				<div class="col-lg-7 col-md-12 col-sm-12 col-12 text-white">
+					<div class="modalDetailsOf">
+						<div class="row modalDetailsOfRow text-center">
+							<p class="mainH1 pt-5 w-100">LET'S GET STARTED</p>
+							<hr class="hrModal">
+							
+						</div>
+						<p class="text-center modal-para p-md-4">To schedule a consultation, please send us your details. We will guide you through the entire writing and publishing process.</p>
+						<form action="/modalForm" method="POST" class="modal-fom">
+							<!-- <input type="hidden" name="setprice" class="setprice">	 -->
+							<div class="row">
+								<div class="col-md-6">
+									<input required type="text" name="name" class="form-control" placeholder="Write your full name">
+									<input required type="email" name="email" class="form-control" placeholder="Write your email address">
+									<input required type="tel" name="phone"  class="form-control" placeholder="Write your phone number">
+										<input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+										<input type="hidden" name="brand" value="ghostwriting">   
+								</div>
+							<div class="col-md-6 ">
+								<textarea name="brief" class="form-control"  style="" placeholder="Write your project description"></textarea>
+							</div>
+							</div>
+							
+								<label class="containerCheckBox">
+									<input  type="checkbox" name="subscription" checked disabled>
+									<span class="modal-check-para">I want to receive the latest news, updates and special offers directly to my inbox.</span>
+								</label>
+								<input type="hidden" name="set" value="true">
+								<div class="text-center pb-3">
+									<button class="btn btn-submit btn-modal font-weight-bold pl-md-4 pr-md-4 p-md-3">SUBMIT NOW</button>
+								</div>
+							
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+
     <style>
         @keyframes animation {
             0% {
@@ -431,10 +603,10 @@ ul, li {
                                 href=/contact-us/>Contact Us</a></li>
                         <li id=menu-item-8 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8">
                             <a title=telephoneNumber href="tel:+4402038087061"><i
-                                    class="fa fa-phone-alt"></i><span>+44 (0)2038087061</span></a></li>
+                                    class="fa fa-phone-alt"></i><span>+4402038087061</span></a></li>
                         <li id=menu-item-345
                             class="custom-btn-bg-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-345">
-                            <a href=/get-a-free-quote/>Get Free Quote</a></li>
+                            <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get Free Quote</a></li>
                     </ul>
                 </div>
             </nav>
@@ -815,8 +987,8 @@ ul, li {
                                                                                                                     class="btn custom-btn-bg"
                                                                                                                     aria-label="lets start">LET'S
                                                                                                                     START</a>
-                                                                                                                <a href=/contact-us/
-                                                                                                                    class="btn custom-btn-nobg"
+                                                                                                                <a href="javascript:void(0)"
+                                                                                                                    class="btn liveChat custom-btn-nobg"
                                                                                                                     aria-label="WANT TO DISCUSS">WANT
                                                                                                                     TO
                                                                                                                     DISCUSS?</a>
@@ -907,8 +1079,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -923,7 +1095,7 @@ ul, li {
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/startup-website-package.html">View Details</a> 
-      <a href="orderde9d.html?pack=1" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -960,8 +1132,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -977,7 +1149,7 @@ ul, li {
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/professional-website-package.html">View Details</a>
-      <a href="order94ea.html?pack=2" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1020,8 +1192,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1037,7 +1209,7 @@ ul, li {
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/elite-website-package.html">View Details</a>
-      <a href="orderc983.html?pack=3" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1084,8 +1256,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1101,7 +1273,7 @@ ul, li {
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-website-package.html">View Details</a>
-      <a href="order4645.html?pack=4" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1151,8 +1323,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1168,7 +1340,7 @@ ul, li {
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/silver-website-package.html">View Details</a>
-      <a href="order5ac2.html?pack=5" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1206,8 +1378,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1223,7 +1395,7 @@ ul, li {
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-startup-package.html">View Details</a> 
-      <a href="orderc92d.html?pack=6" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1254,8 +1426,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1271,7 +1443,7 @@ ul, li {
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-professional-package.html">View Details</a>
-      <a href="orderaf2d.html?pack=7" class="btn-packages">Place Your Order</a> 
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a> 
     </div>
   </div>
 
@@ -1327,8 +1499,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1344,7 +1516,7 @@ ul, li {
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-elite-package.html">View Details</a>
-      <a href="order512d.html?pack=8" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1408,8 +1580,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1424,7 +1596,7 @@ ul, li {
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/business-website-package.html">View Details</a> 
-      <a href="orderaecd.html?pack=26" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1493,8 +1665,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1510,7 +1682,7 @@ ul, li {
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
-      <a href="order0044.html?pack=27" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1619,8 +1791,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1636,7 +1808,7 @@ Place purchasing requests.</li>
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
-      <a href="order9c5e.html?pack=28" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1677,8 +1849,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1694,7 +1866,7 @@ Place purchasing requests.</li>
   </div>
     <div class="price-btnwrap">
       <a href="ourpackages/stationery-package.html">View Details</a>
-      <a href="order9187.html?pack=15" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -1724,8 +1896,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1741,7 +1913,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/infographic-package.html">View Details</a> 
-      <a href="order1cf8.html?pack=16" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1771,8 +1943,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1788,7 +1960,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/brochure-flyer-package.html">View Details</a> 
-      <a href="orderf8c1.html?pack=17" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1821,8 +1993,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1838,7 +2010,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/startup-video-package.html">View Details</a>
-      <a href="order88b5.html?pack=9" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -1862,8 +2034,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1879,7 +2051,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/classic-video-package.html">View Details</a>
-      <a href="orderf484.html?pack=10" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1903,8 +2075,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1920,7 +2092,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/premium-video-package.html">View Details</a>
-      <a href="order35dd.html?pack=11" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1943,8 +2115,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1960,7 +2132,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/unlimited-animation-package.html">View Details</a>
-      <a href="order9842.html?pack=12" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1994,8 +2166,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2011,7 +2183,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/professional-3d-vfx-animation.html">View Details</a>
-      <a href="order0743.html?pack=13" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -2045,8 +2217,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2062,7 +2234,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/elite-3d-vfx-animation.html">View Details</a>
-      <a href="orderdab3.html?pack=14" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -2114,8 +2286,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2131,7 +2303,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-booster-package.html">View Details</a>
-      <a href="order9cb8.html?pack=23" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -2183,8 +2355,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2200,7 +2372,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-value-package.html">View Details</a>
-      <a href="orderd71b.html?pack=24" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -2255,8 +2427,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2272,7 +2444,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-pro-package.html">View Details</a>
-      <a href="order8c39.html?pack=25" class="btn-packages">Place Your Order</a>
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -2581,7 +2753,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <div class=icon><i class="fa fa-phone-alt"></i></div>
                     <div class=strip-detial>
                         <h4>Call us (TOLL FREE)</h4>
-                        <h2><a href="tel:+4402038087061">+44 (0)2038087061</a></h2>
+                        <h2><a href="tel:+4402038087061">+4402038087061</a></h2>
                     </div>
                 </div>
                 <div class="col-md-5 align-self-center">
@@ -2634,7 +2806,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                         <a href=/video-animation/>Video Animation</a></li>
                                     <li id=menu-item-457
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457">
-                                        <a href=/get-a-free-quote/>Get a Free Quote</a></li>
+                                        <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get a Free Quote</a></li>
                                 </ul>
                             </div>
                             <div class=col-md-4>
@@ -2723,6 +2895,21 @@ s144.8-64.8,144.8-144.8" /></svg></div>
     </script>
     <script src='../wp-content/plugins/wpforms/assets/js/wpforms2745.js?ver=1.6.4' id=wpforms-js></script>
     <script>
+
+    setTimeout(function(){  
+    // $("#modalForDiscount").modal("show");
+    
+    $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
+    $(document).on('click','.liveChat',function(){
+        $zopim.livechat.window.show();
+
+    });
+    $zopim(function() {
+       $zopim.livechat.hideAll();
+    });
+}, 15000);
+
+
         var wpforms_settings = {
             "val_required": "This field is required.",
             "val_url": "Please enter a valid URL.",
