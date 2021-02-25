@@ -149,7 +149,12 @@ ul, li {
 .pricing-sec .nav-pills li a.active {
     border: none;
     color: #fff;
-    background: linear-gradient(to right, rgb(38 204 202) 0%, #fdee3d 100%);
+    background: rgb(38 204 202)
+
+}
+.pricing-sec .nav-pills li a:hover,
+.pricing-sec .nav-pills li a.active{
+  text-decoration:none;
 }
 .packages-sec-before .nav-pills li a {
     color: #687087;
@@ -183,7 +188,7 @@ ul, li {
     /* margin-bottom: 32px; */
     /* margin-right: 25px; */
     margin: 12px 12px;
-    border: 2px solid #fdee3d;
+    border: 2px solid #26ccca;
     -webkit-transition: all 200ms ease-in;
     -webkit-transform: scale(1.05);
     -ms-transition: all 200ms ease-in;
@@ -318,7 +323,7 @@ ul, li {
 
 
 .smallboxes .smallbox .price-btnwrap a.btn-packages, .smallboxes .smallbox .price-btnwrap a.btn-packages:hover {
-  background: linear-gradient(to right, rgb(253 238 61) 0%, #26ccca 100%);
+  background: #26ccca;
     color: #fff;
     text-decoration: none;
 }
@@ -358,7 +363,8 @@ ul, li {
     padding: 0px 0 12px 0;
     font-size: 12px;
     text-transform: uppercase;
-    color: #2261d1;
+    color: #26ccca;
+    text-align:center;
     background: #ffffff;
     border: none;
 }
@@ -477,6 +483,21 @@ ul, li {
             font-weight: 300;
             background: #ccc
         }
+        #modalForDiscount p{
+          color:#fff;
+        }
+        #modalForDiscount button{
+          color:#000;
+          background:#fdee3d;
+        }
+        #modalForDiscount input,
+        #modalForDiscount textarea{
+          margin-top:10px;
+        }
+        .mainH1{
+          font-size:25px;
+          font-weight:bold;
+        }
     </style>
 </head>
 
@@ -485,9 +506,9 @@ ul, li {
 
 
 <!-- Modal For Queries -->
-<div class="modal fade" id="modalForDiscount" tabindex="-1" role="dialog" aria-labelledby="modalForDiscount" aria-hidden="true">
+<div class="modal fade" id="modalForDiscount" tabindex="-1" role="dialog" aria-labelledby="modalForDiscount" aria-hidden="true" style="top:10%;">
   <div class="modal-dialog modal-xl" role="document">
-    <div class="modal-content">
+    <div class="modal-content" style="background-image:url('../wp-content/themes/popup.jpg');background-size:cover">
       <div class="modal-body">
 	  <button type="button" class="close modalClose" data-dismiss="modal">&times;</button>
 	  <div class="container">
@@ -505,15 +526,18 @@ ul, li {
 							
 						</div>
 						<p class="text-center modal-para p-md-4">To schedule a consultation, please send us your details. We will guide you through the entire writing and publishing process.</p>
-						<form action="/modalForm" method="POST" class="modal-fom">
+						<form action="/leads/" method="POST" class="modal-fom">
 							<!-- <input type="hidden" name="setprice" class="setprice">	 -->
 							<div class="row">
 								<div class="col-md-6">
 									<input required type="text" name="name" class="form-control" placeholder="Write your full name">
 									<input required type="email" name="email" class="form-control" placeholder="Write your email address">
 									<input required type="tel" name="phone"  class="form-control" placeholder="Write your phone number">
-										<input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
-										<input type="hidden" name="brand" value="ghostwriting">   
+                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+                    <input type="hidden" name="brand" value="webvalleyuk">   
+                    <input type="hidden" name="tag" value="modal-auto">
+                    <input type="hidden" name="price" value="null">
+                    <input type="hidden" name="news" value="1">
 								</div>
 							<div class="col-md-6 ">
 								<textarea name="brief" class="form-control"  style="" placeholder="Write your project description"></textarea>
@@ -580,16 +604,14 @@ ul, li {
                             <ul class=sub-menu>
                                 <li id=menu-item-346
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a
-                                        href=/logo-design/>Logo Services</a></li>
+                                        href=/ecommerce-website-design/>Ecommerce Solutions</a></li>
                                 <li id=menu-item-348
                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83 current_page_item menu-item-348">
-                                    <a href=index.html aria-current=page>Web Services</a></li>
+                                    <a href="/web-app-development/" aria-current=page>Web App Development</a></li>
                                 <li id=menu-item-347
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a
-                                        href=/branding-design/>Branding Services</a></li>
-                                <li id=menu-item-342
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a
-                                        href=/video-animation/>Video Animation</a></li>
+                                        href=/combo-packages/>Combo Packages</a></li>
+                           
                             </ul>
                         </li>
                         <li id=menu-item-343
@@ -597,7 +619,7 @@ ul, li {
                                 href=/packages/>Packages</a></li>
                         <li id=menu-item-515
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a
-                                href=/our-work/>Our Work</a></li>
+                                href="/portfolio/">Our Work</a></li>
                         <li id=menu-item-344
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a
                                 href=/contact-us/>Contact Us</a></li>
@@ -983,7 +1005,7 @@ ul, li {
                                                                                                             </p>
                                                                                                             <div
                                                                                                                 class=call_to_action>
-                                                                                                                <a href=#myTabContent
+                                                                                                                <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"
                                                                                                                     class="btn custom-btn-bg"
                                                                                                                     aria-label="lets start">LET'S
                                                                                                                     START</a>
@@ -1074,7 +1096,7 @@ ul, li {
       <li>Mobile Responsive will be Additional £99*</li>
       <li>CMS will be Additional £149*</li>
     </div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 50px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -1094,7 +1116,7 @@ ul, li {
       </div>
     </div></div>
     <div class="price-btnwrap">
-      <a href="ourpackages/startup-website-package.html">View Details</a> 
+      <a href="../../ourpackages/startup-website-package.html">View Details</a> 
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1125,7 +1147,7 @@ ul, li {
       <li>100% Money Back Guarantee *</li>
       <li>Mobile Responsive will be Additional £99*</li>
     </div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 47px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     
     <div class="actions">
@@ -1148,7 +1170,7 @@ ul, li {
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="ourpackages/professional-website-package.html">View Details</a>
+      <a href="../../ourpackages/professional-website-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1185,7 +1207,7 @@ ul, li {
         <li>100% Unique Design Guarantee</li>
         <li>100% Money Back Guarantee *</li>
     </div><div id="mCSB_3_scrollbar_vertical" class="mCSB_scrollTools mCSB_3_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_3_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 30px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     
     <div class="actions">
@@ -1208,7 +1230,7 @@ ul, li {
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="ourpackages/elite-website-package.html">View Details</a>
+      <a href="../../ourpackages/elite-website-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1250,7 +1272,7 @@ ul, li {
         <li>100% Unique Design Guarantee</li>
         <li>100% Money Back Guarantee *</li>
     </div><div id="mCSB_4_scrollbar_vertical" class="mCSB_scrollTools mCSB_4_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_4_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 26px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     <div class="actions">
       <div class="row">
@@ -1272,7 +1294,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/e-commerce-website-package.html">View Details</a>
+      <a href="../../ourpackages/e-commerce-website-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1317,7 +1339,7 @@ ul, li {
         <li>100% Unique Design Guarantee</li>
         <li>100% Money Back Guarantee *</li>
     </div><div id="mCSB_5_scrollbar_vertical" class="mCSB_scrollTools mCSB_5_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_5_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 18px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     <div class="actions">
       <div class="row">
@@ -1339,7 +1361,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/silver-website-package.html">View Details</a>
+      <a href="../../ourpackages/silver-website-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1373,7 +1395,7 @@ ul, li {
       <li>100% Unique Design Guarantee</li>
       <li>100% Money Back Guarantee *</li>
     </div><div id="mCSB_6_scrollbar_vertical" class="mCSB_scrollTools mCSB_6_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_6_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -1394,7 +1416,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/e-commerce-startup-package.html">View Details</a> 
+      <a href="../../ourpackages/e-commerce-startup-package.html">View Details</a> 
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1421,7 +1443,7 @@ ul, li {
       <li>100% Unique Design Guarantee</li>
       <li>100% Money Back Guarantee *</li>
     </div><div id="mCSB_7_scrollbar_vertical" class="mCSB_scrollTools mCSB_7_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_7_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -1442,7 +1464,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/e-commerce-professional-package.html">View Details</a>
+      <a href="../../ourpackages/e-commerce-professional-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a> 
     </div>
   </div>
@@ -1494,7 +1516,7 @@ ul, li {
       <li>100% Unique Design Guarantee</li>
       <li>100% Money Back Guarantee *</li>
     </div><div id="mCSB_8_scrollbar_vertical" class="mCSB_scrollTools mCSB_8_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_8_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -1515,7 +1537,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/e-commerce-elite-package.html">View Details</a>
+      <a href="../../ourpackages/e-commerce-elite-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1575,7 +1597,7 @@ ul, li {
       <li>100% Unique Design Guarantee</li>
       <li>100% Money Back Guarantee *</li>
     </div><div id="mCSB_9_scrollbar_vertical" class="mCSB_scrollTools mCSB_9_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_9_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -1595,7 +1617,7 @@ ul, li {
       </div>
     </div></div>
     <div class="price-btnwrap">
-      <a href="ourpackages/business-website-package.html">View Details</a> 
+      <a href="../../ourpackages/business-website-package.html">View Details</a> 
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1658,7 +1680,7 @@ ul, li {
       <li>Online Communities &amp; Social Engagement</li>
       <li>Curation of Resources And Adding Own Resources</li>
     </div><div id="mCSB_10_scrollbar_vertical" class="mCSB_scrollTools mCSB_10_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_10_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     
     <div class="actions">
@@ -1681,7 +1703,7 @@ ul, li {
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
+      <a href="../../ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1784,7 +1806,7 @@ Place purchasing requests.</li>
         <li>Generate extremely detailed reports for your inventory, sales and services. Filter your reports by date-range and category to see what's making you the most money.</li>
                 
     </div><div id="mCSB_11_scrollbar_vertical" class="mCSB_scrollTools mCSB_11_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_11_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     
     <div class="actions">
@@ -1807,7 +1829,7 @@ Place purchasing requests.</li>
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
+      <a href="../../ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1843,7 +1865,7 @@ Place purchasing requests.</li>
       <li>100% Money Back Guarantee</li>
       <li>All Final File Formats</li>
     </div><div id="mCSB_12_scrollbar_vertical" class="mCSB_scrollTools mCSB_12_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_12_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     <div class="actions">
       <div class="row">
@@ -1865,7 +1887,7 @@ Place purchasing requests.</li>
     </div>
   </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/stationery-package.html">View Details</a>
+      <a href="../../ourpackages/stationery-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -1891,7 +1913,7 @@ Place purchasing requests.</li>
       <li>100% Money Back Guarantee</li>
       <li>All Final File Formats</li>
     </div><div id="mCSB_13_scrollbar_vertical" class="mCSB_scrollTools mCSB_13_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_13_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -1912,7 +1934,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/infographic-package.html">View Details</a> 
+      <a href="../../ourpackages/infographic-package.html">View Details</a> 
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1938,7 +1960,7 @@ Place purchasing requests.</li>
       <li>All Final File Formats</li>
     
     </div><div id="mCSB_14_scrollbar_vertical" class="mCSB_scrollTools mCSB_14_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_14_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -1959,7 +1981,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/brochure-flyer-package.html">View Details</a> 
+      <a href="../../ourpackages/brochure-flyer-package.html">View Details</a> 
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1987,7 +2009,7 @@ Place purchasing requests.</li>
         
         <li>Unlimited Revisions</li>
     </div><div id="mCSB_15_scrollbar_vertical" class="mCSB_scrollTools mCSB_15_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_15_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     <div class="actions">
       <div class="row">
@@ -2009,7 +2031,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/startup-video-package.html">View Details</a>
+      <a href="../../ourpackages/startup-video-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -2029,7 +2051,7 @@ Place purchasing requests.</li>
         <li>Animation</li>
         <li>Voice - Over &amp; Sound Effects</li>
     </div><div id="mCSB_16_scrollbar_vertical" class="mCSB_scrollTools mCSB_16_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_16_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -2050,7 +2072,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/classic-video-package.html">View Details</a>
+      <a href="../../ourpackages/classic-video-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2070,7 +2092,7 @@ Place purchasing requests.</li>
       <li>Voice - Over &amp; Sound Effects</li>
       <li>6 Weeks Delivery</li>
     </div><div id="mCSB_17_scrollbar_vertical" class="mCSB_scrollTools mCSB_17_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_17_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -2091,7 +2113,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/premium-video-package.html">View Details</a>
+      <a href="../../ourpackages/premium-video-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2110,7 +2132,7 @@ Place purchasing requests.</li>
       <li>Animation</li>
       <li>Voice - Over &amp; Sound Effects</li>
     </div><div id="mCSB_18_scrollbar_vertical" class="mCSB_scrollTools mCSB_18_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_18_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -2131,7 +2153,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/unlimited-animation-package.html">View Details</a>
+      <a href="../../ourpackages/unlimited-animation-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2161,7 +2183,7 @@ Place purchasing requests.</li>
       <li>Voice Over - All accents (M/F)</li>
       <li>Editing and Final Output</li>
     </div><div id="mCSB_19_scrollbar_vertical" class="mCSB_scrollTools mCSB_19_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_19_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -2182,7 +2204,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/professional-3d-vfx-animation.html">View Details</a>
+      <a href="../../ourpackages/professional-3d-vfx-animation.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2212,7 +2234,7 @@ Place purchasing requests.</li>
       <li>Voice Over - All accents (M/F)</li>
       <li>Editing and Final Output</li>
     </div><div id="mCSB_20_scrollbar_vertical" class="mCSB_scrollTools mCSB_20_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_20_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     <div class="actions">
       <div class="row">
         <div class="col-md-6 col-xs-6">
@@ -2233,7 +2255,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/elite-3d-vfx-animation.html">View Details</a>
+      <a href="../../ourpackages/elite-3d-vfx-animation.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2280,7 +2302,7 @@ Place purchasing requests.</li>
         <li>Directory Submission</li>
         <li>Local Business Listings</li>
     </div><div id="mCSB_21_scrollbar_vertical" class="mCSB_scrollTools mCSB_21_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_21_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     <div class="actions">
       <div class="row">
@@ -2302,7 +2324,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/seo-booster-package.html">View Details</a>
+      <a href="../../ourpackages/seo-booster-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -2349,7 +2371,7 @@ Place purchasing requests.</li>
         <li>Directory Submission </li>
         <li>Local Business Listings</li>
     </div><div id="mCSB_22_scrollbar_vertical" class="mCSB_scrollTools mCSB_22_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_22_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     <div class="actions">
       <div class="row">
@@ -2371,7 +2393,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/seo-value-package.html">View Details</a>
+      <a href="../../ourpackages/seo-value-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -2421,7 +2443,7 @@ Place purchasing requests.</li>
         <li>Directory Submission  </li>
         <li>Local Business Listings</li>
     </div><div id="mCSB_23_scrollbar_vertical" class="mCSB_scrollTools mCSB_23_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_23_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+    
     
     <div class="actions">
       <div class="row">
@@ -2443,7 +2465,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/seo-pro-package.html">View Details</a>
+      <a href="../../ourpackages/seo-pro-package.html">View Details</a>
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -2780,7 +2802,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                         <a href=/>Home</a></li>
                                     <li id=menu-item-454
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454">
-                                        <a href=/our-work/>Our Work</a></li>
+                                        <a href="/portfolio/">Our Work</a></li>
                                     <li id=menu-item-455
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455">
                                         <a href=/packages/>Packages</a></li>
@@ -2794,16 +2816,16 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                 <ul id=menu-services class=footer-menu>
                                     <li id=menu-item-458
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458">
-                                        <a href=/logo-design/>Logo Services</a></li>
+                                        <a href="/ecommerce-website-design/">Ecommerce Solutions</a></li>
                                     <li id=menu-item-460
                                         class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83 current_page_item menu-item-460">
-                                        <a href=index.html aria-current=page>Web Services</a></li>
+                                        <a href="/web-app-development/" aria-current=page>Web App Development</a></li>
                                     <li id=menu-item-456
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456">
-                                        <a href=/branding-design/>Branding Services</a></li>
+                                        <a href=/video-animation/>Video Animation</a></li>
                                     <li id=menu-item-459
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459">
-                                        <a href=/video-animation/>Video Animation</a></li>
+                                        <a href=/combo-packages/>Combo Packages</a></li>
                                     <li id=menu-item-457
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457">
                                         <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get a Free Quote</a></li>
@@ -2819,9 +2841,6 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-462">
                                         <a href=/terms-conditions/>Terms &#038; Conditions</a>
                                     </li>
-                                    <li id=menu-item-863
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863">
-                                        <a href=/disclaimer/>Disclaimer</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -142,7 +142,7 @@ header {
   header .navbar {
     padding: 15px 0; }
     header .navbar .navbar-brand img {
-      max-width: 100px;
+      max-width: 225px;
       image-rendering: crisp-edges;
       image-rendering: -moz-crisp-edges;
       image-rendering: -o-crisp-edges;
