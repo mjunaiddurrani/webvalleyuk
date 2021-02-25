@@ -1,10 +1,10 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from webprohub.co.uk/not-found by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
+<!-- Mirrored from websitevalley.co.uk/not-found by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Not Found | Web Pro Hub</title>
+<title>Not Found | Website Valley</title>
 <meta name="description" content="Oops! Page Not Found">
 
 
@@ -25,7 +25,7 @@
 
 
 
-<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.svg" alt="*" /></a>
+<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
   <nav>
 
     <ul class="unstyled mainnav pbpx-15">
@@ -37,7 +37,7 @@
           <li><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
           <li><a href="website-design-prototype.html">Design & Prototype</a></li>
           <li><a href="web-app-development.html">Web App Development</a></li>
-          <!--<li><a href="https://webprohub.co.uk/website-mantainance">Website Maintenance</a></li>-->
+          <!--<li><a href="https://websitevalley.co.uk/website-mantainance">Website Maintenance</a></li>-->
         </ul>
       </li>
       
@@ -81,5 +81,5 @@
 
 </body>
 
-<!-- Mirrored from webprohub.co.uk/not-found by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
+<!-- Mirrored from websitevalley.co.uk/not-found by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
 </html>

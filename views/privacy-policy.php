@@ -1,7 +1,7 @@
 <!doctype html> 
 <html class="no-js hover js--masthead-hidden" lang=en-gb data-js="toggled nav parent">
    
-<!-- Mirrored from webprohub.co.uk/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
+<!-- Mirrored from websitevalley.co.uk/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
       <meta charset=utf-8>
@@ -26,7 +26,7 @@
    <body class="index privacy-terms" data-history-state="privacy-terms">
     
     
-<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.svg" alt="*" /></a>
+<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
   <nav>
 
     <ul class="unstyled mainnav pbpx-15">
@@ -38,7 +38,7 @@
           <li><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
           <li><a href="website-design-prototype.html">Design & Prototype</a></li>
           <li><a href="web-app-development.html">Web App Development</a></li>
-          <!--<li><a href="https://webprohub.co.uk/website-mantainance">Website Maintenance</a></li>-->
+          <!--<li><a href="https://websitevalley.co.uk/website-mantainance">Website Maintenance</a></li>-->
         </ul>
       </li>
       
@@ -73,7 +73,7 @@
       <div class="col-lg-12">
         <div class="margin-bottom-20">
           <h3>About The Policy</h3>
-          <p>At Web Prohub, the privacy of our clients is our top priority on <a href="not-found.html" target="_blank">www.webprohub.co.uk </a> and we respect it as our own. Though we collect information from our clients, it is only used to make improvements in our customer services. Our company acknowledges that the maintenance and use of our clients' information is our responsibility. We DO NOT rent or sell the information that our clients provide us online.</p>
+          <p>At Web Prohub, the privacy of our clients is our top priority on <a href="not-found.html" target="_blank">www.websitevalley.co.uk </a> and we respect it as our own. Though we collect information from our clients, it is only used to make improvements in our customer services. Our company acknowledges that the maintenance and use of our clients' information is our responsibility. We DO NOT rent or sell the information that our clients provide us online.</p>
           <p>This policy describes how the personal information of our client collected by us is used, why we collect it, and how we use it. It is within our policy that we describe the choices you can make about how we can collect and use your information</p>
         </div>
         <div class="margin-bottom-20">
@@ -110,7 +110,7 @@
           <p>The information of our clients is secure, as it is protected during transmission by the use of the Secure Sockets Layer (SSL) Software which encrypts the information the client puts in.</p>
           
           <p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
-          <p>If you have any questions about security on our Web site, you can send email us at <a href="mailto:support@webprohub.co.uk">support@webprohub.co.uk</a></p>
+          <p>If you have any questions about security on our Web site, you can send email us at <a href="mailto:support@websitevalley.co.uk">support@websitevalley.co.uk</a></p>
         </div>
         <div class="margin-bottom-20">
           <h3>Access of Registered Accounts</h3>
@@ -153,7 +153,7 @@
         </div>
         <div class="margin-bottom-20">
           <h3>Questions</h3>
-          <p>If you have any questions regarding our Privacy Policy or our use of your information, call our toll free number (+44-016-1884-0966) or email us on <a href="mailto:support@webprohub.co.uk">support@webprohub.co.uk</a></p>
+          <p>If you have any questions regarding our Privacy Policy or our use of your information, call our toll free number (+44-016-1884-0966) or email us on <a href="mailto:support@websitevalley.co.uk">support@websitevalley.co.uk</a></p>
         </div>
       </div>
     </div>
@@ -167,5 +167,5 @@
 <?php include_once('includes/scripts.php');?>
 </body>
 
-<!-- Mirrored from webprohub.co.uk/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
+<!-- Mirrored from websitevalley.co.uk/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
 </html>

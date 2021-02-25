@@ -1,10 +1,10 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from webprohub.co.uk/packages by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
+<!-- Mirrored from websitevalley.co.uk/packages by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Packages | Web Pro Hub</title>
+<title>Packages | Website Valley</title>
 <meta name="keywords" content="Web App Development services in UK">
 <meta name="description" content="Our packages are designed to suit your budgets and requirements with ease.">
 
@@ -20,7 +20,7 @@
 </head>
 <body class="inner-pages cltestpg pckgepge hdar-clr">
 
-<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.svg" alt="*" /></a>
+<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
   <nav>
 
     <ul class="unstyled mainnav pbpx-15">
@@ -32,7 +32,7 @@
           <li><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
           <li><a href="website-design-prototype.html">Design & Prototype</a></li>
           <li><a href="web-app-development.html">Web App Development</a></li>
-          <!--<li><a href="https://webprohub.co.uk/website-mantainance">Website Maintenance</a></li>-->
+          <!--<li><a href="https://websitevalley.co.uk/website-mantainance">Website Maintenance</a></li>-->
         </ul>
       </li>
       
@@ -119,8 +119,8 @@
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -172,8 +172,8 @@
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -232,8 +232,8 @@
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -296,8 +296,8 @@
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -363,8 +363,8 @@
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -442,8 +442,8 @@
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -527,8 +527,8 @@
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -653,8 +653,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -707,8 +707,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -755,8 +755,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -828,8 +828,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -889,8 +889,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -936,8 +936,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -983,8 +983,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1033,8 +1033,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1074,8 +1074,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1115,8 +1115,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1155,8 +1155,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1206,8 +1206,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1257,8 +1257,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1326,8 +1326,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1395,8 +1395,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1467,8 +1467,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1516,7 +1516,7 @@ Place purchasing requests.</li>
             <h6>We have a better plan for your new business!</h6>
             <h3>We provide full-circle services for entrepreneurs, funded startups and fund-seeking start-ups</h3>
            <a class="gt-strt" href="order.html" class="btn-secondary-outline">Get Started </a>
-            <a class="new-cta" href="tel:+441442902150" class="btn-secondary-outline">+44-144-290-2150 </a>
+            <a class="new-cta" href="tel:+4402038087061" class="btn-secondary-outline">+4402038087061 </a>
   
         </div>
         </div>
@@ -1564,8 +1564,8 @@ Place purchasing requests.</li>
                 <h3>JV</h3>
               </div>
               <div class="usertest">
-                <h4>Webprohub Rocked!!</h4>
-                <p>I am extremely happy with WebProHub. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
+                <h4>websitevallery Rocked!!</h4>
+                <p>I am extremely happy with websitevallery. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
                 <h6>— Mike Miller, Project Owner</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -1584,7 +1584,7 @@ Place purchasing requests.</li>
                 <h3>TR</h3>
               </div>
               <div class="usertest">
-                <h4>Big Shout-out to the webprohub Team!!</h4>
+                <h4>Big Shout-out to the websitevallery Team!!</h4>
                 <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -1605,7 +1605,7 @@ Place purchasing requests.</li>
               </div>
               <div class="usertest">
                 <h4>We Couldn't Ask for a Better Job!!</h4>
-                <p>I want to thank webprohub team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with webprohub in the future. </p>
+                <p>I want to thank websitevallery team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevallery in the future. </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -1698,7 +1698,7 @@ Place purchasing requests.</li>
               <div class="form-box-main clearfix">
   <h2>Let’s talk about your next Big thing!</h2>
   <p>Heads up! We require that you sign up for Web Prohub services and packages. We make all your dreams come true in a successful project.</p>
-  <form class="cmxform" id="contactForm"  method="POST" action="https://webprohub.co.uk/webpages/orderFormController.php"  enctype="multipart/form-data">
+  <form class="cmxform" id="contactForm"  method="POST" action="https://websitevalley.co.uk/webpages/orderFormController.php"  enctype="multipart/form-data">
     <div class="row">
       <div class="col-md-12">
         <label class="field-txt">Name <span>*</span></label>
@@ -1844,5 +1844,5 @@ Place purchasing requests.</li>
 
 </body>
 
-<!-- Mirrored from webprohub.co.uk/packages by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
+<!-- Mirrored from websitevalley.co.uk/packages by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
 </html>

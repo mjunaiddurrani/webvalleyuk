@@ -1,7 +1,7 @@
 <!doctype html> 
 <html class="no-js hover js--masthead-hidden" lang=en-gb data-js="toggled nav parent">
    
-<!-- Mirrored from webprohub.co.uk/terms-conditions by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
+<!-- Mirrored from websitevalley.co.uk/terms-conditions by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
       <meta charset=utf-8>
@@ -26,7 +26,7 @@
    <body class="index privacy-terms" data-history-state="privacy-terms">
       
 
-<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.svg" alt="*" /></a>
+<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
   <nav>
 
     <ul class="unstyled mainnav pbpx-15">
@@ -38,7 +38,7 @@
           <li><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
           <li><a href="website-design-prototype.html">Design & Prototype</a></li>
           <li><a href="web-app-development.html">Web App Development</a></li>
-          <!--<li><a href="https://webprohub.co.uk/website-mantainance">Website Maintenance</a></li>-->
+          <!--<li><a href="https://websitevalley.co.uk/website-mantainance">Website Maintenance</a></li>-->
         </ul>
       </li>
       
@@ -79,7 +79,7 @@
 
 <p><strong>Refund Policy / Money Back Guarantee</strong></p>
 <p>Please be advised that 30% administration charges will be applicable on all orders cancelled within 24 hours IF they are not initiated. Furthermore, the refund policy will be void in case there's a change of mind.</p>
-<p>In any event, any deposited funds for a project shall not be subject to refund after delivery if the initial design concepts are approved, or a change is requested unless webprohub cancels or terminates your Contract for a reason other than your breach or non-performance. </p>
+<p>In any event, any deposited funds for a project shall not be subject to refund after delivery if the initial design concepts are approved, or a change is requested unless websitevallery cancels or terminates your Contract for a reason other than your breach or non-performance. </p>
 
 <ul>
         <p> <strong>All refund requests will be fulfilled as per the following arrangement:</strong></p>
@@ -108,9 +108,9 @@
          <ul>
           <li>  Claim your refund specifying your concern by contacting us via any of the following three modes:
             <ul>
-             <li>  Toll free # +44 144 290 2150</li>
+             <li>  Toll free # +4402038087061</li>
              <li>  Live Chat</li>
-             <li>  <a href="mailto:support@webprohub.co.uk">support@webprohub.co.uk</a></li>
+             <li>  <a href="mailto:support@websitevalley.co.uk">support@websitevalley.co.uk</a></li>
             </ul>
           </li>  
            <li>  We will try to resolve your concern by virtue of our revision policy immediately or else will email you a refund request approval from our refund department. After the refund, your design rights would be obtained by Web Prohub and you would not be able to display any version of the design sent by company. Let us also specify that:
@@ -118,7 +118,7 @@
                <li>  Since the design rights would now be transferred to the company, you agree that you will have no right (direct or indirect) to use any response or other content, work product or media, nor will you have any ownership interest in or to the same.</li>
                <li>  Working in collaboration with the Government Copyright Agencies Web Prohub would share Copyright Acquisition information for the refunded designs that would restrict the re-use of the designs as original designs in the future.
                
-               If you have any questions or concerns about our Refund Policy, please contact us by clicking here <a href="mailto:support@webprohub.co.uk">support@webprohub.co.uk</a>.
+               If you have any questions or concerns about our Refund Policy, please contact us by clicking here <a href="mailto:support@websitevalley.co.uk">support@websitevalley.co.uk</a>.
                </li>
             </ul>
            </li>
@@ -142,5 +142,5 @@
 
 </body>
 
-<!-- Mirrored from webprohub.co.uk/terms-conditions by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
+<!-- Mirrored from websitevalley.co.uk/terms-conditions by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
 </html>

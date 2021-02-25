@@ -14,7 +14,7 @@ if (isset($_SERVER['HTTPS'])) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-site-verification" content="u2Hu5XSG3LkMhd_Zpz2yXQYspUbPr7mhqNDdt3zF3NA" />
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="icon" href=" favicon.png" type="image/x-icon" />
 <link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
 <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
 <!--  -->
