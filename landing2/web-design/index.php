@@ -8,35 +8,20 @@
     <link rel=stylesheet href="../index822e.html?w3tc_minify=1931b.default.include.eee198.css" media=all>
     <meta charset="UTF-8">
     <meta name="description" content="eDigiSol - Home Page">
-    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
-    <meta name="author" content="Logo Poppin">
-    <title>Web Services - Logo Poppin</title>
+    
+    
+    <title>Web Services - websitevalley</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="facebook-domain-verification" content="vxz12qfveqv5jvtcsnjtbs7876jjen">
-    <script src=../wp-content/themes/edigisol/assets/js/jquery.min.js> </script> <script
-        src=../wp-content/themes/edigisol/assets/js/jquery-migrate-3.0.0.min.js> </script> <!--[if lt IE 9]>
-        < script src = https: //oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js>
-    </script>
-    <script src=https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js> </script> <![endif]-->
- 
-    <meta name="robots" content="noindex, follow">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="Web Services - Logo Poppin">
-    <meta property="og:url" content="https://logopoppin.com/web-design/">
-    <meta property="og:site_name" content="Logo Poppin">
-    <meta property="article:modified_time" content="2021-02-09T09:05:45+00:00">
-    <meta property="og:image" content="https://logopoppin.com/wp-content/uploads/2021/02/webpage_banner_upd.png">
-    <meta property="og:image:width" content="1444">
-    <meta property="og:image:height" content="653">
-    <meta name="twitter:card" content="summary_large_image">
-    <script type=application/ld+json class=yoast-schema-graph>
-        {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://logopoppin.com/#website","url":"https://logopoppin.com/","name":"Logo Poppin","description":"Brand Design Solutions","potentialAction":[{"@type":"SearchAction","target":"https://logopoppin.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://logopoppin.com/web-design/#primaryimage","inLanguage":"en-US","url":"https://logopoppin.com/wp-content/uploads/2021/02/webpage_banner_upd.png","width":1444,"height":653},{"@type":"WebPage","@id":"https://logopoppin.com/web-design/#webpage","url":"https://logopoppin.com/web-design/","name":"Web Services - Logo Poppin","isPartOf":{"@id":"https://logopoppin.com/#website"},"primaryImageOfPage":{"@id":"https://logopoppin.com/web-design/#primaryimage"},"datePublished":"2020-11-11T08:37:02+00:00","dateModified":"2021-02-09T09:05:45+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://logopoppin.com/web-design/"]}]}]}
-    </script>
+    
+    <script src=../wp-content/themes/edigisol/assets/js/jquery.min.js> </script> 
+    <script src=../wp-content/themes/edigisol/assets/js/jquery-migrate-3.0.0.min.js> </script>
+        
+
+
     <link rel=dns-prefetch href=http://s.w.org/> <link rel=alternate type=application/rss+xml
-        title="Logo Poppin &raquo; Feed" href=https://logopoppin.com/feed/>
+        title="Logo Poppin &raquo; Feed" href=/feed/>
     <link rel=alternate type=application/rss+xml title="Logo Poppin &raquo; Comments Feed"
-        href=https://logopoppin.com/comments/feed/>
+        href=/comments/feed/>
     <script>
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/",
@@ -118,21 +103,21 @@
     <link rel=stylesheet id='webservices page style-css'
         href='../wp-content/themes/edigisol/assets/css/inner_page_style/webservices_style84e2.css?ver=1.00'
         type=text/css media>
-    <link rel=https://api.w.org/ href=https://logopoppin.com/wp-json/>
-    <link rel=alternate type=application/json href=https://logopoppin.com/wp-json/wp/v2/pages/83> <link rel=EditURI
-        type=application/rsd+xml title=RSD href=https://logopoppin.com/xmlrpc.php?rsd> <link rel=wlwmanifest
-        type=application/wlwmanifest+xml href=https://logopoppin.com/wp-includes/wlwmanifest.xml> <meta name="generator"
+    <link rel=https://api.w.org/ href=/wp-json/>
+    <link rel=alternate type=application/json href=/wp-json/wp/v2/pages/83> <link rel=EditURI
+        type=application/rsd+xml title=RSD href=/xmlrpc.php?rsd> <link rel=wlwmanifest
+        type=application/wlwmanifest+xml href=/wp-includes/wlwmanifest.xml> <meta name="generator"
         content="WordPress 5.5.3">
-    <link rel=shortlink href='https://logopoppin.com/?p=83'>
+    <link rel=shortlink href='/?p=83'>
     <link rel=alternate type=application/json+oembed
-        href="https://logopoppin.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flogopoppin.com%2Fweb-design%2F">
+        href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flogopoppin.com%2Fweb-design%2F">
     <link rel=alternate type=text/xml+oembed
-        href="https://logopoppin.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flogopoppin.com%2Fweb-design%2F&amp;format=xml">
+        href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flogopoppin.com%2Fweb-design%2F&amp;format=xml">
     <link rel=icon href=../wp-content/uploads/2020/12/cropped-favicon_icon-5-32x32.png sizes=32x32>
     <link rel=icon href=../wp-content/uploads/2020/12/cropped-favicon_icon-5-192x192.png sizes=192x192>
     <link rel=apple-touch-icon href=../wp-content/uploads/2020/12/cropped-favicon_icon-5-180x180.png> <meta
         name="msapplication-TileImage"
-        content="https://logopoppin.com/wp-content/uploads/2020/12/cropped-favicon_icon-5-270x270.png">
+        content="/wp-content/uploads/2020/12/cropped-favicon_icon-5-270x270.png">
     <style id=wp-custom-css>
         div#wpforms-353-field_14-container {
             position: relative
@@ -162,13 +147,7 @@
 </head>
 
 <body data-rsssl=1 class="page-template-default page page-id-83">
-    <script>
-        window.setTimeout(function () {
-            var otherscript =
-                '<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQ9FC4P" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript>'
-            jQuery('body').prepend(otherscript);
-        }, 5000);
-    </script>
+  
     <style>
         @keyframes animation {
             0% {
@@ -188,10 +167,11 @@
         style="background: linear-gradient(#171717, #525252);background-image: url('../wp-content/uploads/2021/02/webpage_banner_upd.png');">
         <div class=container>
             <nav class="navbar navbar-expand-lg navbar-light inner_pages_nav">
-                <a class=navbar-brand href=https://logopoppin.com/ aria-label=logo>
+                <a class=navbar-brand href=/ aria-label=logo>
                     <img src=../wp-content/themes/edigisol/assets/images/logopoppin_logo.png alt=img class=img-fluid
                         width=100% height=100%>
-                </a><button class=navbar-toggler type=button data-toggle=collapse data-target=#navbarSupportedContent
+                </a>
+                <button class=navbar-toggler type=button data-toggle=collapse data-target=#navbarSupportedContent
                     aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
                     <span class=navbar-toggler-icon></span>
                 </button>
@@ -199,40 +179,40 @@
                     <ul id=menu-main-menu class="navbar-nav ml-auto">
                         <li id=menu-item-9
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-9">
-                            <a href=https://logopoppin.com/>Home</a></li>
+                            <a href=/>Home</a></li>
                         <li id=menu-item-10
                             class="dropdown menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-10">
                             <a href=#>Services</a>
                             <ul class=sub-menu>
                                 <li id=menu-item-346
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a
-                                        href=https://logopoppin.com/logo-design/>Logo Services</a></li>
+                                        href=/logo-design/>Logo Services</a></li>
                                 <li id=menu-item-348
                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83 current_page_item menu-item-348">
                                     <a href=index.html aria-current=page>Web Services</a></li>
                                 <li id=menu-item-347
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a
-                                        href=https://logopoppin.com/branding-design/>Branding Services</a></li>
+                                        href=/branding-design/>Branding Services</a></li>
                                 <li id=menu-item-342
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a
-                                        href=https://logopoppin.com/video-animation/>Video Animation</a></li>
+                                        href=/video-animation/>Video Animation</a></li>
                             </ul>
                         </li>
                         <li id=menu-item-343
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a
-                                href=https://logopoppin.com/packages/>Packages</a></li>
+                                href=/packages/>Packages</a></li>
                         <li id=menu-item-515
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a
-                                href=https://logopoppin.com/our-work/>Our Work</a></li>
+                                href=/our-work/>Our Work</a></li>
                         <li id=menu-item-344
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a
-                                href=https://logopoppin.com/contact-us/>Contact Us</a></li>
+                                href=/contact-us/>Contact Us</a></li>
                         <li id=menu-item-8 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8">
-                            <a title=telephoneNumber href=tel:+18882011722><i
-                                    class="fa fa-phone-alt"></i><span>888-201-1722</span></a></li>
+                            <a title=telephoneNumber href="tel:+4402038087061"><i
+                                    class="fa fa-phone-alt"></i><span>+44 (0)2038087061</span></a></li>
                         <li id=menu-item-345
                             class="custom-btn-bg-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-345">
-                            <a href=https://logopoppin.com/get-a-free-quote/>Get Free Quote</a></li>
+                            <a href=/get-a-free-quote/>Get Free Quote</a></li>
                     </ul>
                 </div>
             </nav>
@@ -253,12 +233,15 @@
                 <div class="col-md-5 offset-md-1 contentSection_right">
                     <div class=banner_form>
                         <h2>Connect With Us</h2>
-                        <div class="wpforms-container wpforms-container-full form_ConnectWithUs" id=wpforms-171>
-                            <form id=wpforms-form-171 class="wpforms-validate wpforms-form wpforms-ajax-form"
-                                data-formid=171 method=post enctype=multipart/form-data
-                                action=https://logopoppin.com/web-design/ data-token=2f9bf1787d58fcb26defa4a8e9d6504c>
-                                <noscript class=wpforms-error-noscript>Please enable JavaScript in your browser to
-                                    complete this form.</noscript>
+                        <div class="wpforms-container wpforms-container-full form_ConnectWithUs" id=>
+                            <form  class="wpforms-validate wpforms-form "
+                                method='post'
+                                action="/leads/">
+                                <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+                                <input type="hidden" name="brand" value="webvalleyuk">   
+                                <input type="hidden" name="tag" value="modal-auto">
+                                <input type="hidden" name="price" value="null">
+                                <input type="hidden" name="news" value="1">
                                 <div class=wpforms-field-container>
                                     <div id=wpforms-171-field_0-container class="wpforms-field wpforms-field-name"
                                         data-field-id=0><label class="wpforms-field-label wpforms-label-hide"
@@ -268,68 +251,36 @@
                                             <div class="wpforms-field-row-block wpforms-first wpforms-one-half"><input
                                                     type=text id=wpforms-171-field_0
                                                     class="wpforms-field-name-first wpforms-field-required"
-                                                    name=wpforms[fields][0][first] placeholder="First Name "
+                                                    name="name" placeholder="First Name "
                                                     required><label for=wpforms-171-field_0
                                                     class="wpforms-field-sublabel after wpforms-sublabel-hide">First</label>
                                             </div>
                                             <div class="wpforms-field-row-block wpforms-one-half"><input type=text
                                                     id=wpforms-171-field_0-last
                                                     class="wpforms-field-name-last wpforms-field-required"
-                                                    name=wpforms[fields][0][last] placeholder="Last Name"
+                                                    name="email" placeholder="Email"
                                                     required><label for=wpforms-171-field_0-last
-                                                    class="wpforms-field-sublabel after wpforms-sublabel-hide">Last</label>
+                                                    class="wpforms-field-sublabel after wpforms-sublabel-hide">Email</label>
                                             </div>
                                         </div>
                                     </div>
-                                    <div id=wpforms-171-field_2-container
-                                        class="wpforms-field wpforms-field-email wpforms-one-half wpforms-first"
-                                        data-field-id=2><label class="wpforms-field-label wpforms-label-hide"
-                                            for=wpforms-171-field_2>Email <span
-                                                class=wpforms-required-label>*</span></label><input type=email
-                                            id=wpforms-171-field_2 class="wpforms-field-large wpforms-field-required"
-                                            name=wpforms[fields][2] placeholder=Email required></div>
-                                    <div id=wpforms-171-field_3-container
-                                        class="wpforms-field wpforms-field-phone wpforms-one-half" data-field-id=3>
-                                        <label class="wpforms-field-label wpforms-label-hide"
-                                            for=wpforms-171-field_3>Phone <span
-                                                class=wpforms-required-label>*</span></label><input type=tel
-                                            id=wpforms-171-field_3
-                                            class="wpforms-field-large wpforms-field-required wpforms-smart-phone-field"
-                                            data-rule-smart-phone-field=true name=wpforms[fields][3] placeholder=Phone
-                                            required></div>
-                                    <div id=wpforms-171-field_10-container
-                                        class="wpforms-field wpforms-field-select wpforms-one-half wpforms-first wpforms-conditional-trigger wpforms-field-select-style-classic"
-                                        data-field-id=10><label class="wpforms-field-label wpforms-label-hide"
-                                            for=wpforms-171-field_10>Select Service <span
-                                                class=wpforms-required-label>*</span></label><select
-                                            id=wpforms-171-field_10 class="wpforms-field-large wpforms-field-required"
-                                            name=wpforms[fields][10] required=required>
-                                            <option value class=placeholder disabled selected=selected>Select Service
-                                            </option>
-                                            <option value=Logo>Logo</option>
-                                            <option value=Website>Website</option>
-                                            <option value=Branding>Branding</option>
-                                            <option value="Video Animation">Video Animation</option>
-                                        </select></div>
-                                    <div id=wpforms-171-field_8-container
-                                        class="wpforms-field wpforms-field-number wpforms-one-half wpf-num-limit input"
-                                        data-field-id=8><label class="wpforms-field-label wpforms-label-hide"
-                                            for=wpforms-171-field_8>Forecasted Budget <span
-                                                class=wpforms-required-label>*</span></label><input type=number
-                                            pattern=\d* id=wpforms-171-field_8
-                                            class="wpforms-field-large wpforms-field-required" name=wpforms[fields][8]
-                                            placeholder="Budget in USD" required></div>
-                                    <div id=wpforms-171-field_11-container
-                                        class="wpforms-field wpforms-field-select wpforms-conditional-field wpforms-conditional-show wpforms-field-select-style-classic"
-                                        data-field-id=11 style=display:none;><label
-                                            class="wpforms-field-label wpforms-label-hide"
-                                            for=wpforms-171-field_11>Add-ons</label><select id=wpforms-171-field_11
-                                            class=wpforms-field-large name=wpforms[fields][11]>
-                                            <option value class=placeholder disabled selected=selected>Add-ons</option>
-                                            <option value="Logo + Website">Logo + Website</option>
-                                            <option value="Logo + Branding">Logo + Branding</option>
-                                            <option value="Logo + Website + Branding">Logo + Website + Branding</option>
-                                        </select></div>
+                                <div class=wpforms-field-container>
+                                    <div id=wpforms-171-field_1-container class="wpforms-field wpforms-field-name"
+                                        data-field-id=0><label class="wpforms-field-label wpforms-label-hide"
+                                            for=wpforms-171-field_0>Name <span
+                                                class=wpforms-required-label>*</span></label>
+                                        <div class="wpforms-field-row wpforms-field-large">
+                                            <div class="wpforms-field-row-block wpforms-first "><input
+                                                    type=text id=wpforms-171-field_0
+                                                    class="wpforms-field-name-first wpforms-field-required"
+                                                    name="phone" placeholder="Phone number "
+                                                    required><label for=wpforms-171-field_0
+                                                    class="wpforms-field-sublabel after wpforms-sublabel-hide">Phone</label>
+                                            </div>
+                                         
+                                        </div>
+                                    </div>
+                                 
                                     <div id=wpforms-171-field_4-container class="wpforms-field wpforms-field-textarea"
                                         data-field-id=4><label class="wpforms-field-label wpforms-label-hide"
                                             for=wpforms-171-field_4>Talk about your project <span
@@ -347,7 +298,7 @@
                                         class="wpforms-submit " id=wpforms-submit-171 value=wpforms-submit
                                         aria-live=assertive data-alt-text=Sending...
                                         data-submit-text="CONTACT OUR TEAM">CONTACT OUR TEAM</button><img
-                                        src=https://logopoppin.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg
+                                        src=/wp-content/plugins/wpforms/assets/images/submit-spin.svg
                                         class=wpforms-submit-spinner style="display: none;" width=26 height=26 alt>
                                 </div>
                             </form>
@@ -642,7 +593,7 @@
                                                                                                                     class="btn custom-btn-bg"
                                                                                                                     aria-label="lets start">LET'S
                                                                                                                     START</a>
-                                                                                                                <a href=https://logopoppin.com/contact-us/
+                                                                                                                <a href=/contact-us/
                                                                                                                     class="btn custom-btn-nobg"
                                                                                                                     aria-label="WANT TO DISCUSS">WANT
                                                                                                                     TO
@@ -695,7 +646,7 @@
                                         <p>100% Money Back Guarantee</p>
                                     </div>
                                     <div class=product-selectplan><a class="btn btn-default btn-producttable"
-                                            href="https://logopoppin.com/order-package?Services=Basic%20Website">select
+                                            href="/order-package?Services=Basic%20Website">select
                                             plan</a></div>
                                 </div>
                             </div>
@@ -720,7 +671,7 @@
                                     <div class=product-selectplan>
                                         <p class=mb-0><strong>Add on:</strong> CMS $150</p>
                                         <p class=mb-0><a class="btn btn-default btn-producttable"
-                                                href="https://logopoppin.com/order-package?Services=Startup%20Website">select
+                                                href="/order-package?Services=Startup%20Website">select
                                                 plan</a></p>
                                     </div>
                                 </div>
@@ -748,7 +699,7 @@
                                         <p>100% Money Back Guarantee</p>
                                     </div>
                                     <div class=product-selectplan><a class="btn btn-default btn-producttable"
-                                            href="https://logopoppin.com/order-package?Services=Professional%20Website">select
+                                            href="/order-package?Services=Professional%20Website">select
                                             plan</a></div>
                                 </div>
                             </div>
@@ -778,7 +729,7 @@
                                         <p>100% Money Back Guarantee</p>
                                     </div>
                                     <div class=product-selectplan><a class="btn btn-default btn-producttable"
-                                            href="https://logopoppin.com/order-package?Services=Economy%20Website">select
+                                            href="/order-package?Services=Economy%20Website">select
                                             plan</a></div>
                                 </div>
                             </div>
@@ -814,7 +765,7 @@
                                         <p>100% Money Back Guarantee</p>
                                     </div>
                                     <div class=product-selectplan><a class="btn btn-default btn-producttable"
-                                            href="https://logopoppin.com/order-package?Services=Business%20Website">select
+                                            href="/order-package?Services=Business%20Website">select
                                             plan</a></div>
                                 </div>
                             </div>
@@ -857,7 +808,7 @@
                                         <p>100% Money Back Guarantee</p>
                                     </div>
                                     <div class=product-selectplan><a class="btn btn-default btn-producttable"
-                                            href="https://logopoppin.com/order-package?Services=Elite%20Website">select
+                                            href="/order-package?Services=Elite%20Website">select
                                             plan</a></div>
                                 </div>
                             </div>
@@ -944,7 +895,7 @@
                                         </div>
                                         <div class="col-md-6 col-sm-5 align-self-center">
                                             <div class=product-selectplan><a class="btn custom-btn-nobg"
-                                                    href="https://logopoppin.com/order-package?Services=Enterprise%20Website">Select
+                                                    href="/order-package?Services=Enterprise%20Website">Select
                                                     Plan</a></div>
                                         </div>
                                     </div>
@@ -1244,14 +1195,14 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <div class=icon><i class="fa fa-phone-alt"></i></div>
                     <div class=strip-detial>
                         <h4>Call us (TOLL FREE)</h4>
-                        <h2><a href=tel:+18882011722>888-201-1722</a></h2>
+                        <h2><a href="tel:+4402038087061">+44 (0)2038087061</a></h2>
                     </div>
                 </div>
                 <div class="col-md-5 align-self-center">
                     <div class=icon><i class="fa fa-envelope"></i></div>
                     <div class=strip-detial>
                         <h4>Discuss your Ideas</h4>
-                        <h2><a href=mailto:Sales@logopoppin.com>Sales@logopoppin.com</a></h2>
+                        <h2><a href=mailto:Sales@websitevalley.co.uk>Sales@websitevalley.co.uk</a></h2>
                     </div>
                 </div>
             </div>
@@ -1268,16 +1219,16 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                 <ul id=menu-quick-links class=footer-menu>
                                     <li id=menu-item-452
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-452">
-                                        <a href=https://logopoppin.com/>Home</a></li>
+                                        <a href=/>Home</a></li>
                                     <li id=menu-item-454
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454">
-                                        <a href=https://logopoppin.com/our-work/>Our Work</a></li>
+                                        <a href=/our-work/>Our Work</a></li>
                                     <li id=menu-item-455
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455">
-                                        <a href=https://logopoppin.com/packages/>Packages</a></li>
+                                        <a href=/packages/>Packages</a></li>
                                     <li id=menu-item-453
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453">
-                                        <a href=https://logopoppin.com/contact-us/>Contact Us</a></li>
+                                        <a href=/contact-us/>Contact Us</a></li>
                                 </ul>
                             </div>
                             <div class=col-md-4>
@@ -1285,19 +1236,19 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                 <ul id=menu-services class=footer-menu>
                                     <li id=menu-item-458
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458">
-                                        <a href=https://logopoppin.com/logo-design/>Logo Services</a></li>
+                                        <a href=/logo-design/>Logo Services</a></li>
                                     <li id=menu-item-460
                                         class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83 current_page_item menu-item-460">
                                         <a href=index.html aria-current=page>Web Services</a></li>
                                     <li id=menu-item-456
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456">
-                                        <a href=https://logopoppin.com/branding-design/>Branding Services</a></li>
+                                        <a href=/branding-design/>Branding Services</a></li>
                                     <li id=menu-item-459
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459">
-                                        <a href=https://logopoppin.com/video-animation/>Video Animation</a></li>
+                                        <a href=/video-animation/>Video Animation</a></li>
                                     <li id=menu-item-457
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457">
-                                        <a href=https://logopoppin.com/get-a-free-quote/>Get a Free Quote</a></li>
+                                        <a href=/get-a-free-quote/>Get a Free Quote</a></li>
                                 </ul>
                             </div>
                             <div class=col-md-4>
@@ -1305,14 +1256,14 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                 <ul id=menu-legal class=footer-menu>
                                     <li id=menu-item-461
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-461">
-                                        <a href=https://logopoppin.com/privacy-policy/>Privacy Policy</a></li>
+                                        <a href=/privacy-policy/>Privacy Policy</a></li>
                                     <li id=menu-item-462
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-462">
-                                        <a href=https://logopoppin.com/terms-conditions/>Terms &#038; Conditions</a>
+                                        <a href=/terms-conditions/>Terms &#038; Conditions</a>
                                     </li>
                                     <li id=menu-item-863
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863">
-                                        <a href=https://logopoppin.com/disclaimer/>Disclaimer</a></li>
+                                        <a href=/disclaimer/>Disclaimer</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1324,19 +1275,19 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                             <ul class=social-media-links>
                                 <li><a href=https://www.facebook.com/logopoppin rel="noopener noreferrer" target=_blank
                                         aria-label="Facebook Link"><img
-                                            src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/footer_Fb.svg
+                                            src='../wp-content/themes/edigisol/assets/images/footer_Fb.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
                                 <li><a href=https://www.instagram.com/logo_poppin/ rel="noopener noreferrer"
                                         aria-label="Insta Link" target=_blank><img
-                                            src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/footer_Insta.svg
+                                            src='../wp-content/themes/edigisol/assets/images/footer_Insta.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
                                 <li><a href=https://twitter.com/LogoPoppin rel="noopener noreferrer"
                                         aria-label="Twitter Link" target=_blank><img
-                                            src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/footer_Twitter.svg
+                                            src='../wp-content/themes/edigisol/assets/images/footer_Twitter.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
                                 <li><a href=https://www.linkedin.com/company/logopoppins/ target=_blank
                                         rel="noopener noreferrer" aria-label="Linkedin Link"><img
-                                            src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/footer_LinkedIn.svg
+                                            src='../wp-content/themes/edigisol/assets/images/footer_LinkedIn.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
                             </ul>
                         </div>
