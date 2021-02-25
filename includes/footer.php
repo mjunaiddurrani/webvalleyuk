@@ -6,11 +6,11 @@
         <div class="col-lg-3">
           <h3>Services</h3>
           <ul class="linkinglist">
-          <li><a href="web-app-development.html">Web App Development</a></li>
-          <li><a href="branding.html">Branding</a></li>
-          <li><a href="web-design.html">Web Design</a></li>
+          <li><a href="/web-app-development/">Web App Development</a></li>
+          <li><a href="/branding/">Branding</a></li>
+          <li><a href="/web-design/">Web Design</a></li>
         
-          <li><a href="mobile-application.html">Mobile App Development</a></li>
+          <li><a href="/mobile-application/">Mobile App Development</a></li>
           
             
           </ul>
@@ -18,9 +18,9 @@
         <div class="col-lg-3">
           <h3 class="xsmtpx-30">Quick Links</h3>
           <ul class="linkinglist">
-            <li><a href="packages.html">Packages</a></li>
-            <li><a href="combo-packages.html">Combo Packages</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="/packages/">Packages</a></li>
+            <li><a href="/combo-packages/">Combo Packages</a></li>
+            <li><a href="/portfolio/">Portfolio</a></li>
             
             
           </ul>
@@ -29,7 +29,7 @@
           <h3 class="xshide">Company</h3>
           <ul class="linkinglist">
             <!--<li><a href="https://websitevalley.co.uk/culture">Our Culture</a></li>-->
-            <li><a href="contact.html">Contact us</a></li>
+            <li><a href="/contact/">Contact us</a></li>
           </ul>
         </div>
         <div class="col-lg-3">
@@ -103,8 +103,8 @@
         
         <div class="col-sm-6">
           <ul class="footer-nav2">
-            <li><a href="terms-conditions.html" title=""> Terms of Services</a></li>
-            <li><a href="privacy-policy.html" title="">Privacy Policy</a></li>
+            <li><a href="/terms-conditions/" title=""> Terms of Services</a></li>
+            <li><a href="/privacy-policy/" title="">Privacy Policy</a></li>
           </ul>
         </div>
       </div>

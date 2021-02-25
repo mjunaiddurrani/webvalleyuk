@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-6">
           <div class="secondlogo">
-            <a href="index.html">
+            <a href="/">
               <img class="img-fluid fblack" src="assets/images/logo.png" alt="*" />
               <img class="img-fluid fwhite" src="assets/images/logo.png" alt="*" />
             </a>
@@ -31,7 +31,7 @@
       <div class="row">
         <div class="col-lg-2 mobile-res-logo">
           <div class="logo">
-            <a href="index.html">
+            <a href="/">
               <img class="img-fluid" src="assets/images/logo.png" alt="*">
             </a>
           </div>
@@ -39,7 +39,7 @@
         <div class="col-lg-12 d-flex ">
           <div class="main-menu align-self-center d-none d-lg-block">
             <ul class="forpgactive">
-              <li class="active"><a href="index.html">Home</a></li>
+              <li class="active"><a href="/">Home</a></li>
               <li class=""><a href="/ecommerce-website-design/">Ecommerce Solutions</a></li>
                <li class=""><a href="/web-app-development/">Web App Development</a></li>
 

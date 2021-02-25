@@ -31,14 +31,14 @@
     <div class="row">
       <div class="col-lg-3">
         <div class="logo">
-            <a href="index.html">
+            <a href="/">
               <img class="img-fluid black" src="assets/images/reseller-pro-hub.svg" alt="*" />
             </a>
           </div>
       </div>
       <div class="col-lg-9">
         <div class="text-right">
-          <a href="index.html"><span class="icon-x-square"></span></a>
+          <a href="/"><span class="icon-x-square"></span></a>
         </div>
       </div>
     </div>

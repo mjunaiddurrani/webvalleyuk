@@ -33,7 +33,7 @@
   <nav>
 
     <ul class="unstyled mainnav pbpx-15">
-      <li><a href="index.html">Home</a></li>
+      <li><a href="/">Home</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
         <ul class="firstlevel unstyled">
           <li><a href="branding.html">Branding</a></li>
