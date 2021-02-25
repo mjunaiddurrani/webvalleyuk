@@ -10,30 +10,30 @@ $tag = $_REQUEST['tag'];
 $price = $_REQUEST['price'];
 
 $data=array(
-    'name'=> $name,
-    'email'=>$email,
-    'phone'=>$phone,
-    'brief'=>$brief,
-    'news'=>$news,
-    'route'=>$route,
-    'brand'=>$brand,
-    'tag' => $tag,
-    'price'=> $price
+'name'=> $name,
+'email'=>$email,
+'phone'=>$phone,
+'brief'=>$brief,
+'news'=>$news,
+'route'=>$route,
+'brand'=>$brand,
+'tag' => $tag,
+'price'=> $price
 );
 $payload=json_encode($data);
 $curl = curl_init();
 curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://dashboard.ghostwritingfounder.com/api/customer",
-    CURLOPT_RETURNTRANSFER => true,
-    CURLOPT_ENCODING => "",
-    CURLOPT_MAXREDIRS => 10,
-    CURLOPT_TIMEOUT => 30,
-    CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-    CURLOPT_CUSTOMREQUEST => "POST",
-    CURLOPT_POSTFIELDS => $payload,
-    CURLOPT_HTTPHEADER => array(
-        'Content-Type: application/json',
-    ),
+CURLOPT_URL => "https://dashboard.ghostwritingfounder.com/api/customer",
+CURLOPT_RETURNTRANSFER => true,
+CURLOPT_ENCODING => "",
+CURLOPT_MAXREDIRS => 10,
+CURLOPT_TIMEOUT => 30,
+CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+CURLOPT_CUSTOMREQUEST => "POST",
+CURLOPT_POSTFIELDS => $payload,
+CURLOPT_HTTPHEADER => array(
+'Content-Type: application/json',
+),
 ));
 
 $response = curl_exec($curl);
@@ -47,4 +47,3 @@ session_start();
 $_SESSION['thanksMsg'] = $msg;
 
 header("location:/thank-you/");
-
