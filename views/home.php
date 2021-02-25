@@ -3,7 +3,7 @@
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<title>Innovative Website Designing Services In UK | Web Pro Hub</title>
+<title>Innovative Website Designing Services In UK | Website Valley</title>
 <link rel='stylesheet' id='main-style-css'  href='../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css' type="text/css"/>
 
 <?php 
@@ -28,19 +28,19 @@ include_once('includes/head.php');
 </head>
 <body class="hompg hdar-clr">
 
-<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.svg" alt="*" /></a>
+<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
   <nav>
 
     <ul class="unstyled mainnav pbpx-15">
-      <li><a href="index.html">Home</a></li>
+      <li><a href="/">Home</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
         <ul class="firstlevel unstyled">
           <li><a href="branding.html">Branding</a></li>
-          <li><a href="video-animation.html">Video Animation</a></li>
+        
           <li><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
           <li><a href="website-design-prototype.html">Design & Prototype</a></li>
           <li><a href="web-app-development.html">Web App Development</a></li>
-          <!--<li><a href="https://webprohub.co.uk/website-mantainance">Website Maintenance</a></li>-->
+          <!--<li><a href="https://websitevalley.co.uk/website-mantainance">Website Maintenance</a></li>-->
         </ul>
       </li>
       
@@ -131,7 +131,7 @@ include_once('includes/head.php');
               <input class="" type="hidden" name="ctry" value="">
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="hiddencapcha" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://webprohub.co.uk/" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitevalley.co.uk/" />
                 </div>
               </div>
             </div>
@@ -204,7 +204,7 @@ include_once('includes/head.php');
                   <li>Custom websites that convert clients</li>
                 </ul>
                 <div class="mybtnwrap">
-                  <a href="https://webprohub.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
                   <img class="rightside" src="assets/images/rateimg.png" alt="">  
                 </div>
               </div>
@@ -228,7 +228,7 @@ include_once('includes/head.php');
                   <li>Custom websites that convert clients</li>
                 </ul>
                 <div class="mybtnwrap">
-                  <a href="https://webprohub.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
                   <img class="rightside" src="assets/images/rateimg.png" alt="">  
                 </div>
               </div>
@@ -252,7 +252,7 @@ include_once('includes/head.php');
                   <li>Custom websites that convert clients</li>
                 </ul>
                 <div class="mybtnwrap">
-                  <a href="https://webprohub.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
                   <img class="rightside" src="assets/images/rateimg.png" alt="">  
                 </div>
               </div>
@@ -276,7 +276,7 @@ include_once('includes/head.php');
                   <li>Custom websites that convert clients</li>
                 </ul>
                 <div class="mybtnwrap">
-                  <a href="https://webprohub.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
                   <img class="rightside" src="assets/images/rateimg.png" alt="">  
                 </div>
               </div>
@@ -412,7 +412,7 @@ include_once('includes/head.php');
             <!-- <li><a data-toggle="pill" href="#webapp">Web Apps</a></li> -->
 
             <li><a data-toggle="pill" href="#branding" class="">Branding</a></li>
-            <li><a data-toggle="pill" href="#videoanimation" class="">Video Animation</a></li>
+   
             
             
           </ul>
@@ -911,7 +911,7 @@ include_once('includes/head.php');
             <li><a data-toggle="pill" href="#ecomm" class="">Ecommerce</a></li>
             <li><a data-toggle="pill" href="#portal" class="">Web Portal</a></li>
              <li><a data-toggle="pill" href="#brandd" class="">Branding</a></li>
-            <li><a data-toggle="pill" href="#videod" class="">Video Animation</a></li>
+
             <li><a data-toggle="pill" href="#seo" class="">Seo</a></li>
             <!-- <li><a data-toggle="pill" href="#content" class="">Content Writing</a></li>
             <li><a data-toggle="pill" href="#socal" class="">Social Media Marketing</a></li>
@@ -952,8 +952,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1005,8 +1005,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1065,8 +1065,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1129,8 +1129,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1196,8 +1196,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1251,8 +1251,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1299,8 +1299,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1372,8 +1372,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1453,8 +1453,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1538,8 +1538,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1664,8 +1664,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1722,8 +1722,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1769,8 +1769,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1816,8 +1816,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1866,8 +1866,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1907,8 +1907,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1948,8 +1948,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -1988,8 +1988,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2039,8 +2039,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2090,8 +2090,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2159,8 +2159,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2228,8 +2228,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2300,8 +2300,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
+              <span><small>Speak with us</small>+4402038087061</span>
             </a>
           </div>
         </div>
@@ -2349,7 +2349,7 @@ Place purchasing requests.</li>
             <h6>We have a better plan for your new business!</h6>
             <h3>We provide full-circle services for entrepreneurs, funded startups and fund-seeking start-ups</h3>
            <a class="gt-strt" href="order.html" class="btn-secondary-outline">Get Started </a>
-            <a class="new-cta" href="tel:+441442902150" class="btn-secondary-outline">+44-144-290-2150 </a>
+            <a class="new-cta" href="tel:+4402038087061" class="btn-secondary-outline">+4402038087061 </a>
   
         </div>
         </div>
@@ -2403,7 +2403,7 @@ Place purchasing requests.</li>
           <!--      <img src="assets/images/testimonials-icons/rick-may.png" alt="" class="rounded-circle">-->
               
           <!--    <div class="usertest">-->
-          <!--      <h4>webprohub Rocked!!</h4>-->
+          <!--      <h4>websitevallery Rocked!!</h4>-->
           <!--      <p>The website they developed for me looks amazing, Couldn't ask for a better team to work with, They are responsive and did incredible job.</p>-->
           <!--      <h6>— Rick May, Rick May Photography</h6>-->
           <!--      <div class="ratings">-->
@@ -2424,7 +2424,7 @@ Place purchasing requests.</li>
               <!--  <h3>TR</h3>-->
               <!--</div>-->
               <div class="usertest">
-                <h4>Big Shout-out to the webprohub Team!!</h4>
+                <h4>Big Shout-out to the websitevallery Team!!</h4>
                 <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -2446,7 +2446,7 @@ Place purchasing requests.</li>
               <!--</div>-->
               <div class="usertest">
                 <h4>We Couldn't Ask for a Better Job!!</h4>
-                <p>I want to thank webprohub team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with webprohub in the future. </p>
+                <p>I want to thank websitevallery team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevallery in the future. </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -2610,13 +2610,13 @@ Place purchasing requests.</li>
 <!--              <span class="icon-mobile2 phone"></span>-->
 <!--              <h3 class="text-left">-->
 <!--              <span class="mad">Call us now to get started </span>-->
-<!--              +44-144-290-2150 </h3><div class="slash"></div>-->
+<!--              +4402038087061 </h3><div class="slash"></div>-->
 <!--            </div>-->
 <!--            <div class="col-lg-5 col-sm-12 mail">-->
 <!--              <span class="icon-envelope-o mail"></span>-->
 <!--              <h3 class="text-left">-->
 <!--              <span class="mad">Place an Order</span>-->
-<!--              support@webprohub.co.uk</h3>-->
+<!--              support@websitevalley.co.uk</h3>-->
 <!--            </div>-->
 <!--          </div>-->
 <!--        </section>-->
@@ -2701,5 +2701,5 @@ Place purchasing requests.</li>
 
 </body>
 
-<!-- Mirrored from webprohub.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:27 GMT -->
+<!-- Mirrored from websitevalley.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:27 GMT -->
 </html>

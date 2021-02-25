@@ -1,10 +1,10 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from webprohub.co.uk/order by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:07 GMT -->
+<!-- Mirrored from websitevalley.co.uk/order by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:07 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Hire us to Get Started! Web Prohub is the way to go. - webprohub</title>
+<title>Hire us to Get Started! Web Prohub is the way to go. - websitevallery</title>
 
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -29,14 +29,14 @@
     <div class="row">
       <div class="col-lg-3">
         <div class="logo">
-            <a href="index.html">
+            <a href="/">
               <img class="img-fluid black" src="img/logo.png" alt="logo" />
             </a>
           </div>
       </div>
       <div class="col-lg-9">
         <div class="text-right">
-          <a href="index.html"><span class="icon-x-square"></span></a>
+          <a href="/"><span class="icon-x-square"></span></a>
         </div>
       </div>
     </div>
@@ -58,7 +58,7 @@
                     <div class="form-box-main clearfix">
   <h2>Let’s talk about your next Big thing!</h2>
   <p>Heads up! We require that you sign up for Web Prohub services and packages. We make all your dreams come true in a successful project.</p>
-  <form class="cmxform" id="contactForm"  method="POST" action="https://webprohub.co.uk/webpages/orderFormController.php"  enctype="multipart/form-data">
+  <form class="cmxform" id="contactForm"  method="POST" action="https://websitevalley.co.uk/webpages/orderFormController.php"  enctype="multipart/form-data">
     <div class="row">
       <div class="col-md-12">
         <label class="field-txt">Name <span>*</span></label>
@@ -221,5 +221,5 @@
 -->
 </body>
 
-<!-- Mirrored from webprohub.co.uk/order by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:07 GMT -->
+<!-- Mirrored from websitevalley.co.uk/order by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:07 GMT -->
 </html>

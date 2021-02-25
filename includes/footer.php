@@ -6,11 +6,11 @@
         <div class="col-lg-3">
           <h3>Services</h3>
           <ul class="linkinglist">
-          <li><a href="web-app-development.html">Web App Development</a></li>
-          <li><a href="branding.html">Branding</a></li>
-          <li><a href="web-design.html">Web Design</a></li>
-          <li><a href="video-animation.html">Video Animation</a></li>
-          <li><a href="mobile-application.html">Mobile App Development</a></li>
+          <li><a href="/web-app-development/">Web App Development</a></li>
+          <li><a href="/branding/">Branding</a></li>
+          <li><a href="/web-design/">Web Design</a></li>
+        
+          <li><a href="/mobile-application/">Mobile App Development</a></li>
           
             
           </ul>
@@ -18,9 +18,9 @@
         <div class="col-lg-3">
           <h3 class="xsmtpx-30">Quick Links</h3>
           <ul class="linkinglist">
-            <li><a href="packages.html">Packages</a></li>
-            <li><a href="combo-packages.html">Combo Packages</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="/packages/">Packages</a></li>
+            <li><a href="/combo-packages/">Combo Packages</a></li>
+            <li><a href="/portfolio/">Portfolio</a></li>
             
             
           </ul>
@@ -28,22 +28,22 @@
         <div class="col-lg-3">
           <h3 class="xshide">Company</h3>
           <ul class="linkinglist">
-            <!--<li><a href="https://webprohub.co.uk/culture">Our Culture</a></li>-->
-            <li><a href="contact.html">Contact us</a></li>
+            <!--<li><a href="https://websitevalley.co.uk/culture">Our Culture</a></li>-->
+            <li><a href="/contact/">Contact us</a></li>
           </ul>
         </div>
         <div class="col-lg-3">
           <h3 class="xsmtpx-30">About</h3>
           <ul class="linkinglist">
-            <li><a href="tel:+441442902150">+44 144 290 2150</a></li>
-            <li><a href="mailto:support@webprohub.co.uk">support@webprohub.co.uk</a></li>
-            <li><a class="address">Plaza 8 Kd Tower, Cotterells, Hemel Hempstead, Hertfordshire, HP1 1FW</a></li>
+            <li><a href="tel:+4402038087061">+4402038087061</a></li>
+            <li><a href="mailto:support@websitevalley.co.uk">support@websitevalley.co.uk</a></li>
+            <li><a class="address"> 86-90 Paul Street, London <br>EC2A 4NE, UK</a></li>
           </ul>
           <ul class="scalmdia">
-              <li><a href="https://www.facebook.com/WebprohubUK/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="https://twitter.com/webprohubuk"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.instagram.com/webprohubuk/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.linkedin.com/company/webprohub"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.facebook.com/websitevalleryUK/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/websitevalleryuk"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.instagram.com/websitevalleryuk/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/websitevallery"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
           </ul>
         </div>  
       </div>
@@ -96,15 +96,15 @@
       <div class="row">
         <div class="col-sm-6">
           <div class="fologo">
-            <img src="assets/images/logof.svg" alt="">
+            <img src="assets/images/logof.png" alt="">
           </div>
-          <p class="copyright">&copy; webprohub <span id="year"></span>. All rights reserved.</p>
+          <p class="copyright">&copy; websitevallery <span id="year"></span>. All rights reserved.</p>
         </div>
         
         <div class="col-sm-6">
           <ul class="footer-nav2">
-            <li><a href="terms-conditions.html" title=""> Terms of Services</a></li>
-            <li><a href="privacy-policy.html" title="">Privacy Policy</a></li>
+            <li><a href="/terms-conditions/" title=""> Terms of Services</a></li>
+            <li><a href="/privacy-policy/" title="">Privacy Policy</a></li>
           </ul>
         </div>
       </div>
@@ -116,7 +116,7 @@
 
 
 <div class="mobile-cta hidden-sm-up">
-    <a href="tel:+441442902150" class="xicon phone">
+    <a href="tel:+4402038087061" class="xicon phone">
         <i class="icon-phone"></i>
     </a>
 </div>
@@ -127,9 +127,9 @@
       <span class="icoo"><i class="icon-chat"></i></span>
       <span>Chat With Us</span>
     </a>
-    <a href="tel:+441442902150" class="call_wrap" >
+    <a href="tel:+4402038087061" class="call_wrap" >
      <span class="icoo"><i class="icon-phone2"></i></span>
-      <span>+44 144 290 2150</span>
+      <span>+4402038087061</span>
     </a>
   </div>
 </div>
@@ -185,7 +185,7 @@
                       <input type="hidden" name="hiddencapcha" value="">
                       <input type="hidden" name="ctry" value="">
                       <input type="hidden" name="pc" value="">
-                      <input type="hidden" id="locationURL" name="page" value="https://webprohub.co.uk/" />
+                      <input type="hidden" id="locationURL" name="page" value="https://websitevalley.co.uk/" />
                         </div>
                       </div>
                     </div>
@@ -212,11 +212,11 @@
            <figure style="background-image: url(assets/images/linda-dok.jpg);"> </figure>
            <span class="heading">Book a Call </span>
              <h2 class="text-center">Our smart and friendly client support team is available to guide you through the creative process and answer all of your questions.</h2>
-             <form id="popupfrm" class="cmxform"  method="POST" action="https://webprohub.co.uk/webpages/bookacallFormController.php">
+             <form id="popupfrm" class="cmxform"  method="POST" action="https://websitevalley.co.uk/webpages/bookacallFormController.php">
 
                <div class="fldst btnattach">
                  <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-                 <a class="callus" href="tel:+441442902150"> Free design consultation <i class="fa fa-phone"></i>  +44 144 290 2150</a>
+                 <a class="callus" href="tel:+4402038087061"> Free design consultation <i class="fa fa-phone"></i>  +4402038087061</a>
                </div>
               <div class="fldst-two">
                 <input type="text" name="Name" placeholder="Enter Name" required="">
@@ -235,7 +235,7 @@
               <input type="hidden" name="ctry" value="">
               <input type="hidden" name="pc" value="">
               
-              <input type="hidden" id="location" name="locationURL" value="http://webprohub.co.uk/" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitevalley.co.uk/" />
                </div>
 
                
@@ -252,7 +252,7 @@
 
 
 
-<a href="javascript:;" class="callusnow"><i class="fa fa-phone"></i></a>
+ 
 
 <a href="javascript:;" class="gototop"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
 
@@ -292,7 +292,7 @@
         <h3 class="text-center">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 75% DISCOUNT</span></h3>
         <div class="form_wrap">
           <div class="analyzeform ">
-            <form class="" id="banform" method="POST" action="https://webprohub.co.uk/webpages/bannerFormController.php">
+            <form class="" id="banform" method="POST" action="https://websitevalley.co.uk/webpages/bannerFormController.php">
               <div class="row">
                 <div class="wrap">
                   <div class="dtf">
