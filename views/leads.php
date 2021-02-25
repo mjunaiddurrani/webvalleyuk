@@ -44,7 +44,7 @@ $response = curl_exec($curl);
 curl_close($curl);
 
 $decodeResponse = json_decode($response);
-$_SESSION['successMsg'] = "Thankyou for contacting us! We will get back to you soon";
+$_SESSION['thanksMsg'] = "Thankyou for contacting us! We will get back to you soon";
 
 
-header("location:$route");
+header("location:/thank-you/");
