@@ -456,12 +456,52 @@ ul, li {
         href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flogopoppin.com%2Fweb-design%2F">
     <link rel=alternate type=text/xml+oembed
         href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flogopoppin.com%2Fweb-design%2F&amp;format=xml">
-    <link rel=icon href=../wp-content/uploads/2020/12/cropped-favicon_icon-5-32x32.png sizes=32x32>
-    <link rel=icon href=../wp-content/uploads/2020/12/cropped-favicon_icon-5-192x192.png sizes=192x192>
-    <link rel=apple-touch-icon href=../wp-content/uploads/2020/12/cropped-favicon_icon-5-180x180.png> <meta
+    <link rel=icon href=../wp-content/uploads/2020/12/favicon.png sizes=32x32>
+    <link rel=icon href=../wp-content/uploads/2020/12/favicon.png sizes=192x192>
+    <link rel=apple-touch-icon href=../wp-content/uploads/2020/12/favicon.png> <meta
         name="msapplication-TileImage"
-        content="/wp-content/uploads/2020/12/cropped-favicon_icon-5-270x270.png">
+        content="/wp-content/uploads/2020/12/favicon.png">
     <style id=wp-custom-css>
+
+body {background: #eee;}
+.swing {
+    animation: swing ease-in-out 1s infinite alternate;
+    transform-origin: center -20px;
+    /* float:left; */
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    /* display: block; */
+}
+.swing img {
+    border: 5px solid #f8f8f8;
+    display: block;
+}
+.swing:after{
+    content: '';
+    position: absolute;  
+    width: 20px; height: 20px;  
+    border: 1px solid #999;
+    top: -10px; left: 50%;
+    z-index: 0;
+    border-bottom: none;
+    border-right: none;
+    transform: rotate(45deg);
+}
+/* nail */
+.swing:before{
+    content: '';
+    position: absolute;
+    width: 5px; height: 5px;
+    top: -14px;left: 54%;
+    z-index: 5;
+    border-radius: 50% 50%;
+    background: #000;
+}
+ 
+@keyframes swing {
+    0% { transform: rotate(3deg); }
+    100% { transform: rotate(-3deg); }
+}
+
         div#wpforms-353-field_14-container {
             position: relative
         }
@@ -627,8 +667,8 @@ ul, li {
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a
                                 href=/contact-us/>Contact Us</a></li>
                         <li id=menu-item-8 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8">
-                            <a title=telephoneNumber href="tel:+4402038087061"><i
-                                    class="fa fa-phone-alt"></i><span>+4402038087061</span></a></li>
+                            <a title=telephoneNumber href="tel:+442038087061"><i
+                                    class="fa fa-phone-alt"></i><span>+442038087061</span></a></li>
                         <li id=menu-item-345
                             class="custom-btn-bg-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-345">
                             <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get Free Quote</a></li>
@@ -773,28 +813,28 @@ ul, li {
                 <div class=row>
                     <div class=col-md-4>
                         <div class=feature-content-div>
-                            <div class="icon ani_one"><img loading=lazy
+                            <div class="icon ani_one swing"><img loading=lazy
                                     class="img-fluid animate__animated animate__flip"
                                     src=../wp-content/themes/edigisol/assets/images/Features_icon_1.png alt=img
                                     width=100% height=100%
                                     data-anijs="if: scroll, on: window, do:animate__animated animate__flip, to: .icon.ani_one .img-fluid, before: scrollReveal">
                             </div>
                             <div class=subtitle>A Creative Powerhouse</div>
-                            <p>Our professional&#8217;s design a website that is not just aesthetic but is an actual
+                            <p>Our professionals design a website that is not just aesthetic but is an actual
                                 representation of your business. We try to develop an extraordinary and innovative
                                 approach for website design to infuse new life into your business.</p>
                         </div>
                     </div>
                     <div class=col-md-4>
                         <div class="feature-content-div feature_bg">
-                            <div class="icon ani_two"><img loading=lazy
+                            <div class="icon ani_two swing"><img loading=lazy
                                     class="img-fluid animate__animated animate__flip"
                                     src=../wp-content/themes/edigisol/assets/images/Features_icon_2.png alt=img
                                     width=100% height=100%
                                     data-anijs="if: scroll, on: window, do:animate__animated animate__flip, to: .ani_two.icon .img-fluid, before: scrollReveal">
                             </div>
-                            <div class=subtitle>Custom Web Design Solutions</div>
-                            <p class=pb-md-4>Nobody knows your customers better than you. We take this knowledge and
+                            <div class=subtitle style="color: #000;">Custom Web Design Solutions</div>
+                            <p class=pb-md-4  style="color: #000;">Nobody knows your customers better than you. We take this knowledge and
                                 experience to convert them into meaningful results by creating a custom website design
                                 that highlights your brand value.</p>
                             <div class="arrow-down d-none d-md-block"><img loading=lazy class=img-fluid
@@ -804,7 +844,7 @@ ul, li {
                     </div>
                     <div class=col-md-4>
                         <div class=feature-content-div>
-                            <div class="icon ani_three" style="padding: 14px 14px;"><img loading=lazy
+                            <div class="icon ani_three swing" style="padding: 14px 14px;"><img loading=lazy
                                     class="img-fluid animate__animated animate__flip"
                                     src=../wp-content/themes/edigisol/assets/images/Features_icon_3.png alt=img
                                     width=100% height=100%
@@ -831,7 +871,7 @@ ul, li {
                             class="designer_font animate__animated animate__backInDown animate__slow"
                             data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .portfolio .designer_font, before: scrollReveal">PORTFOLIO</span>
                     </h2>
-                    <p>From Idea to execution our team of professional web designers have handled websites for
+                    <p>From Idea to execution, our team of professional web designers have handled websites for
                         micro-business to enterprise-level ventures. We aim to build and improve your digital presence
                         with years of experience in custom WordPress design, CMS, PHP &amp; more.</p>
                 </div>
@@ -1041,7 +1081,7 @@ ul, li {
                             data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .packages .designer_font, before: scrollReveal">packages</span>
                     </h2>
                     <p class=pt-md-4>We offer affordable and flexible packages for you to choose from as per your
-                        requirements. All the packages are designed extensively to cater to the needs of any business.
+                        requirements. All the packages are designed extensively to cater the needs of any business.
                         We maintain the same standard of services in all the packages without compromising on quality.
                         We are here to build trust and relation with our clients.</p>
                 </div>
@@ -1062,8 +1102,8 @@ ul, li {
             <li><a data-toggle="pill" href="#webd" class="active show">Web Design</a></li>
             <li><a data-toggle="pill" href="#ecomm" class="">Ecommerce</a></li>
             <li><a data-toggle="pill" href="#portal" class="">Web Portal</a></li>
-             <li><a data-toggle="pill" href="#brandd" class="">Branding</a></li>
-            <li><a data-toggle="pill" href="#videod" class="">Video Animation</a></li>
+             <!-- <li><a data-toggle="pill" href="#brandd" class="">Branding</a></li>
+            <li><a data-toggle="pill" href="#videod" class="">Video Animation</a></li> -->
             <li><a data-toggle="pill" href="#seo" class="">Seo</a></li>
             <!-- <li><a data-toggle="pill" href="#content" class="">Content Writing</a></li>
             <li><a data-toggle="pill" href="#socal" class="">Social Media Marketing</a></li>
@@ -1104,8 +1144,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1157,8 +1197,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1217,8 +1257,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1281,8 +1321,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1348,8 +1388,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1403,8 +1443,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1451,8 +1491,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1524,8 +1564,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1605,8 +1645,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1690,8 +1730,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1816,8 +1856,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1874,8 +1914,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1921,8 +1961,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1968,8 +2008,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2018,8 +2058,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2059,8 +2099,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2100,8 +2140,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2140,8 +2180,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2191,8 +2231,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2242,8 +2282,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2311,8 +2351,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2380,8 +2420,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2452,8 +2492,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2502,7 +2542,7 @@ Place purchasing requests.</li>
                         designing?</button>
                     <div class=panel>
                         <p>The time-frame varies and depends on the complexity of the Project. Our team of
-                            professional's work round the clock to meet deadlines.</p>
+                            professionals work round the clock to meet deadlines.</p>
                     </div><button class=accordion>How much does a website cost?</button>
                     <div class=panel>
                         <p>There is no fixed number for that as it solely depends on the website's requirements. We are
@@ -2664,7 +2704,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <p class=pt-md-4>  Website Valley has been building standards and revolutionizing the way businesses run
                         online. We offer exceptional web design solutions with innovations in a way that helps brands
                         achieve growth. We help businesses turn their goals and ideas into reality. Our team of
-                        professional&#8217;s knows how to create an outstanding digital experience with immense
+                        professionals knows how to create an outstanding digital experience with immense
                         creativity and a high professional level.</p>
                     <ul class=innovation_sections>
                         <li><span><img src=../wp-content/uploads/2020/11/innovation_constant_client_cordination.png
@@ -2777,15 +2817,15 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                 <div class="col-md-4 align-self-center">
                     <div class=icon><i class="fa fa-phone-alt"></i></div>
                     <div class=strip-detial>
-                        <h4>Call us (TOLL FREE)</h4>
-                        <h2><a href="tel:+4402038087061">+4402038087061</a></h2>
+                        <h4>Call Now</h4>
+                        <h2><a href="tel:+442038087061">+442038087061</a></h2>
                     </div>
                 </div>
                 <div class="col-md-5 align-self-center">
                     <div class=icon><i class="fa fa-envelope"></i></div>
                     <div class=strip-detial>
                         <h4>Discuss your Ideas</h4>
-                        <h2><a href=mailto:Sales@websitevalley.co.uk>Sales@websitevalley.co.uk</a></h2>
+                        <h2><a href=mailto:query@websitevalley.co.uk>query@websitevalley.co.uk</a></h2>
                     </div>
                 </div>
             </div>
@@ -2853,19 +2893,19 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                 alt=img width=100% height=100% class=img-fluid></div>
                         <div class=footer-social>
                             <ul class=social-media-links>
-                                <li><a href=https://www.facebook.com/logopoppin rel="noopener noreferrer" target=_blank
+                                <li><a href=https://www.facebook.com/websitevalley rel="noopener noreferrer" target=_blank
                                         aria-label="Facebook Link"><img
                                             src='../wp-content/themes/edigisol/assets/images/footer_Fb.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
-                                <li><a href=https://www.instagram.com/logo_poppin/ rel="noopener noreferrer"
+                                <li><a href=https://www.instagram.com/websitevalley/ rel="noopener noreferrer"
                                         aria-label="Insta Link" target=_blank><img
                                             src='../wp-content/themes/edigisol/assets/images/footer_Insta.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
-                                <li><a href=https://twitter.com/LogoPoppin rel="noopener noreferrer"
+                                <li><a href=https://twitter.com/websitevalley rel="noopener noreferrer"
                                         aria-label="Twitter Link" target=_blank><img
                                             src='../wp-content/themes/edigisol/assets/images/footer_Twitter.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
-                                <li><a href=https://www.linkedin.com/company/logopoppins/ target=_blank
+                                <li><a href=https://www.linkedin.com/company/websitevalley/ target=_blank
                                         rel="noopener noreferrer" aria-label="Linkedin Link"><img
                                             src='../wp-content/themes/edigisol/assets/images/footer_LinkedIn.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
@@ -2883,7 +2923,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <div class=row>
                         <div class="col-md-12 text-center">
                             <ul>
-                                <li>© COPYRIGHT 2021 <strong>edigisol</strong> All Rights Reserved</li>
+                                <li>© COPYRIGHT 2021 <strong>website valley</strong> All Rights Reserved</li>
                             </ul>
                         </div>
                     </div>

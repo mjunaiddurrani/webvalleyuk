@@ -18,7 +18,7 @@
         </div>
         <div class="col-lg-6">
           <ul class="top-info-list">
-            <li><a href="tel:+4402038087061"><img src="assets/images/uk-flag.png" alt="UK Flag" />+4402038087061</a></li>
+            <li><a href="tel:+442038087061"><img src="assets/images/uk-flag.png" alt="UK Flag" />+442038087061</a></li>
             <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
             <li><a href="javascript:;" onclick="setButtonURL();"  class="btn-main">Let's Get Started</a></li>
           </ul>

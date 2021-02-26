@@ -909,7 +909,7 @@
                         <ul class=footer_contact_details>
                             <li> <i class="fa fa-phone-alt"></i> <a href=tel:+18882011722>888-201-1722</a></li>
                             <li> <i class="far fa-comment-dots"></i> <a
-                                    href=mailto:Sales@logopoppin.com>Sales@logopoppin.com</a></li>
+                                    href=mailto:query@logopoppin.com>query@logopoppin.com</a></li>
                         </ul>
                         <ul>
                             <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/Visa.png alt=img
