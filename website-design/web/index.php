@@ -769,6 +769,14 @@ body {background: #eee;}
     </header>
     <section class=client-logos>
         <div class=container>
+
+
+
+
+
+
+
+        
             <div class=row>
                 <div class=col-lg-12
                     data-anijs="if: scroll, on: window, do:animate__animated animate__backInLeft, to: .client-logos, before: scrollReveal">
