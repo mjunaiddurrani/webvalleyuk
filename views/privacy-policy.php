@@ -7,7 +7,7 @@
       <meta charset=utf-8>
       <meta content="IE=edge,chrome=1" http-equiv=X-UA-Compatible>
       <meta name=viewport content="width=device-width, initial-scale=1, minimal-ui">
-      <title>Privacy Policy | Web Prohub</title>
+      <title>Privacy Policy | Website Valley</title>
       <meta name=description content="Affordable logo design services that's made instantly and stays forever.">
       
 
@@ -73,12 +73,12 @@
       <div class="col-lg-12">
         <div class="margin-bottom-20">
           <h3>About The Policy</h3>
-          <p>At Web Prohub, the privacy of our clients is our top priority on <a href="not-found.html" target="_blank">www.websitevalley.co.uk </a> and we respect it as our own. Though we collect information from our clients, it is only used to make improvements in our customer services. Our company acknowledges that the maintenance and use of our clients' information is our responsibility. We DO NOT rent or sell the information that our clients provide us online.</p>
+          <p>At Website Valley, the privacy of our clients is our top priority on <a href="not-found.html" target="_blank">www.websitevalley.co.uk </a> and we respect it as our own. Though we collect information from our clients, it is only used to make improvements in our customer services. Our company acknowledges that the maintenance and use of our clients' information is our responsibility. We DO NOT rent or sell the information that our clients provide us online.</p>
           <p>This policy describes how the personal information of our client collected by us is used, why we collect it, and how we use it. It is within our policy that we describe the choices you can make about how we can collect and use your information</p>
         </div>
         <div class="margin-bottom-20">
           <h3>Personal Information Collected</h3>
-          <p>The information collected by Web Prohub includes the client's name, e-mail, mailing address and phone number. These are pieces of information that the client provides us while ordering or while saving the information with our company. We may also use the email addresses or mailing addresses which we receive through our mailing system such as our Contact Us Form for responding to comments, queries etc.</p>
+          <p>The information collected by Website Valleyincludes the client's name, e-mail, mailing address and phone number. These are pieces of information that the client provides us while ordering or while saving the information with our company. We may also use the email addresses or mailing addresses which we receive through our mailing system such as our Contact Us Form for responding to comments, queries etc.</p>
           <p>Our company also maintains records of the items, which have interested our clients in the past, as well as the client's purchases online.</p>
         </div>
         
@@ -110,7 +110,7 @@
           <p>The information of our clients is secure, as it is protected during transmission by the use of the Secure Sockets Layer (SSL) Software which encrypts the information the client puts in.</p>
           
           <p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
-          <p>If you have any questions about security on our Web site, you can send email us at <a href="mailto:support@websitevalley.co.uk">support@websitevalley.co.uk</a></p>
+          <p>If you have any questions about security on our Web site, you can send email us at <a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></p>
         </div>
         <div class="margin-bottom-20">
           <h3>Access of Registered Accounts</h3>
@@ -153,7 +153,7 @@
         </div>
         <div class="margin-bottom-20">
           <h3>Questions</h3>
-          <p>If you have any questions regarding our Privacy Policy or our use of your information, call our toll free number (+44-016-1884-0966) or email us on <a href="mailto:support@websitevalley.co.uk">support@websitevalley.co.uk</a></p>
+          <p>If you have any questions regarding our Privacy Policy or our use of your information, call our toll free number (+44-016-1884-0966) or email us on <a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></p>
         </div>
       </div>
     </div>

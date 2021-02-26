@@ -10,7 +10,7 @@
             </a>
           </div>
           <div class="emailsec">
-            <a href="mailto:support@websitevalley.co.uk"><span class="icon-envelope2"></span>support@websitevalley.co.uk</a>
+            <a href="mailto:query@websitevalley.co.uk"><span class="icon-envelope2"></span>query@websitevalley.co.uk</a>
           </div>
          
           
@@ -20,7 +20,7 @@
           <ul class="top-info-list">
             <li><a href="tel:+4402038087061"><img src="assets/images/uk-flag.png" alt="UK Flag" />+4402038087061</a></li>
             <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
-            <li><a href="order.html" class="btn-main">Let's Get Started</a></li>
+            <li><a href="javascript:;" onclick="setButtonURL();"  class="btn-main">Let's Get Started</a></li>
           </ul>
         </div>
       </div>
