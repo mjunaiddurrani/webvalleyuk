@@ -547,6 +547,18 @@ body {background: #eee;}
           font-size:25px;
           font-weight:bold;
         }
+
+
+
+        .btn-packages1 {
+    margin-left: 39px !important;
+    margin-bottom: 20px !important;
+}
+.btn-packages2 {
+    margin-right: 36px !important;
+    margin-bottom: 20px !important;
+}
+
     </style>
 </head>
 
@@ -653,23 +665,6 @@ body {background: #eee;}
     font-weight: 700  !important;
 }
 
-
-
-#webd > div > div > div.price-btnwrap > div {
-    margin-top: -20px;
-
-
-
-  }
-
-  #webd > div > div > div.price-btnwrap > div > div:nth-child(1) > div > a {
-    margin-right: 10px;
-}
-
-
-#webd > div > div > div.price-btnwrap > div > div > a {
-    /* margin-left: 10px; */
-}
 
 
 
@@ -1151,7 +1146,7 @@ body {background: #eee;}
       <div class="row">
         <div class="col-md-6">
            <div class="row">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages btn-packages1">Place Your Order</a>
 
       </div>
 
@@ -1216,7 +1211,7 @@ body {background: #eee;}
       <a href="../../ourpackages/professional-website-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -1285,7 +1280,7 @@ body {background: #eee;}
       <a href="../../ourpackages/elite-website-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -1358,7 +1353,7 @@ body {background: #eee;}
       <a href="../../ourpackages/e-commerce-website-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -1434,7 +1429,7 @@ body {background: #eee;}
       <a href="../../ourpackages/silver-website-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -1498,7 +1493,7 @@ body {background: #eee;}
       <a href="../../ourpackages/e-commerce-startup-package.html">View Details</a> 
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -1555,7 +1550,7 @@ body {background: #eee;}
       <a href="../../ourpackages/e-commerce-professional-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -1637,7 +1632,7 @@ body {background: #eee;}
       <a href="../../ourpackages/e-commerce-elite-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -1726,7 +1721,7 @@ body {background: #eee;}
       <a href="../../ourpackages/business-website-package.html">View Details</a> 
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -1821,7 +1816,7 @@ body {background: #eee;}
       <a href="../../ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -1956,7 +1951,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2023,7 +2018,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/stationery-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2079,7 +2074,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/infographic-package.html">View Details</a> 
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2135,7 +2130,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/brochure-flyer-package.html">View Details</a> 
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2194,7 +2189,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/startup-video-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2244,7 +2239,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/classic-video-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2294,7 +2289,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/premium-video-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2343,7 +2338,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/unlimited-animation-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2403,7 +2398,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/professional-3d-vfx-animation.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2463,7 +2458,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/elite-3d-vfx-animation.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2541,7 +2536,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/seo-booster-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2619,7 +2614,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/seo-value-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
@@ -2700,7 +2695,7 @@ Place purchasing requests.</li>
       <a href="../../ourpackages/seo-pro-package.html">View Details</a>
        <div class="row">
         <div class="col-md-6">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"  class="btn-packages btn-packages1">Place Your Order</a>
 
         </div>
         <div class="col-md-6">
