@@ -2615,7 +2615,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
             <div class=row>
                 <div class="col-md-5 align-self-center">
                     <h2 class="section-title text-left pt-0">WHY CHOOSE<br class="d-none d-lg-block"><span
-                            class=font-weight-bold>  Website Valley FOR</span><br class="d-none d-lg-block"><strong>WEB
+                            class=font-weight-bold>WEBSITE VALLEY FOR</span><br class="d-none d-lg-block"><strong>WEB
                             SERVICES</strong></h2>
                 </div>
                 <div class="col-md-7 align-self-center">
@@ -2671,7 +2671,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                     alt=img class=img-fluid></span><span>CONSTANT CLIENT<br
                                     class="d-none d-md-block">COORDINATION</span></li>
                         <li><span><img src=../wp-content/uploads/2020/11/innovation_suorene_customer_satisfaction.png
-                                    alt=img class=img-fluid></span><span>  Website Valley CUSTOMER<br
+                                    alt=img class=img-fluid></span><span>  WEBSITE VALLEY CUSTOMER<br
                                     class="d-none d-md-block">SATISFACTION</span></li>
                         <li><span><img src=../wp-content/uploads/2020/11/innovation_rights.png alt=img
                                     class=img-fluid></span><span>100% OWNERSHIP<br
