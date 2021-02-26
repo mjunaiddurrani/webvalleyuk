@@ -204,7 +204,7 @@ ul, li {
     margin-bottom: 60px;
 }
 .package_inner {
-    padding: 30px 30px 0px 30px;
+    padding: 20px 20px 0px 20px;
 }
 .smallboxes .smallbox h4 {
     margin: 0 auto;
