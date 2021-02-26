@@ -382,6 +382,27 @@ transform: translate(0, -50%);}
     background-color: #ffffff;
     z-index: 2;
 }
+
+
+
+
+@media only screen and (max-width: 768px) {
+.works-wrap {
+    padding: 138px 0 100px  !important;;
+    position: relative;
+    background-color: #ffffff;
+    z-index: 2;
+}
+.subscribe-fold .myheading {
+    font-size: 46px  !important;
+    color: #171717;
+    margin-bottom: 32px;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 40px;
+}
+
+}
 .subscribe-fold .myheading {
     font-size: 72px;
     color: #171717;
