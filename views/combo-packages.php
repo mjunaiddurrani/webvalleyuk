@@ -104,7 +104,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="order13f9.html?pack=18" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -171,7 +171,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="order8baa.html?pack=19" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -250,7 +250,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="order501e.html?pack=20" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -336,7 +336,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="order817a.html?pack=21" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -410,7 +410,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="order7995.html?pack=22" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
