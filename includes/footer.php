@@ -36,7 +36,7 @@
           <h3 class="xsmtpx-30">About</h3>
           <ul class="linkinglist">
             <li><a href="tel:+4402038087061">+4402038087061</a></li>
-            <li><a href="mailto:support@websitevalley.co.uk">support@websitevalley.co.uk</a></li>
+            <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
             <li><a class="address"> 86-90 Paul Street, London <br>EC2A 4NE, UK</a></li>
           </ul>
           <ul class="scalmdia">
@@ -136,7 +136,7 @@
 
 
 <div class="floatbutton">
-    <div class="clickbutton"><div class="crossplus"><i class="fa fa-send"></i></div></div>
+    <div class="clickbutton"><div class="crossplus"><i class="fa fa-envelope"></i></div></div>
       <div class="banner-form">
         <h3>Chat With Us to <br>Avail 50% Discount</h3>
         <div class="banform">
@@ -160,7 +160,7 @@
                       <div class="col-lg-12">
                         <div class="fldset">
                           <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
-                          <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                          <i class="fa fa-envelope" aria-hidden="true"></i>
                         </div>
                       </div>
                       <div class="col-lg-12">

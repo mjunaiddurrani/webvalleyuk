@@ -393,14 +393,14 @@ ul, li {
 }
 
 
-@media only screen and (max-width: 480px) and (min-width: 0px)
+@media only screen and (max-width: 480px) and (min-width: 0px){
 .smallboxes .smallbox {
     margin: 12px 0px;
     width: 100%;
     padding: 0px;
     margin-bottom: 40px;
 }
-
+}
 @media only screen and (max-width: 1024px){
 .smallboxes .smallbox {
     width: 30%;

@@ -98,7 +98,7 @@ class OAuthService extends \Stripe\Service\AbstractService
               . 'https://dashboard.stripe.com/account/applications/settings, '
               . 'after registering your account as a platform. See '
               . 'https://stripe.com/docs/connect/standard-accounts for details, '
-              . 'or email support@stripe.com if you have any questions.';
+              . 'or email query@stripe.com if you have any questions.';
 
             throw new \Stripe\Exception\AuthenticationException($msg);
         }
