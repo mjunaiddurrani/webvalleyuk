@@ -9,8 +9,8 @@
     <meta charset="UTF-8">
     <meta name="description" content="websitevalley- Home Page">
     <meta name="keywords" content="HTML,CSS,XML,JavaScript">
-    <meta name="author" content="Logo Poppin">
-    <title>WordPress Development - Logo Poppin</title>
+    <meta name="author" content="  Website Valley">
+    <title>WordPress Development -   Website Valley</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src=../wp-content/themes/edigisol/assets/js/jquery.min.js> </script> <script
         src=../wp-content/themes/edigisol/assets/js/jquery-migrate-3.0.0.min.js> </script> <!--[if lt IE 9]>
@@ -22,20 +22,20 @@
     <meta name="robots" content="noindex, nofollow">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="WordPress Development - Logo Poppin">
+    <meta property="og:title" content="WordPress Development -   Website Valley">
     <meta property="og:url" content="https://logopoppin.com/wordpress-development/">
-    <meta property="og:site_name" content="Logo Poppin">
+    <meta property="og:site_name" content="  Website Valley">
     <meta property="article:modified_time" content="2021-02-08T14:32:38+00:00">
     <meta property="og:image" content="https://logopoppin.com/wp-content/uploads/2021/01/wp-design-bg_updated.jpg">
     <meta property="og:image:width" content="1800">
     <meta property="og:image:height" content="1201">
     <meta name="twitter:card" content="summary_large_image">
     <script type=application/ld+json class=yoast-schema-graph>
-        {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://logopoppin.com/#website","url":"https://logopoppin.com/","name":"Logo Poppin","description":"Brand Design Solutions","potentialAction":[{"@type":"SearchAction","target":"https://logopoppin.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://logopoppin.com/wordpress-development/#primaryimage","inLanguage":"en-US","url":"https://logopoppin.com/wp-content/uploads/2021/01/wp-design-bg_updated.jpg","width":1800,"height":1201},{"@type":"WebPage","@id":"https://logopoppin.com/wordpress-development/#webpage","url":"https://logopoppin.com/wordpress-development/","name":"WordPress Development - Logo Poppin","isPartOf":{"@id":"https://logopoppin.com/#website"},"primaryImageOfPage":{"@id":"https://logopoppin.com/wordpress-development/#primaryimage"},"datePublished":"2021-01-22T12:18:39+00:00","dateModified":"2021-02-08T14:32:38+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://logopoppin.com/wordpress-development/"]}]}]}
+        {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://logopoppin.com/#website","url":"https://logopoppin.com/","name":"  Website Valley","description":"Brand Design Solutions","potentialAction":[{"@type":"SearchAction","target":"https://logopoppin.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://logopoppin.com/wordpress-development/#primaryimage","inLanguage":"en-US","url":"https://logopoppin.com/wp-content/uploads/2021/01/wp-design-bg_updated.jpg","width":1800,"height":1201},{"@type":"WebPage","@id":"https://logopoppin.com/wordpress-development/#webpage","url":"https://logopoppin.com/wordpress-development/","name":"WordPress Development -   Website Valley","isPartOf":{"@id":"https://logopoppin.com/#website"},"primaryImageOfPage":{"@id":"https://logopoppin.com/wordpress-development/#primaryimage"},"datePublished":"2021-01-22T12:18:39+00:00","dateModified":"2021-02-08T14:32:38+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://logopoppin.com/wordpress-development/"]}]}]}
     </script>
     <link rel=dns-prefetch href=http://s.w.org/> <link rel=alternate type=application/rss+xml
-        title="Logo Poppin &raquo; Feed" href=https://logopoppin.com/feed/>
-    <link rel=alternate type=application/rss+xml title="Logo Poppin &raquo; Comments Feed"
+        title="  Website Valley &raquo; Feed" href=https://logopoppin.com/feed/>
+    <link rel=alternate type=application/rss+xml title="  Website Valley &raquo; Comments Feed"
         href=https://logopoppin.com/comments/feed/>
     <script>
         window._wpemojiSettings = {
@@ -375,7 +375,7 @@
                     </p>
                 </div>
                 <div class="col-lg-6 right_title align-self-center ">
-                    <p>Logo Poppin is an unconventional website design and development agency, with a team of wordpress
+                    <p>  Website Valley is an unconventional website design and development agency, with a team of wordpress
                         developers and strategists revolutionizing the digital user experience through creativity and
                         innovation. We offer exceptional WordPress Designs that aligns with your brand image and your
                         target audience.</p>
@@ -476,7 +476,7 @@
                 <div class=col-md-4>
                     <div class=ecoomerce-box> <i class="fas fa-shopping-cart ecommerce-icon"></i></p>
                         <h3 class="ecommerce_srvices-title">API Integration<br>&#038; Customization</h3>
-                        <p>Logo Poppin offers API integration and customization services tailored to your needs,
+                        <p>  Website Valley offers API integration and customization services tailored to your needs,
                             utilizing the real potential of WordPress. Our developers specialize in custom, scalable and
                             secure API development and integration to get enhanced features and functionalities for the
                             website</p>
@@ -486,7 +486,7 @@
                     <div class=ecoomerce-box> <i class="fas fa-cogs ecommerce-icon"></i></p>
                         <h3 class="ecommerce_srvices-title">WordPress<br>Security</h3>
                         <p>As popular as WordPress is as a CMS, it is prone to online threats. To help keep you safe
-                            from all kinds of online threats, Logo Poppin offers robust security solutions for WordPress
+                            from all kinds of online threats,   Website Valley offers robust security solutions for WordPress
                             that not only defend your website but also deal with the existing threats. We offer
                             customized WordPress security services like threat or malware removal, scheduling backups,
                             data security, etc.</p>
@@ -903,13 +903,13 @@
                         </ul>
                     </div>
                     <div class="col-md-4 footer_contact">
-                        <div class=footer-main-title>Logo Poppin</div>
+                        <div class=footer-main-title>  Website Valley</div>
                         <p>Your go-to, for all things digital. We’re a team of creative professionals determined to
                             transform businesses through innovative solutions that deliver results.</p>
                         <ul class=footer_contact_details>
                             <li> <i class="fa fa-phone-alt"></i> <a href=tel:+18882011722>888-201-1722</a></li>
                             <li> <i class="far fa-comment-dots"></i> <a
-                                    href=mailto:Sales@logopoppin.com>Sales@logopoppin.com</a></li>
+                                    href=mailto:query@logopoppin.com>query@logopoppin.com</a></li>
                         </ul>
                         <ul>
                             <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/Visa.png alt=img
@@ -932,7 +932,7 @@
                 <div class=container>
                     <div class=row>
                         <div class="col-md-12 text-center">
-                            <p>Copyright © Logo Poppin 2021</p>
+                            <p>Copyright ©   Website Valley 2021</p>
                         </div>
                     </div>
                 </div>

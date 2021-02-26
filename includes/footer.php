@@ -35,7 +35,7 @@
         <div class="col-lg-3">
           <h3 class="xsmtpx-30">About</h3>
           <ul class="linkinglist">
-            <li><a href="tel:+4402038087061">+4402038087061</a></li>
+            <li><a href="tel:+442038087061">+442038087061</a></li>
             <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
             <li><a class="address"> 86-90 Paul Street, London <br>EC2A 4NE, UK</a></li>
           </ul>
@@ -116,7 +116,7 @@
 
 
 <div class="mobile-cta hidden-sm-up">
-    <a href="tel:+4402038087061" class="xicon phone">
+    <a href="tel:+442038087061" class="xicon phone">
         <i class="icon-phone"></i>
     </a>
 </div>
@@ -127,9 +127,9 @@
       <span class="icoo"><i class="icon-chat"></i></span>
       <span>Chat With Us</span>
     </a>
-    <a href="tel:+4402038087061" class="call_wrap" >
+    <a href="tel:+442038087061" class="call_wrap" >
      <span class="icoo"><i class="icon-phone2"></i></span>
-      <span>+4402038087061</span>
+      <span>+442038087061</span>
     </a>
   </div>
 </div>
@@ -216,7 +216,7 @@
 
                <div class="fldst btnattach">
                  <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-                 <a class="callus" href="tel:+4402038087061"> Free design consultation <i class="fa fa-phone"></i>  +4402038087061</a>
+                 <a class="callus" href="tel:+442038087061"> Free design consultation <i class="fa fa-phone"></i>  +442038087061</a>
                </div>
               <div class="fldst-two">
                 <input type="text" name="Name" placeholder="Enter Name" required="">

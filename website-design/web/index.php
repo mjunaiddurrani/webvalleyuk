@@ -22,8 +22,8 @@
 
 
     <link rel=dns-prefetch href=http://s.w.org/> <link rel=alternate type=application/rss+xml
-        title="Logo Poppin &raquo; Feed" href=/feed/>
-    <link rel=alternate type=application/rss+xml title="Logo Poppin &raquo; Comments Feed"
+        title="  Website Valley &raquo; Feed" href=/feed/>
+    <link rel=alternate type=application/rss+xml title="  Website Valley &raquo; Comments Feed"
         href=/comments/feed/>
     <script>
         window._wpemojiSettings = {
@@ -410,6 +410,12 @@ ul, li {
 }
 }
 @media only screen and (max-width: 769px) and (min-width: 0px){
+  
+  .bgcolornew{
+
+ background-color:  #000000 !important; background-image: none !important;
+
+}
 .smallboxes .smallbox {
     width: 100%;
 }
@@ -456,12 +462,52 @@ ul, li {
         href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flogopoppin.com%2Fweb-design%2F">
     <link rel=alternate type=text/xml+oembed
         href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flogopoppin.com%2Fweb-design%2F&amp;format=xml">
-    <link rel=icon href=../wp-content/uploads/2020/12/cropped-favicon_icon-5-32x32.png sizes=32x32>
-    <link rel=icon href=../wp-content/uploads/2020/12/cropped-favicon_icon-5-192x192.png sizes=192x192>
-    <link rel=apple-touch-icon href=../wp-content/uploads/2020/12/cropped-favicon_icon-5-180x180.png> <meta
+    <link rel=icon href=../wp-content/uploads/2020/12/favicon.png sizes=32x32>
+    <link rel=icon href=../wp-content/uploads/2020/12/favicon.png sizes=192x192>
+    <link rel=apple-touch-icon href=../wp-content/uploads/2020/12/favicon.png> <meta
         name="msapplication-TileImage"
-        content="/wp-content/uploads/2020/12/cropped-favicon_icon-5-270x270.png">
+        content="/wp-content/uploads/2020/12/favicon.png">
     <style id=wp-custom-css>
+
+body {background: #eee;}
+.swing {
+    animation: swing ease-in-out 1s infinite alternate;
+    transform-origin: center -20px;
+    /* float:left; */
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    /* display: block; */
+}
+.swing img {
+    border: 5px solid #f8f8f8;
+    display: block;
+}
+.swing:after{
+    content: '';
+    position: absolute;  
+    width: 20px; height: 20px;  
+    border: 1px solid #999;
+    top: -10px; left: 50%;
+    z-index: 0;
+    border-bottom: none;
+    border-right: none;
+    transform: rotate(45deg);
+}
+/* nail */
+.swing:before{
+    content: '';
+    position: absolute;
+    width: 5px; height: 5px;
+    top: -14px;left: 54%;
+    z-index: 5;
+    border-radius: 50% 50%;
+    background: #000;
+}
+ 
+@keyframes swing {
+    0% { transform: rotate(3deg); }
+    100% { transform: rotate(-3deg); }
+}
+
         div#wpforms-353-field_14-container {
             position: relative
         }
@@ -583,8 +629,10 @@ ul, li {
                 background-position: 0px -100px
             }
         }
+
+
     </style>
-    <header
+    <header class="bgcolornew"
         style="background: linear-gradient(#171717, #525252);background-image: url('../wp-content/uploads/2021/02/webpage_banner_upd.png');">
         <div class=container>
             <nav class="navbar navbar-expand-lg navbar-light inner_pages_nav">
@@ -627,8 +675,8 @@ ul, li {
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a
                                 href=/contact-us/>Contact Us</a></li>
                         <li id=menu-item-8 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8">
-                            <a title=telephoneNumber href="tel:+4402038087061"><i
-                                    class="fa fa-phone-alt"></i><span>+4402038087061</span></a></li>
+                            <a title=telephoneNumber href="tel:+442038087061"><i
+                                    class="fa fa-phone-alt"></i><span>+442038087061</span></a></li>
                         <li id=menu-item-345
                             class="custom-btn-bg-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-345">
                             <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get Free Quote</a></li>
@@ -729,6 +777,14 @@ ul, li {
     </header>
     <section class=client-logos>
         <div class=container>
+
+
+
+
+
+
+
+        
             <div class=row>
                 <div class=col-lg-12
                     data-anijs="if: scroll, on: window, do:animate__animated animate__backInLeft, to: .client-logos, before: scrollReveal">
@@ -773,28 +829,28 @@ ul, li {
                 <div class=row>
                     <div class=col-md-4>
                         <div class=feature-content-div>
-                            <div class="icon ani_one"><img loading=lazy
+                            <div class="icon ani_one swing"><img loading=lazy
                                     class="img-fluid animate__animated animate__flip"
                                     src=../wp-content/themes/edigisol/assets/images/Features_icon_1.png alt=img
                                     width=100% height=100%
                                     data-anijs="if: scroll, on: window, do:animate__animated animate__flip, to: .icon.ani_one .img-fluid, before: scrollReveal">
                             </div>
                             <div class=subtitle>A Creative Powerhouse</div>
-                            <p>Our professional&#8217;s design a website that is not just aesthetic but is an actual
+                            <p>Our professionals design a website that is not just aesthetic but is an actual
                                 representation of your business. We try to develop an extraordinary and innovative
                                 approach for website design to infuse new life into your business.</p>
                         </div>
                     </div>
                     <div class=col-md-4>
                         <div class="feature-content-div feature_bg">
-                            <div class="icon ani_two"><img loading=lazy
+                            <div class="icon ani_two swing"><img loading=lazy
                                     class="img-fluid animate__animated animate__flip"
                                     src=../wp-content/themes/edigisol/assets/images/Features_icon_2.png alt=img
                                     width=100% height=100%
                                     data-anijs="if: scroll, on: window, do:animate__animated animate__flip, to: .ani_two.icon .img-fluid, before: scrollReveal">
                             </div>
-                            <div class=subtitle>Custom Web Design Solutions</div>
-                            <p class=pb-md-4>Nobody knows your customers better than you. We take this knowledge and
+                            <div class=subtitle style="color: #000;">Custom Web Design Solutions</div>
+                            <p class=pb-md-4  style="color: #000;">Nobody knows your customers better than you. We take this knowledge and
                                 experience to convert them into meaningful results by creating a custom website design
                                 that highlights your brand value.</p>
                             <div class="arrow-down d-none d-md-block"><img loading=lazy class=img-fluid
@@ -804,7 +860,7 @@ ul, li {
                     </div>
                     <div class=col-md-4>
                         <div class=feature-content-div>
-                            <div class="icon ani_three" style="padding: 14px 14px;"><img loading=lazy
+                            <div class="icon ani_three swing" style="padding: 14px 14px;"><img loading=lazy
                                     class="img-fluid animate__animated animate__flip"
                                     src=../wp-content/themes/edigisol/assets/images/Features_icon_3.png alt=img
                                     width=100% height=100%
@@ -831,7 +887,7 @@ ul, li {
                             class="designer_font animate__animated animate__backInDown animate__slow"
                             data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .portfolio .designer_font, before: scrollReveal">PORTFOLIO</span>
                     </h2>
-                    <p>From Idea to execution our team of professional web designers have handled websites for
+                    <p>From Idea to execution, our team of professional web designers have handled websites for
                         micro-business to enterprise-level ventures. We aim to build and improve your digital presence
                         with years of experience in custom WordPress design, CMS, PHP &amp; more.</p>
                 </div>
@@ -1041,7 +1097,7 @@ ul, li {
                             data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .packages .designer_font, before: scrollReveal">packages</span>
                     </h2>
                     <p class=pt-md-4>We offer affordable and flexible packages for you to choose from as per your
-                        requirements. All the packages are designed extensively to cater to the needs of any business.
+                        requirements. All the packages are designed extensively to cater the needs of any business.
                         We maintain the same standard of services in all the packages without compromising on quality.
                         We are here to build trust and relation with our clients.</p>
                 </div>
@@ -1062,8 +1118,8 @@ ul, li {
             <li><a data-toggle="pill" href="#webd" class="active show">Web Design</a></li>
             <li><a data-toggle="pill" href="#ecomm" class="">Ecommerce</a></li>
             <li><a data-toggle="pill" href="#portal" class="">Web Portal</a></li>
-             <li><a data-toggle="pill" href="#brandd" class="">Branding</a></li>
-            <li><a data-toggle="pill" href="#videod" class="">Video Animation</a></li>
+             <!-- <li><a data-toggle="pill" href="#brandd" class="">Branding</a></li>
+            <li><a data-toggle="pill" href="#videod" class="">Video Animation</a></li> -->
             <li><a data-toggle="pill" href="#seo" class="">Seo</a></li>
             <!-- <li><a data-toggle="pill" href="#content" class="">Content Writing</a></li>
             <li><a data-toggle="pill" href="#socal" class="">Social Media Marketing</a></li>
@@ -1104,8 +1160,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1170,8 +1226,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1239,8 +1295,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1312,8 +1368,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1388,8 +1444,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1452,8 +1508,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1509,8 +1565,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1591,8 +1647,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1681,8 +1737,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1775,8 +1831,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1910,8 +1966,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1977,8 +2033,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2033,8 +2089,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2089,8 +2145,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2148,8 +2204,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2198,8 +2254,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2248,8 +2304,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2297,8 +2353,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2357,8 +2413,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2417,8 +2473,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2495,8 +2551,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2573,8 +2629,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2654,8 +2710,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2701,6 +2757,270 @@ Place purchasing requests.</li>
     </div>
   </div>
 </section>
+  
+    <section class=procedure_section>
+        <div class=container>
+            <div class=row>
+                <div class=col-md-12>
+                    <h2 class="section-title mb-md-5"><strong>Procedure</strong> <span class=designer_font
+                            data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .packages .designer_font, before: scrollReveal">Process</span>
+                    </h2>
+                </div>
+            </div>
+            <div class=row>
+                <div class=col-md-4>
+                    <div class="procedure-process-1 procedure-process">
+                        <div class=svg><svg xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink
+                                version=1.1 id=Layer_1 x=0px y=0px viewBox="0 0 363 320"
+                                style="enable-background:new 0 0 363 320" xml:space=preserve>
+                                <path class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
+                                    d="M248.5,43.4C222.2,17,186,0.7,145.9,0.7C65.9,0.7,1.1,65.6,1.1,145.5s64.8,144.8,144.8,144.8  s144.8-64.8,144.8-144.8H352" />
+                                <polyline class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
+                                    points="333.5,128.9 352,145.5 333.6,162.4 " /></svg></div>
+                        <div class=conuter>01</div>
+                        <div class=icon><svg xmlns=http://www.w3.org/2000/svg width=126.781 height=124.31
+                                viewBox="0 0 126 124">
+                                <path class=path-delay--3
+                                    d=M391.866,4884.15h87.582v1.02q0,18,.014,36a3.913,3.913,0,0,0,.342,1.56,23.4,23.4,0,0,1,.149,20.12,0.878,0.878,0,0,0,.244,1.18q8.675,8.58,17.322,17.17a7.647,7.647,0,0,1,.22,10.97,7.808,7.808,0,0,1-11.013-.08c-2.174-2.12-4.322-4.27-6.468-6.42a4.212,4.212,0,0,1-.494-0.79l-0.316.21v0.82q0,9.15,0,18.31a14.109,14.109,0,0,1-14.173,14.24q-36.673.03-73.346,0a6.77,6.77,0,0,1-5.559-2.82,15.921,15.921,0,0,1-3.185-10.59c0.043-1.42.232-2.84,0.362-4.33h8.321v-96.57Zm82.054,5.48H397.4v91.09H459.46c0,1.52-.035,2.94.009,4.36a10.129,10.129,0,0,0,1.794,5.71,4.857,4.857,0,0,0,4.467,2.2,8.679,8.679,0,0,0,8.23-8.73q0.029-12.075-.016-24.16a1.82,1.82,0,0,0-.487-1.13c-1.35-1.4-2.767-2.74-4.122-4.14a0.928,0.928,0,0,0-1.261-.22,24.006,24.006,0,0,1-30.056-8.79c-0.522-.8-0.97-1.64-1.488-2.53a3.668,3.668,0,0,1-2.708.72H408.8a7.289,7.289,0,0,1-.934-0.05,2.662,2.662,0,0,1-2.387-2.71,2.765,2.765,0,0,1,3.056-2.72h26.285c-0.212-1.41-.412-2.73-0.622-4.13H407a2.743,2.743,0,0,1-3.043-3.03q0-16.41,0-32.81c0-2.08,1.026-3.1,3.118-3.1h56.59a2.779,2.779,0,0,1,3.112,3.13c0,3.84.011,7.69-.012,11.53a0.876,0.876,0,0,0,.646.97,22.75,22.75,0,0,1,6,3.56c0.146,0.12.315,0.21,0.507,0.34v-25.36Zm-15.735,59.83a16.476,16.476,0,1,0-16.63-16.4A16.53,16.53,0,0,0,458.185,4949.46ZM427.6,4919.01c0.224-.25.414-0.46,0.6-0.67q5.593-6.495,11.187-12.99a2.791,2.791,0,0,1,4.652.01c1.477,1.71,2.954,3.42,4.407,5.15a0.869,0.869,0,0,0,1.159.32,23.148,23.148,0,0,1,10.387-1.51c0.4,0.03.808,0.05,1.223,0.07v-8.41h-51.7v23.16c0.245-.26.4-0.43,0.556-0.61,2.746-3.18,5.561-6.32,8.207-9.58a3.019,3.019,0,0,1,5-.01C424.624,4915.68,426.126,4917.3,427.6,4919.01Zm-38.92,67.2a9.147,9.147,0,0,0,1.3,5.3,3.176,3.176,0,0,0,2.861,1.54c4.6-.06,9.193-0.03,13.79-0.04h49.238c-0.709-2.28-1.4-4.51-2.111-6.8H388.678Zm24.008-57.33h16.177c-2.74-3.18-5.39-6.26-8.088-9.39C418.075,4922.63,415.427,4925.7,412.686,4928.88Zm29.017-17.81c-3.517,4.08-6.98,8.1-10.475,12.16,1.2,1.4,2.377,2.76,3.642,4.22a24.263,24.263,0,0,1,9.168-13.67C443.239,4912.85,442.5,4912,441.7,4911.07Zm33.094,39.04a4.646,4.646,0,0,1,.512.36q5.613,5.565,11.22,11.13c1.713,1.7,3.418,3.41,5.15,5.09a2.44,2.44,0,0,0,.814.31c-0.115-.28-0.228-0.56-0.349-0.83a0.3,0.3,0,0,0-.108-0.11q-6.386-6.33-12.765-12.67c-1.282-1.28-2.494-2.62-3.755-3.96C475.2,4949.73,475.069,4949.85,474.8,4950.11Zm-41.892,18.78q12.194,0,24.387,0a2.732,2.732,0,1,1,.374,5.45H408.5a2.748,2.748,0,0,1-3-2.34,2.7,2.7,0,0,1,2.627-3.1c1.3-.04,2.6-0.01,3.895-0.01h20.881Zm-8.184-4.67q-8.181,0-16.361-.01a2.723,2.723,0,1,1-.166-5.44c1.168-.02,2.337,0,3.5,0h29.3a2.728,2.728,0,0,1,2.953,2.88,2.655,2.655,0,0,1-2.709,2.56c-2.675.02-5.35,0.01-8.025,0.01h-8.492Zm-3.3-10.11c-4.362,0-8.723.01-13.085,0a2.724,2.724,0,1,1-.285-5.44c0.491-.03.986-0.01,1.479-0.01h24.846a2.8,2.8,0,0,1,2.924,1.97,2.71,2.71,0,0,1-2.483,3.47c-0.466.03-.935,0.01-1.4,0.01H421.426Zm28.1-8.65a15.51,15.51,0,0,1-5.393-15.04c1.014-5.83,4.571-9.64,10.08-11.68C445.125,4926.34,443.865,4935.27,449.523,4945.46Z
+                                    transform="translate(-376.188 -4880.16)" /></svg></div>
+                    </div>
+                    <div class=procedure-process-content>
+                        <h3>Evaluation</h3>
+                        <p>Your website is about you but built for your audience. This tried and tested approach helps
+                            us innovate, design, test, and deliver a customized web design solution that fits your
+                            brand/service and reflects your business potential.</p>
+                    </div>
+                </div>
+                <div class=col-md-4>
+                    <div class="procedure-process-1 procedure-process-2">
+                        <div class=svg><svg xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink
+                                version=1.1 id=Layer_1 x=0px y=0px viewBox="0 0 363 320"
+                                style="enable-background:new 0 0 363 320" xml:space=preserve>
+                                <path class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
+                                    d="M248.5,43.4C222.2,17,186,0.7,145.9,0.7C65.9,0.7,1.1,65.6,1.1,145.5s64.8,144.8,144.8,144.8  s144.8-64.8,144.8-144.8H352" />
+                                <polyline class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
+                                    points="333.5,128.9 352,145.5 333.6,162.4 " /></svg></div>
+                        <div class=conuter>02</div>
+                        <div class=icon><svg xmlns=http://www.w3.org/2000/svg width=102.688 height=126
+                                viewBox="0 0 102.688 126">
+                                <path class="path-delay--2 active"
+                                    d=M774.8,4933.73c-0.378-1.66.531-1.92,1.568-2.01a6.058,6.058,0,0,1,5.936,2.64c1.509,2.17,1.289,2.79-1.481,3.6,1.509,0.37,3.021.33,3.312,2.17,0.08,0.5.736-.01,1.019-0.23a6.205,6.205,0,0,1,2.711-1.36c1.309-.24,2.4-0.07,2.444,1.65a3.651,3.651,0,0,0,.429,1.57q0.912-9.9,1.821-19.8c0.271-2.98.542-5.96,0.745-8.95,0.083-1.23.759-1.45,1.8-1.44,1,0,1.732.13,1.837,1.39q0.867,10.38,1.824,20.76c0.232,2.55.537,5.09,0.844,7.96,0.2-.74.342-1.2,0.44-1.66,0.467-2.23,1.058-2.58,3.221-1.81a6.809,6.809,0,0,1,3.861,3.42c-0.029-1.43-.138-2.73,1.758-3.06a6.883,6.883,0,0,1,4.115.37c-0.51-3.04,2.144-2.77,3.6-3.93-1.553-.81-0.638-1.66,0-2.54a9.377,9.377,0,0,1,2.974-2.28,1.519,1.519,0,0,1,1.662.03,1.251,1.251,0,0,1-.006,1.37,46.086,46.086,0,0,1-4.483,9.39c-2.624,3.79-5.614,7.33-7.99,11.3-2.363,3.95-4.234,8.07-4.679,12.72a1.948,1.948,0,0,1-2.308,2.05c-4.439-.09-8.881-0.07-13.321-0.01-1.406.02-2.107-.47-2.26-1.88-0.861-7.93-5.119-14.17-9.9-20.21a37.064,37.064,0,0,1-6.433-11.36c-0.518-1.58-.1-2.01,1.51-1.65A9.506,9.506,0,0,1,774.8,4933.73Zm20.285,40.54c-3.662,0-7.324.02-10.986,0-2.944-.02-4.793-1.72-4.877-4.62a28.716,28.716,0,0,0-5.9-16.5c-3.3-4.49-6.871-8.82-9.292-13.88a32.982,32.982,0,0,1-2.71-9.61,34.723,34.723,0,0,1,5.265-24.76,33.78,33.78,0,0,1,14.772-12.49c1.526-.69,2.006-0.2,2.238,1.28,0.432,2.74.424,2.63-2.02,4.03-9.858,5.66-15.348,14.02-15.663,25.56a29.532,29.532,0,0,0,3.133,14.79,75.781,75.781,0,0,0,7.222,10.89c4.37,5.69,7.473,11.87,7.706,19.2a1.244,1.244,0,0,0,1.5,1.34q9.636-.015,19.272.01a1.336,1.336,0,0,0,1.527-1.52c0.323-6.7,2.925-12.51,6.869-17.86,3.161-4.28,6.553-8.43,8.679-13.41,6.184-14.45,1.4-32.02-14.316-39.54-0.68-.32-1.405-0.65-1.164-1.55,0.318-1.19.015-2.59,1.028-3.53,0.353-.33.928,0.02,1.357,0.22,11.574,5.44,18.528,14.38,20.275,27.11,1.439,10.49-1.588,19.79-7.907,28.16-2.022,2.67-4.137,5.29-5.9,8.16a29.346,29.346,0,0,0-4.168,13.98c-0.175,3.1-2,4.53-5.14,4.54C802.286,4974.28,798.684,4974.27,795.081,4974.27Zm9.78-85.77a36.926,36.926,0,0,1-1.767,9.5c-0.2.67-.65,1.48,0.249,1.91,4.176,2.01,4.439,5.9,4.751,9.76a8.006,8.006,0,0,1-.2,1.96,0.975,0.975,0,0,1-.492,1.06c-0.53.14-.679-0.4-0.891-0.73a10.522,10.522,0,0,0-3.69-3.6,2.463,2.463,0,0,0-3.1.17,7.191,7.191,0,0,1-9.158.03,2.554,2.554,0,0,0-3.257-.13,11.043,11.043,0,0,0-3.645,3.66,0.851,0.851,0,0,1-.782.62,0.839,0.839,0,0,1-.486-0.87,11.177,11.177,0,0,1,4.551-11.87,1.063,1.063,0,0,0,.374-1.51,49.783,49.783,0,0,1-1.746-7.7c-1.08-7.96,2.908-13.38,8.77-17.91a1.059,1.059,0,0,1,1.46-.07C801,4876.77,804.962,4881.46,804.861,4888.5Zm-9.593-3.82a4.624,4.624,0,0,0-4.7,4.48,4.548,4.548,0,1,0,9.1.08A4.594,4.594,0,0,0,795.268,4884.68Zm-0.293,97.19c-3.715,0-7.431.01-11.146,0-2.026-.01-3.032-0.73-3.136-2.18-0.107-1.51.916-2.47,3.052-2.51,4.074-.09,8.15-0.05,12.224-0.05q4.585-.015,9.169,0a14.425,14.425,0,0,1,1.972.11c1.385,0.18,2.48.78,2.4,2.36-0.08,1.6-1.123,2.27-2.67,2.27q-5.214,0-10.427.01C795.934,4981.88,795.455,4981.88,794.975,4981.87Zm0.1,7.52c-3.234,0-6.467.02-9.7-.01a6.659,6.659,0,0,1-1.94-.26,2.065,2.065,0,0,1-1.532-2.01,2.23,2.23,0,0,1,1.521-2.21,5.28,5.28,0,0,1,2.123-.26q9.52-.015,19.041,0c2.467,0,3.757.83,3.769,2.38s-1.275,2.36-3.762,2.37C801.418,4989.4,798.245,4989.39,795.072,4989.39Zm0.228,9.04c-1.585-.07-3.087.33-4.083-1.2-0.293-.45-1-0.3-1.536-0.32-1.379-.04-2.766-0.01-4.133-0.16a2.1,2.1,0,0,1-2.054-2.46,2.153,2.153,0,0,1,2.253-2.11c0.417-.04.84-0.03,1.26-0.03h16.212a8.9,8.9,0,0,1,1.791.12,2.032,2.032,0,0,1,1.725,2.02,2.09,2.09,0,0,1-1.532,2.35,13.163,13.163,0,0,1-3.757.26c-1.184.03-2.309-.09-3.236,1.07C797.469,4998.9,796.154,4998.23,795.3,4998.43Zm-32.9-94.17c0,1.02-.924,1.36-2.168.67-2.725-1.5-5.418-3.06-8.116-4.61-2.128-1.22-4.247-2.46-6.363-3.7a7.667,7.667,0,0,1-1.176-.81c-0.49-.44-1.085-0.92-0.536-1.66a1.247,1.247,0,0,1,1.779-.18q3.909,2.2,7.8,4.43c2.494,1.42,4.979,2.87,7.475,4.29A2,2,0,0,1,762.4,4904.26Zm84-9.57a1.937,1.937,0,0,1-1.141,1.44q-7.677,4.47-15.393,8.88c-0.648.37-1.45,0.63-1.879-.22-0.486-.97.206-1.56,0.982-2q5.139-2.955,10.282-5.89c1.711-.98,3.4-2,5.151-2.91C845.427,4893.46,846.319,4893.81,846.4,4894.69Zm-84,48.78a1.482,1.482,0,0,1-.879,1.04q-7.882,4.485-15.786,8.93a1.207,1.207,0,0,1-1.865-.37c-0.378-.84.353-1.34,0.961-1.7q5.108-3,10.257-5.94a44.77,44.77,0,0,1,5.619-3.15C761.628,4941.92,762.393,4941.94,762.4,4943.47Zm84.058,9.44c-0.492,1.04-1.316.9-2.183,0.42-2.514-1.4-5.027-2.79-7.522-4.22-2.651-1.52-5.283-3.07-7.92-4.61-0.733-.42-1.657-0.89-1.015-1.9,0.567-.9,1.5-0.56,2.252-0.13q6.215,3.615,12.407,7.26c1.084,0.63,2.189,1.23,3.26,1.89A1.419,1.419,0,0,1,846.456,4952.91Zm-89.766-20.26c1.169-.1,1.722.18,1.908,0.94a1.129,1.129,0,0,1-.831,1.4,79.751,79.751,0,0,1-9,2.44,1.159,1.159,0,0,1-1.537-.88,1.092,1.092,0,0,1,.662-1.48C750.95,4934.2,754.019,4933.38,756.69,4932.65Zm84.434,4.84c-1.628-.47-3.64-1.04-5.652-1.62-0.978-.28-1.966-0.53-2.933-0.85a1.142,1.142,0,0,1-.888-1.51,1.2,1.2,0,0,1,1.553-.87q4.524,1.155,9.029,2.39a1.116,1.116,0,0,1,.769,1.43C842.859,4937.25,842.271,4937.49,841.124,4937.49ZM760.9,4888.26a2.013,2.013,0,0,1,1.375.77q2.872,2.865,5.73,5.73c0.633,0.64,1.141,1.36.384,2.19-0.795.87-1.51,0.34-2.146-.3-2-1.99-3.991-3.98-5.968-5.99a1.419,1.419,0,0,1-.407-1.79A1.155,1.155,0,0,1,760.9,4888.26Zm61.761,9.13a1.242,1.242,0,0,1-.916-2c2.209-2.36,4.531-4.62,6.854-6.87a1.06,1.06,0,0,1,1.608.16,1.153,1.153,0,0,1,0,1.64c-1,1.11-2.068,2.17-3.12,3.23-1.011,1.03-2.034,2.04-3.058,3.06A1.961,1.961,0,0,1,822.663,4897.39Zm-61.684,61.7a1.147,1.147,0,0,1-1.046-1.9,64.588,64.588,0,0,1,6.831-6.84,1.174,1.174,0,0,1,1.641.12,1.024,1.024,0,0,1,.094,1.47,70.6,70.6,0,0,1-6.973,6.95A1.516,1.516,0,0,1,760.979,4959.09Zm61.769-8.97a2.036,2.036,0,0,1,1.388.74c1.863,1.86,3.732,3.71,5.579,5.58,0.639,0.65,1.374,1.44.5,2.31-0.857.84-1.667,0.16-2.322-.49-1.954-1.93-3.89-3.89-5.82-5.84a1.43,1.43,0,0,1-.48-1.62A1.124,1.124,0,0,1,822.748,4950.12ZM756.7,4914.81c-2.606-.74-5.662-1.59-8.7-2.5a1.2,1.2,0,0,1,.659-2.3c3.017,0.77,6.028,1.56,9.023,2.41a1.217,1.217,0,0,1,.9,1.55C758.405,4914.67,757.825,4914.82,756.7,4914.81Zm76.853-.01c-1.047.03-1.651-.05-1.886-0.75a1.156,1.156,0,0,1,.793-1.58q4.572-1.3,9.19-2.46a1.066,1.066,0,0,1,1.313.93,1.136,1.136,0,0,1-.816,1.42C839.163,4913.24,836.161,4914.07,833.554,4914.8Zm-38.418-28.34a2.827,2.827,0,0,1,2.766,2.74,2.758,2.758,0,0,1-5.515.03A2.849,2.849,0,0,1,795.136,4886.46Z
+                                    transform="translate(-743.781 -4872.5)" /></svg></div>
+                    </div>
+                    <div class=procedure-process-content>
+                        <h3>Wireframes & Mockups</h3>
+                        <p>There is more to a website design than aesthetics and beauty. We create wireframes and
+                            mockups to demonstrate a design that works with your industry standards and offers an
+                            exceptional user experience.</p>
+                    </div>
+                </div>
+                <div class=col-md-4>
+                    <div class="procedure-process-1 procedure-process-3">
+                        <div class=svg><svg version=1.1 id=Layer_1 xmlns=http://www.w3.org/2000/svg
+                                xmlns:xlink=http://www.w3.org/1999/xlink x=0px y=0px viewBox="0 0 363 320"
+                                style="enable-background:new 0 0 363 320" xml:space=preserve>
+                                <path class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
+                                    style=transform:translate(1px,8px) d="M250.6,45.5C224.4,19.2,188.1,2.9,148,2.9C68.1,2.9,3.3,67.7,3.3,147.7S68.1,292.5,148,292.5
+s144.8-64.8,144.8-144.8" /></svg></div>
+                        <div class=conuter>03</div>
+                        <div class=icon><svg xmlns=http://www.w3.org/2000/svg width=124.25 height=124.47
+                                viewBox="0 0 124.25 124.47">
+                                <path class="path-delay--2 active"
+                                    d=M1145.42,4947.64c-1.67-1.74-2.46-3.7-3.48-5.49-5.34-9.43-9.59-19.24-10.16-30.26a44.175,44.175,0,0,1,4.29-21.63,3.045,3.045,0,0,1,3.07-1.84c8.17,0.02,16.33.04,24.5-.01,1.91-.02,2.75,1.03,3.45,2.57,4.78,10.61,4.98,21.5,1.96,32.55-2.33,8.49-6.66,16.08-11.01,23.65-0.36.61-.92,1.5-1.45,1.55-3.02.29-3,2.3-2.91,4.53,0.07,1.63-.17,3.43-2.24,3.44-2.28,0-2.32-1.94-2.32-3.64q-0.015-12.945-.01-25.89c0-1.2.05-2.39-.01-3.58-0.07-1.32.33-3.23-1.6-3.23-1.98-.01-1.53,1.94-1.54,3.22-0.04,6.89-.01,13.78-0.03,20.66A5.992,5.992,0,0,1,1145.42,4947.64Zm5.84-39.91a7.367,7.367,0,1,0-7.34-7.33A7.51,7.51,0,0,0,1151.26,4907.73Zm0.06,89.92H1094.6c-0.92,0-1.84.02-2.75-.04-1.43-.1-2.62-0.68-2.58-2.27,0.03-1.57,1.27-2.09,2.67-2.21a6.971,6.971,0,0,1,1.37-.02c3.45,0.43,5.76-.3,7.53-3.99,2.23-4.67,6.88-6.14,11.95-5.36,1.84,0.29,3.03.11,4.17-1.53a10.642,10.642,0,0,1,7.09-4.37,3.361,3.361,0,0,0,2.78-2.23c2.39-5.48,6.37-7.89,12.42-7.52,1.64,0.1,2.16-.48,2.14-1.98q-0.03-3.99.02-7.99c0.01-1.62.12-3.42,2.21-3.48,2.12-.05,2.3,1.74,2.31,3.37,0.03,3.58,0,7.16.02,10.74a10.678,10.678,0,0,0,.18,2.19,1.524,1.524,0,0,0,1.49,1.38,1.455,1.455,0,0,0,1.37-1.48c0.11-1.83.08-3.67,0.14-5.5,0.05-1.49.44-2.93,2.18-2.98,1.92-.05,2.32,1.46,2.38,3.05,0.03,0.83.01,1.65,0.03,2.48,0.02,0.97.14,1.87,1.42,1.94,1.39,0.07,1.71-.81,1.71-1.94,0.01-4.04-.06-8.08.05-12.12,0.06-1.95-.8-4.95,2.33-4.91,2.89,0.03,2.13,2.91,2.16,4.8,0.09,4.59.02,9.18,0.04,13.77,0.01,1.45,2.98,5.64,4.22,6.04a2.59,2.59,0,0,0,1.81-.45c7.53-2.91,13.73-.27,16.61,7.26,1.07,2.8,1.73.96,2.54-.02,6.1-7.36,17.17-5.61,20.54,3.25a12.189,12.189,0,0,1,.61,4.89c-0.07,1.77.42,2.8,2.45,2.71,1.65-.08,3.39.27,3.29,2.38s-1.94,2.13-3.54,2.13Q1180.65,4997.655,1151.32,4997.65Zm-15.69-4.55q14.88,0,29.75-.02c0.77,0,1.81.3,2.13-.73,0.25-.78-0.45-1.34-0.93-1.89a7.286,7.286,0,0,0-9.02-1.6c-3.26,1.55-3.56,1.44-5.07-1.93-1.58-3.52-4.13-5.03-7.87-4.65-3.3.33-5.65,2.62-6.32,6.27-0.26,1.41-.47,2.91-2.24,2.98-1.97.09-2.18-1.49-2.47-3-0.73-3.68-3.1-5.95-6.37-6.26-3.82-.36-6.43,1.25-8.01,4.92-1.3,3.04-1.76,3.21-4.67,1.78-3.45-1.69-7.14-1.13-9.3,1.45-0.51.61-1.34,1.29-1.02,2.13,0.38,0.96,1.46.53,2.22,0.53C1116.17,4993.11,1125.9,4993.1,1135.63,4993.1Zm52.81,0c4.22,0,8.43.01,12.64-.01,0.86-.01,1.83.24,2.18-1.08,0.97-3.73-1.09-8.03-4.58-9.33a7.357,7.357,0,0,0-9.56,4.12c-1.62,3.61-1.72,3.65-5.2,2.04-3.42-1.59-7.08-.87-9.18,1.83-0.43.56-1.09,1.14-.69,1.93,0.35,0.68,1.14.48,1.75,0.49Q1182.115,4993.105,1188.44,4993.1Zm-33.53-18.61a6.138,6.138,0,0,0-4.69,1.96c-0.96.94-1.39,1.67,0.3,2.35a9.694,9.694,0,0,1,4.78,3.97c0.75,1.26,1.65,1.34,2.99,1.11,4.16-.71,8.06-0.17,11.11,3.12,0.98,1.06,1.77.99,2.73-.03a9.957,9.957,0,0,1,5.67-3.13c2.25-.35,1.72-1.31.87-2.53-2.49-3.59-7.85-3.97-11.35-.8-2.78,2.51-3.64,2.33-5.03-1.07S1158.63,4974.46,1154.91,4974.49Zm-16.68-2.07a7.919,7.919,0,0,0-7.1,4.29c-0.29.67-.7,1.39,0.07,1.98,1.53,1.15,2.95,2.61,4.68,3.24,1.03,0.38,1.83-1.55,2.98-2.12,0.98-.49,1.93-1.05,2.92-1.5,0.88-.4,2.3-0.15,2.53-1.28,0.25-1.28-.93-2.1-1.81-2.87A7.346,7.346,0,0,0,1138.23,4972.42Zm63.4-73.28c-2.13-2.02-4.26-4.02-6.37-6.05-0.65-.62-1.23-1.08-2.1-0.28a90.11,90.11,0,0,0-6.7,6.58c3.82,0.71,4.12,3.07,4.1,5.89-0.08,10.48-.01,20.95-0.06,31.42-0.01,1.84.46,4.5-2.29,4.48s-2.19-2.68-2.2-4.51c-0.04-9.55-.1-19.11.03-28.66,0.04-2.59-.66-3.82-3.38-3.45a6.714,6.714,0,0,1-2.19-.1c-2.03-.42-2.82-2.19-1.41-3.66,4.38-4.57,8.89-9.02,13.43-13.45,1.09-1.07,2.42-.78,3.45.25q6.465,6.4,12.84,12.88a2.285,2.285,0,0,1,.67,2.75,2.714,2.714,0,0,1-2.54,1.33c-4.77.43-4.77,0.44-4.77,5.35,0,14.7.02,29.4-.02,44.1-0.01,1.9.58,4.69-2.42,4.59-2.78-.09-2.08-2.79-2.08-4.59-0.04-16.35.02-32.71-.07-49.06-0.01-2.82.39-4.98,3.95-5.09C1201.54,4899.62,1201.59,4899.38,1201.63,4899.14Zm-100.34,22.15c3.45-.05,3.99,1.95,3.97,4.71-0.09,10.83-.04,21.67-0.04,32.5a12.438,12.438,0,0,1-.12,2.2,2.063,2.063,0,0,1-2.05,1.87,2.014,2.014,0,0,1-2.15-1.75,15.936,15.936,0,0,1-.22-3.01c-0.01-9.46-.08-18.92.04-28.37,0.03-2.6-.74-3.78-3.43-3.48a5.739,5.739,0,0,1-2.44-.24c-1.73-.61-2.5-2.01-1.19-3.39,4.42-4.66,9.01-9.16,13.59-13.66a2.116,2.116,0,0,1,3.21.12c4.35,4.34,8.75,8.64,13.02,13.07,1.77,1.84,1,3.63-1.53,4.08-1.59.28-3.63-.73-4.69,0.74-1.08,1.49-.37,3.57-0.42,5.38-0.07,2.76-.01,5.51-0.03,8.27-0.01,1.39-.4,2.66-2.04,2.75-1.79.1-2.4-1.2-2.42-2.7-0.05-5.33-.02-10.65,0-15.98,0.01-2.35,1.65-3.02,4.06-3.82q-3.375-3.15-6.73-6.32c-0.82-.77-1.47-0.4-2.13.24-2.09,2.05-4.21,4.07-6.31,6.11C1101.25,4920.84,1101.27,4921.06,1101.29,4921.29Zm77.7,30.37c-0.06,1.08-.03,1.82-0.14,2.54-0.4,2.57-1.94,3.33-4.07,1.83a38.01,38.01,0,0,0-12.27-6.05c-1.9-.49-1.38-1.48-0.73-2.65a125.493,125.493,0,0,0,7.72-15.21c0.89-2.31,1.65-4.67,2.5-7,0.26-.73.18-1.92,1.18-1.94,0.9-.02,1.13,1.09,1.48,1.81a35.661,35.661,0,0,1,3.14,11.93C1178.39,4941.92,1178.62,4946.97,1178.99,4951.66Zm-55.11.43c0.53-8.16.53-16.18,3-23.88,0.58-1.82,1.02-4.7,2.62-4.77,1.78-.09,1.54,2.86,2.12,4.47a110.209,110.209,0,0,0,9.12,18.8c1.37,2.31.84,3.06-1.59,3.66a32.311,32.311,0,0,0-9.65,4.59c-1.3.84-2.47,2.62-4.34,1.46C1123.49,4955.38,1124,4953.48,1123.88,4952.09Zm27.43-66.85h-9.89c-1.73,0-2.23-.6-1.08-2.11a49.008,49.008,0,0,1,9.04-9.16,2.875,2.875,0,0,1,3.97-.04,49.314,49.314,0,0,1,9.08,9.12c1.33,1.74.52,2.2-1.23,2.2Q1156.265,4885.235,1151.31,4885.24Zm4.1,15.37a4.01,4.01,0,1,1-8-.49A4.008,4.008,0,1,1,1155.41,4900.61Z
+                                    transform="translate(-1089.25 -4873.19)" /></svg></div>
+                    </div>
+                    <div class=procedure-process-content>
+                        <h3>Launch And<br class="d-none d-lg-block">Support</h3>
+                        <p>Launching a website is a process that requires support, and we stick with you throughout. We
+                            adjust our draft with your feedback to deliver you a website with an appealing design and a
+                            flawless user experience.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class=why-us>
+        <div class=container>
+            <div class=row>
+                <div class="col-md-5 align-self-center">
+                    <h2 class="section-title text-left pt-0">WHY CHOOSE<br class="d-none d-lg-block"><span
+                            class=font-weight-bold>WEBSITE VALLEY FOR</span><br class="d-none d-lg-block"><strong>WEB
+                            SERVICES</strong></h2>
+                </div>
+                <div class="col-md-7 align-self-center">
+                    <p>We’re more than a conventional agency that only offers web design services; by working with a
+                        focused, strategic, and dedicated approach, our clients have seen a boost in their online
+                        presence, conversions, and brand recognition through a professional website design that stands
+                        out from the competition.</p>
+                </div>
+            </div>
+            <div class=row>
+                <div class=col-sm-12>
+                    <div class=wrapper>
+                        <div class=percentage data-percentage=85>
+                            <div class=label>Creativity <span></span></div>
+                            <div class=animation>
+                                <div class=animation-bar></div>
+                            </div>
+                        </div>
+                        <div class=percentage data-percentage=95>
+                            <div class=label>Productivity <span></span></div>
+                            <div class=animation>
+                                <div class=animation-bar></div>
+                            </div>
+                        </div>
+                        <div class=percentage data-percentage=100>
+                            <div class=label>Results <span></span></div>
+                            <div class=animation>
+                                <div class=animation-bar></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class=innovation>
+        <div class=container>
+            <div class=row>
+                <div class="col-md-12 text-center">
+                    <h2 class="section-title"><strong>Empowering Businesses Through Innovation</strong> <span
+                            class="designer_font animate__animated animate__backInDown animate__slow"
+                            data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .features .designer_font, before: scrollReveal">Innovation</span>
+                    </h2>
+                    <h4>Web designing solutions powered with technology, innovation, and creativity to help your
+                        business grow.</h4>
+                    <p class=pt-md-4>  Website Valley has been building standards and revolutionizing the way businesses run
+                        online. We offer exceptional web design solutions with innovations in a way that helps brands
+                        achieve growth. We help businesses turn their goals and ideas into reality. Our team of
+                        professionals knows how to create an outstanding digital experience with immense
+                        creativity and a high professional level.</p>
+                    <ul class=innovation_sections>
+                        <li><span><img src=../wp-content/uploads/2020/11/innovation_constant_client_cordination.png
+                                    alt=img class=img-fluid></span><span>CONSTANT CLIENT<br
+                                    class="d-none d-md-block">COORDINATION</span></li>
+                        <li><span><img src=../wp-content/uploads/2020/11/innovation_suorene_customer_satisfaction.png
+                                    alt=img class=img-fluid></span><span>  WEBSITE VALLEY CUSTOMER<br
+                                    class="d-none d-md-block">SATISFACTION</span></li>
+                        <li><span><img src=../wp-content/uploads/2020/11/innovation_rights.png alt=img
+                                    class=img-fluid></span><span>100% OWNERSHIP<br
+                                    class="d-none d-md-block">RIGHTS</span></li>
+                        <li><span><img src=../wp-content/uploads/2020/11/innovation_gurantee.png alt=img
+                                    class=img-fluid></span><span>SECURE MONEY BACK<br
+                                    class="d-none d-md-block">GURANTEE</span></li>
+                        <li><span><img src=../wp-content/uploads/2020/11/innovation_professionals.png alt=img
+                                    class=img-fluid></span><span>INDUSTRY PROVEN<br
+                                    class="d-none d-md-block">PROFESSIONALS</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class=reviews>
+        <div class=container>
+            <div class=row>
+                <div class="col-md-12 text-center">
+                    <h2 class="section-title"><strong>Here’s what our clients have to say about our services</strong>
+                        <span class=designer_font
+                            data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .reviews .designer_font, before: scrollReveal">REVIEWS</span>
+                    </h2>
+                </div>
+                <div class=col-md-12>
+                    <div class="owl-carousel owl-carousel-reviews owl-theme">
+                        <div>
+                            <div class=row>
+                                <div class=col-md-6><img class="img-fluid owl-lazy" alt=img width=100% height=100%
+                                        data-src=../wp-content/uploads/2020/11/web_reviews_1.png> </div> <div
+                                        class=col-md-6>
+                                    <div class=review-profile>
+                                        <h2>Better Than <strong>Expected</strong></h2>
+                                        <p><img class="review-rating img-fluid owl-lazy" alt=img width=100% height=100%
+                                                data-src=../wp-content/themes/edigisol/assets/images/rating.png> </p>
+                                                <p>Their attention to detail and dedication impressed us the most. Their
+                                            team is highly professional that understood what we expected and delivered
+                                            quickly.</p>
+                                        <div class=review-profile-user>
+                                            <p><img class="img-fluid owl-lazy" alt=img width=100% height=100%
+                                                    data-src=../wp-content/uploads/2021/01/Ashley.jpg> </p> <div
+                                                    class=review-profile-user-details>
+                                                <h4>ASHLEY CHRISTIAN</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class=row>
+                            <div class=col-md-6><img class="img-fluid owl-lazy" alt=img width=100% height=100%
+                                    data-src=../wp-content/uploads/2020/11/web_reviews_2.png> </div> <div
+                                    class=col-md-6>
+                                <div class=review-profile>
+                                    <h2>Prompt And <strong>Professional</strong></h2>
+                                    <p><img class="review-rating img-fluid owl-lazy" alt=img width=100% height=100%
+                                            data-src=../wp-content/themes/edigisol/assets/images/rating.png>They are
+                                            professional and very responsive. I would highly recommend them if you want
+                                            a flawless and smooth experience.</p> <div class=review-profile-user>
+                                        <p><img class="img-fluid owl-lazy" alt=img width=100% height=100%
+                                                data-src=../wp-content/uploads/2021/01/Robb-winn.jpg> </p> <div
+                                                class=review-profile-user-details>
+                                            <h4>ROB WINN</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class=row>
+                    <div class=col-md-6><img class="img-fluid owl-lazy" alt=img width=100% height=100%
+                            data-src=../wp-content/uploads/2020/11/web_reviews_3.png> </div> <div class=col-md-6>
+                        <div class=review-profile>
+                            <h2>Very Professional And <strong>Friendly Service</strong></h2>
+                            <p><img class="review-rating img-fluid owl-lazy" alt=img width=100% height=100%
+                                    data-src=../wp-content/themes/edigisol/assets/images/rating.png>They are flexible in
+                                    accommodating the needs of clients, which makes them easy to work with. I was
+                                    impressed enough to be a retainer.</p> <div class=review-profile-user>
+                                <p><img class="img-fluid owl-lazy" alt=img width=100% height=100%
+                                        data-src=../wp-content/uploads/2021/01/Jason.jpg> </p> <div
+                                        class=review-profile-user-details>
+                                    <h4>JASON SCHOENIG</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+    </section>
+    <section class=footer-contact-strip>
+        <div class=container>
+            <div class=row>
+                <div class="col-md-3 align-self-center">
+                    <p class=mb-0>Call us and discuss <br class="d-none d-md-block">your project with our <br
+                            class="d-none d-md-block">experts today.</p>
+                </div>
+                <div class="col-md-4 align-self-center">
+                    <div class=icon><i class="fa fa-phone-alt"></i></div>
+                    <div class=strip-detial>
+                        <h4>Call Now</h4>
+                        <h2><a href="tel:+442038087061">+442038087061</a></h2>
+                    </div>
+                </div>
+                <div class="col-md-5 align-self-center">
+                    <div class=icon><i class="fa fa-envelope"></i></div>
+                    <div class=strip-detial>
+                        <h4>Discuss your Ideas</h4>
+                        <h2><a href=mailto:query@websitevalley.co.uk>query@websitevalley.co.uk</a></h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class=faqs>
         <div class=container>
             <div class=row>
@@ -2854,268 +3174,6 @@ Place purchasing requests.</li>
             </div>
         </div>
     </section>
-    <section class=procedure_section>
-        <div class=container>
-            <div class=row>
-                <div class=col-md-12>
-                    <h2 class="section-title mb-md-5"><strong>Procedure</strong> <span class=designer_font
-                            data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .packages .designer_font, before: scrollReveal">Process</span>
-                    </h2>
-                </div>
-            </div>
-            <div class=row>
-                <div class=col-md-4>
-                    <div class="procedure-process-1 procedure-process">
-                        <div class=svg><svg xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink
-                                version=1.1 id=Layer_1 x=0px y=0px viewBox="0 0 363 320"
-                                style="enable-background:new 0 0 363 320" xml:space=preserve>
-                                <path class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
-                                    d="M248.5,43.4C222.2,17,186,0.7,145.9,0.7C65.9,0.7,1.1,65.6,1.1,145.5s64.8,144.8,144.8,144.8  s144.8-64.8,144.8-144.8H352" />
-                                <polyline class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
-                                    points="333.5,128.9 352,145.5 333.6,162.4 " /></svg></div>
-                        <div class=conuter>01</div>
-                        <div class=icon><svg xmlns=http://www.w3.org/2000/svg width=126.781 height=124.31
-                                viewBox="0 0 126 124">
-                                <path class=path-delay--3
-                                    d=M391.866,4884.15h87.582v1.02q0,18,.014,36a3.913,3.913,0,0,0,.342,1.56,23.4,23.4,0,0,1,.149,20.12,0.878,0.878,0,0,0,.244,1.18q8.675,8.58,17.322,17.17a7.647,7.647,0,0,1,.22,10.97,7.808,7.808,0,0,1-11.013-.08c-2.174-2.12-4.322-4.27-6.468-6.42a4.212,4.212,0,0,1-.494-0.79l-0.316.21v0.82q0,9.15,0,18.31a14.109,14.109,0,0,1-14.173,14.24q-36.673.03-73.346,0a6.77,6.77,0,0,1-5.559-2.82,15.921,15.921,0,0,1-3.185-10.59c0.043-1.42.232-2.84,0.362-4.33h8.321v-96.57Zm82.054,5.48H397.4v91.09H459.46c0,1.52-.035,2.94.009,4.36a10.129,10.129,0,0,0,1.794,5.71,4.857,4.857,0,0,0,4.467,2.2,8.679,8.679,0,0,0,8.23-8.73q0.029-12.075-.016-24.16a1.82,1.82,0,0,0-.487-1.13c-1.35-1.4-2.767-2.74-4.122-4.14a0.928,0.928,0,0,0-1.261-.22,24.006,24.006,0,0,1-30.056-8.79c-0.522-.8-0.97-1.64-1.488-2.53a3.668,3.668,0,0,1-2.708.72H408.8a7.289,7.289,0,0,1-.934-0.05,2.662,2.662,0,0,1-2.387-2.71,2.765,2.765,0,0,1,3.056-2.72h26.285c-0.212-1.41-.412-2.73-0.622-4.13H407a2.743,2.743,0,0,1-3.043-3.03q0-16.41,0-32.81c0-2.08,1.026-3.1,3.118-3.1h56.59a2.779,2.779,0,0,1,3.112,3.13c0,3.84.011,7.69-.012,11.53a0.876,0.876,0,0,0,.646.97,22.75,22.75,0,0,1,6,3.56c0.146,0.12.315,0.21,0.507,0.34v-25.36Zm-15.735,59.83a16.476,16.476,0,1,0-16.63-16.4A16.53,16.53,0,0,0,458.185,4949.46ZM427.6,4919.01c0.224-.25.414-0.46,0.6-0.67q5.593-6.495,11.187-12.99a2.791,2.791,0,0,1,4.652.01c1.477,1.71,2.954,3.42,4.407,5.15a0.869,0.869,0,0,0,1.159.32,23.148,23.148,0,0,1,10.387-1.51c0.4,0.03.808,0.05,1.223,0.07v-8.41h-51.7v23.16c0.245-.26.4-0.43,0.556-0.61,2.746-3.18,5.561-6.32,8.207-9.58a3.019,3.019,0,0,1,5-.01C424.624,4915.68,426.126,4917.3,427.6,4919.01Zm-38.92,67.2a9.147,9.147,0,0,0,1.3,5.3,3.176,3.176,0,0,0,2.861,1.54c4.6-.06,9.193-0.03,13.79-0.04h49.238c-0.709-2.28-1.4-4.51-2.111-6.8H388.678Zm24.008-57.33h16.177c-2.74-3.18-5.39-6.26-8.088-9.39C418.075,4922.63,415.427,4925.7,412.686,4928.88Zm29.017-17.81c-3.517,4.08-6.98,8.1-10.475,12.16,1.2,1.4,2.377,2.76,3.642,4.22a24.263,24.263,0,0,1,9.168-13.67C443.239,4912.85,442.5,4912,441.7,4911.07Zm33.094,39.04a4.646,4.646,0,0,1,.512.36q5.613,5.565,11.22,11.13c1.713,1.7,3.418,3.41,5.15,5.09a2.44,2.44,0,0,0,.814.31c-0.115-.28-0.228-0.56-0.349-0.83a0.3,0.3,0,0,0-.108-0.11q-6.386-6.33-12.765-12.67c-1.282-1.28-2.494-2.62-3.755-3.96C475.2,4949.73,475.069,4949.85,474.8,4950.11Zm-41.892,18.78q12.194,0,24.387,0a2.732,2.732,0,1,1,.374,5.45H408.5a2.748,2.748,0,0,1-3-2.34,2.7,2.7,0,0,1,2.627-3.1c1.3-.04,2.6-0.01,3.895-0.01h20.881Zm-8.184-4.67q-8.181,0-16.361-.01a2.723,2.723,0,1,1-.166-5.44c1.168-.02,2.337,0,3.5,0h29.3a2.728,2.728,0,0,1,2.953,2.88,2.655,2.655,0,0,1-2.709,2.56c-2.675.02-5.35,0.01-8.025,0.01h-8.492Zm-3.3-10.11c-4.362,0-8.723.01-13.085,0a2.724,2.724,0,1,1-.285-5.44c0.491-.03.986-0.01,1.479-0.01h24.846a2.8,2.8,0,0,1,2.924,1.97,2.71,2.71,0,0,1-2.483,3.47c-0.466.03-.935,0.01-1.4,0.01H421.426Zm28.1-8.65a15.51,15.51,0,0,1-5.393-15.04c1.014-5.83,4.571-9.64,10.08-11.68C445.125,4926.34,443.865,4935.27,449.523,4945.46Z
-                                    transform="translate(-376.188 -4880.16)" /></svg></div>
-                    </div>
-                    <div class=procedure-process-content>
-                        <h3>Evaluation</h3>
-                        <p>Your website is about you but built for your audience. This tried and tested approach helps
-                            us innovate, design, test, and deliver a customized web design solution that fits your
-                            brand/service and reflects your business potential.</p>
-                    </div>
-                </div>
-                <div class=col-md-4>
-                    <div class="procedure-process-1 procedure-process-2">
-                        <div class=svg><svg xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink
-                                version=1.1 id=Layer_1 x=0px y=0px viewBox="0 0 363 320"
-                                style="enable-background:new 0 0 363 320" xml:space=preserve>
-                                <path class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
-                                    d="M248.5,43.4C222.2,17,186,0.7,145.9,0.7C65.9,0.7,1.1,65.6,1.1,145.5s64.8,144.8,144.8,144.8  s144.8-64.8,144.8-144.8H352" />
-                                <polyline class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
-                                    points="333.5,128.9 352,145.5 333.6,162.4 " /></svg></div>
-                        <div class=conuter>02</div>
-                        <div class=icon><svg xmlns=http://www.w3.org/2000/svg width=102.688 height=126
-                                viewBox="0 0 102.688 126">
-                                <path class="path-delay--2 active"
-                                    d=M774.8,4933.73c-0.378-1.66.531-1.92,1.568-2.01a6.058,6.058,0,0,1,5.936,2.64c1.509,2.17,1.289,2.79-1.481,3.6,1.509,0.37,3.021.33,3.312,2.17,0.08,0.5.736-.01,1.019-0.23a6.205,6.205,0,0,1,2.711-1.36c1.309-.24,2.4-0.07,2.444,1.65a3.651,3.651,0,0,0,.429,1.57q0.912-9.9,1.821-19.8c0.271-2.98.542-5.96,0.745-8.95,0.083-1.23.759-1.45,1.8-1.44,1,0,1.732.13,1.837,1.39q0.867,10.38,1.824,20.76c0.232,2.55.537,5.09,0.844,7.96,0.2-.74.342-1.2,0.44-1.66,0.467-2.23,1.058-2.58,3.221-1.81a6.809,6.809,0,0,1,3.861,3.42c-0.029-1.43-.138-2.73,1.758-3.06a6.883,6.883,0,0,1,4.115.37c-0.51-3.04,2.144-2.77,3.6-3.93-1.553-.81-0.638-1.66,0-2.54a9.377,9.377,0,0,1,2.974-2.28,1.519,1.519,0,0,1,1.662.03,1.251,1.251,0,0,1-.006,1.37,46.086,46.086,0,0,1-4.483,9.39c-2.624,3.79-5.614,7.33-7.99,11.3-2.363,3.95-4.234,8.07-4.679,12.72a1.948,1.948,0,0,1-2.308,2.05c-4.439-.09-8.881-0.07-13.321-0.01-1.406.02-2.107-.47-2.26-1.88-0.861-7.93-5.119-14.17-9.9-20.21a37.064,37.064,0,0,1-6.433-11.36c-0.518-1.58-.1-2.01,1.51-1.65A9.506,9.506,0,0,1,774.8,4933.73Zm20.285,40.54c-3.662,0-7.324.02-10.986,0-2.944-.02-4.793-1.72-4.877-4.62a28.716,28.716,0,0,0-5.9-16.5c-3.3-4.49-6.871-8.82-9.292-13.88a32.982,32.982,0,0,1-2.71-9.61,34.723,34.723,0,0,1,5.265-24.76,33.78,33.78,0,0,1,14.772-12.49c1.526-.69,2.006-0.2,2.238,1.28,0.432,2.74.424,2.63-2.02,4.03-9.858,5.66-15.348,14.02-15.663,25.56a29.532,29.532,0,0,0,3.133,14.79,75.781,75.781,0,0,0,7.222,10.89c4.37,5.69,7.473,11.87,7.706,19.2a1.244,1.244,0,0,0,1.5,1.34q9.636-.015,19.272.01a1.336,1.336,0,0,0,1.527-1.52c0.323-6.7,2.925-12.51,6.869-17.86,3.161-4.28,6.553-8.43,8.679-13.41,6.184-14.45,1.4-32.02-14.316-39.54-0.68-.32-1.405-0.65-1.164-1.55,0.318-1.19.015-2.59,1.028-3.53,0.353-.33.928,0.02,1.357,0.22,11.574,5.44,18.528,14.38,20.275,27.11,1.439,10.49-1.588,19.79-7.907,28.16-2.022,2.67-4.137,5.29-5.9,8.16a29.346,29.346,0,0,0-4.168,13.98c-0.175,3.1-2,4.53-5.14,4.54C802.286,4974.28,798.684,4974.27,795.081,4974.27Zm9.78-85.77a36.926,36.926,0,0,1-1.767,9.5c-0.2.67-.65,1.48,0.249,1.91,4.176,2.01,4.439,5.9,4.751,9.76a8.006,8.006,0,0,1-.2,1.96,0.975,0.975,0,0,1-.492,1.06c-0.53.14-.679-0.4-0.891-0.73a10.522,10.522,0,0,0-3.69-3.6,2.463,2.463,0,0,0-3.1.17,7.191,7.191,0,0,1-9.158.03,2.554,2.554,0,0,0-3.257-.13,11.043,11.043,0,0,0-3.645,3.66,0.851,0.851,0,0,1-.782.62,0.839,0.839,0,0,1-.486-0.87,11.177,11.177,0,0,1,4.551-11.87,1.063,1.063,0,0,0,.374-1.51,49.783,49.783,0,0,1-1.746-7.7c-1.08-7.96,2.908-13.38,8.77-17.91a1.059,1.059,0,0,1,1.46-.07C801,4876.77,804.962,4881.46,804.861,4888.5Zm-9.593-3.82a4.624,4.624,0,0,0-4.7,4.48,4.548,4.548,0,1,0,9.1.08A4.594,4.594,0,0,0,795.268,4884.68Zm-0.293,97.19c-3.715,0-7.431.01-11.146,0-2.026-.01-3.032-0.73-3.136-2.18-0.107-1.51.916-2.47,3.052-2.51,4.074-.09,8.15-0.05,12.224-0.05q4.585-.015,9.169,0a14.425,14.425,0,0,1,1.972.11c1.385,0.18,2.48.78,2.4,2.36-0.08,1.6-1.123,2.27-2.67,2.27q-5.214,0-10.427.01C795.934,4981.88,795.455,4981.88,794.975,4981.87Zm0.1,7.52c-3.234,0-6.467.02-9.7-.01a6.659,6.659,0,0,1-1.94-.26,2.065,2.065,0,0,1-1.532-2.01,2.23,2.23,0,0,1,1.521-2.21,5.28,5.28,0,0,1,2.123-.26q9.52-.015,19.041,0c2.467,0,3.757.83,3.769,2.38s-1.275,2.36-3.762,2.37C801.418,4989.4,798.245,4989.39,795.072,4989.39Zm0.228,9.04c-1.585-.07-3.087.33-4.083-1.2-0.293-.45-1-0.3-1.536-0.32-1.379-.04-2.766-0.01-4.133-0.16a2.1,2.1,0,0,1-2.054-2.46,2.153,2.153,0,0,1,2.253-2.11c0.417-.04.84-0.03,1.26-0.03h16.212a8.9,8.9,0,0,1,1.791.12,2.032,2.032,0,0,1,1.725,2.02,2.09,2.09,0,0,1-1.532,2.35,13.163,13.163,0,0,1-3.757.26c-1.184.03-2.309-.09-3.236,1.07C797.469,4998.9,796.154,4998.23,795.3,4998.43Zm-32.9-94.17c0,1.02-.924,1.36-2.168.67-2.725-1.5-5.418-3.06-8.116-4.61-2.128-1.22-4.247-2.46-6.363-3.7a7.667,7.667,0,0,1-1.176-.81c-0.49-.44-1.085-0.92-0.536-1.66a1.247,1.247,0,0,1,1.779-.18q3.909,2.2,7.8,4.43c2.494,1.42,4.979,2.87,7.475,4.29A2,2,0,0,1,762.4,4904.26Zm84-9.57a1.937,1.937,0,0,1-1.141,1.44q-7.677,4.47-15.393,8.88c-0.648.37-1.45,0.63-1.879-.22-0.486-.97.206-1.56,0.982-2q5.139-2.955,10.282-5.89c1.711-.98,3.4-2,5.151-2.91C845.427,4893.46,846.319,4893.81,846.4,4894.69Zm-84,48.78a1.482,1.482,0,0,1-.879,1.04q-7.882,4.485-15.786,8.93a1.207,1.207,0,0,1-1.865-.37c-0.378-.84.353-1.34,0.961-1.7q5.108-3,10.257-5.94a44.77,44.77,0,0,1,5.619-3.15C761.628,4941.92,762.393,4941.94,762.4,4943.47Zm84.058,9.44c-0.492,1.04-1.316.9-2.183,0.42-2.514-1.4-5.027-2.79-7.522-4.22-2.651-1.52-5.283-3.07-7.92-4.61-0.733-.42-1.657-0.89-1.015-1.9,0.567-.9,1.5-0.56,2.252-0.13q6.215,3.615,12.407,7.26c1.084,0.63,2.189,1.23,3.26,1.89A1.419,1.419,0,0,1,846.456,4952.91Zm-89.766-20.26c1.169-.1,1.722.18,1.908,0.94a1.129,1.129,0,0,1-.831,1.4,79.751,79.751,0,0,1-9,2.44,1.159,1.159,0,0,1-1.537-.88,1.092,1.092,0,0,1,.662-1.48C750.95,4934.2,754.019,4933.38,756.69,4932.65Zm84.434,4.84c-1.628-.47-3.64-1.04-5.652-1.62-0.978-.28-1.966-0.53-2.933-0.85a1.142,1.142,0,0,1-.888-1.51,1.2,1.2,0,0,1,1.553-.87q4.524,1.155,9.029,2.39a1.116,1.116,0,0,1,.769,1.43C842.859,4937.25,842.271,4937.49,841.124,4937.49ZM760.9,4888.26a2.013,2.013,0,0,1,1.375.77q2.872,2.865,5.73,5.73c0.633,0.64,1.141,1.36.384,2.19-0.795.87-1.51,0.34-2.146-.3-2-1.99-3.991-3.98-5.968-5.99a1.419,1.419,0,0,1-.407-1.79A1.155,1.155,0,0,1,760.9,4888.26Zm61.761,9.13a1.242,1.242,0,0,1-.916-2c2.209-2.36,4.531-4.62,6.854-6.87a1.06,1.06,0,0,1,1.608.16,1.153,1.153,0,0,1,0,1.64c-1,1.11-2.068,2.17-3.12,3.23-1.011,1.03-2.034,2.04-3.058,3.06A1.961,1.961,0,0,1,822.663,4897.39Zm-61.684,61.7a1.147,1.147,0,0,1-1.046-1.9,64.588,64.588,0,0,1,6.831-6.84,1.174,1.174,0,0,1,1.641.12,1.024,1.024,0,0,1,.094,1.47,70.6,70.6,0,0,1-6.973,6.95A1.516,1.516,0,0,1,760.979,4959.09Zm61.769-8.97a2.036,2.036,0,0,1,1.388.74c1.863,1.86,3.732,3.71,5.579,5.58,0.639,0.65,1.374,1.44.5,2.31-0.857.84-1.667,0.16-2.322-.49-1.954-1.93-3.89-3.89-5.82-5.84a1.43,1.43,0,0,1-.48-1.62A1.124,1.124,0,0,1,822.748,4950.12ZM756.7,4914.81c-2.606-.74-5.662-1.59-8.7-2.5a1.2,1.2,0,0,1,.659-2.3c3.017,0.77,6.028,1.56,9.023,2.41a1.217,1.217,0,0,1,.9,1.55C758.405,4914.67,757.825,4914.82,756.7,4914.81Zm76.853-.01c-1.047.03-1.651-.05-1.886-0.75a1.156,1.156,0,0,1,.793-1.58q4.572-1.3,9.19-2.46a1.066,1.066,0,0,1,1.313.93,1.136,1.136,0,0,1-.816,1.42C839.163,4913.24,836.161,4914.07,833.554,4914.8Zm-38.418-28.34a2.827,2.827,0,0,1,2.766,2.74,2.758,2.758,0,0,1-5.515.03A2.849,2.849,0,0,1,795.136,4886.46Z
-                                    transform="translate(-743.781 -4872.5)" /></svg></div>
-                    </div>
-                    <div class=procedure-process-content>
-                        <h3>Wireframes & Mockups</h3>
-                        <p>There is more to a website design than aesthetics and beauty. We create wireframes and
-                            mockups to demonstrate a design that works with your industry standards and offers an
-                            exceptional user experience.</p>
-                    </div>
-                </div>
-                <div class=col-md-4>
-                    <div class="procedure-process-1 procedure-process-3">
-                        <div class=svg><svg version=1.1 id=Layer_1 xmlns=http://www.w3.org/2000/svg
-                                xmlns:xlink=http://www.w3.org/1999/xlink x=0px y=0px viewBox="0 0 363 320"
-                                style="enable-background:new 0 0 363 320" xml:space=preserve>
-                                <path class=path-delay--4 fill-rule=evenodd clip-rule=evenodd fill=none
-                                    style=transform:translate(1px,8px) d="M250.6,45.5C224.4,19.2,188.1,2.9,148,2.9C68.1,2.9,3.3,67.7,3.3,147.7S68.1,292.5,148,292.5
-s144.8-64.8,144.8-144.8" /></svg></div>
-                        <div class=conuter>03</div>
-                        <div class=icon><svg xmlns=http://www.w3.org/2000/svg width=124.25 height=124.47
-                                viewBox="0 0 124.25 124.47">
-                                <path class="path-delay--2 active"
-                                    d=M1145.42,4947.64c-1.67-1.74-2.46-3.7-3.48-5.49-5.34-9.43-9.59-19.24-10.16-30.26a44.175,44.175,0,0,1,4.29-21.63,3.045,3.045,0,0,1,3.07-1.84c8.17,0.02,16.33.04,24.5-.01,1.91-.02,2.75,1.03,3.45,2.57,4.78,10.61,4.98,21.5,1.96,32.55-2.33,8.49-6.66,16.08-11.01,23.65-0.36.61-.92,1.5-1.45,1.55-3.02.29-3,2.3-2.91,4.53,0.07,1.63-.17,3.43-2.24,3.44-2.28,0-2.32-1.94-2.32-3.64q-0.015-12.945-.01-25.89c0-1.2.05-2.39-.01-3.58-0.07-1.32.33-3.23-1.6-3.23-1.98-.01-1.53,1.94-1.54,3.22-0.04,6.89-.01,13.78-0.03,20.66A5.992,5.992,0,0,1,1145.42,4947.64Zm5.84-39.91a7.367,7.367,0,1,0-7.34-7.33A7.51,7.51,0,0,0,1151.26,4907.73Zm0.06,89.92H1094.6c-0.92,0-1.84.02-2.75-.04-1.43-.1-2.62-0.68-2.58-2.27,0.03-1.57,1.27-2.09,2.67-2.21a6.971,6.971,0,0,1,1.37-.02c3.45,0.43,5.76-.3,7.53-3.99,2.23-4.67,6.88-6.14,11.95-5.36,1.84,0.29,3.03.11,4.17-1.53a10.642,10.642,0,0,1,7.09-4.37,3.361,3.361,0,0,0,2.78-2.23c2.39-5.48,6.37-7.89,12.42-7.52,1.64,0.1,2.16-.48,2.14-1.98q-0.03-3.99.02-7.99c0.01-1.62.12-3.42,2.21-3.48,2.12-.05,2.3,1.74,2.31,3.37,0.03,3.58,0,7.16.02,10.74a10.678,10.678,0,0,0,.18,2.19,1.524,1.524,0,0,0,1.49,1.38,1.455,1.455,0,0,0,1.37-1.48c0.11-1.83.08-3.67,0.14-5.5,0.05-1.49.44-2.93,2.18-2.98,1.92-.05,2.32,1.46,2.38,3.05,0.03,0.83.01,1.65,0.03,2.48,0.02,0.97.14,1.87,1.42,1.94,1.39,0.07,1.71-.81,1.71-1.94,0.01-4.04-.06-8.08.05-12.12,0.06-1.95-.8-4.95,2.33-4.91,2.89,0.03,2.13,2.91,2.16,4.8,0.09,4.59.02,9.18,0.04,13.77,0.01,1.45,2.98,5.64,4.22,6.04a2.59,2.59,0,0,0,1.81-.45c7.53-2.91,13.73-.27,16.61,7.26,1.07,2.8,1.73.96,2.54-.02,6.1-7.36,17.17-5.61,20.54,3.25a12.189,12.189,0,0,1,.61,4.89c-0.07,1.77.42,2.8,2.45,2.71,1.65-.08,3.39.27,3.29,2.38s-1.94,2.13-3.54,2.13Q1180.65,4997.655,1151.32,4997.65Zm-15.69-4.55q14.88,0,29.75-.02c0.77,0,1.81.3,2.13-.73,0.25-.78-0.45-1.34-0.93-1.89a7.286,7.286,0,0,0-9.02-1.6c-3.26,1.55-3.56,1.44-5.07-1.93-1.58-3.52-4.13-5.03-7.87-4.65-3.3.33-5.65,2.62-6.32,6.27-0.26,1.41-.47,2.91-2.24,2.98-1.97.09-2.18-1.49-2.47-3-0.73-3.68-3.1-5.95-6.37-6.26-3.82-.36-6.43,1.25-8.01,4.92-1.3,3.04-1.76,3.21-4.67,1.78-3.45-1.69-7.14-1.13-9.3,1.45-0.51.61-1.34,1.29-1.02,2.13,0.38,0.96,1.46.53,2.22,0.53C1116.17,4993.11,1125.9,4993.1,1135.63,4993.1Zm52.81,0c4.22,0,8.43.01,12.64-.01,0.86-.01,1.83.24,2.18-1.08,0.97-3.73-1.09-8.03-4.58-9.33a7.357,7.357,0,0,0-9.56,4.12c-1.62,3.61-1.72,3.65-5.2,2.04-3.42-1.59-7.08-.87-9.18,1.83-0.43.56-1.09,1.14-.69,1.93,0.35,0.68,1.14.48,1.75,0.49Q1182.115,4993.105,1188.44,4993.1Zm-33.53-18.61a6.138,6.138,0,0,0-4.69,1.96c-0.96.94-1.39,1.67,0.3,2.35a9.694,9.694,0,0,1,4.78,3.97c0.75,1.26,1.65,1.34,2.99,1.11,4.16-.71,8.06-0.17,11.11,3.12,0.98,1.06,1.77.99,2.73-.03a9.957,9.957,0,0,1,5.67-3.13c2.25-.35,1.72-1.31.87-2.53-2.49-3.59-7.85-3.97-11.35-.8-2.78,2.51-3.64,2.33-5.03-1.07S1158.63,4974.46,1154.91,4974.49Zm-16.68-2.07a7.919,7.919,0,0,0-7.1,4.29c-0.29.67-.7,1.39,0.07,1.98,1.53,1.15,2.95,2.61,4.68,3.24,1.03,0.38,1.83-1.55,2.98-2.12,0.98-.49,1.93-1.05,2.92-1.5,0.88-.4,2.3-0.15,2.53-1.28,0.25-1.28-.93-2.1-1.81-2.87A7.346,7.346,0,0,0,1138.23,4972.42Zm63.4-73.28c-2.13-2.02-4.26-4.02-6.37-6.05-0.65-.62-1.23-1.08-2.1-0.28a90.11,90.11,0,0,0-6.7,6.58c3.82,0.71,4.12,3.07,4.1,5.89-0.08,10.48-.01,20.95-0.06,31.42-0.01,1.84.46,4.5-2.29,4.48s-2.19-2.68-2.2-4.51c-0.04-9.55-.1-19.11.03-28.66,0.04-2.59-.66-3.82-3.38-3.45a6.714,6.714,0,0,1-2.19-.1c-2.03-.42-2.82-2.19-1.41-3.66,4.38-4.57,8.89-9.02,13.43-13.45,1.09-1.07,2.42-.78,3.45.25q6.465,6.4,12.84,12.88a2.285,2.285,0,0,1,.67,2.75,2.714,2.714,0,0,1-2.54,1.33c-4.77.43-4.77,0.44-4.77,5.35,0,14.7.02,29.4-.02,44.1-0.01,1.9.58,4.69-2.42,4.59-2.78-.09-2.08-2.79-2.08-4.59-0.04-16.35.02-32.71-.07-49.06-0.01-2.82.39-4.98,3.95-5.09C1201.54,4899.62,1201.59,4899.38,1201.63,4899.14Zm-100.34,22.15c3.45-.05,3.99,1.95,3.97,4.71-0.09,10.83-.04,21.67-0.04,32.5a12.438,12.438,0,0,1-.12,2.2,2.063,2.063,0,0,1-2.05,1.87,2.014,2.014,0,0,1-2.15-1.75,15.936,15.936,0,0,1-.22-3.01c-0.01-9.46-.08-18.92.04-28.37,0.03-2.6-.74-3.78-3.43-3.48a5.739,5.739,0,0,1-2.44-.24c-1.73-.61-2.5-2.01-1.19-3.39,4.42-4.66,9.01-9.16,13.59-13.66a2.116,2.116,0,0,1,3.21.12c4.35,4.34,8.75,8.64,13.02,13.07,1.77,1.84,1,3.63-1.53,4.08-1.59.28-3.63-.73-4.69,0.74-1.08,1.49-.37,3.57-0.42,5.38-0.07,2.76-.01,5.51-0.03,8.27-0.01,1.39-.4,2.66-2.04,2.75-1.79.1-2.4-1.2-2.42-2.7-0.05-5.33-.02-10.65,0-15.98,0.01-2.35,1.65-3.02,4.06-3.82q-3.375-3.15-6.73-6.32c-0.82-.77-1.47-0.4-2.13.24-2.09,2.05-4.21,4.07-6.31,6.11C1101.25,4920.84,1101.27,4921.06,1101.29,4921.29Zm77.7,30.37c-0.06,1.08-.03,1.82-0.14,2.54-0.4,2.57-1.94,3.33-4.07,1.83a38.01,38.01,0,0,0-12.27-6.05c-1.9-.49-1.38-1.48-0.73-2.65a125.493,125.493,0,0,0,7.72-15.21c0.89-2.31,1.65-4.67,2.5-7,0.26-.73.18-1.92,1.18-1.94,0.9-.02,1.13,1.09,1.48,1.81a35.661,35.661,0,0,1,3.14,11.93C1178.39,4941.92,1178.62,4946.97,1178.99,4951.66Zm-55.11.43c0.53-8.16.53-16.18,3-23.88,0.58-1.82,1.02-4.7,2.62-4.77,1.78-.09,1.54,2.86,2.12,4.47a110.209,110.209,0,0,0,9.12,18.8c1.37,2.31.84,3.06-1.59,3.66a32.311,32.311,0,0,0-9.65,4.59c-1.3.84-2.47,2.62-4.34,1.46C1123.49,4955.38,1124,4953.48,1123.88,4952.09Zm27.43-66.85h-9.89c-1.73,0-2.23-.6-1.08-2.11a49.008,49.008,0,0,1,9.04-9.16,2.875,2.875,0,0,1,3.97-.04,49.314,49.314,0,0,1,9.08,9.12c1.33,1.74.52,2.2-1.23,2.2Q1156.265,4885.235,1151.31,4885.24Zm4.1,15.37a4.01,4.01,0,1,1-8-.49A4.008,4.008,0,1,1,1155.41,4900.61Z
-                                    transform="translate(-1089.25 -4873.19)" /></svg></div>
-                    </div>
-                    <div class=procedure-process-content>
-                        <h3>Launch And<br class="d-none d-lg-block">Support</h3>
-                        <p>Launching a website is a process that requires support, and we stick with you throughout. We
-                            adjust our draft with your feedback to deliver you a website with an appealing design and a
-                            flawless user experience.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class=why-us>
-        <div class=container>
-            <div class=row>
-                <div class="col-md-5 align-self-center">
-                    <h2 class="section-title text-left pt-0">WHY CHOOSE<br class="d-none d-lg-block"><span
-                            class=font-weight-bold>LOGO POPPIN FOR</span><br class="d-none d-lg-block"><strong>WEB
-                            SERVICES</strong></h2>
-                </div>
-                <div class="col-md-7 align-self-center">
-                    <p>We’re more than a conventional agency that only offers web design services; by working with a
-                        focused, strategic, and dedicated approach, our clients have seen a boost in their online
-                        presence, conversions, and brand recognition through a professional website design that stands
-                        out from the competition.</p>
-                </div>
-            </div>
-            <div class=row>
-                <div class=col-sm-12>
-                    <div class=wrapper>
-                        <div class=percentage data-percentage=85>
-                            <div class=label>Creativity <span></span></div>
-                            <div class=animation>
-                                <div class=animation-bar></div>
-                            </div>
-                        </div>
-                        <div class=percentage data-percentage=95>
-                            <div class=label>Productivity <span></span></div>
-                            <div class=animation>
-                                <div class=animation-bar></div>
-                            </div>
-                        </div>
-                        <div class=percentage data-percentage=100>
-                            <div class=label>Results <span></span></div>
-                            <div class=animation>
-                                <div class=animation-bar></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class=innovation>
-        <div class=container>
-            <div class=row>
-                <div class="col-md-12 text-center">
-                    <h2 class="section-title"><strong>Empowering Businesses Through Innovation</strong> <span
-                            class="designer_font animate__animated animate__backInDown animate__slow"
-                            data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .features .designer_font, before: scrollReveal">Innovation</span>
-                    </h2>
-                    <h4>Web designing solutions powered with technology, innovation, and creativity to help your
-                        business grow.</h4>
-                    <p class=pt-md-4>Logo Poppin has been building standards and revolutionizing the way businesses run
-                        online. We offer exceptional web design solutions with innovations in a way that helps brands
-                        achieve growth. We help businesses turn their goals and ideas into reality. Our team of
-                        professional&#8217;s knows how to create an outstanding digital experience with immense
-                        creativity and a high professional level.</p>
-                    <ul class=innovation_sections>
-                        <li><span><img src=../wp-content/uploads/2020/11/innovation_constant_client_cordination.png
-                                    alt=img class=img-fluid></span><span>CONSTANT CLIENT<br
-                                    class="d-none d-md-block">COORDINATION</span></li>
-                        <li><span><img src=../wp-content/uploads/2020/11/innovation_suorene_customer_satisfaction.png
-                                    alt=img class=img-fluid></span><span>LOGO POPPIN CUSTOMER<br
-                                    class="d-none d-md-block">SATISFACTION</span></li>
-                        <li><span><img src=../wp-content/uploads/2020/11/innovation_rights.png alt=img
-                                    class=img-fluid></span><span>100% OWNERSHIP<br
-                                    class="d-none d-md-block">RIGHTS</span></li>
-                        <li><span><img src=../wp-content/uploads/2020/11/innovation_gurantee.png alt=img
-                                    class=img-fluid></span><span>SECURE MONEY BACK<br
-                                    class="d-none d-md-block">GURANTEE</span></li>
-                        <li><span><img src=../wp-content/uploads/2020/11/innovation_professionals.png alt=img
-                                    class=img-fluid></span><span>INDUSTRY PROVEN<br
-                                    class="d-none d-md-block">PROFESSIONALS</span></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class=reviews>
-        <div class=container>
-            <div class=row>
-                <div class="col-md-12 text-center">
-                    <h2 class="section-title"><strong>Here’s what our clients have to say about our services</strong>
-                        <span class=designer_font
-                            data-anijs="if: scroll, on: window, do:animate__animated animate__backInDown animate__slow, to: .reviews .designer_font, before: scrollReveal">REVIEWS</span>
-                    </h2>
-                </div>
-                <div class=col-md-12>
-                    <div class="owl-carousel owl-carousel-reviews owl-theme">
-                        <div>
-                            <div class=row>
-                                <div class=col-md-6><img class="img-fluid owl-lazy" alt=img width=100% height=100%
-                                        data-src=../wp-content/uploads/2020/11/web_reviews_1.png> </div> <div
-                                        class=col-md-6>
-                                    <div class=review-profile>
-                                        <h2>Better Than <strong>Expected</strong></h2>
-                                        <p><img class="review-rating img-fluid owl-lazy" alt=img width=100% height=100%
-                                                data-src=../wp-content/themes/edigisol/assets/images/rating.png> </p>
-                                                <p>Their attention to detail and dedication impressed us the most. Their
-                                            team is highly professional that understood what we expected and delivered
-                                            quickly.</p>
-                                        <div class=review-profile-user>
-                                            <p><img class="img-fluid owl-lazy" alt=img width=100% height=100%
-                                                    data-src=../wp-content/uploads/2021/01/Ashley.jpg> </p> <div
-                                                    class=review-profile-user-details>
-                                                <h4>ASHLEY CHRISTIAN</h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div>
-                        <div class=row>
-                            <div class=col-md-6><img class="img-fluid owl-lazy" alt=img width=100% height=100%
-                                    data-src=../wp-content/uploads/2020/11/web_reviews_2.png> </div> <div
-                                    class=col-md-6>
-                                <div class=review-profile>
-                                    <h2>Prompt And <strong>Professional</strong></h2>
-                                    <p><img class="review-rating img-fluid owl-lazy" alt=img width=100% height=100%
-                                            data-src=../wp-content/themes/edigisol/assets/images/rating.png>They are
-                                            professional and very responsive. I would highly recommend them if you want
-                                            a flawless and smooth experience.</p> <div class=review-profile-user>
-                                        <p><img class="img-fluid owl-lazy" alt=img width=100% height=100%
-                                                data-src=../wp-content/uploads/2021/01/Robb-winn.jpg> </p> <div
-                                                class=review-profile-user-details>
-                                            <h4>ROB WINN</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class=row>
-                    <div class=col-md-6><img class="img-fluid owl-lazy" alt=img width=100% height=100%
-                            data-src=../wp-content/uploads/2020/11/web_reviews_3.png> </div> <div class=col-md-6>
-                        <div class=review-profile>
-                            <h2>Very Professional And <strong>Friendly Service</strong></h2>
-                            <p><img class="review-rating img-fluid owl-lazy" alt=img width=100% height=100%
-                                    data-src=../wp-content/themes/edigisol/assets/images/rating.png>They are flexible in
-                                    accommodating the needs of clients, which makes them easy to work with. I was
-                                    impressed enough to be a retainer.</p> <div class=review-profile-user>
-                                <p><img class="img-fluid owl-lazy" alt=img width=100% height=100%
-                                        data-src=../wp-content/uploads/2021/01/Jason.jpg> </p> <div
-                                        class=review-profile-user-details>
-                                    <h4>JASON SCHOENIG</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-        </div>
-        </div>
-        </div>
-        </div>
-    </section>
-    <section class=footer-contact-strip>
-        <div class=container>
-            <div class=row>
-                <div class="col-md-3 align-self-center">
-                    <p class=mb-0>Call us and discuss <br class="d-none d-md-block">your project with our <br
-                            class="d-none d-md-block">experts today.</p>
-                </div>
-                <div class="col-md-4 align-self-center">
-                    <div class=icon><i class="fa fa-phone-alt"></i></div>
-                    <div class=strip-detial>
-                        <h4>Call us (TOLL FREE)</h4>
-                        <h2><a href="tel:+4402038087061">+4402038087061</a></h2>
-                    </div>
-                </div>
-                <div class="col-md-5 align-self-center">
-                    <div class=icon><i class="fa fa-envelope"></i></div>
-                    <div class=strip-detial>
-                        <h4>Discuss your Ideas</h4>
-                        <h2><a href=mailto:Sales@websitevalley.co.uk>Sales@websitevalley.co.uk</a></h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     <div class=execphpwidget>
         <section class=footer-main>
             <div class=container>
@@ -3178,19 +3236,19 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                 alt=img width=100% height=100% class=img-fluid></div>
                         <div class=footer-social>
                             <ul class=social-media-links>
-                                <li><a href=https://www.facebook.com/logopoppin rel="noopener noreferrer" target=_blank
+                                <li><a href=https://www.facebook.com/websitevalley rel="noopener noreferrer" target=_blank
                                         aria-label="Facebook Link"><img
                                             src='../wp-content/themes/edigisol/assets/images/footer_Fb.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
-                                <li><a href=https://www.instagram.com/logo_poppin/ rel="noopener noreferrer"
+                                <li><a href=https://www.instagram.com/websitevalley/ rel="noopener noreferrer"
                                         aria-label="Insta Link" target=_blank><img
                                             src='../wp-content/themes/edigisol/assets/images/footer_Insta.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
-                                <li><a href=https://twitter.com/LogoPoppin rel="noopener noreferrer"
+                                <li><a href=https://twitter.com/websitevalley rel="noopener noreferrer"
                                         aria-label="Twitter Link" target=_blank><img
                                             src='../wp-content/themes/edigisol/assets/images/footer_Twitter.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
-                                <li><a href=https://www.linkedin.com/company/logopoppins/ target=_blank
+                                <li><a href=https://www.linkedin.com/company/websitevalley/ target=_blank
                                         rel="noopener noreferrer" aria-label="Linkedin Link"><img
                                             src='../wp-content/themes/edigisol/assets/images/footer_LinkedIn.svg'
                                             alt=img width=100% height=100% class=img-fluid></a></li>
@@ -3208,7 +3266,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <div class=row>
                         <div class="col-md-12 text-center">
                             <ul>
-                                <li>© COPYRIGHT 2021 <strong>edigisol</strong> All Rights Reserved</li>
+                                <li>© COPYRIGHT 2021 <strong>website valley</strong> All Rights Reserved</li>
                             </ul>
                         </div>
                     </div>

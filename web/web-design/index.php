@@ -627,8 +627,8 @@ ul, li {
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a
                                 href=/contact-us/>Contact Us</a></li>
                         <li id=menu-item-8 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8">
-                            <a title=telephoneNumber href="tel:+4402038087061"><i
-                                    class="fa fa-phone-alt"></i><span>+4402038087061</span></a></li>
+                            <a title=telephoneNumber href="tel:+442038087061"><i
+                                    class="fa fa-phone-alt"></i><span>+442038087061</span></a></li>
                         <li id=menu-item-345
                             class="custom-btn-bg-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-345">
                             <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get Free Quote</a></li>
@@ -1104,8 +1104,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1157,8 +1157,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1217,8 +1217,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1281,8 +1281,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1348,8 +1348,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1403,8 +1403,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1451,8 +1451,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1524,8 +1524,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1605,8 +1605,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1690,8 +1690,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1816,8 +1816,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1874,8 +1874,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1921,8 +1921,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1968,8 +1968,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2018,8 +2018,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2059,8 +2059,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2100,8 +2100,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2140,8 +2140,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2191,8 +2191,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2242,8 +2242,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2311,8 +2311,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2380,8 +2380,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2452,8 +2452,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+4402038087061">
-              <span><small>Speak with us</small>+4402038087061</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2778,14 +2778,14 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <div class=icon><i class="fa fa-phone-alt"></i></div>
                     <div class=strip-detial>
                         <h4>Call us (TOLL FREE)</h4>
-                        <h2><a href="tel:+4402038087061">+4402038087061</a></h2>
+                        <h2><a href="tel:+442038087061">+442038087061</a></h2>
                     </div>
                 </div>
                 <div class="col-md-5 align-self-center">
                     <div class=icon><i class="fa fa-envelope"></i></div>
                     <div class=strip-detial>
                         <h4>Discuss your Ideas</h4>
-                        <h2><a href=mailto:Sales@websitevalley.co.uk>Sales@websitevalley.co.uk</a></h2>
+                        <h2><a href=mailto:query@websitevalley.co.uk>query@websitevalley.co.uk</a></h2>
                     </div>
                 </div>
             </div>
