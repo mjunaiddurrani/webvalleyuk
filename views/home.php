@@ -27,37 +27,7 @@ include_once('includes/head.php');
 </head>
 <body class="hompg hdar-clr">
 
-<div class="mobile-nav"> <a href="/" class=" logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
-  <nav>
 
-    <ul class="unstyled mainnav pbpx-15">
-      <li><a href="/">Home</a></li>
-      <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
-        <ul class="firstlevel unstyled">
-          <li><a href="branding.html">Branding</a></li>
-        
-          <li><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
-          <li><a href="website-design-prototype.html">Design & Prototype</a></li>
-          <li><a href="web-app-development.html">Web App Development</a></li>
-          <!--<li><a href="https://websitevalley.co.uk/website-mantainance">Website Maintenance</a></li>-->
-        </ul>
-      </li>
-      
-      
-      <li><a href="combo-packages.html">Combo Packages</a></li>
-      <li><a href="packages.html">Packages</a></li>
-      <li><a href="portfolio.html">Portfolio</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
-
-    
-
-
-  </nav>
-</div>
-<main class="app-container">
-<!-- Mobile Navigation Button Start-->
-<div class="mobile-nav-btn"> <span class="lines"></span> </div>
 <!-- Mobile Navigation Button End-->
 
 
