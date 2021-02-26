@@ -27,7 +27,7 @@ include_once('includes/head.php');
 </head>
 <body class="hompg hdar-clr">
 
-<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
+<div class="mobile-nav"> <a href="/" class=" logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
   <nav>
 
     <ul class="unstyled mainnav pbpx-15">
@@ -166,7 +166,7 @@ include_once('includes/head.php');
                 </ul>
                 </div>
                 <div class="mybtnwrap">
-                  <a href="order.html" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="javascript:void(0)" class="btn-theme-outline " data-toggle="modal" data-target="#modalForDiscount">Get Your Web Design </a>
                 </div>
                 <div class="banner-bot">
                     <ul>
@@ -386,7 +386,7 @@ include_once('includes/head.php');
             <h3>Looking for a reliable and skilled consultancy agency to get started?</h3>
           </li>
           <li class="perbtn">
-            <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Let us build a custom solution for your business</a>
+            <a href="javascript:;" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme">Let us build a custom solution for your business</a>
           </li>
         </ul>
       </div>
@@ -967,7 +967,7 @@ include_once('includes/head.php');
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/startup-website-package.html">View Details</a> 
-      <a href="orderde9d.html?pack=1" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1021,7 +1021,7 @@ include_once('includes/head.php');
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/professional-website-package.html">View Details</a>
-      <a href="order94ea.html?pack=2" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1081,7 +1081,7 @@ include_once('includes/head.php');
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/elite-website-package.html">View Details</a>
-      <a href="orderc983.html?pack=3" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1145,7 +1145,7 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-website-package.html">View Details</a>
-      <a href="order4645.html?pack=4" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1212,7 +1212,7 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/silver-website-package.html">View Details</a>
-      <a href="order5ac2.html?pack=5" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1267,7 +1267,7 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-startup-package.html">View Details</a> 
-      <a href="orderc92d.html?pack=6" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1315,7 +1315,7 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-professional-package.html">View Details</a>
-      <a href="orderaf2d.html?pack=7" class="btn-packages">Place Your Order</a> 
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a> 
     </div>
   </div>
 
@@ -1388,7 +1388,7 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-elite-package.html">View Details</a>
-      <a href="order512d.html?pack=8" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1468,7 +1468,7 @@ include_once('includes/head.php');
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/business-website-package.html">View Details</a> 
-      <a href="orderaecd.html?pack=26" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1554,7 +1554,7 @@ include_once('includes/head.php');
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
-      <a href="order0044.html?pack=27" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1680,7 +1680,7 @@ Place purchasing requests.</li>
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
-      <a href="order9c5e.html?pack=28" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1738,7 +1738,7 @@ Place purchasing requests.</li>
   </div>
     <div class="price-btnwrap">
       <a href="ourpackages/stationery-package.html">View Details</a>
-      <a href="order9187.html?pack=15" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -1785,7 +1785,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/infographic-package.html">View Details</a> 
-      <a href="order1cf8.html?pack=16" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1832,7 +1832,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/brochure-flyer-package.html">View Details</a> 
-      <a href="orderf8c1.html?pack=17" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1882,7 +1882,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/startup-video-package.html">View Details</a>
-      <a href="order88b5.html?pack=9" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -1923,7 +1923,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/classic-video-package.html">View Details</a>
-      <a href="orderf484.html?pack=10" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -1964,7 +1964,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/premium-video-package.html">View Details</a>
-      <a href="order35dd.html?pack=11" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -2004,7 +2004,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/unlimited-animation-package.html">View Details</a>
-      <a href="order9842.html?pack=12" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -2055,7 +2055,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/professional-3d-vfx-animation.html">View Details</a>
-      <a href="order0743.html?pack=13" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -2106,7 +2106,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/elite-3d-vfx-animation.html">View Details</a>
-      <a href="orderdab3.html?pack=14" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -2175,7 +2175,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-booster-package.html">View Details</a>
-      <a href="order9cb8.html?pack=23" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -2244,7 +2244,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-value-package.html">View Details</a>
-      <a href="orderd71b.html?pack=24" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>
@@ -2316,7 +2316,7 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-pro-package.html">View Details</a>
-      <a href="order8c39.html?pack=25" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount"" class="btn-packages">Place Your Order</a>
     </div>
 
   </div>

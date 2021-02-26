@@ -68,7 +68,9 @@ setTimeout(function(){
 
 },60000);
 
-
+$('.modalOpen').click(function(){
+  $('#modalForDiscount').modal('show');
+})
 // $(document).on("click",".ys-container",function(){ 
 $(document).on("click",".ys-popup-close.ys-exit",function(){ 
 
