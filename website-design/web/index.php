@@ -2548,14 +2548,8 @@ Place purchasing requests.</li>
                 </div>
                 <div class=col-md-12><button class=accordion>What is a Web design agency?</button>
                     <div class=panel>
-<<<<<<< HEAD
-                        <p>The time-frame varies and depends on the complexity of the Project. Our team of
-                            professionals work round the clock to meet deadlines.</p>
-                    </div><button class=accordion>How much does a website cost?</button>
-=======
                         <p>A web design agency will probably have a professional web/graphic designer working on website UI such as themes, logos, color patterns, and any other brand object. Many software such as Adobe Photo Shop, Illustrator, after-effects are the key ingredient to producing quality web design for businesses, welfare or an ecommerce store.</p>
                     </div><button class=accordion>How do you design a website? (Web design process)</button>
->>>>>>> eddb32519c2a4286e93a12be19d4027fca3522c3
                     <div class=panel>
                         <p>Following is simple process we used to follow, however it can be changed as per the client requirements. </p>
                         <ul>
