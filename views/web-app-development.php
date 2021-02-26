@@ -457,7 +457,19 @@
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/business-website-package.html">View Details</a> 
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -543,7 +555,19 @@
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -669,7 +693,19 @@ Place purchasing requests.</li>
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 

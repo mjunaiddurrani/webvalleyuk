@@ -105,7 +105,19 @@
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/startup-website-package.html">View Details</a> 
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -159,7 +171,19 @@
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/professional-website-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -219,7 +243,19 @@
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/elite-website-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -283,7 +319,19 @@
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-website-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -350,7 +398,19 @@
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/silver-website-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -428,7 +488,19 @@
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/business-website-package.html">View Details</a> 
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -514,7 +586,19 @@
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -640,7 +724,19 @@ Place purchasing requests.</li>
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -694,7 +790,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-startup-package.html">View Details</a> 
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -742,7 +850,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-professional-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a> 
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div> 
     </div>
   </div>
 
@@ -815,7 +935,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-elite-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -876,7 +1008,19 @@ Place purchasing requests.</li>
   </div>
     <div class="price-btnwrap">
       <a href="ourpackages/stationery-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
 
   </div>
@@ -923,7 +1067,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/infographic-package.html">View Details</a> 
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -970,7 +1126,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/brochure-flyer-package.html">View Details</a> 
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1020,7 +1188,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/startup-video-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
 
   </div>
@@ -1061,7 +1241,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/classic-video-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1102,7 +1294,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/premium-video-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1142,7 +1346,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/unlimited-animation-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1193,7 +1409,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/professional-3d-vfx-animation.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1244,7 +1472,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/elite-3d-vfx-animation.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1313,7 +1553,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-booster-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
 
   </div>
@@ -1382,7 +1634,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-value-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
 
   </div>
@@ -1454,7 +1718,19 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-pro-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
 
   </div>

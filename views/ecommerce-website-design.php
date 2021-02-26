@@ -448,7 +448,19 @@
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-startup-package.html">View Details</a> 
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -496,7 +508,19 @@
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-professional-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a> 
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div> 
     </div>
   </div>
 
@@ -569,7 +593,19 @@
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-elite-package.html">View Details</a>
-      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+      <div class="row">
+        <div class="col-md-6">
+           <div class="row">
+          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
+
+      </div>
+
+        </div>
+        <div class="col-md-6">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+
+        </div>
+      </div>
     </div>
   </div>
 
