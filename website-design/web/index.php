@@ -410,6 +410,12 @@ ul, li {
 }
 }
 @media only screen and (max-width: 769px) and (min-width: 0px){
+  
+  .bgcolornew{
+
+ background-color:  #000000 !important; background-image: none !important;
+
+}
 .smallboxes .smallbox {
     width: 100%;
 }
@@ -623,8 +629,10 @@ body {background: #eee;}
                 background-position: 0px -100px
             }
         }
+
+
     </style>
-    <header
+    <header class="bgcolornew"
         style="background: linear-gradient(#171717, #525252);background-image: url('../wp-content/uploads/2021/02/webpage_banner_upd.png');">
         <div class=container>
             <nav class="navbar navbar-expand-lg navbar-light inner_pages_nav">
