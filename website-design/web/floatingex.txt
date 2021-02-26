@@ -728,7 +728,7 @@ body {background: #eee;}
                                     class="fa fa-phone-alt"></i><span>+442038087061</span></a></li>
                         <li id=menu-item-345
                             class="custom-btn-bg-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-345">
-                            <a href="javascript:void(0)" onclick="setButtonURL();">Get Free Quote</a></li>
+                            <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get Free Quote</a></li>
                     </ul>
                 </div>
             </nav>
@@ -1042,7 +1042,7 @@ body {background: #eee;}
                                                                                                             </p>
                                                                                                             <div
                                                                                                                 class=call_to_action>
-                                                                                                                <a href="javascript:void(0)"  onclick="setButtonURL();"
+                                                                                                                <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount"
                                                                                                                     class="btn custom-btn-bg"
                                                                                                                     aria-label="lets start">LET'S
                                                                                                                     START</a>
@@ -3123,7 +3123,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                         <a href=/combo-packages/>Combo Packages</a></li>
                                     <li id=menu-item-457
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457">
-                                        <a href="javascript:void(0)" onclick="setButtonURL();">Get a Free Quote</a></li>
+                                        <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get a Free Quote</a></li>
                                 </ul>
                             </div>
                             <div class=col-md-4>
@@ -3432,7 +3432,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
 .floating_wrap .btns_wrap .chat_wrap span.icoo,
 .floating_wrap .btns_wrap .call_wrap span.icoo{color:#26ccca; background: #fff; font-size: 20px; line-height: 1; padding: 14px 20px; border-right: 1px solid #ded9d9; vertical-align: middle; display: inline-block; border-radius: 50px 0px 0px 50px; }
 .floating_wrap .btns_wrap .chat_wrap span{color:#26ccca; font-size: 20px; vertical-align: middle; background: #fff; padding: 15px 30px 15px 15px; }
-
+/*floating strips css end
 
 
 
