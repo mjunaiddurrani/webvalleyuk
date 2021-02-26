@@ -457,7 +457,7 @@
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/business-website-package.html">View Details</a> 
-      <a href="orderaecd.html?pack=26" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -543,7 +543,7 @@
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
-      <a href="order0044.html?pack=27" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 
@@ -669,7 +669,7 @@ Place purchasing requests.</li>
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
-      <a href="order9c5e.html?pack=28" class="btn-packages">Place Your Order</a>
+      <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
 

@@ -60,54 +60,7 @@
                   <div class="form-box-main clearfix">
                     <h2>We would like to hear from you</h2>
                     <p>Heads up! Our team at RPH is waiting for you to discuss your vision for the perfect application. Fill up the form below to help us know more about your ideas.</p>
-                    <form class="cmxform" id="contactForm"  method="POST" action="https://websitevalley.co.uk/webpages/customFormController.php"  enctype="multipart/form-data">
-                      <div class="row">
-                        <div class="col-md-12">
-                          <label class="field-txt">Name <span>*</span></label>
-                            <input id="username" name="Name" minlength="2" type="text" placeholder="" required />
-                       </div>
-                        <div class="col-md-6">
-                          <label class="field-txt">Email <span>*</span></label>
-                          <input id="cemail" type="email" name="Email" placeholder="" required>
-                       </div>
-                       <div class="col-md-6">
-                          <label class="field-txt">Phone Number<span>*</span></label>
-                         <input id="phone-country" name="Number" type="number" placeholder="" required/>
-                       </div>
-
-                       
-                       
-                       
-
-                       
-
-                        
-                       <div class="col-md-12">
-                          <label class="field-txt">Please Attach Relevant Documents MS Word, JPG &amp; PNG Preferred <span>*</span></label>
-                          <input type="file" name="wordfile" id="fileToUpload">
-                       </div>
-                       
-                       
-                        
-                      <div class="col-md-12">
-                          <label class="field-txt">Additional Comments <span>*</span></label>
-                          <textarea name="Comment" placeholder="" /></textarea>
-                       </div>
-                       
-                      <div class="col-md-12">
-                          <div class="check-list col-lg-12 nopaddding">
-                            <input  type="checkbox" name="NDA" value="Required NDA" >
-                            <label for="checkbox22">Please send me a Non Disclosure Agreement for a Confidential Consultation</label>
-                          </div>
-                      </div>
-                      <div class="col-md-12">
-                          <input class="submit" type="submit" value="Submit" />
-                          <input class="" type="hidden" name="ctry" value="" />
-                            <input type="hidden" name="pc" value="">
-                            <input type="hidden" name="hiddencapcha" value="">
-                       </div>
-                       </div>
-                    </form>
+                    <?php include_once('includes/form.php');?>
                   </div>
 
 
