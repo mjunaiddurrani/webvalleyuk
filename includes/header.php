@@ -10,7 +10,7 @@
             </a>
           </div>
           <div class="emailsec">
-            <a href="mailto:support@websitevalley.co.uk"><span class="icon-envelope2"></span>support@websitevalley.co.uk</a>
+            <a href="mailto:query@websitevalley.co.uk"><span class="icon-envelope2"></span>query@websitevalley.co.uk</a>
           </div>
          
           

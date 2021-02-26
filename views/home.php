@@ -150,7 +150,7 @@ include_once('includes/head.php');
   <section class="banslidee"><!-- banslidee -->
     
     <div class="item">
-      <div class="home-banner d-flex overl" style="background-image:url(assets/images/banners/hm-new-1.jpg);background-position: center 50px;">
+      <div class="home-banner d-flex overl" style="background-image:url(assets/images/banners/hm-new-2.jpg);background-position: center 50px;">
         <div class="container align-self-center">
           <div class="row">
             <div class=" col-lg-7">
@@ -181,7 +181,7 @@ include_once('includes/head.php');
                       </li>
                     </ul>
                  </div>
-                <img class="pecu-img" src="assets/images/pecu-website-mockup.png" alt="">
+                <img width="80%" class="pecu-img" src="assets/images/pecu-website-mockup-1.png" alt="">
               </div>
             </div>
           </div>
@@ -2615,7 +2615,7 @@ Place purchasing requests.</li>
 <!--              <span class="icon-envelope-o mail"></span>-->
 <!--              <h3 class="text-left">-->
 <!--              <span class="mad">Place an Order</span>-->
-<!--              support@websitevalley.co.uk</h3>-->
+<!--              query@websitevalley.co.uk</h3>-->
 <!--            </div>-->
 <!--          </div>-->
 <!--        </section>-->
@@ -2631,7 +2631,7 @@ Place purchasing requests.</li>
       <div class="col-lg-6 inner-content text-left">
         <div class="form-box-main clearfix">
   <h2>Let’s talk about your next Big thing!</h2>
-  <p>Heads up! We require that you sign up for Web Prohub services and packages. We make all your dreams come true in a successful project.</p>
+  <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
   <form class="cmxform" id="contactForm"  method="POST" action="/leads/"  enctype="multipart/form-data">
     <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
     <input type="hidden" name="brand" value="webvalleyuk">   

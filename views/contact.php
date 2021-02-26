@@ -113,7 +113,7 @@
         <div class="mapwrap">
 
           <div class="mappart">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2470.294219054491!2d-0.47706248440772114!3d51.74594330105482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876415fe4cbbbd9%3A0xd1845186fce97a18!2sKD+tower%2C+3+Cotterells%2C+Hemel+Hempstead+HP1+1AZ%2C+UK!5e0!3m2!1sen!2s!4v1556806823030!5m2!1sen!2s" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.3272035050045!2d-0.08589268424327297!3d51.52555817963808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca5600c0aa5%3A0x3be7d5380a8e51a2!2s86%2C%2090%20Paul%20St%2C%20Shoreditch%2C%20London%20EC2A%204NE%2C%20UK!5e0!3m2!1sen!2sus!4v1612398314554!5m2!1sen!2sus" frameborder="0" style="border:0" allowfullscreen></iframe>
             
           </div>
           <div class="infopart">
@@ -128,7 +128,7 @@
             </div>
             <div class="chunk">
               <h3>Email</h3>
-              <a href="mailto:support@websitevalley.co.uk">support@websitevalley.co.uk</a>
+              <a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a>
             </div>
           </div>
         </div>
