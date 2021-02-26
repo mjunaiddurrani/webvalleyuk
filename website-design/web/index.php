@@ -630,6 +630,48 @@ body {background: #eee;}
             }
         }
 
+        .smallboxes .smallbox .price-btnwrap .btn-packages {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -60px;
+    padding: 11px 18px !important;
+}
+.smallboxes .smallbox .price-btnwrap a {
+    display: block;
+    max-width: 146px  !important;
+    margin: 3px auto;
+    height: 38px  !important;
+    /* padding: 0px 0 12px 0; */
+    font-size: 11px  !important;
+    text-transform: uppercase;
+    color: #26ccca;
+    text-align: center;
+    background: #ffffff;
+    border: none;
+    border-radius: 5px  !important;
+    font-weight: 700  !important;
+}
+
+
+
+#webd > div > div > div.price-btnwrap > div {
+    margin-top: -20px;
+
+
+
+  }
+
+  #webd > div > div > div.price-btnwrap > div > div:nth-child(1) > div > a {
+    margin-right: 10px;
+}
+
+
+#webd > div > div > div.price-btnwrap > div > div > a {
+    /* margin-left: 10px; */
+}
+
+
 
     </style>
     <header class="bgcolornew"
@@ -698,78 +740,7 @@ body {background: #eee;}
                     </ul>
                 </div>
                 <div class="col-md-5 offset-md-1 contentSection_right">
-                    <div class=banner_form>
-                        <h2>Connect With Us</h2>
-                        <div class="wpforms-container wpforms-container-full form_ConnectWithUs" id=>
-                            <form  class="wpforms-validate wpforms-form "
-                                method='post'
-                                action="/leads/">
-                                <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
-                                <input type="hidden" name="brand" value="webvalleyuk">   
-                                <input type="hidden" name="tag" value="modal-auto">
-                                <input type="hidden" name="price" value="null">
-                                <input type="hidden" name="news" value="1">
-                                <div class=wpforms-field-container>
-                                    <div id=wpforms-171-field_0-container class="wpforms-field wpforms-field-name"
-                                        data-field-id=0><label class="wpforms-field-label wpforms-label-hide"
-                                            for=wpforms-171-field_0>Name <span
-                                                class=wpforms-required-label>*</span></label>
-                                        <div class="wpforms-field-row wpforms-field-large">
-                                            <div class="wpforms-field-row-block wpforms-first wpforms-one-half"><input
-                                                    type=text id=wpforms-171-field_0
-                                                    class="wpforms-field-name-first wpforms-field-required"
-                                                    name="name" placeholder="First Name "
-                                                    required><label for=wpforms-171-field_0
-                                                    class="wpforms-field-sublabel after wpforms-sublabel-hide">First</label>
-                                            </div>
-                                            <div class="wpforms-field-row-block wpforms-one-half"><input type=text
-                                                    id=wpforms-171-field_0-last
-                                                    class="wpforms-field-name-last wpforms-field-required"
-                                                    name="email" placeholder="Email"
-                                                    required><label for=wpforms-171-field_0-last
-                                                    class="wpforms-field-sublabel after wpforms-sublabel-hide">Email</label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                <div class=wpforms-field-container>
-                                    <div id=wpforms-171-field_1-container class="wpforms-field wpforms-field-name"
-                                        data-field-id=0><label class="wpforms-field-label wpforms-label-hide"
-                                            for=wpforms-171-field_0>Name <span
-                                                class=wpforms-required-label>*</span></label>
-                                        <div class="wpforms-field-row wpforms-field-large">
-                                            <div class="wpforms-field-row-block wpforms-first "><input
-                                                    type=text id=wpforms-171-field_0
-                                                    class="wpforms-field-name-first wpforms-field-required"
-                                                    name="phone" placeholder="Phone number "
-                                                    required><label for=wpforms-171-field_0
-                                                    class="wpforms-field-sublabel after wpforms-sublabel-hide">Phone</label>
-                                            </div>
-                                         
-                                        </div>
-                                    </div>
-                                 
-                                    <div id=wpforms-171-field_4-container class="wpforms-field wpforms-field-textarea"
-                                        data-field-id=4><label class="wpforms-field-label wpforms-label-hide"
-                                            for=wpforms-171-field_4>Talk about your project <span
-                                                class=wpforms-required-label>*</span></label><textarea
-                                            id=wpforms-171-field_4 class="wpforms-field-large wpforms-field-required"
-                                            name=wpforms[fields][4] placeholder="Talk about your project"
-                                            required></textarea></div>
-                                </div>
-                                <div class="wpforms-field wpforms-field-hp"><label for=wpforms-171-field-hp
-                                        class=wpforms-field-label>Email</label><input type=text name=wpforms[hp]
-                                        id=wpforms-171-field-hp class=wpforms-field-medium></div>
-                                <div class=wpforms-submit-container><input type=hidden name=wpforms[id] value=171><input
-                                        type=hidden name=wpforms[author] value=1><input type=hidden
-                                        name=wpforms[post_id] value=83><button type=submit name=wpforms[submit]
-                                        class="wpforms-submit " id=wpforms-submit-171 value=wpforms-submit
-                                        aria-live=assertive data-alt-text=Sending...
-                                        data-submit-text="CONTACT OUR TEAM">CONTACT OUR TEAM</button><img
-                                        src=/wp-content/plugins/wpforms/assets/images/submit-spin.svg
-                                        class=wpforms-submit-spinner style="display: none;" width=26 height=26 alt>
-                                </div>
-                            </form>
-                        </div>
+                   
                     </div>
                 </div>
             </div>
@@ -1186,7 +1157,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -1249,7 +1220,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -1318,7 +1289,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -1391,7 +1362,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -1467,7 +1438,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -1531,7 +1502,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -1588,7 +1559,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div> 
@@ -1670,7 +1641,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -1759,7 +1730,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -1854,7 +1825,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -1989,7 +1960,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2056,7 +2027,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2112,7 +2083,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2168,7 +2139,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2227,7 +2198,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2277,7 +2248,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2327,7 +2298,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2376,7 +2347,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2436,7 +2407,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2496,7 +2467,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2574,7 +2545,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2652,7 +2623,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -2733,7 +2704,7 @@ Place purchasing requests.</li>
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>

@@ -128,7 +128,7 @@ p {
 header {
   background-position: center center;
   background-size: 120% 120%;
-  animation: animation 8s linear infinite;
+  /* animation: animation 8s linear infinite; */
   background: linear-gradient(#171717, #525252); }
 @keyframes animation {
   0% {

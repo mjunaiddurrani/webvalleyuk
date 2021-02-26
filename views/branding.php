@@ -424,7 +424,7 @@
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -483,7 +483,7 @@
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
@@ -542,7 +542,7 @@
 
         </div>
         <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Contact Us</a>
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
 
         </div>
       </div>
