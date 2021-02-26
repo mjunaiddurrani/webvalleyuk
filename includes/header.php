@@ -5,20 +5,19 @@
       <li><a href="/">Home</a></li>
       <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
         <ul class="firstlevel unstyled">
-          <li><a href="branding.html">Branding</a></li>
+          <li><a href="/branding/">Branding</a></li>
         
-          <li><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
-          <li><a href="website-design-prototype.html">Design & Prototype</a></li>
-          <li><a href="web-app-development.html">Web App Development</a></li>
-          <!--<li><a href="https://websitevalley.co.uk/website-mantainance">Website Maintenance</a></li>-->
+          <li><a href="/ecommerce-website-design/">Ecommerce Solutions</a></li>
+          <li><a href="/website-design-prototype/">Design & Prototype</a></li>
+          <li><a href="/web-app-development/">Web App Development</a></li>
         </ul>
       </li>
       
       
-      <li><a href="combo-packages.html">Combo Packages</a></li>
-      <li><a href="packages.html">Packages</a></li>
-      <li><a href="portfolio.html">Portfolio</a></li>
-      <li><a href="contact.html">Contact</a></li>
+      <li><a href="/combo-packages/">Combo Packages</a></li>
+      <li><a href="/packages/">Packages</a></li>
+      <li><a href="/portfolio/">Portfolio</a></li>
+      <li><a href="/contact/">Contact</a></li>
     </ul>
 
     
