@@ -81,6 +81,9 @@ switch($url){
     case addslashes('/website-design-prototype/') :
         require __DIR__.'/views/website-design-prototype.php';
         break;
+    case addslashes('/website-design/') :
+        require __DIR__.'/landing2/web-design/index.php';
+        break;
     default:
         http_response_code(404);
         require __DIR__ . '/views/404.php';

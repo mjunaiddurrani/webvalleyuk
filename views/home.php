@@ -3,8 +3,7 @@
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<title>Innovative Website Designing Services In UK | Website Valley</title>
-<link rel='stylesheet' id='main-style-css'  href='../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css' type="text/css"/>
+<title>Innovative Website Designing Services In UK | Web Pro Hub</title>
 
 <?php 
 include_once('includes/head.php');

@@ -7,7 +7,7 @@
 <head>
     <link rel=stylesheet href="../index822e.html?w3tc_minify=1931b.default.include.eee198.css" media=all>
     <meta charset="UTF-8">
-    <meta name="description" content="eDigiSol - Home Page">
+    <meta name="description" content="websitevalley- Home Page">
     <meta name="keywords" content="HTML,CSS,XML,JavaScript">
     <meta name="author" content="Logo Poppin">
     <title>WordPress Development - Logo Poppin</title>
