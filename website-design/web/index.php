@@ -388,14 +388,17 @@ ul, li {
 
 @media only screen and (max-width: 736px){
 
-
+ 
 .pricing-sec, .weDifferent-sec, .who-we-sec, .ourprocesses, .packages-sec, .ourapproachsec, .bottom-form, .faqsection, .singletestimonials, .cta, .satisfactionfold {
     padding: 30px 0;
 }
+
+
+
 }
 @media only screen and (max-width: 769px) and (min-width: 0px){
 
-
+  .floatbutton.active{right: -270px !important;-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;z-index: 5000;}
 .pricing-sec, .weDifferent-sec, .who-we-sec, .ourprocesses, .packages-sec, .ourapproachsec, .bottom-form, .faqsection, .singletestimonials, .cta, .satisfactionfold {
     padding: 60px 0;
 }
@@ -419,7 +422,7 @@ ul, li {
   
   .bgcolornew{
 
- background-color:  #000000 !important; background-image: none !important;
+ background-color:  #000000 !important; background-image: url('../wp-content/uploads/2021/02/webpage_banner_upd.png');
 
 }
 .smallboxes .smallbox {
@@ -427,6 +430,10 @@ ul, li {
 }
 }
 @media only screen and (max-width: 736px){
+
+  header .banner.webservice_banner {
+    padding: 13px 20px 100px !important;
+}
 .smallboxes .smallbox {
     width: 47%;
     padding: 15px;
@@ -1158,7 +1165,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1218,7 +1225,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1284,7 +1291,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1354,7 +1361,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1427,7 +1434,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1488,7 +1495,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1542,7 +1549,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div> 
@@ -1621,7 +1628,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1707,7 +1714,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1799,7 +1806,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1931,7 +1938,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1995,7 +2002,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2048,7 +2055,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2101,7 +2108,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2157,7 +2164,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2204,7 +2211,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2251,7 +2258,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2297,7 +2304,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2354,7 +2361,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2411,7 +2418,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2486,7 +2493,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2561,7 +2568,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2639,7 +2646,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2955,22 +2962,10 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <div class=panel>
                         <p>It completely depends upon the nature of the website and requirements. If design and implementation are straightforward then probably 75 to 100 hours (8 to 10 business days) are enough for static 5 pages. The front end of the website would take almost 30–40 hours to complete. If it's more complex, then 50–75 hours each for design and development would be enough.</p>
                     </div><button class=accordion>What are the design elements of a website?</button>
-                    <div class=panel>
-                        <p>The 7 types of logos (and how to use them)</p>
-                        <ul>
-                          <li>Overall Layout of the website and Visual appearance. </li>
-                          <li>Color Scheme – Theme and combinations</li>
-                          <li>Typography - Text and fonts</li>
-                          <li>Navigation on the website – User friendly</li>
-                          <li>Content – Copyright free</li>
-                          <li>Mobile UI friendly</li>
-                          
 
-                        </ul>
-                    </div>
                     <button class=accordion>How do I choose a web design company or web designer?</button>
                     <div class=panel>
-                        <p>You can find best web Design Company on Google, the results can be according to your current location or city (or within your industry). Review websites portfolio, qualified staff, and quality of service they provide. Design Proficient is one of the leading web design agency in San Francisco, California and other regions of US and around the globe. You can directly talk with our support team regarding your requirements. </p>
+                        <p>You can find best web Design Company on Google, the results can be according to your current location or city (or within your industry). Review websites portfolio, qualified staff, and quality of service they provide.  Website Valley is one of the leading web design agency in San Francisco, California and other regions of US and around the globe. You can directly talk with our support team regarding your requirements. </p>
                     </div>
                     <button class=accordion>What is the main difference between web development & design?</button>
                     <div class=panel>
@@ -3024,7 +3019,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     
                     <button class=accordion>What services we provide to clients?</button>
                     <div class=panel>
-                    <p>At Design Proficient, we provide you the best online branding solutions along with several other digital services. We’re 360-degree online branding and digital marketing agency that provides all solutions to its clients all over the world in 14 different countries.</p>
+                    <p>At  Website Valley, we provide you the best online branding solutions along with several other digital services. We’re 360-degree online branding and digital marketing agency that provides all solutions to its clients all over the world in 14 different countries.</p>
                     </div>
                     
                     <button class=accordion>Are there any limitations on geographical bases for clients?</button>
@@ -3272,10 +3267,10 @@ s144.8-64.8,144.8-144.8" /></svg></div>
 
 
 /*floating strips css start */
-.floatbutton{-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;position: fixed;right: -650px;top: 130px;font-size: 0;width: 700px;/* transform: translateY(-50%); */z-index: 200;}
+.floatbutton{-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;position: fixed;right: -650px;top: 130px;font-size: 0;width: 690px;/* transform: translateY(-50%); */z-index: 200;}
 .floatbutton {display: none;}
 .floatbutton.visible {display: block;}
-.floatbutton.active{right: -209px !important;-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;z-index: 5000;}
+.floatbutton.active{right: -313px !important;-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;z-index: 5000;}
 .floatbutton.active .floating-overlay{display:block;}
 .floatbutton .clickbutton{width: 50px;z-index: 99;height: 50px;cursor: pointer;/*box-shadow: -20px 0 35px #0000001f;*/border-radius: 40px 0px 0px 40px;/*background: #fff;*/display: inline-block;padding-top: 0;vertical-align: top;margin-top: 140px;}
 .floatbutton .clickbutton .crossplus{
@@ -3384,7 +3379,7 @@ p.parafloat span {
 }    
 .floatbutton .banner-form h3 strong {    font: 24px/24px "gilroy-bold", sans-serif;text-align: left;
     font-weight: 800;}
-.floatbutton .ban-form input[type="submit"]{color: #fff;font-weight: 600;background: linear-gradient(to right, #26ccca 0%, #1ab4b2 100%);border-radius: 6px;text-align: center;padding: 10px 15px;margin: 20px 0 0;border: transparent;}
+.floatbutton .ban-form input[type="submit"]{width:50% !important;color: #fff;font-weight: 600;background: linear-gradient(to right, #26ccca 0%, #1ab4b2 100%);border-radius: 6px;text-align: center;padding: 10px 15px;margin: 20px 0 0;border: transparent;}
 .floatbutton .ban-form textarea{position:relative;width: 100%;border: 1px solid #e5e5e5;background: white;padding: 10px 15px 10px 40px;color: gray;font-size: 14px;border-radius: 8px;font-weight: 400;height: 90px;outline: none !important;margin: 0px 0 0px 0;}
 
 .floatbutton .ban-form textarea + i{
