@@ -3141,8 +3141,8 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                         </div>
                     </div>
                     <div class=col-md-4>
-                        <div class=footer-logo><img src=../wp-content/themes/edigisol/assets/images/logopoppin_logo.png
-                                alt=img width=100% height=100% class=img-fluid></div>
+                        <div class=footer-logo><a href="/"><img src=../wp-content/themes/edigisol/assets/images/logopoppin_logo.png
+                                alt=img width=100% height=100% class=img-fluid></a></div>
                         <div class=footer-social>
                             <ul class=social-media-links>
                                 <li><a href=https://www.facebook.com/websitevalley rel="noopener noreferrer" target=_blank
