@@ -2971,10 +2971,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <div class=panel>
                         <p>Fundamentally, web design relates to both the graphics part and usability. On the other hand development take actual functioning of the website. It use coding, CSS, Dot-net, PHP, HTML, Javascript, and more programming languages.</p>
                     </div>
-                    <button class=accordion>Can I create my own website for free?</button>
-                    <div class=panel>
-                        <p>Yes you can but you need experience and familiarity with design software like PhotoShop and other tools and techniques. There are lots of templates available to help you create a basic logo for free but experience and expertise are the key to use it as per your own requirements. However, you can also hire custom logo designing services if you don’t have a grip on graphic designing or don’t have time to do so. </p>
-                    </div>
+    
                     <button class=accordion>Can I buy a name of my website?</button>
                     <div class=panel>
                         <p>Yes we will buy a name of your website. You just need to share the name you want to purchase and will do it for you. The name of the website is called “Domain Name”.</p>
