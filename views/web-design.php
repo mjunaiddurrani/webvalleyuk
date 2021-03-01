@@ -303,15 +303,9 @@
     <div class="price-btnwrap">
       <a href="ourpackages/startup-website-package.html">View Details</a> 
       <div class="row">
-        <div class="col-md-6">
-           <div class="row">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
-
-      </div>
-
-        </div>
-        <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
+         
+         <div class="col-md-12">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
 
         </div>
       </div>
@@ -369,15 +363,9 @@
       <div class="price-btnwrap">
       <a href="ourpackages/professional-website-package.html">View Details</a>
       <div class="row">
-        <div class="col-md-6">
-           <div class="row">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
-
-      </div>
-
-        </div>
-        <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
+         
+         <div class="col-md-12">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
 
         </div>
       </div>
@@ -441,15 +429,9 @@
       <div class="price-btnwrap">
       <a href="ourpackages/elite-website-package.html">View Details</a>
       <div class="row">
-        <div class="col-md-6">
-           <div class="row">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
-
-      </div>
-
-        </div>
-        <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
+         
+         <div class="col-md-12">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
 
         </div>
       </div>
@@ -517,15 +499,9 @@
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-website-package.html">View Details</a>
       <div class="row">
-        <div class="col-md-6">
-           <div class="row">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
-
-      </div>
-
-        </div>
-        <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
+         
+         <div class="col-md-12">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
 
         </div>
       </div>
@@ -596,15 +572,9 @@
     <div class="price-btnwrap">
       <a href="ourpackages/silver-website-package.html">View Details</a>
       <div class="row">
-        <div class="col-md-6">
-           <div class="row">
-          <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
-
-      </div>
-
-        </div>
-        <div class="col-md-6">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Call Now</a>
+         
+         <div class="col-md-12">
+          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
 
         </div>
       </div>

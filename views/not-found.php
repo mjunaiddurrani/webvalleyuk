@@ -41,7 +41,7 @@
 			</div>
 			<h2 style="position: relative;left: -22px;">Oops! Page Not Found</h2>
 			<p style="position: relative;left: -160px;text-align: center;">Sorry, but the page you are looking for does not exist, have been removed. name changed or is temporarily unavailable</p>
-			<a href="index.html" class="btn-main" style="position: relative;left: 58px; background:linear-gradient(to right, rgb(129, 40, 185) 0%, #0c6ed6 100%);">Back to home</a>
+			<a href="index.html" class="btn-main" style="position: relative;left: 58px; background:linear-gradient(to right, #26ccca 0%, #1ab4b2 100%);">Back to home</a>
 		</div>
 	</div>
 

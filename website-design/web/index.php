@@ -3281,7 +3281,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
 .floatbutton.active .floating-overlay{display:block;}
 .floatbutton .clickbutton{width: 50px;z-index: 99;height: 50px;cursor: pointer;/*box-shadow: -20px 0 35px #0000001f;*/border-radius: 40px 0px 0px 40px;/*background: #fff;*/display: inline-block;padding-top: 0;vertical-align: top;margin-top: 140px;}
 .floatbutton .clickbutton .crossplus{
-    background: linear-gradient(to right, rgb(129, 40, 185) 0%, #0c6ed6 100%);
+    background: linear-gradient(to right, #26ccca 0%, #1ab4b2 100%);
     /* height: 76px; */
     width: 152px;
     left: 0;
@@ -3386,7 +3386,7 @@ p.parafloat span {
 }    
 .floatbutton .banner-form h3 strong {    font: 24px/24px "gilroy-bold", sans-serif;text-align: left;
     font-weight: 800;}
-.floatbutton .ban-form input[type="submit"]{color: #fff;font-weight: 600;background: linear-gradient(to right, rgb(129, 40, 185) 0%, #0c6ed6 100%);border-radius: 6px;text-align: center;padding: 10px 15px;margin: 20px 0 0;border: transparent;}
+.floatbutton .ban-form input[type="submit"]{color: #fff;font-weight: 600;background: linear-gradient(to right, #26ccca 0%, #1ab4b2 100%);border-radius: 6px;text-align: center;padding: 10px 15px;margin: 20px 0 0;border: transparent;}
 .floatbutton .ban-form textarea{position:relative;width: 100%;border: 1px solid #e5e5e5;background: white;padding: 10px 15px 10px 40px;color: gray;font-size: 14px;border-radius: 8px;font-weight: 400;height: 90px;outline: none !important;margin: 0px 0 0px 0;}
 
 .floatbutton .ban-form textarea + i{
