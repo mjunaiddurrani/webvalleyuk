@@ -432,7 +432,7 @@ ul, li {
 @media only screen and (max-width: 736px){
 
   header .banner.webservice_banner {
-    padding: 13px 20px 100px !important;
+    padding: 13px 20px 10px !important;
 }
 .smallboxes .smallbox {
     width: 47%;
@@ -748,7 +748,14 @@ body {background: #eee;}
                         <li>Exceptional UI/UX design.</li>
                         <li>Modern and User-Friendly Experience.</li>
                         <li>Custom Designs and Layouts.</li>
+                        
                     </ul>
+                    <div class="call_to_action">
+                                                                                                                <a href="javascript:void(0)" onclick="setButtonURL();" class="btn custom-btn-bg" aria-label="lets start">LET'S
+                                                                                                                    START</a>
+                                                                                                           
+                                                                                                            </div>
+
                 </div>
                 <div class="col-md-5 offset-md-1 contentSection_right">
                    
@@ -2962,7 +2969,19 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <div class=panel>
                         <p>It completely depends upon the nature of the website and requirements. If design and implementation are straightforward then probably 75 to 100 hours (8 to 10 business days) are enough for static 5 pages. The front end of the website would take almost 30–40 hours to complete. If it's more complex, then 50–75 hours each for design and development would be enough.</p>
                     </div><button class=accordion>What are the design elements of a website?</button>
+                    <div class=panel>
+                    <p>The 7 types of logos (and how to use them)</p>
+                  <ul>
+                     <li>Overall Layout of the website and Visual appearance. </li>
+                     <li>Color Scheme – Theme and combinations</li>
+                     <li>Typography - Text and fonts</li>
+                     <li>Navigation on the website – User friendly</li>
+                     <li>Content – Copyright free</li>
+                     <li>Mobile UI friendly</li>
+                     
 
+                  </ul>
+                    </div>
                     <button class=accordion>How do I choose a web design company or web designer?</button>
                     <div class=panel>
                         <p>You can find best web Design Company on Google, the results can be according to your current location or city (or within your industry). Review websites portfolio, qualified staff, and quality of service they provide.  Website Valley is one of the leading web design agency in San Francisco, California and other regions of US and around the globe. You can directly talk with our support team regarding your requirements. </p>
@@ -3464,7 +3483,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     setTimeout(function(){  
     // $("#modalForDiscount").modal("show");
     
-    $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
+   
     $(document).on('click','.liveChat',function(){
         $zopim.livechat.window.show();
 
@@ -3475,7 +3494,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
        $zopim.livechat.hideAll();
     });
 }, 15000);
-
+$('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
 
 $(document).on('click','.clickbutton',function(){
        $("div.floatbutton").toggleClass("active");
@@ -3518,8 +3537,22 @@ $(document).on('click','.clickbutton',function(){
             "currency_symbol_pos": "left",
             "val_phone": "Please enter a valid phone number."
         }
+
+        
     </script>
-    <script>
+
+
+<script type="text/javascript">
+  function setButtonURL(){
+  //CUGICHelper.bubbleChat.toggle();
+  $zopim.livechat.window.toggle();
+  // LC_API.open_chat_window();
+  //Tawk_API.toggle();
+  //tidioChatApi.open();
+  }
+  </script>
+
+<script>
         var wpforms_conditional_logic = {
             "171": {
                 "11": {
