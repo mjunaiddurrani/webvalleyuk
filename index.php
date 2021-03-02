@@ -30,74 +30,60 @@ switch($url){
     case addslashes('/thank-you/') :
         require __DIR__.'/views/thankyou.php';
         break;
-    case addslashes('/website-design-development/') :
-        require __DIR__.'/views/website-design-development.php';
-        break;
-    case addslashes('/mobile-apps/') :
-        require __DIR__.'/views/mobile-apps.php';
-        break;
-    case addslashes('/logo-design/') :
-        require __DIR__.'/views/logo-design.php';
+    case addslashes('/contact-us/') :
+        require __DIR__.'/views/contact.php';
         break;
     case addslashes('/branding/') :
         require __DIR__.'/views/branding.php';
         break;
-    case addslashes('/2d-3d-illustration/') :
-        require __DIR__.'/views/2d-3d-illustration.php';
-        break;
-    case addslashes('/motion-graphics/') :
-        require __DIR__.'/views/motion-graphics.php';
-        break;
-    case addslashes('/seo/') :
-        require __DIR__.'/views/seo.php';
-        break;
-    case addslashes('/ghost-book-writing/') :
-        require __DIR__.'/views/ghost-book-writing.php';
-        break;
-    case addslashes('/creative-copywriting/') :
-        require __DIR__.'/views/creative-copywriting.php';
-        break;
-    case addslashes('/digital-marketing/') :
-        require __DIR__.'/views/digital-marketing.php';
-        break;
-    case addslashes('/works/') :
-        require __DIR__.'/views/works.php';
-        break;
-    case addslashes('/packages/') :
-        require __DIR__.'/views/packages.php';
-        break;
     case addslashes('/combo-packages/') :
         require __DIR__.'/views/combo-packages.php';
-        break;
-    case addslashes('/process/') :
-        require __DIR__.'/views/process.php';
-        break;
-    case addslashes('/company/') :
-        require __DIR__.'/views/company.php';
-        break;
-    case addslashes('/marketing-collaterals/') :
-        require __DIR__.'/views/marketing-collaterals.php';
-        break;
-    case addslashes('/content/') :
-        require __DIR__.'/views/content.php';
         break;
     case addslashes('/contact/') :
         require __DIR__.'/views/contact.php';
         break;
-    case addslashes('/terms/') :
-        require __DIR__.'/views/terms.php';
+    case addslashes('/custom-quote/') :
+        require __DIR__.'/views/custom-quote.php';
+        break;
+    case addslashes('/ecommerce-website-design/') :
+        require __DIR__.'/views/ecommerce-website-design.php';
+        break;
+    case addslashes('/mobile-application/') :
+        require __DIR__.'/views/mobile-application.php';
+        break;
+    case addslashes('/not-found/') :
+        require __DIR__.'/views/not-found.php';
+        break;
+    case addslashes('/order/') :
+        require __DIR__.'/views/order.php';
+        break;
+    case addslashes('/packages/') :
+        require __DIR__.'/views/packages.php';
+        break;
+    case addslashes('/portfolio/') :
+        require __DIR__.'/views/portfolio.php';
         break;
     case addslashes('/privacy-policy/') :
         require __DIR__.'/views/privacy-policy.php';
         break;
-
-    case addslashes('/professional-logo-design/') :
-        require __DIR__.'/landing2/professional-logo-design-sale.php';
+    case addslashes('/terms-conditions/') :
+        require __DIR__.'/views/terms-conditions.php';
         break;
-        
-        case addslashes('/professional-logo-design') :
-            require __DIR__.'/landing2/professional-logo-design-sale.php';
-            break;
+    case addslashes('/video-animation/') :
+        require __DIR__.'/views/video-animation.php';
+        break;
+    case addslashes('/web-app-development/') :
+        require __DIR__.'/views/web-app-development.php';
+        break;
+    case addslashes('/web-design/') :
+        require __DIR__.'/views/web-design.php';
+        break;
+    case addslashes('/website-design-prototype/') :
+        require __DIR__.'/views/website-design-prototype.php';
+        break;
+    case addslashes('/website-design/') :
+        require __DIR__.'/landing2/web-design/index.php';
+        break;
     default:
         http_response_code(404);
         require __DIR__ . '/views/404.php';

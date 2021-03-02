@@ -4,7 +4,6 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <title>Innovative Website Designing Services In UK | Web Pro Hub</title>
-<link rel='stylesheet' id='main-style-css'  href='../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css' type="text/css"/>
 
 <?php 
 include_once('includes/head.php');
@@ -24,122 +23,24 @@ include_once('includes/head.php');
 
 
 
+<style>
 
+
+.css-overlay {
+    background-color: rgb(5 255 227 / 76%) !important;
+}
+
+</style>
 </head>
 <body class="hompg hdar-clr">
 
-<div class="mobile-nav"> <a href="index.html" class="logo-main"> <img src="assets/images/logo.svg" alt="*" /></a>
-  <nav>
 
-    <ul class="unstyled mainnav pbpx-15">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
-        <ul class="firstlevel unstyled">
-          <li><a href="branding.html">Branding</a></li>
-          <li><a href="video-animation.html">Video Animation</a></li>
-          <li><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
-          <li><a href="website-design-prototype.html">Design & Prototype</a></li>
-          <li><a href="web-app-development.html">Web App Development</a></li>
-          <!--<li><a href="https://webprohub.co.uk/website-mantainance">Website Maintenance</a></li>-->
-        </ul>
-      </li>
-      
-      
-      <li><a href="combo-packages.html">Combo Packages</a></li>
-      <li><a href="packages.html">Packages</a></li>
-      <li><a href="portfolio.html">Portfolio</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
-
-    
-
-
-  </nav>
-</div>
-<main class="app-container">
-<!-- Mobile Navigation Button Start-->
-<div class="mobile-nav-btn"> <span class="lines"></span> </div>
 <!-- Mobile Navigation Button End-->
 
-<header class="header-main">
-  <div class="top-bar d-none d-lg-block">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="secondlogo">
-            <a href="index.html">
-              <img class="img-fluid fblack" src="assets/images/logo.svg" alt="*" />
-              <img class="img-fluid fwhite" src="assets/images/logof.svg" alt="*" />
-            </a>
-          </div>
-          <div class="emailsec">
-            <a href="mailto:support@webprohub.co.uk"><span class="icon-envelope2"></span>support@webprohub.co.uk</a>
-          </div>
-         
-          
-          
-        </div>
-        <div class="col-lg-6">
-          <ul class="top-info-list">
-            <li><a href="tel:+441442902150"><img src="assets/images/uk-flag.png" alt="UK Flag" /> +44 144 290 2150 </a></li>
-            <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
-            <li><a href="order.html" class="btn-main">Let's Get Started</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="nav-area-full">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-2 mobile-res-logo">
-          <div class="logo">
-            <a href="index.html">
-              <img class="img-fluid" src="assets/images/logo.svg" alt="*">
-            </a>
-          </div>
-        </div>
-        <div class="col-lg-12 d-flex ">
-          <div class="main-menu align-self-center d-none d-lg-block">
-            <ul class="forpgactive">
-              <li class="active"><a href="index.html">Home</a></li>
-              <li class=""><a href="ecommerce-website-design.html">Ecommerce Solutions</a></li>
-               <li class=""><a href="web-app-development.html">Web App Development</a></li>
-
-                   
-                    <li class=""><a href="video-animation.html">Video Animation</a></li>
-                    <li class=""><a href="combo-packages.html">Combo Packages</a></li>
-              <li class=""><a href="packages.html">Packages</a></li>
-              
-              <li class=""><a href="portfolio.html">Portfolio</a></li>
-              <li class=""><a href="contact.html">Contact</a></li>
-              <li class="has-submenu"><a href="javascript:;" class="menuside">More <i class="icon-plus"></i></a>
-              
-                <div class="dropdown">
-                  <ul>
-                    
-                    <li class=""><a href="website-design-prototype.html">Design & Prototype</a></li>
-              <!-- <li class=""><a href="https://webprohub.co.uk/web-app-development">Web App Development</a></li> -->
-              
-              <!--<li class=""><a href="https://webprohub.co.uk/website-mantainance">Website Maintenance</a></li>-->
-
-              
-              <li class=""><a href="branding.html">Branding</a></li>                     
-                    
-                  </ul>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- <a href="https://webprohub.co.uk/" class="logo-main"> <img class="mobile-res-logo" src="assets/images/logo.svg" alt="*"></a> -->
-</header>
 
 
 
+<?php include_once('includes/header.php');?>
 
 
 
@@ -182,7 +83,7 @@ include_once('includes/head.php');
               </div>
               <div class="col-lg-12">
                 <div class="fldset">
-                  <input id="cemail" type="email" name="Email" placeholder="Enter email here" required>
+                  <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
                 </div>
               </div>
               <div class="col-lg-12">
@@ -206,7 +107,7 @@ include_once('includes/head.php');
               <input class="" type="hidden" name="ctry" value="">
               <input type="hidden" name="pc" value="">
               <input type="hidden" name="hiddencapcha" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://webprohub.co.uk/" />
+              <input type="hidden" id="location" name="locationURL" value="http://websitevalley.co.uk/" />
                 </div>
               </div>
             </div>
@@ -226,7 +127,7 @@ include_once('includes/head.php');
   <section class="banslidee"><!-- banslidee -->
     
     <div class="item">
-      <div class="home-banner d-flex overl" style="background-image:url(assets/images/banners/hm-new-1.jpg);background-position: center 50px;">
+      <div class="home-banner d-flex overl" style="background-image:url(assets/images/banners/hm-new-2.jpg);background-position: center 50px;">
         <div class="container align-self-center">
           <div class="row">
             <div class=" col-lg-7">
@@ -242,7 +143,7 @@ include_once('includes/head.php');
                 </ul>
                 </div>
                 <div class="mybtnwrap">
-                  <a href="order.html" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="javascript:void(0)" class="btn-theme-outline " data-toggle="modal" data-target="#modalForDiscount">Get Your Web Design </a>
                 </div>
                 <div class="banner-bot">
                     <ul>
@@ -257,7 +158,7 @@ include_once('includes/head.php');
                       </li>
                     </ul>
                  </div>
-                <img class="pecu-img" src="assets/images/pecu-website-mockup.png" alt="">
+                <img width="80%" class="pecu-img" src="assets/images/pecu-website-mockup-1.png" alt="">
               </div>
             </div>
           </div>
@@ -279,7 +180,7 @@ include_once('includes/head.php');
                   <li>Custom websites that convert clients</li>
                 </ul>
                 <div class="mybtnwrap">
-                  <a href="https://webprohub.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
                   <img class="rightside" src="assets/images/rateimg.png" alt="">  
                 </div>
               </div>
@@ -303,7 +204,7 @@ include_once('includes/head.php');
                   <li>Custom websites that convert clients</li>
                 </ul>
                 <div class="mybtnwrap">
-                  <a href="https://webprohub.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
                   <img class="rightside" src="assets/images/rateimg.png" alt="">  
                 </div>
               </div>
@@ -327,7 +228,7 @@ include_once('includes/head.php');
                   <li>Custom websites that convert clients</li>
                 </ul>
                 <div class="mybtnwrap">
-                  <a href="https://webprohub.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
                   <img class="rightside" src="assets/images/rateimg.png" alt="">  
                 </div>
               </div>
@@ -351,7 +252,7 @@ include_once('includes/head.php');
                   <li>Custom websites that convert clients</li>
                 </ul>
                 <div class="mybtnwrap">
-                  <a href="https://webprohub.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
+                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
                   <img class="rightside" src="assets/images/rateimg.png" alt="">  
                 </div>
               </div>
@@ -462,7 +363,7 @@ include_once('includes/head.php');
             <h3>Looking for a reliable and skilled consultancy agency to get started?</h3>
           </li>
           <li class="perbtn">
-            <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Let us build a custom solution for your business</a>
+            <a href="javascript:;" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme">Let us build a custom solution for your business</a>
           </li>
         </ul>
       </div>
@@ -487,7 +388,7 @@ include_once('includes/head.php');
             <!-- <li><a data-toggle="pill" href="#webapp">Web Apps</a></li> -->
 
             <li><a data-toggle="pill" href="#branding" class="">Branding</a></li>
-            <li><a data-toggle="pill" href="#videoanimation" class="">Video Animation</a></li>
+   
             
             
           </ul>
@@ -497,29 +398,29 @@ include_once('includes/head.php');
         <div id="webdd" class="tab-pane active">
             <ul class="portfoliolist web-design-portfolio-slider grid loadmoreweb">
               <div>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.png"><img src="assets/images/portfolio/web/thumbnail/1.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.png"><img src="assets/images/portfolio/web/thumbnail/2.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.png"><img src="assets/images/portfolio/web/thumbnail/3.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.png"><img src="assets/images/portfolio/web/thumbnail/4.png" / alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.png"><img src="assets/images/portfolio/web/thumbnail/1.png" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.png"><img src="assets/images/portfolio/web/thumbnail/2.png" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.png"><img src="assets/images/portfolio/web/thumbnail/3.png" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.png"><img src="assets/images/portfolio/web/thumbnail/4.png" alt=""></a></li>
 
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.png"><img src="assets/images/portfolio/web/thumbnail/5.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.png"><img src="assets/images/portfolio/web/thumbnail/6.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.png"><img src="assets/images/portfolio/web/thumbnail/7.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.png"><img src="assets/images/portfolio/web/thumbnail/8.png" / alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.png"><img src="assets/images/portfolio/web/thumbnail/5.png" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.png"><img src="assets/images/portfolio/web/thumbnail/6.png" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.png"><img src="assets/images/portfolio/web/thumbnail/7.png" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.png"><img src="assets/images/portfolio/web/thumbnail/8.png" alt=""></a></li>
 
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.png"><img src="assets/images/portfolio/web/thumbnail/9.png" / alt=""></a></li>
-</div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.png"><img src="assets/images/portfolio/web/thumbnail/9.png" alt=""></a></li>
+                </div>
 <div>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.png"><img src="assets/images/portfolio/web/thumbnail/10.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.png"><img src="assets/images/portfolio/web/thumbnail/11.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.png"><img src="assets/images/portfolio/web/thumbnail/12.png" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.png"><img src="assets/images/portfolio/web/thumbnail/10.png" alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.png"><img src="assets/images/portfolio/web/thumbnail/11.png" alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.png"><img src="assets/images/portfolio/web/thumbnail/12.png" alt=""></a></li>
 
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.png"><img src="assets/images/portfolio/web/thumbnail/13.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.png"><img src="assets/images/portfolio/web/thumbnail/14.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.png"><img src="assets/images/portfolio/web/thumbnail/15.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.png"><img src="assets/images/portfolio/web/thumbnail/16.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-1.jpg" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-2.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.png"><img src="assets/images/portfolio/web/thumbnail/13.png" alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.png"><img src="assets/images/portfolio/web/thumbnail/14.png" alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.png"><img src="assets/images/portfolio/web/thumbnail/15.png" alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.png"><img src="assets/images/portfolio/web/thumbnail/16.png" alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-1.jpg" alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-2.jpg" alt=""></a></li>
 </div>
 <!-- <li>
 	<a href="javascript:;" class="btn-main" id="loadmoreweb" style="font-size: 14px;margin-top: 20px;">View More</a>
@@ -986,7 +887,7 @@ include_once('includes/head.php');
             <li><a data-toggle="pill" href="#ecomm" class="">Ecommerce</a></li>
             <li><a data-toggle="pill" href="#portal" class="">Web Portal</a></li>
              <li><a data-toggle="pill" href="#brandd" class="">Branding</a></li>
-            <li><a data-toggle="pill" href="#videod" class="">Video Animation</a></li>
+
             <li><a data-toggle="pill" href="#seo" class="">Seo</a></li>
             <!-- <li><a data-toggle="pill" href="#content" class="">Content Writing</a></li>
             <li><a data-toggle="pill" href="#socal" class="">Social Media Marketing</a></li>
@@ -1002,7 +903,7 @@ include_once('includes/head.php');
   <div class="smallbox">
   <div class="package_inner">
     <h4>Startup Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>230.00 <span><s>£460.00</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>220.00 <span><s>£460.00</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1027,8 +928,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1043,7 +944,13 @@ include_once('includes/head.php');
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/startup-website-package.html">View Details</a> 
-      <a href="orderde9d.html?pack=1" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1052,7 +959,7 @@ include_once('includes/head.php');
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Professional Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>409.99 <span><s>£819.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>399.99 <span><s>£819.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1080,8 +987,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1097,14 +1004,20 @@ include_once('includes/head.php');
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/professional-website-package.html">View Details</a>
-      <a href="order94ea.html?pack=2" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="smallbox">
   <div class="package_inner">
     <h4>Elite Website <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>709.99 <span><s> £1419.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>699.99 <span><s> £1419.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1140,8 +1053,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1157,14 +1070,20 @@ include_once('includes/head.php');
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/elite-website-package.html">View Details</a>
-      <a href="orderc983.html?pack=3" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>E-Commerce Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1004.99 <span><s>£2009.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>999.99 <span><s>£2009.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1204,8 +1123,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1221,14 +1140,20 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-website-package.html">View Details</a>
-      <a href="order4645.html?pack=4" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="smallbox">
   <div class="package_inner">
     <h4>Silver Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1609.99 <span><s> £3219.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>1599.99 <span><s> £3219.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1271,8 +1196,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1288,7 +1213,13 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/silver-website-package.html">View Details</a>
-      <a href="order5ac2.html?pack=5" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1326,8 +1257,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1343,7 +1274,13 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-startup-package.html">View Details</a> 
-      <a href="orderc92d.html?pack=6" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1374,8 +1311,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1391,14 +1328,20 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-professional-package.html">View Details</a>
-      <a href="orderaf2d.html?pack=7" class="btn-packages">Place Your Order</a> 
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div> 
     </div>
   </div>
 
   <div class="smallbox">
   <div class="package_inner">
     <h4>E-Commerce  <br> Elite</h4>
-    <h2><span class="currency_symbol">£</span>3,694.00 <span><s> £7,388.00</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>699.00 <span><s> £7,388.00</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1447,8 +1390,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1464,7 +1407,13 @@ include_once('includes/head.php');
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/e-commerce-elite-package.html">View Details</a>
-      <a href="order512d.html?pack=8" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1528,8 +1477,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1544,7 +1493,13 @@ include_once('includes/head.php');
     </div></div>
     <div class="price-btnwrap">
       <a href="ourpackages/business-website-package.html">View Details</a> 
-      <a href="orderaecd.html?pack=26" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1613,8 +1568,8 @@ include_once('includes/head.php');
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1630,7 +1585,13 @@ include_once('includes/head.php');
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
-      <a href="order0044.html?pack=27" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1739,8 +1700,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1756,7 +1717,13 @@ Place purchasing requests.</li>
     </div>
       <div class="price-btnwrap">
       <a href="ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
-      <a href="order9c5e.html?pack=28" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1797,8 +1764,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1814,7 +1781,13 @@ Place purchasing requests.</li>
   </div>
     <div class="price-btnwrap">
       <a href="ourpackages/stationery-package.html">View Details</a>
-      <a href="order9187.html?pack=15" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
 
   </div>
@@ -1844,8 +1817,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1861,7 +1834,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/infographic-package.html">View Details</a> 
-      <a href="order1cf8.html?pack=16" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1891,8 +1870,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1908,7 +1887,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/brochure-flyer-package.html">View Details</a> 
-      <a href="orderf8c1.html?pack=17" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1941,8 +1926,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1958,7 +1943,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/startup-video-package.html">View Details</a>
-      <a href="order88b5.html?pack=9" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
 
   </div>
@@ -1982,8 +1973,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -1999,7 +1990,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/classic-video-package.html">View Details</a>
-      <a href="orderf484.html?pack=10" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -2023,8 +2020,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2040,7 +2037,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/premium-video-package.html">View Details</a>
-      <a href="order35dd.html?pack=11" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -2063,8 +2066,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2080,7 +2083,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/unlimited-animation-package.html">View Details</a>
-      <a href="order9842.html?pack=12" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -2114,8 +2123,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2131,7 +2140,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/professional-3d-vfx-animation.html">View Details</a>
-      <a href="order0743.html?pack=13" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -2165,8 +2180,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2182,7 +2197,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/elite-3d-vfx-animation.html">View Details</a>
-      <a href="orderdab3.html?pack=14" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -2234,8 +2255,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2251,7 +2272,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-booster-package.html">View Details</a>
-      <a href="order9cb8.html?pack=23" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
 
   </div>
@@ -2303,8 +2330,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2320,7 +2347,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-value-package.html">View Details</a>
-      <a href="orderd71b.html?pack=24" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
 
   </div>
@@ -2375,8 +2408,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+441442902150">
-              <span><small>Speak with us</small>+44 144 290 2150</span>
+            <a class="spek-us" tabindex="0" href="tel:+442038087061">
+              <span><small>Speak with us</small>+442038087061</span>
             </a>
           </div>
         </div>
@@ -2392,7 +2425,13 @@ Place purchasing requests.</li>
     </div>
     <div class="price-btnwrap">
       <a href="ourpackages/seo-pro-package.html">View Details</a>
-      <a href="order8c39.html?pack=25" class="btn-packages">Place Your Order</a>
+      <div class="row">
+         
+         <div class="col-md-12">
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+        </div>
+      </div>
     </div>
 
   </div>
@@ -2416,27 +2455,7 @@ Place purchasing requests.</li>
 
 
 
-<section class="cta2 mygrid">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-          <div class="wrap">
-            <h6>We have a better plan for your new business!</h6>
-            <h3>We provide full-circle services for entrepreneurs, funded startups and fund-seeking start-ups</h3>
-           <a class="gt-strt" href="order.html" class="btn-secondary-outline">Get Started </a>
-            <a class="new-cta" href="tel:+441442902150" class="btn-secondary-outline">+44-144-290-2150 </a>
-  
-        </div>
-        </div>
-
-        <div class="col-md-6">
-          <div class="cta-img">
-            <img src="assets/images/cta.png">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+ 
 
 
 
@@ -2478,7 +2497,7 @@ Place purchasing requests.</li>
           <!--      <img src="assets/images/testimonials-icons/rick-may.png" alt="" class="rounded-circle">-->
               
           <!--    <div class="usertest">-->
-          <!--      <h4>webprohub Rocked!!</h4>-->
+          <!--      <h4>websitevallery Rocked!!</h4>-->
           <!--      <p>The website they developed for me looks amazing, Couldn't ask for a better team to work with, They are responsive and did incredible job.</p>-->
           <!--      <h6>— Rick May, Rick May Photography</h6>-->
           <!--      <div class="ratings">-->
@@ -2499,7 +2518,7 @@ Place purchasing requests.</li>
               <!--  <h3>TR</h3>-->
               <!--</div>-->
               <div class="usertest">
-                <h4>Big Shout-out to the webprohub Team!!</h4>
+                <h4>Big Shout-out to the websitevallery Team!!</h4>
                 <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -2521,7 +2540,7 @@ Place purchasing requests.</li>
               <!--</div>-->
               <div class="usertest">
                 <h4>We Couldn't Ask for a Better Job!!</h4>
-                <p>I want to thank webprohub team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with webprohub in the future. </p>
+                <p>I want to thank websitevallery team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevallery in the future. </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -2685,13 +2704,13 @@ Place purchasing requests.</li>
 <!--              <span class="icon-mobile2 phone"></span>-->
 <!--              <h3 class="text-left">-->
 <!--              <span class="mad">Call us now to get started </span>-->
-<!--              +44-144-290-2150 </h3><div class="slash"></div>-->
+<!--              +442038087061 </h3><div class="slash"></div>-->
 <!--            </div>-->
 <!--            <div class="col-lg-5 col-sm-12 mail">-->
 <!--              <span class="icon-envelope-o mail"></span>-->
 <!--              <h3 class="text-left">-->
 <!--              <span class="mad">Place an Order</span>-->
-<!--              support@webprohub.co.uk</h3>-->
+<!--              query@websitevalley.co.uk</h3>-->
 <!--            </div>-->
 <!--          </div>-->
 <!--        </section>-->
@@ -2707,49 +2726,8 @@ Place purchasing requests.</li>
       <div class="col-lg-6 inner-content text-left">
         <div class="form-box-main clearfix">
   <h2>Let’s talk about your next Big thing!</h2>
-  <p>Heads up! We require that you sign up for Web Prohub services and packages. We make all your dreams come true in a successful project.</p>
-  <form class="cmxform" id="contactForm"  method="POST" action="/leads/"  enctype="multipart/form-data">
-    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
-    <input type="hidden" name="brand" value="webvalleyuk">   
-    <input type="hidden" name="tag" value="modal-auto">
-    <input type="hidden" name="price" value="null">
-    <input type="hidden" name="news" value="1">
-    <div class="row">
-      <div class="col-md-12">
-        <label class="field-txt">Name <span>*</span></label>
-          <input id="username" name="name" minlength="2" type="text" placeholder="" required />
-     </div>
-      <div class="col-md-6">
-        <label class="field-txt">Email <span>*</span></label>
-        <input id="cemail" type="email" name="email" placeholder="" required>
-     </div>
-     <div class="col-md-6">
-        <label class="field-txt">Phone Number<span>*</span></label>
-       <input id="phone-country" name="phone" type="number" placeholder="" required/>
-     </div>
-
-  
-     
-      
-    <div class="col-md-12 pb-0">
-        <label class="field-txt">Additional Comments <span>*</span></label>
-        <textarea name="brief" placeholder="" ></textarea>
-     </div>
-     
-    <div class="col-md-12">
-        <div class="check-list col-lg-12 nopaddding">
-          <input  type="checkbox" name="NDA" value="Required NDA" >
-          <label for="checkbox22">Please send me a Non Disclosure Agreement for a Confidential Consultation</label>
-        </div>
-    </div>
-    <div class="col-md-12">
-        <input class="submit" type="submit" value="Submit" />
-        <input class="" type="hidden" name="ctry" value="" />
-          <input type="hidden" name="pc" value="">
-          <input type="hidden" name="hiddencapcha" value="">
-     </div>
-     </div>
-  </form>
+  <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
+<?php include_once('includes/form.php');?>
 </div>
 
 
@@ -2767,459 +2745,23 @@ Place purchasing requests.</li>
   </div>
 </section>
 
+<?php include_once('includes/footer.php');?>
 
-<footer class="footer-main">
-  <div class="footer-top">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-3">
-          <h3>Services</h3>
-          <ul class="linkinglist">
-          <li><a href="web-app-development.html">Web App Development</a></li>
-          <li><a href="branding.html">Branding</a></li>
-          <li><a href="web-design.html">Web Design</a></li>
-          <li><a href="video-animation.html">Video Animation</a></li>
-          <li><a href="mobile-application.html">Mobile App Development</a></li>
-          
-            
-          </ul>
-        </div>
-        <div class="col-lg-3">
-          <h3 class="xsmtpx-30">Quick Links</h3>
-          <ul class="linkinglist">
-            <li><a href="packages.html">Packages</a></li>
-            <li><a href="combo-packages.html">Combo Packages</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li>
-            
-            
-          </ul>
-        </div>
-        <div class="col-lg-3">
-          <h3 class="xshide">Company</h3>
-          <ul class="linkinglist">
-            <!--<li><a href="https://webprohub.co.uk/culture">Our Culture</a></li>-->
-            <li><a href="contact.html">Contact us</a></li>
-          </ul>
-        </div>
-        <div class="col-lg-3">
-          <h3 class="xsmtpx-30">About</h3>
-          <ul class="linkinglist">
-            <li><a href="tel:+441442902150">+44 144 290 2150</a></li>
-            <li><a href="mailto:support@webprohub.co.uk">support@webprohub.co.uk</a></li>
-            <li><a class="address">Plaza 8 Kd Tower, Cotterells, Hemel Hempstead, Hertfordshire, HP1 1FW</a></li>
-          </ul>
-          <ul class="scalmdia">
-              <li><a href="https://www.facebook.com/WebprohubUK/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="https://twitter.com/webprohubuk"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.instagram.com/webprohubuk/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.linkedin.com/company/webprohub"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-          </ul>
-        </div>  
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="iconswrap">
-            <div class="mycenter">
-              <ul class="topajencies">
-                <li style="    margin-right: 25px;">
-                  <figure>
-                    <img src="assets/images/trust-verified.png" alt="" style="height: auto;">
-                  </figure>
-                </li>
-                <li>
-                  <figure>
-                    <img src="assets/images/copyscape.png" alt="" style="height: auto;">
-                  </figure>
-                </li>
-                <li>
-                  <figure>
-                    <img src="assets/images/partner1.png" alt="">
-                  </figure>
-                </li>
-                <li>
-                  <figure>
-                    <img src="assets/images/partner5.png" alt="">
-                  </figure>
-                </li>
-                <li>
-                  <figure>
-                    <img src="assets/images/partner2.png" alt="">
-                  </figure>
-                </li>
-              </ul>
-            </div>
-            <div class="footer-img">
-              <figure>
-                <img src="assets/images/payment-icon.png" alt="">
-              </figure>
-            </div>
 
-          </div>
-        </div>
-      </div>
-      
-    </div>
-  </div>
-  <div class="footer-bottom">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-6">
-          <div class="fologo">
-            <img src="assets/images/logof.svg" alt="">
-          </div>
-          <p class="copyright">&copy; webprohub <span id="year"></span>. All rights reserved.</p>
-        </div>
-        
-        <div class="col-sm-6">
-          <ul class="footer-nav2">
-            <li><a href="terms-conditions.html" title=""> Terms of Services</a></li>
-            <li><a href="privacy-policy.html" title="">Privacy Policy</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!--<img class="badge-dic " src="assets/images/halloween.png">-->
 
-</footer>
 
 
-<div class="mobile-cta hidden-sm-up">
-    <a href="tel:+441442902150" class="xicon phone">
-        <i class="icon-phone"></i>
-    </a>
-</div>
 
-<div class="floating_wrap">
-  <div class="btns_wrap">
-    <a href="javascript:;" class="chat_wrap" onclick="setButtonURL();" >
-      <span class="icoo"><i class="icon-chat"></i></span>
-      <span>Chat With Us</span>
-    </a>
-    <a href="tel:+441442902150" class="call_wrap" >
-     <span class="icoo"><i class="icon-phone2"></i></span>
-      <span>+44 144 290 2150</span>
-    </a>
-  </div>
-</div>
 
 
-<div class="floatbutton">
-    <div class="clickbutton"><div class="crossplus"><i class="fa fa-send"></i></div></div>
-      <div class="banner-form">
-        <h3>Chat With Us to <br>Avail 50% Discount</h3>
-        <div class="banform">
-          <div class="container">
-            <div class="row">
-                <div class="ban-form">
-                  <form class="cmxform" id="bannerform" method="POST" action="/leads/">
-                    <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
-                    <input type="hidden" name="brand" value="webvalleyuk">   
-                    <input type="hidden" name="tag" value="modal-auto">
-                    <input type="hidden" name="price" value="null">
-                    <input type="hidden" name="news" value="1">
-                    <div class="row">
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
-                          <i class="fa fa-user" aria-hidden="true"></i>
-                        </div>
-                      </div>
-                     
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
-                          <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                        </div>
-                      </div>
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <input id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
-                        </div>
-                      </div>
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
-                          <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                        </div>
-                      </div>
-                      
-                      <div class="col-lg-12">
-                        <div class="fldset">
-                          <input name="submit" type="submit" placeholder="Connect With Us" required />
-        
-                          <script data-cfasync="false" src="not-found.html"></script><script type="text/javascript">
-                        document.getElementById('flocation').value = window.location.href;
-                      </script>
-                      <input type="hidden" name="hiddencapcha" value="">
-                      <input type="hidden" name="ctry" value="">
-                      <input type="hidden" name="pc" value="">
-                      <input type="hidden" id="locationURL" name="page" value="https://webprohub.co.uk/" />
-                        </div>
-                      </div>
-                    </div>
-                  </form>
-                </div>
-            </div>
-          </div>
-        </div>  
-    </div>
-  </div>
+<?php include_once('includes/scripts.php');?>
 
 
 
-
-<div class="book-call-ys-layer"></div>
-<div class="book-call-ys-container" id="ys-container">
-   <div class="book-call-ys-box">
-       <a class="book-call-ys-popup-close ys-exit" href="javascript:;"><i class="fa fa-times"></i></a>
-       <div class="book-call-ys-popup-content">
-           <!-- <p>Are Your Sure?</p>
-           <a href="#" class="ys-exit">Exit</a> -->
-
-           <div class="book-call-popupform tabform clearfix  text-left">
-           <figure style="background-image: url(assets/images/linda-dok.jpg);"> </figure>
-           <span class="heading">Book a Call </span>
-             <h2 class="text-center">Our smart and friendly client support team is available to guide you through the creative process and answer all of your questions.</h2>
-             <form id="popupfrm" class="cmxform"  method="POST" action="https://webprohub.co.uk/webpages/bookacallFormController.php">
-
-               <div class="fldst btnattach">
-                 <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-                 <a class="callus" href="tel:+441442902150"> Free design consultation <i class="fa fa-phone"></i>  +44 144 290 2150</a>
-               </div>
-              <div class="fldst-two">
-                <input type="text" name="Name" placeholder="Enter Name" required="">
-              </div>
-              <div class="fldst-two last">
-                <input type="email"  name="Email" placeholder="Enter Email" required="">
-              </div>
-               <div class="fldst">
-                <p>Send us your number to speak with an actual human.</p>
-                 <input id="phone-coun" name="Number" required="" type="text" onkeypress="return isNumberKey(event);" rangelength="[2,15]" placeholder="Enter phone here">
-                 <button class="newbtn" type="submit">Submit</button>
-                 <script type="text/javascript">
-                document.getElementById('location').value = window.location.href;
-              </script>
-              <input type="hidden" name="hiddencapcha" value="">
-              <input type="hidden" name="ctry" value="">
-              <input type="hidden" name="pc" value="">
-              
-              <input type="hidden" id="location" name="locationURL" value="http://webprohub.co.uk/" />
-               </div>
-
-               
-              
-               <p class="lst-p">Not ready for a call? <a href="javascript:;" onclick="setButtonURL();"> Discuss with our strategist</a></span></p>
-
-             </form>
-           </div>
-       </div>
-   </div>
-</div>
-
-
-
-
-
-<a href="javascript:;" class="callusnow"><i class="fa fa-phone"></i></a>
-
-<a href="javascript:;" class="gototop"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
-
-
-
-</main>
-
-
-
-
-
-<!--<div class="eggoffer">-->
-  
-<!--  <div class="top">-->
-<!--    <figure>-->
-<!--      <img class="lazy loaded" src="assets/images/popup.png" data-src="assets/images/popup.png" data-was-processed="true">-->
-<!--    </figure>-->
-<!--  </div>-->
-  
-<!--</div>-->
-
-
-
-
-
-
-<div class="mypopup-wrap active" style="display: none;">
-  <div class="mypopup">
-    <div class="left">
-      <figure>
-        <img class="lazy loaded" src="not-found.html" data-src="assets/images/popup-inner.png" data-was-processed="true">
-      </figure>
-    </div>
-    <div class="right">
-      <div class="closebutton">x</div>
-      <div class="mypopup-innerwrap">
-        <h3 class="text-center">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 75% DISCOUNT</span></h3>
-        <div class="form_wrap">
-          <div class="analyzeform ">
-            <form class="" id="banform" method="POST" action="https://webprohub.co.uk/webpages/bannerFormController.php">
-              <div class="row">
-                <div class="wrap">
-                  <div class="dtf">
-                    <input id="fname" name="Name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
-                  </div>
-                  <div class="dtf">
-                    <input id="cemail" type="email" name="Email" placeholder="Enter email here" required="">
-                  </div>
-                  <div class="dtf">
-                    <input id="cemail" type="email" name="Email" placeholder="Enter email here" required="">
-                  </div>
-                  <div class="dtf text-left">
-                  
-                    <input type="hidden" name="hiddencapcha" value="">
-                    <input class="submit" type="submit" value="RESERVE THIS OFFER">
-                    <input class="" type="hidden" name="ctry" value="">
-                    <input type="hidden" name="pc" value="">
-                     <input type="hidden" id="location" name="locationURL" value="">
-                  </div>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script src="assets/js/mlib.js"></script> 
-
-
-
-<script src="assets/js/functions.js"></script> 
-
-<!--Start of Zendesk Chat Script-->
-<script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-$.src="https://v2.zopim.com/?69QVuLERPBz4vrWOBDjK6IQ1oBkpw4ZF";z.t=+new Date;$.
-type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-
-
-function setButtonURL(){
-  javascript:$zopim.livechat.window.show();
-  }
-
-</script>
-<!--End of Zendesk Chat Script-->
-
-
-
-
-<script src="../cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
-
-<script>
-var options = {
-debug: false,
-}
-
-
-
-
-
-
-
-if ($.cookie('ysExit') == 1)
-     {
-
-     }
-else{
- ysExit(options);
-}
-
-
-// setTimeout(function(){
-//     // console.log("asdasdsa");   
-//          $('.ys-layer').addClass("visible");
-//          $('.ys-container').addClass("visible");
-//          $('.ys-container').addClass("finished");
-//          // $('.ys-popup-content').fadeIn();
-
-
-// },1000);
-
-
-// $(document).on("click",".ys-container",function(){ $(this).removeClass("visible"); $(".ys-layer").removeClass("visible"); });
-
-$(document).on("click",".ys-container",function(){
-  // var element=$(".ys-box");
- if($(event.target).closest(".ys-popup-content").length != 1){
-    $('.ys-layer').removeClass("visible");
-         $('.ys-container').removeClass("visible");
-         $('.ys-container').removeClass("finished");
-    // alert('element is a child of the custom controller');
- }
-
-
-  
-});
-
-
-
-setTimeout(function(){
-    // console.log("asdasdsa");   
-         $('.ys-layer').addClass("visible");
-         $('.ys-container').addClass("visible");
-         $('.ys-container').addClass("finished");
-         // $('.ys-popup-content').fadeIn();
-
-
-},60000);
-
-
-// $(document).on("click",".ys-container",function(){ 
-$(document).on("click",".ys-popup-close.ys-exit",function(){ 
-
-   $(".ys-container").removeClass("visible"); $(".ys-layer").removeClass("visible");
-
-   });
-   
-   
-
-function isNumberKey(t){var e=t.which?t.which:event.keyCode;return!(e>31&&(e<48||e>57))}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "WebSite",
-  "name": "Web pro hub",
-  "url": "https://webprohub.co.uk/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "{search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
 
 
 
 </body>
 
-<!-- Mirrored from webprohub.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:27 GMT -->
+<!-- Mirrored from websitevalley.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:27 GMT -->
 </html>
