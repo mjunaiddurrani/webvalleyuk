@@ -64,7 +64,7 @@
   <div class="smallbox">
   <div class="package_inner">
     <h4>Startup Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>230.00 <span><s>£460.00</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>220.00 <span><s>£460.00</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -108,7 +108,7 @@
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -120,7 +120,7 @@
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Professional Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>409.99 <span><s>£819.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>399.99 <span><s>£819.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -168,7 +168,7 @@
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -178,7 +178,7 @@
   <div class="smallbox">
   <div class="package_inner">
     <h4>Elite Website <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>709.99 <span><s> £1419.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>699.99 <span><s> £1419.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -234,7 +234,7 @@
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -244,7 +244,7 @@
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>E-Commerce Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1004.99 <span><s>£2009.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>999.99 <span><s>£2009.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -304,7 +304,7 @@
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -314,7 +314,7 @@
   <div class="smallbox">
   <div class="package_inner">
     <h4>Silver Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1609.99 <span><s> £3219.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>1599.99 <span><s> £3219.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -377,7 +377,7 @@
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -461,7 +461,7 @@
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -553,7 +553,7 @@
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -685,7 +685,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -745,7 +745,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -799,7 +799,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div> 
@@ -878,7 +878,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -900,7 +900,7 @@ Place purchasing requests.</li>
     <div class="smallbox">
     <div class="package_inner">
     <h4>Stationery <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>74.99 <span><s>£149.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>74.99 <span><s>£149.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -945,7 +945,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -998,7 +998,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1051,7 +1051,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1107,7 +1107,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1118,7 +1118,7 @@ Place purchasing requests.</li>
   <div class="smallbox">
   <div class="package_inner">
     <h4>Classic Video <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>409.99 <span><s>£819.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>409.99 <span><s>£819.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -1154,7 +1154,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1201,7 +1201,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1247,7 +1247,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1257,7 +1257,7 @@ Place purchasing requests.</li>
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Professional 3D VFX <br> Animation</h4>
-    <h2><span class="currency_symbol">£</span>2009.99 <span><s>£4019.98</s></span> </h2>
+    <h2><span class="currency_symbol">£</span>2009.99 <span><s>£4019.99</s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -1304,7 +1304,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1361,7 +1361,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1436,7 +1436,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1511,7 +1511,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1589,7 +1589,7 @@ Place purchasing requests.</li>
       <div class="row">
          
          <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1616,27 +1616,7 @@ Place purchasing requests.</li>
 </section>
 
 
-<section class="cta2 mygrid">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-          <div class="wrap">
-            <h6>We have a better plan for your new business!</h6>
-            <h3>We provide full-circle services for entrepreneurs, funded startups and fund-seeking start-ups</h3>
-           <a class="gt-strt" href="javascript:;" onclick="setButtonURL();"  class="btn-secondary-outline">Get Started </a>
-            <a class="new-cta" href="tel:+442038087061" class="btn-secondary-outline">+442038087061 </a>
-  
-        </div>
-        </div>
-
-        <div class="col-md-6">
-          <div class="cta-img">
-            <img src="assets/images/cta.png">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+ 
 
 
 <section class="dptestimonials testiem">

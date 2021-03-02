@@ -388,14 +388,17 @@ ul, li {
 
 @media only screen and (max-width: 736px){
 
-
+ 
 .pricing-sec, .weDifferent-sec, .who-we-sec, .ourprocesses, .packages-sec, .ourapproachsec, .bottom-form, .faqsection, .singletestimonials, .cta, .satisfactionfold {
     padding: 30px 0;
 }
+
+
+
 }
 @media only screen and (max-width: 769px) and (min-width: 0px){
 
-
+  .floatbutton.active{right: -270px !important;-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;z-index: 5000;}
 .pricing-sec, .weDifferent-sec, .who-we-sec, .ourprocesses, .packages-sec, .ourapproachsec, .bottom-form, .faqsection, .singletestimonials, .cta, .satisfactionfold {
     padding: 60px 0;
 }
@@ -419,7 +422,7 @@ ul, li {
   
   .bgcolornew{
 
- background-color:  #000000 !important; background-image: none !important;
+ background-color:  #000000 !important; background-image: url('../wp-content/uploads/2021/02/webpage_banner_upd.png');
 
 }
 .smallboxes .smallbox {
@@ -427,6 +430,10 @@ ul, li {
 }
 }
 @media only screen and (max-width: 736px){
+
+  header .banner.webservice_banner {
+    padding: 13px 20px 10px !important;
+}
 .smallboxes .smallbox {
     width: 47%;
     padding: 15px;
@@ -741,7 +748,14 @@ body {background: #eee;}
                         <li>Exceptional UI/UX design.</li>
                         <li>Modern and User-Friendly Experience.</li>
                         <li>Custom Designs and Layouts.</li>
+                        
                     </ul>
+                    <div class="call_to_action">
+                                                                                                                <a href="javascript:void(0)" onclick="setButtonURL();" class="btn custom-btn-bg" aria-label="lets start">LET'S
+                                                                                                                    START</a>
+                                                                                                           
+                                                                                                            </div>
+
                 </div>
                 <div class="col-md-5 offset-md-1 contentSection_right">
                    
@@ -1158,7 +1172,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1218,7 +1232,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1284,7 +1298,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1354,7 +1368,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1427,7 +1441,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1488,7 +1502,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1542,7 +1556,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div> 
@@ -1621,7 +1635,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1707,7 +1721,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1799,7 +1813,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1931,7 +1945,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1995,7 +2009,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2048,7 +2062,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2101,7 +2115,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2157,7 +2171,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2204,7 +2218,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2251,7 +2265,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2297,7 +2311,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2354,7 +2368,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2411,7 +2425,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2486,7 +2500,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2561,7 +2575,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2639,7 +2653,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="tel:+4402038087061" class="btn-packages btn-packages2 ">Order Now</a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2956,30 +2970,27 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                         <p>It completely depends upon the nature of the website and requirements. If design and implementation are straightforward then probably 75 to 100 hours (8 to 10 business days) are enough for static 5 pages. The front end of the website would take almost 30–40 hours to complete. If it's more complex, then 50–75 hours each for design and development would be enough.</p>
                     </div><button class=accordion>What are the design elements of a website?</button>
                     <div class=panel>
-                        <p>The 7 types of logos (and how to use them)</p>
-                        <ul>
-                          <li>Overall Layout of the website and Visual appearance. </li>
-                          <li>Color Scheme – Theme and combinations</li>
-                          <li>Typography - Text and fonts</li>
-                          <li>Navigation on the website – User friendly</li>
-                          <li>Content – Copyright free</li>
-                          <li>Mobile UI friendly</li>
-                          
+                    <p>The 7 types of logos (and how to use them)</p>
+                  <ul>
+                     <li>Overall Layout of the website and Visual appearance. </li>
+                     <li>Color Scheme – Theme and combinations</li>
+                     <li>Typography - Text and fonts</li>
+                     <li>Navigation on the website – User friendly</li>
+                     <li>Content – Copyright free</li>
+                     <li>Mobile UI friendly</li>
+                     
 
-                        </ul>
+                  </ul>
                     </div>
                     <button class=accordion>How do I choose a web design company or web designer?</button>
                     <div class=panel>
-                        <p>You can find best web Design Company on Google, the results can be according to your current location or city (or within your industry). Review websites portfolio, qualified staff, and quality of service they provide. Design Proficient is one of the leading web design agency in San Francisco, California and other regions of US and around the globe. You can directly talk with our support team regarding your requirements. </p>
+                        <p>You can find best web Design Company on Google, the results can be according to your current location or city (or within your industry). Review websites portfolio, qualified staff, and quality of service they provide.  Website Valley is one of the leading web design agency in San Francisco, California and other regions of US and around the globe. You can directly talk with our support team regarding your requirements. </p>
                     </div>
                     <button class=accordion>What is the main difference between web development & design?</button>
                     <div class=panel>
                         <p>Fundamentally, web design relates to both the graphics part and usability. On the other hand development take actual functioning of the website. It use coding, CSS, Dot-net, PHP, HTML, Javascript, and more programming languages.</p>
                     </div>
-                    <button class=accordion>Can I create my own website for free?</button>
-                    <div class=panel>
-                        <p>Yes you can but you need experience and familiarity with design software like PhotoShop and other tools and techniques. There are lots of templates available to help you create a basic logo for free but experience and expertise are the key to use it as per your own requirements. However, you can also hire custom logo designing services if you don’t have a grip on graphic designing or don’t have time to do so. </p>
-                    </div>
+    
                     <button class=accordion>Can I buy a name of my website?</button>
                     <div class=panel>
                         <p>Yes we will buy a name of your website. You just need to share the name you want to purchase and will do it for you. The name of the website is called “Domain Name”.</p>
@@ -3024,7 +3035,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     
                     <button class=accordion>What services we provide to clients?</button>
                     <div class=panel>
-                    <p>At Design Proficient, we provide you the best online branding solutions along with several other digital services. We’re 360-degree online branding and digital marketing agency that provides all solutions to its clients all over the world in 14 different countries.</p>
+                    <p>At  Website Valley, we provide you the best online branding solutions along with several other digital services. We’re 360-degree online branding and digital marketing agency that provides all solutions to its clients all over the world in 14 different countries.</p>
                     </div>
                     
                     <button class=accordion>Are there any limitations on geographical bases for clients?</button>
@@ -3272,10 +3283,10 @@ s144.8-64.8,144.8-144.8" /></svg></div>
 
 
 /*floating strips css start */
-.floatbutton{-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;position: fixed;right: -650px;top: 130px;font-size: 0;width: 700px;/* transform: translateY(-50%); */z-index: 200;}
+.floatbutton{-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;position: fixed;right: -650px;top: 130px;font-size: 0;width: 690px;/* transform: translateY(-50%); */z-index: 200;}
 .floatbutton {display: none;}
 .floatbutton.visible {display: block;}
-.floatbutton.active{right: -209px !important;-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;z-index: 5000;}
+.floatbutton.active{right: -313px !important;-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;z-index: 5000;}
 .floatbutton.active .floating-overlay{display:block;}
 .floatbutton .clickbutton{width: 50px;z-index: 99;height: 50px;cursor: pointer;/*box-shadow: -20px 0 35px #0000001f;*/border-radius: 40px 0px 0px 40px;/*background: #fff;*/display: inline-block;padding-top: 0;vertical-align: top;margin-top: 140px;}
 .floatbutton .clickbutton .crossplus{
@@ -3384,7 +3395,7 @@ p.parafloat span {
 }    
 .floatbutton .banner-form h3 strong {    font: 24px/24px "gilroy-bold", sans-serif;text-align: left;
     font-weight: 800;}
-.floatbutton .ban-form input[type="submit"]{color: #fff;font-weight: 600;background: linear-gradient(to right, #26ccca 0%, #1ab4b2 100%);border-radius: 6px;text-align: center;padding: 10px 15px;margin: 20px 0 0;border: transparent;}
+.floatbutton .ban-form input[type="submit"]{width:50% !important;color: #fff;font-weight: 600;background: linear-gradient(to right, #26ccca 0%, #1ab4b2 100%);border-radius: 6px;text-align: center;padding: 10px 15px;margin: 20px 0 0;border: transparent;}
 .floatbutton .ban-form textarea{position:relative;width: 100%;border: 1px solid #e5e5e5;background: white;padding: 10px 15px 10px 40px;color: gray;font-size: 14px;border-radius: 8px;font-weight: 400;height: 90px;outline: none !important;margin: 0px 0 0px 0;}
 
 .floatbutton .ban-form textarea + i{
@@ -3472,7 +3483,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     setTimeout(function(){  
     // $("#modalForDiscount").modal("show");
     
-    $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
+   
     $(document).on('click','.liveChat',function(){
         $zopim.livechat.window.show();
 
@@ -3483,7 +3494,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
        $zopim.livechat.hideAll();
     });
 }, 15000);
-
+$('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
 
 $(document).on('click','.clickbutton',function(){
        $("div.floatbutton").toggleClass("active");
@@ -3526,8 +3537,22 @@ $(document).on('click','.clickbutton',function(){
             "currency_symbol_pos": "left",
             "val_phone": "Please enter a valid phone number."
         }
+
+        
     </script>
-    <script>
+
+
+<script type="text/javascript">
+  function setButtonURL(){
+  //CUGICHelper.bubbleChat.toggle();
+  $zopim.livechat.window.toggle();
+  // LC_API.open_chat_window();
+  //Tawk_API.toggle();
+  //tidioChatApi.open();
+  }
+  </script>
+
+<script>
         var wpforms_conditional_logic = {
             "171": {
                 "11": {
