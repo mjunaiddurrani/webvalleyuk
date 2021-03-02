@@ -3,7 +3,7 @@
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<title>Innovative Website Designing Services In UK | Web Pro Hub</title>
+<title>Innovative Website Designing Services In UK | Website Valley</title>
 
 <?php 
 include_once('includes/head.php');
