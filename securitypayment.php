@@ -115,7 +115,7 @@ ini_set('display_errors', 1);
     z-index: 999;
     width: 100%;
     top: 0;
-    background-color: #0000004f;
+    background-color: #f8f9fa8a;
     padding: 15px 0;
 }
 </style>
@@ -127,7 +127,7 @@ ini_set('display_errors', 1);
    <div class="main_nav">
         <div class="container">   
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand logo" href="index.php" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="images/home/logo.png" alt=""> </a>
+                <a class="navbar-brand logo" href="index.php" data-aos="fade-down" data-aos-duration="1000"> <img class="" style="max-width: 35%;" src="assets/images/logo.png" alt=""> </a>
                     
             </nav>        
         </div>
