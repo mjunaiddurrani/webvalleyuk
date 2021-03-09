@@ -257,7 +257,7 @@ include_once('includes/head.php');
                 <figure>
                   <img src="assets/images/projects-completed.svg" alt="">
                 </figure>
-                <h3 class="timer">9892</h3>
+                <h3 class="timer">4392</h3>
                 <p>projects completed</p>
               </div>
             </li>
