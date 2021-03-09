@@ -31,7 +31,7 @@ header {
       left: 51%;
       right: 51%;
       bottom: 0;
-      background: #26ccca;
+      background: #ff8500;
       height: 3px;
       -webkit-transition-property: left, right;
       transition-property: left, right;
@@ -59,7 +59,7 @@ header {
         font-family: "Montserrat";
         font-weight: 500; }
         header .banner.webservice_banner .contentSection_left h1 small span {
-          color: #26ccca; }
+          color: #ff8500; }
     header .banner.webservice_banner .contentSection_left p {
       font-size: 18px;
       font-weight: 600;
@@ -90,7 +90,7 @@ header {
           font-family: "Font Awesome 5 Free";
           font-weight: 900;
           content: "\f00c";
-          color: #26ccca; }
+          color: #ff8500; }
     header .banner.webservice_banner .contentSection_right {
       position: relative;
       z-index: 1; }
@@ -131,7 +131,7 @@ header {
       header .banner.webservice_banner .contentSection_right .banner_form .form_ConnectWithUs textarea {
         height: 170px; }
       header .banner.webservice_banner .contentSection_right .banner_form .form_ConnectWithUs .wpforms-submit {
-        background: #26ccca;
+        background: #ff8500;
         font-size: 15px;
         font-family: "Roboto";
         font-weight: bold;
@@ -139,7 +139,7 @@ header {
         border-radius: 6px;
         position: relative;
         z-index: 1;
-        border: 2px solid #26ccca;
+        border: 2px solid #ff8500;
         color: #fff;
         -webkit-transition: all ease-in-out 0.5s;
         -moz-transition: all ease-in-out 0.5s;
@@ -147,8 +147,8 @@ header {
         transition: all ease-in-out 0.5s; }
         header .banner.webservice_banner .contentSection_right .banner_form .form_ConnectWithUs .wpforms-submit:hover {
           background-color: #fff;
-          border: 2px solid #26ccca;
-          color: #26ccca; }
+          border: 2px solid #ff8500;
+          color: #ff8500; }
         header .banner.webservice_banner .contentSection_right .banner_form .form_ConnectWithUs .wpforms-submit.form-btn-disabled {
           cursor: not-allowed;
           pointer-events: none;
@@ -210,7 +210,7 @@ header {
     bottom: 0px;
     background: #fff;
     transform: translate(0px, 40px);
-    border-top: 20px solid #26ccca;
+    border-top: 20px solid #ff8500;
     border-radius: 10px;
     text-align: center;
     box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.2);
@@ -295,7 +295,7 @@ header {
       content: '\002B';
       color: #ffef3c;
       font-weight: bold;
-      background: #26ccca;
+      background: #ff8500;
       position: absolute;
       left: 0;
       top: 0;
@@ -305,18 +305,18 @@ header {
       line-height: 58px;
       font-size: 25px; }
     .faqs .accordion:hover {
-      background: #26ccca;
+      background: #ff8500;
       color: #fff; }
       .faqs .accordion:hover:after {
         background: #ffef3c;
-        color: #26ccca; }
+        color: #ff8500; }
   .faqs .active {
-    background: #26ccca;
+    background: #ff8500;
     color: #fff; }
     .faqs .active:after {
       content: "\2212";
       background: #ffef3c;
-      color: #26ccca; }
+      color: #ff8500; }
   .faqs .panel {
     padding: 0 18px;
     max-height: 0;
@@ -385,7 +385,7 @@ header {
       animation: DASH2 3s ease-in-out forwards; }
   .procedure_section .path-delay--2 {
     fill: none;
-    stroke: #26ccca;
+    stroke: #ff8500;
     stroke-width: 2;
     stroke-linejoin: round;
     stroke-linecap: round;
@@ -400,7 +400,7 @@ header {
     stroke-dashoffset: 0; } }
   .procedure_section .path-delay--3 {
     fill: none;
-    stroke: #26ccca;
+    stroke: #ff8500;
     stroke-width: 2;
     stroke-linejoin: round;
     stroke-linecap: round;
@@ -532,7 +532,7 @@ header {
 .contact-us-form .wpforms-container.form_ConnectWithUs .wpforms-submit-container {
   text-align: left; }
 .contact-us-form .wpforms-container.form_ConnectWithUs .wpforms-submit {
-  background: #26ccca;
+  background: #ff8500;
   font-size: 15px;
   font-family: "Roboto";
   font-weight: bold;
@@ -540,7 +540,7 @@ header {
   border-radius: 6px;
   position: relative;
   z-index: 1;
-  border: 2px solid #26ccca;
+  border: 2px solid #ff8500;
   color: #fff;
   -webkit-transition: all ease-in-out 0.5s;
   -moz-transition: all ease-in-out 0.5s;
@@ -548,8 +548,8 @@ header {
   transition: all ease-in-out 0.5s; }
   .contact-us-form .wpforms-container.form_ConnectWithUs .wpforms-submit:hover {
     background-color: #fff;
-    border: 2px solid #26ccca;
-    color: #26ccca; }
+    border: 2px solid #ff8500;
+    color: #ff8500; }
 .contact-us-form .contact-us-right ul {
   list-style: none;
   padding-left: 0;
@@ -582,7 +582,7 @@ header {
 /*** Video Modal Popup ***/
 .vid_modal .modal-body {
   padding: 0;
-  border: 3px solid #26ccca;
+  border: 3px solid #ff8500;
   box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.8); }
   .vid_modal .modal-body .close {
     position: absolute;

@@ -94,14 +94,23 @@
   <div class="footer-bottom">
     <div class="container">
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-4">
           <div class="fologo">
             <img src="assets/images/logof.png" alt="">
           </div>
+       
+        </div>
+
+
+        <div class="col-sm-4">
+          <div class="focopy">
           <p class="copyright">&copy; websitevallery <span id="year"></span>. All rights reserved.</p>
+          </div>
+       
         </div>
         
-        <div class="col-sm-6">
+        
+        <div class="col-sm-4">
           <ul class="footer-nav2">
             <li><a href="/terms-conditions/" title=""> Terms of Services</a></li>
             <li><a href="/privacy-policy/" title="">Privacy Policy</a></li>

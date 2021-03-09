@@ -188,7 +188,7 @@ ul, li {
     /* margin-bottom: 32px; */
     /* margin-right: 25px; */
     margin: 12px 12px;
-    border: 2px solid #26ccca;
+    border: 2px solid #ff8500;
     -webkit-transition: all 200ms ease-in;
     -webkit-transform: scale(1.05);
     -ms-transition: all 200ms ease-in;
@@ -212,7 +212,7 @@ ul, li {
 }
 .smallboxes .smallbox h2 {
     font-size: 44px;
-    color: #26ccca;
+    color: #ff8500;
     padding-bottom: 0;
     text-align: left;
     line-height: 1;
@@ -323,7 +323,7 @@ ul, li {
 
 
 .smallboxes .smallbox .price-btnwrap a.btn-packages, .smallboxes .smallbox .price-btnwrap a.btn-packages:hover {
-  background: #26ccca;
+  background: #ff8500;
     color: #fff;
     text-decoration: none;
 }
@@ -363,7 +363,7 @@ ul, li {
     padding: 0px 0 12px 0;
     font-size: 12px;
     text-transform: uppercase;
-    color: #26ccca;
+    color: #ff8500;
     text-align:center;
     background: #ffffff;
     border: none;

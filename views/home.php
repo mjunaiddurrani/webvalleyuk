@@ -3,7 +3,7 @@
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<title>Innovative Website Designing Services In UK | Web Pro Hub</title>
+<title>Innovative Website Designing Services In UK | Website Valley</title>
 
 <?php 
 include_once('includes/head.php');
@@ -43,91 +43,53 @@ include_once('includes/head.php');
 <?php include_once('includes/header.php');?>
 
 
+<style>
+
+
+.shownImage {
+
+  position: relative;
+
+
+}
+.shownImage > img {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+
+}
+
+
+</style>
+
 
 
 
 <div class="slider-wrapper">
 <div class="container">
-  <div class="topformcontainer">
-    <div class="topformwrap">
-      <!-- <div class="formheading">
-        <h2>Avail This Exclusive Offer <span>Book this discount offer for later use.</span></h2>
-      </div> -->
-      <div class="main-percent">
-        <div class="per-box1">
-          <figure>
-            <img class="hme-nmrl-img" src="assets/images/50percent.png" alt="">
-          </figure>
-        </div>
-        <div class="per-box2">
-          <h3><span>chat</span> <p>with us to avail</p> 50% off</h3>
-        </div>
-      </div>
-      <div class="formbody">
-        <section class="banform myban">
-  <div class="container">
-    <div class="row">
-      <div class="">
-        <div class="ban-form">
-          <form class="cmxform" id="bannerform"  method="POST" action="/leads/">
-            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
-            <input type="hidden" name="brand" value="webvalleyuk">   
-            <input type="hidden" name="tag" value="modal-auto">
-            <input type="hidden" name="price" value="null">
-            <input type="hidden" name="news" value="1">
-            <div class="row">
-              <div class="col-lg-12">
-                <div class="fldset">
-                  <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
-                </div>
-              </div>
-              <div class="col-lg-12">
-                <div class="fldset">
-                  <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
-                </div>
-              </div>
-              <div class="col-lg-12">
-                <div class="fldset">
-                  <input id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
-                </div>
-              </div>
-              <div class="col-lg-12">
-                <div class="fldset">
-                  <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
-                </div>
-              </div>
-              
-              <div class="col-lg-12">
-                <div class="fldset">
-                  <input name="submit" type="submit" placeholder="Connect With Us" required />
+<div class="topformcontainer"  style="width: 700px;margin-right: -120px;margin-top:-40px">
+<div id="slideshow1" class="shownImage" >
+<img src="assets/images/2b.png"  style="width: 700px;">
+<img src="assets/images/3b.png"  style="width: 700px;">
+<img src="assets/images/1b.png"  style="width: 700px;">
 
-                  <script type="text/javascript">
-                document.getElementById('location').value = window.location.href;
-              </script>
-              <input class="" type="hidden" name="ctry" value="">
-              <input type="hidden" name="pc" value="">
-              <input type="hidden" name="hiddencapcha" value="">
-              <input type="hidden" id="location" name="locationURL" value="http://websitevalley.co.uk/" />
-                </div>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>      </div>
-    </div>
-    <!-- <div class="topformswitch">
-      <h4> Avail 50% Discount</h4>
-    </div> -->
-  </div>  
+
 </div>
+
+
+
+  </div> 
+</div>
+
+
+
 
   <section class="banslidee"><!-- banslidee -->
     
     <div class="item">
-      <div class="home-banner d-flex overl" style="background-image:url(assets/images/banners/hm-new-2.jpg);background-position: center 50px;">
+      <div class="home-banner d-flex overl" >
         <div class="container align-self-center">
           <div class="row">
             <div class=" col-lg-7">
@@ -158,7 +120,7 @@ include_once('includes/head.php');
                       </li>
                     </ul>
                  </div>
-                <img width="80%" class="pecu-img" src="assets/images/pecu-website-mockup-1.png" alt="">
+                
               </div>
             </div>
           </div>
@@ -267,7 +229,7 @@ include_once('includes/head.php');
 </div>
 
 <section id="factsTwo">
-  <div class="css-overlay">
+  <div class="css-overlay" >
     <div class="container">
       <div class="row text-center">
         <div class="col-sm-12 count-slider-for-mobile">
@@ -874,7 +836,7 @@ include_once('includes/head.php');
 
 
 
-<section class="sec-padding pricing-sec packages-sec-before">
+<section class="sec-padding pricing-sec packages-sec-before" style="background: linear-gradient(to top, #FFEAEA 0%,rgba(255,255,255,0) 20%);">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
@@ -2757,11 +2719,25 @@ Place purchasing requests.</li>
 <?php include_once('includes/scripts.php');?>
 
 
+<script>
 
+$("#slideshow1 > img:gt(0)").hide();
+
+setInterval(function() {
+  $('#slideshow1 > img:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+    .appendTo('#slideshow1');
+}, 5000);
+
+
+
+</script>
 
 
 
 </body>
 
-<!-- Mirrored from websitevalley.co.uk/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:27 GMT -->
 </html>

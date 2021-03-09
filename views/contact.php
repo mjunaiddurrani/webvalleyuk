@@ -34,7 +34,7 @@
 
 
 <div class="overlaybox">
-<section class="oddinner-banner d-flex" style="background-image: url(assets/images/banners/contact-banner.png);">
+<section class="oddinner-banner d-flex" style="linear-gradient(to bottom, #FFEAEA 0%,rgba(255,255,255,0) 100%);">
   <div class="container align-self-center">
     <div class="row">
       <div class="col-lg-12">

@@ -41,7 +41,7 @@ header .banner.webservice_banner .contentSection_right .banner_form .form_Connec
 
 .post-password-form p{ color : #fff }
 .post-password-form input[type="submit"]{
-  background: #26ccca;
+  background: #ff8500;
   font-size: 15px;
   font-family: "Roboto";
   font-weight: 500;
@@ -49,7 +49,7 @@ header .banner.webservice_banner .contentSection_right .banner_form .form_Connec
   border-radius: 6px;
   position: relative;
   z-index: 1;
-  border: 2px solid #26ccca;
+  border: 2px solid #ff8500;
   color: #fff;
   -webkit-transition: all ease-in-out 0.5s;
   -moz-transition: all ease-in-out 0.5s;
@@ -58,6 +58,6 @@ header .banner.webservice_banner .contentSection_right .banner_form .form_Connec
 }
 .post-password-form input[type="submit"]:hover {
   background-color: #fff;
-  border: 2px solid #26ccca;
-  color: #26ccca;
+  border: 2px solid #ff8500;
+  color: #ff8500;
 }
