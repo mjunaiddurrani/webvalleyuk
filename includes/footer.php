@@ -39,12 +39,12 @@
             <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
             <li><a class="address"> 86-90 Paul Street, London <br>EC2A 4NE, UK</a></li>
           </ul>
-          <ul class="scalmdia">
+          <!-- <ul class="scalmdia">
               <li><a href="https://www.facebook.com/websitevalleyUK/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
               <li><a href="https://twitter.com/websitevalleyuk"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
               <li><a href="https://www.instagram.com/websitevalleyuk/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
               <li><a href="https://www.linkedin.com/company/websitevalley"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-          </ul>
+          </ul> -->
         </div>  
       </div>
       <div class="row">
