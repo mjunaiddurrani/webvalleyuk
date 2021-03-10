@@ -25,7 +25,7 @@ html {
   padding-top: 86px;
   z-index: 9; }
   .section-title strong {
-    color: #26ccca; }
+    color: #ff8500; }
   .section-title span.designer_font {
     font-family: "HelveticaNeueLT Com 75 BdOu";
     font-weight: bold;
@@ -78,7 +78,7 @@ html {
   line-height: 24px;
   display: inline-block;
   background: #fff;
-  border: 2px solid #26ccca;
+  border: 2px solid #ff8500;
   outline: none;
   border-radius: 5px;
   min-width: 200px;
@@ -88,7 +88,7 @@ html {
   transition: all ease-in-out 0.5s; }
 
 .custom-btn-nobg:hover {
-  background: #26ccca;
+  background: #ff8500;
   color: #fff; }
 
 p {
@@ -171,7 +171,7 @@ header {
         left: 51%;
         right: 51%;
         bottom: 0;
-        background: #26ccca;
+        background: #ff8500;
         height: 3px;
         -webkit-transition-property: left, right;
         transition-property: left, right;
@@ -207,7 +207,7 @@ header {
         left: 51%;
         right: 51%;
         bottom: 0;
-        background: #26ccca;
+        background: #ff8500;
         height: 3px;
         -webkit-transition-property: left, right;
         transition-property: left, right;
@@ -225,19 +225,19 @@ header {
     header .navbar .navbar-nav .menu-item.custom-btn-bg-nav {
       margin-left: 10px; }
       header .navbar .navbar-nav .menu-item.custom-btn-bg-nav a {
-        background: #26ccca;
+        background: #ff8500;
         border-radius: 6px;
         position: relative;
         z-index: 1;
-        border: 1px solid #26ccca;
+        border: 1px solid #ff8500;
         color: #fff;
         -webkit-transition: all ease-in-out 0.5s;
         -moz-transition: all ease-in-out 0.5s;
         -o-transition: all ease-in-out 0.5s;
         transition: all ease-in-out 0.5s; }
         header .navbar .navbar-nav .menu-item.custom-btn-bg-nav a:hover {
-          border: 1px solid #26ccca;
-          color: #26ccca;
+          border: 1px solid #ff8500;
+          color: #ff8500;
           background: #fff; }
     header .navbar.fixed-top {
       background: #fff;
@@ -255,7 +255,7 @@ header {
         left: 51%;
         right: 51%;
         bottom: 0;
-        background: #26ccca;
+        background: #ff8500;
         height: 3px;
         -webkit-transition-property: left, right;
         transition-property: left, right;
@@ -303,7 +303,7 @@ header {
       position: relative;
       z-index: 1; }
       header .banner .contentSection_left .cta .btn-custom_withBg {
-        background: #26ccca;
+        background: #ff8500;
         font-size: 21px;
         font-family: "Roboto";
         font-weight: bold;
@@ -311,14 +311,14 @@ header {
         border-radius: 6px;
         position: relative;
         z-index: 1;
-        border: 1px solid #26ccca; }
+        border: 1px solid #ff8500; }
         header .banner .contentSection_left .cta .btn-custom_withBg:hover {
           -webkit-transition: all ease-in-out 0.5s;
           -moz-transition: all ease-in-out 0.5s;
           -o-transition: all ease-in-out 0.5s;
           transition: all ease-in-out 0.5s;
           background-color: #fff;
-          color: #26ccca; }
+          color: #ff8500; }
   header .banner .contentSection_right img {
     margin-left: -4px; }
 
@@ -390,12 +390,12 @@ header {
       padding: 0px 18px 5px 15px !important;
       border-radius: 50%;
       outline: none;
-      border: 1px solid #26ccca;
+      border: 1px solid #ff8500;
       transform: translate(-60px, -10px);
       text-align: center;
-      color: #26ccca; }
+      color: #ff8500; }
       .portfolio .owl-carousel-Packages .owl-nav .owl-prev:hover {
-        background: #26ccca;
+        background: #ff8500;
         color: #fff; }
     .portfolio .owl-carousel-Packages .owl-nav .owl-next {
       font-family: "Montserrat";
@@ -407,12 +407,12 @@ header {
       padding: 0px 15px 5px 18px !important;
       border-radius: 50%;
       outline: none;
-      border: 1px solid #26ccca;
+      border: 1px solid #ff8500;
       transform: translate(60px, -10px);
       text-align: center;
-      color: #26ccca; }
+      color: #ff8500; }
       .portfolio .owl-carousel-Packages .owl-nav .owl-next:hover {
-        background: #26ccca;
+        background: #ff8500;
         color: #fff; }
 
 .features .features-content {
@@ -447,7 +447,7 @@ header {
       margin: 15px auto 30px;
       line-height: 30px; }
     .features .features-content .feature-content-div.feature_bg {
-      background: #26ccca; }
+      background: #ff8500; }
       .features .features-content .feature-content-div.feature_bg .title {
         color: #fff; }
       .features .features-content .feature-content-div.feature_bg .subtitle {
@@ -576,7 +576,7 @@ header {
         background: #e1e1e1;
         border-radius: 12px; }
       .packages .tab-content .product-table .product-table-details::-webkit-scrollbar-thumb {
-        background-color: #26ccca;
+        background-color: #ff8500;
         outline: 1px solid #e1e1e1;
         border-radius: 12px; }
       .packages .tab-content .product-table .product-table-details p {
@@ -612,7 +612,7 @@ header {
         min-width: 220px;
         border: none;
         position: relative;
-        background: linear-gradient(to right, #26ccca, #075f5e);
+        background: linear-gradient(to right, #ff8500, #075f5e);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent; }
         .packages .tab-content .product-table .product-selectplan a.btn-producttable:before {
@@ -632,7 +632,7 @@ header {
           right: 0;
           bottom: 0;
           left: 0;
-          background: linear-gradient(to left, #26ccca, #075f5e);
+          background: linear-gradient(to left, #ff8500, #075f5e);
           z-index: -2;
           border-radius: 10px;
           margin: -1px; }
@@ -650,7 +650,7 @@ header {
       bottom: 25px;
       padding: 20px 20px 25px; }
       .packages .tab-content .product-table.popular-table:after {
-        background: #26ccca;
+        background: #ff8500;
         bottom: 58%; }
       .packages .tab-content .product-table.popular-table .stars {
         padding: 0px 0 10px;
@@ -693,13 +693,13 @@ header {
           font-family: "Font Awesome 5 Free";
           font-weight: 900;
           content: "\f00c";
-          color: #26ccca; }
+          color: #ff8500; }
     .packages .tab-content .product-table.combo-product .icon {
       display: inline-block;
       width: 45px;
       vertical-align: middle; }
       .packages .tab-content .product-table.combo-product .icon .fa {
-        color: #26ccca;
+        color: #ff8500;
         font-size: 32px; }
     .packages .tab-content .product-table.combo-product .strip-detial {
       display: inline-block;
@@ -736,7 +736,7 @@ header {
         min-width: 250px;
         border: none;
         position: relative;
-        background: linear-gradient(to right, #26ccca, #075f5e);
+        background: linear-gradient(to right, #ff8500, #075f5e);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent; }
         .packages .tab-content .product-table.combo-product .product-selectplan a:before {
@@ -756,7 +756,7 @@ header {
           right: 0;
           bottom: 0;
           left: 0;
-          background: linear-gradient(to left, #26ccca, #075f5e);
+          background: linear-gradient(to left, #ff8500, #075f5e);
           z-index: -2;
           border-radius: 10px;
           margin: -1px; }
@@ -785,12 +785,12 @@ header {
       padding: 0px 18px 5px 15px !important;
       border-radius: 50%;
       outline: none;
-      border: 1px solid #26ccca;
+      border: 1px solid #ff8500;
       transform: translate(-60px, -10px);
       text-align: center;
-      color: #26ccca; }
+      color: #ff8500; }
       .packages .owl-carousel-Packages .owl-nav .owl-prev:hover {
-        background: #26ccca;
+        background: #ff8500;
         color: #fff; }
     .packages .owl-carousel-Packages .owl-nav .owl-next {
       font-family: "Montserrat";
@@ -802,12 +802,12 @@ header {
       padding: 0px 15px 5px 18px !important;
       border-radius: 50%;
       outline: none;
-      border: 1px solid #26ccca;
+      border: 1px solid #ff8500;
       transform: translate(60px, -10px);
       text-align: center;
-      color: #26ccca; }
+      color: #ff8500; }
       .packages .owl-carousel-Packages .owl-nav .owl-next:hover {
-        background: #26ccca;
+        background: #ff8500;
         color: #fff; }
 
 .innovation {
@@ -919,7 +919,7 @@ header {
     width: 45px;
     vertical-align: middle; }
     .footer-contact-strip .icon .fa {
-      color: #26ccca;
+      color: #ff8500;
       font-size: 32px; }
   .footer-contact-strip .strip-detial {
     display: inline-block;
@@ -955,7 +955,7 @@ header {
   .footer-main .footer-main-title {
     font-family: "Roboto";
     font-weight: bold;
-    color: #26ccca;
+    color: #ff8500;
     font-size: 23px;
     padding-bottom: 15px; }
   .footer-main .footer-menu {
@@ -972,7 +972,7 @@ header {
       text-decoration: none;
       text-underline: none; }
       .footer-main .footer-menu li a:hover {
-        color: #26ccca;
+        color: #ff8500;
         -webkit-transition: color ease-in-out 0.5s;
         -moz-transition: color ease-in-out 0.5s;
         -o-transition: color ease-in-out 0.5s;

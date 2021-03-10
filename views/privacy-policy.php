@@ -63,7 +63,7 @@
         
         <div class="margin-bottom-20">
           <h3>Newsletter Opt-out</h3>
-          <p>If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at Or calling us at +44-016-1884-0966</p>
+          <p>If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at Or calling us at +442038087061</p>
         </div>
         <div class="margin-bottom-20">
           <h3>Social Media (Features) and Widgets</h3>
@@ -123,7 +123,7 @@
         </div>
         <div class="margin-bottom-20">
           <h3>Questions</h3>
-          <p>If you have any questions regarding our Privacy Policy or our use of your information, call our toll free number (+44-016-1884-0966) or email us on <a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></p>
+          <p>If you have any questions regarding our Privacy Policy or our use of your information, call our toll free number (+442038087061) or email us on <a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></p>
         </div>
       </div>
     </div>

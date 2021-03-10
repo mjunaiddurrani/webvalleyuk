@@ -63,23 +63,30 @@
         <div class="col-lg-2 mobile-res-logo">
           <div class="logo">
             <a href="/">
-              <img class="img-fluid" src="assets/images/logo.png" alt="*">
+              <img class="img-fluid" src="assets/images/logof.png" alt="*">
             </a>
           </div>
         </div>
         <div class="col-lg-12 d-flex ">
           <div class="main-menu align-self-center d-none d-lg-block">
             <ul class="forpgactive">
-              <li class="active"><a href="/">Home</a></li>
-              <li class=""><a href="/ecommerce-website-design/">Ecommerce Solutions</a></li>
-               <li class=""><a href="/web-app-development/">Web App Development</a></li>
+
+
+
+              <li class="home"><a href="/">Home</a></li>
+   
+              <li class="ecommerce"><a href="/ecommerce-website-design/">Ecommerce Solutions</a></li>
+              
+             
+              
+              <li class="web"><a href="/web-app-development/">Web App Development</a></li>
 
                    
-                    <li class=""><a href="/combo-packages/">Combo Packages</a></li>
-              <li class=""><a href="/packages/">Packages</a></li>
+                    <li class="combo"><a href="/combo-packages/">Combo Packages</a></li>
+              <li class="packages"><a href="/packages/">Packages</a></li>
               
-              <li class=""><a href="/portfolio/">Portfolio</a></li>
-              <li class=""><a href="/contact/">Contact</a></li>
+              <li class="portfolio"><a href="/portfolio/">Portfolio</a></li>
+              <li class="contact"><a href="/contact/">Contact</a></li>
               </ul>
           </div>
         </div>
@@ -111,7 +118,7 @@
 							<hr class="hrModal">
 							
 						</div>
-						<p class="text-center modal-para p-md-4">To schedule a consultation, please send us your details. We will guide you through the entire writing and publishing process.</p>
+						<p class="text-center modal-para p-md-4">To schedule a consultation, please send us your details.</p>
 						<form action="/leads/" method="POST" class="modal-fom">
 							<!-- <input type="hidden" name="setprice" class="setprice">	 -->
 							<div class="row">
@@ -131,8 +138,8 @@
 							</div>
 							
 								<label class="containerCheckBox">
-									<input  type="checkbox" name="subscription" checked disabled>
-									<span class="modal-check-para">I want to receive the latest news, updates and special offers directly to my inbox.</span>
+									<!-- <input  type="checkbox" name="subscription" checked disabled> -->
+									<span class="modal-check-para"> We will guide you through the entire writing and publishing process.</span>
 								</label>
 								<input type="hidden" name="set" value="true">
 								<div class="text-center pb-3">
@@ -149,4 +156,3 @@
     </div>
   </div>
 </div>
-

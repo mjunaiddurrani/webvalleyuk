@@ -54,7 +54,7 @@
 			</g>
 			<g>
 				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="289.2266" y1="59.2734" x2="238.9212" y2="8.9681">
-					<stop  offset="0" style="stop-color:#1ab4b2"/>
+					<stop  offset="0" style="stop-color:#ff7900"/>
 					<stop  offset="1" style="stop-color:#8128B9"/>
 				</linearGradient>
 				<path style="fill:url(#SVGID_1_);" d="M291.742,48.288c0,7.457-6.044,13.501-13.5,13.501h-31.323
