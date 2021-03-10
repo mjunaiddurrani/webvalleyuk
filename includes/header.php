@@ -70,16 +70,23 @@
         <div class="col-lg-12 d-flex ">
           <div class="main-menu align-self-center d-none d-lg-block">
             <ul class="forpgactive">
-              <li class="active"><a href="/">Home</a></li>
-              <li class=""><a href="/ecommerce-website-design/">Ecommerce Solutions</a></li>
-               <li class=""><a href="/web-app-development/">Web App Development</a></li>
+
+
+
+              <li class="home"><a href="/">Home</a></li>
+   
+              <li class="ecommerce"><a href="/ecommerce-website-design/">Ecommerce Solutions</a></li>
+              
+             
+              
+              <li class="web"><a href="/web-app-development/">Web App Development</a></li>
 
                    
-                    <li class=""><a href="/combo-packages/">Combo Packages</a></li>
-              <li class=""><a href="/packages/">Packages</a></li>
+                    <li class="combo"><a href="/combo-packages/">Combo Packages</a></li>
+              <li class="packages"><a href="/packages/">Packages</a></li>
               
-              <li class=""><a href="/portfolio/">Portfolio</a></li>
-              <li class=""><a href="/contact/">Contact</a></li>
+              <li class="portfolio"><a href="/portfolio/">Portfolio</a></li>
+              <li class="contact"><a href="/contact/">Contact</a></li>
               </ul>
           </div>
         </div>
@@ -149,4 +156,3 @@
     </div>
   </div>
 </div>
-

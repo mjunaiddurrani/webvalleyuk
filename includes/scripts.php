@@ -118,5 +118,31 @@ setTimeout(function(){
        $zopim.livechat.hideAll();
     });
 }, 2000);
+
+
+
+
+
+
+
+
+if(window.location.pathname=="/"){
+  $('.home').addClass('active');
+}else if(window.location.pathname=="/ecommerce-website-design/"){
+  $('.ecommerce').addClass('active');
+}else if(window.location.pathname=="/web-app-development/"){
+  $('.web').addClass('active');
+}else if(window.location.pathname=="/combo-packages/"){
+  $('.combo').addClass('active');
+}else if(window.location.pathname=="/packages/"){
+  $('.packages').addClass('active');
+}else if(window.location.pathname=="/portfolio/"){
+  $('.portfolio').addClass('active');
+}else if(window.location.pathname=="/contact/"){
+  $('.contact').addClass('active');
+}
+
+
+
 </script>
 

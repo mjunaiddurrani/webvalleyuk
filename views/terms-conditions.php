@@ -49,7 +49,7 @@
 
 <p><strong>Refund Policy / Money Back Guarantee</strong></p>
 <p>Please be advised that 30% administration charges will be applicable on all orders cancelled within 24 hours IF they are not initiated. Furthermore, the refund policy will be void in case there's a change of mind.</p>
-<p>In any event, any deposited funds for a project shall not be subject to refund after delivery if the initial design concepts are approved, or a change is requested unless websitevallery cancels or terminates your Contract for a reason other than your breach or non-performance. </p>
+<p>In any event, any deposited funds for a project shall not be subject to refund after delivery if the initial design concepts are approved, or a change is requested unless websitevalley cancels or terminates your Contract for a reason other than your breach or non-performance. </p>
 
 <ul>
         <p> <strong>All refund requests will be fulfilled as per the following arrangement:</strong></p>
