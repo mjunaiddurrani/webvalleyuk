@@ -2428,10 +2428,8 @@ Place purchasing requests.</li>
 <section class="dptestimonials new-testi">
   <div class="container">
     <div class="row">
-      <div class="col-lg-4 my-auto">
-        <h2>Our business is built from satisfied clients</h2>
-      </div>
-      <div class="col-lg-7 ">
+
+      <div class="col-lg-12">
          <ul class="testwrap sldrtstmnl">
           <li>
             <div class="testbox">

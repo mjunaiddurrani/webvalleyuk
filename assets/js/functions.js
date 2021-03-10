@@ -750,7 +750,7 @@ $(".sldrtstmnl").slick({
     centerMode:true,
     centerPadding:'120px 0 0',
     speed: 1000,
-    slidesToShow: 1,
+    slidesToShow: 2,
     autoplay: true,
     slidesToScroll: 1,
     responsive: [
