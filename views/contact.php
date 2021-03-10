@@ -90,6 +90,8 @@
             <div class="chunk">
               <h3>Headquarters</h3>
               <p> 86-90 Paul Street, London <br>EC2A 4NE, UK</p>
+              <br>
+              <p> 104 Meads Lane, Ilford IG3<br> 8PE, UK</p>
             </div>
             <div class="chunk">
               <h3>Phone</h3>

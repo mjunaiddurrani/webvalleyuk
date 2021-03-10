@@ -84,7 +84,6 @@ function isNumberKey(t){var e=t.which?t.which:event.keyCode;return!(e>31&&(e<48|
 </script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
 <?php 
        	if(isset($_REQUEST['successMsg'])){
           if ($_REQUEST['status']==1) {
@@ -120,7 +119,18 @@ setTimeout(function(){
 }, 2000);
 
 
-
+$(".fancybox").fancybox({
+        openEffect: "none",
+        closeEffect: "none"
+    });
+    
+    $(".zoom").hover(function(){
+		
+		$(this).addClass('transition');
+	}, function(){
+        
+		$(this).removeClass('transition');
+	});
 
 
 
