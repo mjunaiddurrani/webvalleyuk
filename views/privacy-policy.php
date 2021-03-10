@@ -123,7 +123,7 @@
         </div>
         <div class="margin-bottom-20">
           <h3>Questions</h3>
-          <p>If you have any questions regarding our Privacy Policy or our use of your information, call our toll free number (+44-016-1884-0966) or email us on <a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></p>
+          <p>If you have any questions regarding our Privacy Policy or our use of your information, call our toll free number (+442038087061) or email us on <a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></p>
         </div>
       </div>
     </div>
