@@ -1142,7 +1142,7 @@ padding: 0; cursor: pointer; }
 
 /* footer 
 ------------------------------------*/
-.footer-main {background: #1e4763;}
+.footer-main {background:linear-gradient(to right,#2b5876  0%,#4e4376 100%);}
 .footer-top {padding: 40px 0 0;}
 .footer-top h4 {color: white;font-size: 14px;font-weight: 700;text-transform: uppercase;margin: 10px 0;padding:0px;position: relative;}
 .address-main {}
