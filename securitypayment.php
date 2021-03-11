@@ -118,6 +118,119 @@ ini_set('display_errors', 1);
     background-color: #f8f9fa8a;
     padding: 15px 0;
 }
+
+body{
+		font-family: "Nunito";
+	}
+	.containerCheckBox span{
+		font-size:14px;
+	}
+	a:hover{
+		text-decoration: none;
+	}
+	.section1 {
+	    background-image: url(../img/section1/checkout.jpg);
+	    background-size: cover;
+	    background-repeat: no-repeat;
+	    min-height: 350px;
+	    padding-bottom: 108px;
+	}
+	.section2{
+		background:none;
+		color: black;
+	}
+	.paymentHeading{
+		color: green;
+		font-family: "Nunito";
+		font-weight: 600;
+	}
+	.paymentTabs{
+		margin-top: 40px;
+	}
+	.tab{
+		padding: 20px 10px;
+		border:3px solid #b0aeae;
+		border-radius: 10px;
+		margin:0 auto;
+		text-align: center;
+		transition: .4s ease-in-out;
+	}
+	.tab:hover{
+		border: 3px solid green;
+		transition: .4s ease-in-out;
+	}
+	.tab.active{
+		border:3px solid green;
+		
+	}
+	.tab.active::before{
+		font-family: "FontAwesome";
+		position: absolute;
+		right: 0;
+		top: -20px;
+		content: "\f058";
+		font-size: 40px;
+		font-weight: 200;
+		color: green;
+		background:white;
+		height: 40px;
+
+	}
+	.paymentDescription{
+		font-size: 18px;
+		font-weight: 800;
+		font-family: "Nunito";
+		color: #b0aeae;
+		transition: .4s ease-in-out;
+	}
+	.tab.active .paymentDescription{
+		color: green;
+	}
+	.tab:hover .paymentDescription{
+		color: green;
+		transition: .3s ease-in-out;
+	}
+	.myCardPay{
+		background:#fcfcfc;
+		margin-top: 40px;
+		width: 100% !important;
+	}
+	.card-heading{
+		text-align: center;
+		font-family: "Nunito";
+		font-weight: 800;
+		font-size: 23px;
+	}
+	.submitPay{
+		font-size: 20px;
+		font-weight: 700;
+		font-family: "Nunito";
+		padding:18px 50px;
+	}
+	.authorizeForm *{
+		font-family: "Nunito";
+	}
+	label{
+		float:left !important;
+	}
+    @media (max-width: 767px){
+		.card-body{
+			padding-left:50px !important;
+			padding-right:50px !important;
+		}
+		.myContainer{
+			margin-top:10px !important;
+		}
+
+
+.table td, .table th {
+
+    font-size: 9px !important;
+}
+
+
+
+	}
 </style>
 </head>
 <body>
