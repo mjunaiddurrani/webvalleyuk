@@ -94,8 +94,6 @@
            </li>
          </ul>
          
-        <p><strong>My Account</strong></p> 
-        <p>The My Account area is a convenient way to communicate. It is your sole responsibility to check the account area to address any queries, concerns, or additional instructions required by the designer. Not checking or using the Account Area frequently shall not provide you adequate grounds for a refund. However, if you are uncertain how to use the area, you may contact the customer support team at any time for assistance.</p>
 
     </div>
 

@@ -71,8 +71,8 @@
         </div>
         <div class="margin-bottom-20">
           <h3>3rd Party Sharing</h3>
-          <p>Personal information will NOT be released to third parties unless as described in this policy. There are no circumstances under<p>
-          <p>which we sell personal information to third parties.</p>
+          <p>Personal information will NOT be released to third parties unless as described in this policy. There are no circumstances under
+        which we sell personal information to third parties.</p>
           <p>We use credit card processing companies to bill you for services. These companies do not retain, share, store or use personally identifiable information for any other purposes. We also use Live Person to provide live customer support chat on our website. These companies are authorized to use your personal information only as necessary to provide these services to us.</p>
         </div>
         <div class="margin-bottom-20">

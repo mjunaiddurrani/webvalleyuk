@@ -115,8 +115,8 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Web apps that stand out</h2>
-          <p>The seamless user experience will make you love your product as much as your customers do <br><br>With Website Valleyas your web development agency, you receive: qualified web resources, user-centric solutions, state-of-the-art facilities, a standardized approach, authorized credentials and a proven track record.</p>
+          <h2>Web Apps That Stand Out</h2>
+          <p>The seamless user experience will make you love your product as much as your customers do. <br><br>With Website Valley as your web development agency, you receive: qualified web resources, user-centric solutions, state-of-the-art facilities, a standardized approach, authorized credentials and a proven track record.</p>
           <ul class="whatlist">
             <li>
               <figure>
@@ -173,7 +173,7 @@
       <div class="col-lg-12">
         
         <div class="text text-center">
-          <h2>Let’s look at some of our Website Designs and Developments.</h2>
+          <h2>Let’s look at some of our Web App Developments.</h2>
           <p>Sometimes, samples are what make you understand the job better.</p>  
         </div>
 
