@@ -2686,7 +2686,7 @@ Place purchasing requests.</li>
       <div class="col-lg-6 inner-content text-left">
         <div class="form-box-main clearfix">
   <h2>Let’s talk about your next Big thing!</h2>
-  <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
+  <p>Heads up! We require that you sign up for Website Valley services and packages. We make all your dreams come true in a successful project.</p>
 <?php include_once('includes/form.php');?>
 </div>
 

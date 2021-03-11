@@ -39,7 +39,7 @@
           <div class="row">
             <div class=" col-lg-5">
               <div class="home-banner-content">
-                <h1>Increase your revenues with e-commerce development company</h1>
+                <h1>Maximize your ROI with Custom E-Commerce Website Development</h1>
                 <p class="subtitle">We will help you sell your products and services globally with a robust, stable, and secure online e-commerce system.</p>
                 <ul class="myticks">
                   <li>Bring the World to Your Website</li>
@@ -107,7 +107,7 @@
       <div class="col-lg-6">
         <div class="txtwrap">
           <h2>Let us be your ecommerce development agency</h2>
-          <p>We offer 350+ successful projects, ultimate shopping experiences, proven expertise in M-commerce, 100% responsive websites, magento certified developers and interactive user interfaces</p>
+          <p>We offer 350+ successful projects, ultimate shopping experiences, proven expertise in E-commerce, 100% responsive websites, magento certified developers and interactive user interfaces.</p>
           <ul class="whatlist">
             <li>
               <figure>
