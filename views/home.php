@@ -301,7 +301,7 @@ include_once('includes/head.php');
               </figure>
               <div class="textpart">
                 <h3>Website Design &amp; Prototype</h3>
-                <p>Our dedicated Website Development Team becomes your partner.Website Developers breathe your vision, understand your product and focus on reaching your business goals.</p>
+                <p>Our dedicated Website Development Team becomes your partner. Website Developers breathe your vision, understand your product and focus on reaching your business goals.</p>
               </div>
             </li>
             <li>
@@ -310,7 +310,7 @@ include_once('includes/head.php');
               </figure>
               <div class="textpart">
                 <h3>Website Maintenance</h3>
-                <p>We have dedicated teams of technical consultants, website designers, website developers, testers, and social marketers to help you with maintenance of your website weather it is on wordpress or any other platform.</p>
+                <p>We have dedicated teams of technical consultants, website designers, website developers, testers, and social marketers to help you with maintenance of your website whether  it is on wordpress or any other platform.</p>
               </div>
             </li>
           </ul>
@@ -336,7 +336,7 @@ include_once('includes/head.php');
 
 
 
-<section class="sec-padding pricing-sec portfolion">
+<section class="sec-padding pricing-sec portfolion pt-5">
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-12"> 
@@ -2639,7 +2639,7 @@ Place purchasing requests.</li>
         <div class="quality-img">
           <img src="assets/images/ownership-rights.svg" alt="">
         </div>
-        <h3 class="noplus timer">100%</h3>
+        <h3 class="noplus "><span class="timer">100</span>%</h3>
         <h4 class="mad textcentre">Ownership Rights</h4>
         </div>
       </div>
