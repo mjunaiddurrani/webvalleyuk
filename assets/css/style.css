@@ -181,7 +181,7 @@ font-size: 13px; color:var(--secondary-color); content: "\e93a"; font-family: 'i
 }
 .top-info-list li a:hover {color: #ffffff;}
 
-.nav-area-full {box-shadow: 0 2px 20px #01010130;padding: 17px 0 16px;width: 100%;position: fixed;top: 48px;background: #380833;border-bottom: 1px solid #ffffff24;}
+.nav-area-full {box-shadow: 0 2px 20px #01010130;padding: 17px 0 16px;width: 100%;position: fixed;top: 48px;background: #2A4B67;border-bottom: 1px solid #ffffff24;}
 
 .logo {
     width: 100%;
@@ -1212,7 +1212,7 @@ padding: 0; cursor: pointer; }
 .footer-nav2 li:first-child:before { display: none; }
 .footer-nav2 li a {font-size: 13px;font-weight: 400;color: #cbd6e2;}
 .footer-nav2 li a:hover {color: #fff;}
-.copyright {padding: 19px 0;margin: 0px;font-size: 12px;color: #cbd6e2;}
+.copyright {padding: 25px 0;margin: 0px;font-size: 12px;color: #cbd6e2;}
 .copyright span {color: #cbd6e2;}
 .disclaimer-area { background: black; padding: 10px 0; }
 .disclaimer { font-size: 11px; font-weight: 400; color: white; line-height: 18px; margin: 0; padding: 10px 0; }
@@ -3116,7 +3116,7 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
 /*.counter:before{position: absolute;top:0px;left:0px;content:"";background: #272b34;width:50%;z-index: 1;height:120px;}*/
 
 .pricing-sec{
-    background: linear-gradient(to bottom, #FFEAEA 0%,rgba(255,255,255,0) 100%);
+    background: linear-gradient(to bottom, #daeef4 0%,rgba(255,255,255,0) 100%);
     width: 100%;
     padding: 6px 0 40px;
     background-size: cover;
@@ -3134,7 +3134,7 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
 }
 .sec-padding.pricing-sec.portfolion .port-hed{    margin-top: 55px;}
 .portfolio-page.pricing-sec:before {
-    background: linear-gradient(to bottom, #FFEAEA 0%,rgba(255,255,255,0) 100%);
+    background: linear-gradient(to bottom, #daeef4 0%,rgba(255,255,255,0) 100%);
     content: "";
     position: absolute;
     width: 100%;
@@ -3143,7 +3143,7 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
 
 .overlaybox{position: relative;}
 .overlaybox:before{
-    background: linear-gradient(to bottom, #FFEAEA 0%,rgba(255,255,255,0) 100%)
+    background: linear-gradient(to bottom, #daeef4 0%,rgba(255,255,255,0) 100%)
     content: "";
     position: absolute;
     width: 100%;
@@ -3908,14 +3908,14 @@ section.faqsection {}
 .footer-bottom .fologo{
     width: 250px;
     margin-bottom: 5px;
-    margin-top: 5px;    
+    margin-top: 22px;    
 }
 .footer-bottom .fologo img{width: 100%;}
 
 .oddinner-banner{
     height: 350px;
     margin-top: 40px;
-   background:  linear-gradient(to bottom, #FFEAEA 0%,rgba(255,255,255,0) 100%)
+   background:  linear-gradient(to bottom, #daeef4 0%,rgba(255,255,255,0) 100%)
 }
 .oddinner-banner .inner-banner-content{
     padding-right: 0;
@@ -4340,6 +4340,7 @@ padding-bottom: 30px;
     color: #273b57;
     background: #ffffff;
     border:none;
+    font-weight: 600;
 }
 .smallboxes .smallbox .price-btnwrap a.btn-packages,.smallboxes .smallbox .price-btnwrap a.btn-packages:hover{
     background: linear-gradient(to right,#2b5876  0%,#4e4376 100%) ;
@@ -5487,7 +5488,7 @@ and(-webkit-min-device-pixel-ratio:0) { @media
 section.qualities{
     padding: 60px 0;
     border-bottom: 1px solid #f1f1f1;
-    background: #fff2f2;
+    background: #e3f2f6;
 }
 section.qualities .quality-img img {width: 100%;}
 section.qualities .quality-img {
@@ -6958,7 +6959,7 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
 
 .mprocess{
     padding: 40px 0;
-    background-color: #fff2f2;
+    background-color: #e3f2f6;
 }
 .mprocess .txtwrap{}
 .mprocess .txtwrap h2{
@@ -8209,7 +8210,7 @@ section.call-actions h3 span {
     z-index: -999999;
     width: 100%;
     height: 450px;
-    background: linear-gradient(to bottom, #FFEAEA 0%,#FFF 100%)
+    background: linear-gradient(to bottom, #daeef4 0%,#FFF 100%)
 }
 .packages-sec-before h2{color: #171717;}
 .packages-sec-before p{color: #687087;}
