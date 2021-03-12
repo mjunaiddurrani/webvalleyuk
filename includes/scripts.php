@@ -84,7 +84,6 @@ function isNumberKey(t){var e=t.which?t.which:event.keyCode;return!(e>31&&(e<48|
 </script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
 <?php 
        	if(isset($_REQUEST['successMsg'])){
           if ($_REQUEST['status']==1) {
@@ -118,5 +117,42 @@ setTimeout(function(){
        $zopim.livechat.hideAll();
     });
 }, 2000);
+
+
+$(".fancybox").fancybox({
+        openEffect: "none",
+        closeEffect: "none"
+    });
+    
+    $(".zoom").hover(function(){
+		
+		$(this).addClass('transition');
+	}, function(){
+        
+		$(this).removeClass('transition');
+	});
+
+
+
+
+
+if(window.location.pathname=="/"){
+  $('.home').addClass('active');
+}else if(window.location.pathname=="/ecommerce-website-design/"){
+  $('.ecommerce').addClass('active');
+}else if(window.location.pathname=="/web-app-development/"){
+  $('.web').addClass('active');
+}else if(window.location.pathname=="/combo-packages/"){
+  $('.combo').addClass('active');
+}else if(window.location.pathname=="/packages/"){
+  $('.packages').addClass('active');
+}else if(window.location.pathname=="/portfolio/"){
+  $('.portfolio').addClass('active');
+}else if(window.location.pathname=="/contact/"){
+  $('.contact').addClass('active');
+}
+
+
+
 </script>
 

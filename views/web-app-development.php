@@ -115,8 +115,8 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Web apps that stand out</h2>
-          <p>The seamless user experience will make you love your product as much as your customers do <br><br>With Website Valleyas your web development agency, you receive: qualified web resources, user-centric solutions, state-of-the-art facilities, a standardized approach, authorized credentials and a proven track record.</p>
+          <h2>Web Apps That Stand Out</h2>
+          <p>The seamless user experience will make you love your product as much as your customers do. <br><br>With Website Valley as your web development agency, you receive: qualified web resources, user-centric solutions, state-of-the-art facilities, a standardized approach, authorized credentials and a proven track record.</p>
           <ul class="whatlist">
             <li>
               <figure>
@@ -173,7 +173,7 @@
       <div class="col-lg-12">
         
         <div class="text text-center">
-          <h2>Let’s look at some of our Website Designs and Developments.</h2>
+          <h2>Let’s look at some of our Web App Developments.</h2>
           <p>Sometimes, samples are what make you understand the job better.</p>  
         </div>
 
@@ -843,8 +843,8 @@ Place purchasing requests.</li>
                 <h3>JV</h3>
               </div>
               <div class="usertest">
-                <h4>websitevallery Rocked!!</h4>
-                <p>I am extremely happy with websitevallery. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
+                <h4>Websitevalley Rocked!!</h4>
+                <p>I am extremely happy with websitevalley. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
                 <h6>— Mike Miller, Project Owner</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -863,7 +863,7 @@ Place purchasing requests.</li>
                 <h3>TR</h3>
               </div>
               <div class="usertest">
-                <h4>Big Shout-out to the websitevallery Team!!</h4>
+                <h4>Big Shout-out to the websitevalley Team!!</h4>
                 <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -884,7 +884,7 @@ Place purchasing requests.</li>
               </div>
               <div class="usertest">
                 <h4>We Couldn't Ask for a Better Job!!</h4>
-                <p>I want to thank websitevallery team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevallery in the future. </p>
+                <p>I want to thank websitevalley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevalley in the future. </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>

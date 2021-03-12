@@ -39,7 +39,7 @@
           <div class="row">
             <div class=" col-lg-5">
               <div class="home-banner-content">
-                <h1>Increase your revenues with e-commerce development company</h1>
+                <h1>Maximize your ROI with Custom E-Commerce Website Development</h1>
                 <p class="subtitle">We will help you sell your products and services globally with a robust, stable, and secure online e-commerce system.</p>
                 <ul class="myticks">
                   <li>Bring the World to Your Website</li>
@@ -107,7 +107,7 @@
       <div class="col-lg-6">
         <div class="txtwrap">
           <h2>Let us be your ecommerce development agency</h2>
-          <p>We offer 350+ successful projects, ultimate shopping experiences, proven expertise in M-commerce, 100% responsive websites, magento certified developers and interactive user interfaces</p>
+          <p>We offer 350+ successful projects, ultimate shopping experiences, proven expertise in E-commerce, 100% responsive websites, magento certified developers and interactive user interfaces.</p>
           <ul class="whatlist">
             <li>
               <figure>
@@ -652,8 +652,8 @@
                 <h3>JV</h3>
               </div>
               <div class="usertest">
-                <h4>websitevallery Rocked!!</h4>
-                <p>I am extremely happy with websitevallery. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
+                <h4>Websitevalley Rocked!!</h4>
+                <p>I am extremely happy with websitevalley. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
                 <h6>— Mike Miller, Project Owner</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -672,7 +672,7 @@
                 <h3>TR</h3>
               </div>
               <div class="usertest">
-                <h4>Big Shout-out to the websitevallery Team!!</h4>
+                <h4>Big Shout-out to the websitevalley Team!!</h4>
                 <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -693,7 +693,7 @@
               </div>
               <div class="usertest">
                 <h4>We Couldn't Ask for a Better Job!!</h4>
-                <p>I want to thank websitevallery team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevallery in the future. </p>
+                <p>I want to thank websitevalley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevalley in the future. </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>

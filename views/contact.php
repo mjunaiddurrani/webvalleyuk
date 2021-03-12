@@ -34,7 +34,7 @@
 
 
 <div class="overlaybox">
-<section class="oddinner-banner d-flex" style="background-image: url(assets/images/banners/contact-banner.png);">
+<section class="oddinner-banner d-flex" style="linear-gradient(to bottom, #FFEAEA 0%,rgba(255,255,255,0) 100%);">
   <div class="container align-self-center">
     <div class="row">
       <div class="col-lg-12">
@@ -90,6 +90,8 @@
             <div class="chunk">
               <h3>Headquarters</h3>
               <p> 86-90 Paul Street, London <br>EC2A 4NE, UK</p>
+              <br>
+              <p> 104 Meads Lane, Ilford IG3<br> 8PE, UK</p>
             </div>
             <div class="chunk">
               <h3>Phone</h3>

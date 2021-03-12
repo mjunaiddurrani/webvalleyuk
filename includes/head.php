@@ -32,8 +32,8 @@ if (isset($_SERVER['HTTPS'])) {
 		color:#fff;
 	}
 	#modalForDiscount button{
-		color:#000;
-		background:#fdee3d;
+		color: #fff;
+background: #ff7b00;
 	}
 	#modalForDiscount input,
 	#modalForDiscount textarea{

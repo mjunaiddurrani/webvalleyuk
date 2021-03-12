@@ -188,7 +188,7 @@ ul, li {
     /* margin-bottom: 32px; */
     /* margin-right: 25px; */
     margin: 12px 12px;
-    border: 2px solid #26ccca;
+    border: 2px solid #ff8500;
     -webkit-transition: all 200ms ease-in;
     -webkit-transform: scale(1.05);
     -ms-transition: all 200ms ease-in;
@@ -212,7 +212,7 @@ ul, li {
 }
 .smallboxes .smallbox h2 {
     font-size: 44px;
-    color: #26ccca;
+    color: #ff8500;
     padding-bottom: 0;
     text-align: left;
     line-height: 1;
@@ -323,7 +323,7 @@ ul, li {
 
 
 .smallboxes .smallbox .price-btnwrap a.btn-packages, .smallboxes .smallbox .price-btnwrap a.btn-packages:hover {
-  background: #26ccca;
+  background: #ff8500;
     color: #fff;
     text-decoration: none;
 }
@@ -363,7 +363,7 @@ ul, li {
     padding: 0px 0 12px 0;
     font-size: 12px;
     text-transform: uppercase;
-    color: #26ccca;
+    color: #ff8500;
     text-align:center;
     background: #ffffff;
     border: none;
@@ -379,7 +379,7 @@ ul, li {
 
 
 .smallboxes .smallbox .price-btnwrap a.btn-packages, .smallboxes .smallbox .price-btnwrap a.btn-packages:hover {
-    background: #26ccca;
+    background: #ff8500;
     color: #fff;
     text-decoration: none;
     display: block;
@@ -673,7 +673,7 @@ body {background: #eee;}
     /* padding: 0px 0 12px 0; */
     font-size: 11px  !important;
     text-transform: uppercase;
-    color: #26ccca;
+    color: #ff8500;
     text-align: center;
     background: #ffffff;
     border: none;
@@ -3290,7 +3290,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
 .floatbutton.active .floating-overlay{display:block;}
 .floatbutton .clickbutton{width: 50px;z-index: 99;height: 50px;cursor: pointer;/*box-shadow: -20px 0 35px #0000001f;*/border-radius: 40px 0px 0px 40px;/*background: #fff;*/display: inline-block;padding-top: 0;vertical-align: top;margin-top: 140px;}
 .floatbutton .clickbutton .crossplus{
-    background: linear-gradient(to right, #26ccca 0%, #1ab4b2 100%);
+    background: linear-gradient(to right, #ff8500 0%, #ff7900 100%);
     /* height: 76px; */
     width: 152px;
     left: 0;
@@ -3350,7 +3350,7 @@ p.parafloat span {
     line-height: 40px;
 }
 /*.floatbutton .clickbutton .crossplus.rotate{transform: rotate(45deg);-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;}*/
-.floatbutton .clickbutton .crossplus i {font-size: 18px;color: #26ccca;margin: 4px 0 0 13px;}
+.floatbutton .clickbutton .crossplus i {font-size: 18px;color: #ff8500;margin: 4px 0 0 13px;}
 .floatbutton .banner-form{background: #fff;padding: 20px 30px 20px 20px;position: relative;z-index: 9;border-radius: 5px 0 0 5px;margin: 0;width: 450px;max-width: 650px;display: inline-block;box-shadow: 0px 0px 30px #0000001f;}
 .floatbutton .banform{}
 .floatbutton .ban-form{}
@@ -3369,7 +3369,7 @@ p.parafloat span {
     top: 14px;
     left: 30px;
     font-size: 14px;
-    color: #26ccca;
+    color: #ff8500;
 }
 .floatbutton .col-lg-6, .floatbutton .col-lg-12{
     padding-right: 0px;
@@ -3391,11 +3391,11 @@ p.parafloat span {
     width: 5px;
     height: 85%;
     border-radius: 15px;
-    background-color: #26ccca;
+    background-color: #ff8500;
 }    
 .floatbutton .banner-form h3 strong {    font: 24px/24px "gilroy-bold", sans-serif;text-align: left;
     font-weight: 800;}
-.floatbutton .ban-form input[type="submit"]{width:50% !important;color: #fff;font-weight: 600;background: linear-gradient(to right, #26ccca 0%, #1ab4b2 100%);border-radius: 6px;text-align: center;padding: 10px 15px;margin: 20px 0 0;border: transparent;}
+.floatbutton .ban-form input[type="submit"]{width:50% !important;color: #fff;font-weight: 600;background: linear-gradient(to right, #ff8500 0%, #ff7900 100%);border-radius: 6px;text-align: center;padding: 10px 15px;margin: 20px 0 0;border: transparent;}
 .floatbutton .ban-form textarea{position:relative;width: 100%;border: 1px solid #e5e5e5;background: white;padding: 10px 15px 10px 40px;color: gray;font-size: 14px;border-radius: 8px;font-weight: 400;height: 90px;outline: none !important;margin: 0px 0 0px 0;}
 
 .floatbutton .ban-form textarea + i{
@@ -3403,7 +3403,7 @@ p.parafloat span {
     top: 16px;
     left: 30px;
     font-size: 14px;
-    color: #26ccca
+    color: #ff8500
 }
 .floating-overlay {
     position: fixed;
@@ -3436,11 +3436,11 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
 .floating_wrap .btns_wrap a:hover{text-decoration: none!important;right: 0px;}
 .floating_wrap .btns_wrap .call_wrap{width: 275px; position: absolute; right: -225px; background: #fff; top: 60px; border-radius: 50px 0px 0px 50px; overflow: hidden; box-shadow: 0px 0px 40px #00000026 !important; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; }
 
-.floating_wrap .btns_wrap .call_wrap span{color:#26ccca; font-size: 20px; vertical-align: middle; background: #fff; padding: 15px 20px 15px 15px; }
+.floating_wrap .btns_wrap .call_wrap span{color:#ff8500; font-size: 20px; vertical-align: middle; background: #fff; padding: 15px 20px 15px 15px; }
 .floating_wrap .btns_wrap .chat_wrap{display: block; position: absolute; right: -225px; width: 275px; background: #fff; top: 0; border-radius: 0px; overflow: hidden; box-shadow: 0px 0px 40px #00000026 !important; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; border-radius: 50px 0px 0px 50px; }
 .floating_wrap .btns_wrap .chat_wrap span.icoo,
-.floating_wrap .btns_wrap .call_wrap span.icoo{color:#26ccca; background: #fff; font-size: 20px; line-height: 1; padding: 14px 20px; border-right: 1px solid #ded9d9; vertical-align: middle; display: inline-block; border-radius: 50px 0px 0px 50px; }
-.floating_wrap .btns_wrap .chat_wrap span{color:#26ccca; font-size: 20px; vertical-align: middle; background: #fff; padding: 15px 30px 15px 15px; }
+.floating_wrap .btns_wrap .call_wrap span.icoo{color:#ff8500; background: #fff; font-size: 20px; line-height: 1; padding: 14px 20px; border-right: 1px solid #ded9d9; vertical-align: middle; display: inline-block; border-radius: 50px 0px 0px 50px; }
+.floating_wrap .btns_wrap .chat_wrap span{color:#ff8500; font-size: 20px; vertical-align: middle; background: #fff; padding: 15px 30px 15px 15px; }
 
 
 

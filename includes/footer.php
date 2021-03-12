@@ -38,13 +38,15 @@
             <li><a href="tel:+442038087061">+442038087061</a></li>
             <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
             <li><a class="address"> 86-90 Paul Street, London <br>EC2A 4NE, UK</a></li>
+            <br>
+            <li><a class="address"> 104 Meads Lane, Ilford IG3<br> 8PE, UK</a></li>
           </ul>
-          <ul class="scalmdia">
-              <li><a href="https://www.facebook.com/websitevalleryUK/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="https://twitter.com/websitevalleryuk"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.instagram.com/websitevalleryuk/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.linkedin.com/company/websitevallery"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-          </ul>
+          <!-- <ul class="scalmdia">
+              <li><a href="https://www.facebook.com/websitevalleyUK/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/websitevalleyuk"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.instagram.com/websitevalleyuk/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/websitevalley"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+          </ul> -->
         </div>  
       </div>
       <div class="row">
@@ -94,14 +96,23 @@
   <div class="footer-bottom">
     <div class="container">
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-4">
           <div class="fologo">
             <img src="assets/images/logof.png" alt="">
           </div>
-          <p class="copyright">&copy; websitevallery <span id="year"></span>. All rights reserved.</p>
+       
+        </div>
+
+
+        <div class="col-sm-4">
+          <div class="focopy">
+          <p class="copyright">&copy; websitevalley <span id="year"></span>. All rights reserved.</p>
+          </div>
+       
         </div>
         
-        <div class="col-sm-6">
+        
+        <div class="col-sm-4">
           <ul class="footer-nav2">
             <li><a href="/terms-conditions/" title=""> Terms of Services</a></li>
             <li><a href="/privacy-policy/" title="">Privacy Policy</a></li>
