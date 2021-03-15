@@ -4568,7 +4568,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2545b', end
 }
 .header-main .secondlogo{
     position: relative;
-    padding-top: 10px;
+    padding-top: 15px;
     margin-right: 40px;
     display: inline-block;
     z-index: 9;
