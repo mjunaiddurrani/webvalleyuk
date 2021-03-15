@@ -836,7 +836,7 @@ include_once('includes/head.php');
 
 
 
-<section class="sec-padding pricing-sec packages-sec-before" style="background: linear-gradient(to top, #FFEAEA 0%,rgba(255,255,255,0) 20%);">
+<section class="sec-padding pricing-sec packages-sec-before" style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%);">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
