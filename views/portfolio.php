@@ -387,29 +387,29 @@
           <div id="webdd" class="tab-pane active">
             <ul class="portfoliolist grid loadmoreweb web-design-portfolio-slider">
               <div>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.png"><img src="assets/images/portfolio/web/thumbnail/1.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.png"><img src="assets/images/portfolio/web/thumbnail/2.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.png"><img src="assets/images/portfolio/web/thumbnail/3.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.png"><img src="assets/images/portfolio/web/thumbnail/4.png" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/1.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/2.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.jpg"><img src="assets/images/portfolio/web/thumbnail/3.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.jpg"><img src="assets/images/portfolio/web/thumbnail/4.jpg" / alt=""></a></li>
 
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.png"><img src="assets/images/portfolio/web/thumbnail/5.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.png"><img src="assets/images/portfolio/web/thumbnail/6.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.png"><img src="assets/images/portfolio/web/thumbnail/7.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.png"><img src="assets/images/portfolio/web/thumbnail/8.png" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.jpg"><img src="assets/images/portfolio/web/thumbnail/5.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.jpg"><img src="assets/images/portfolio/web/thumbnail/6.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.jpg"><img src="assets/images/portfolio/web/thumbnail/7.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.jpg"><img src="assets/images/portfolio/web/thumbnail/8.jpg" / alt=""></a></li>
 
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.png"><img src="assets/images/portfolio/web/thumbnail/9.png" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.jpg"><img src="assets/images/portfolio/web/thumbnail/9.jpg" / alt=""></a></li>
 </div>
 <div>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.png"><img src="assets/images/portfolio/web/thumbnail/10.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.png"><img src="assets/images/portfolio/web/thumbnail/11.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.png"><img src="assets/images/portfolio/web/thumbnail/12.png" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.jpg"><img src="assets/images/portfolio/web/thumbnail/10.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.jpg"><img src="assets/images/portfolio/web/thumbnail/11.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.jpg"><img src="assets/images/portfolio/web/thumbnail/12.jpg" / alt=""></a></li>
 
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.png"><img src="assets/images/portfolio/web/thumbnail/13.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.png"><img src="assets/images/portfolio/web/thumbnail/14.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.png"><img src="assets/images/portfolio/web/thumbnail/15.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.png"><img src="assets/images/portfolio/web/thumbnail/16.png" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-1.jpg" / alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-2.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.jpg"><img src="assets/images/portfolio/web/thumbnail/13.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.jpg"><img src="assets/images/portfolio/web/thumbnail/14.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.jpg"><img src="assets/images/portfolio/web/thumbnail/15.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.jpg"><img src="assets/images/portfolio/web/thumbnail/16.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/17.jpg"><img src="assets/images/portfolio/web/thumbnail/17.jpg" / alt=""></a></li>
+<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/18.jpg"><img src="assets/images/portfolio/web/thumbnail/18.jpg" / alt=""></a></li>
 </div>
 <!-- <li>
 	<a href="javascript:;" class="btn-main" id="loadmoreweb" style="font-size: 14px;margin-top: 20px;">View More</a>
