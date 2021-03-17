@@ -396,7 +396,19 @@ $('.web-design-portfolio-slider').slick({
         adaptiveHeight: false,
         autoplay: true,
         autoplaySpeed: 4000,
-        lazyLoad: 'ondemand'
+        lazyLoad: 'ondemand',
+        // rtl: true,
+        // responsive: [
+        //     {
+        //       breakpoint: 767,
+        //       settings: {
+        //         slidesToShow: 1,
+        //         slidesToScroll: 1,
+        //         arrows:true,
+        //         dots:false,
+        //       }
+        //     }
+        //   ]
     });
 
 
