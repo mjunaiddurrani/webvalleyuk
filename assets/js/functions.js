@@ -395,20 +395,44 @@ $('.web-design-portfolio-slider').slick({
         slidesToShow: 1,
         adaptiveHeight: false,
         autoplay: true,
-        autoplaySpeed: 4000,
+        autoplaySpeed: 3000,
         lazyLoad: 'ondemand',
-        // rtl: true,
-        // responsive: [
-        //     {
-        //       breakpoint: 767,
-        //       settings: {
-        //         slidesToShow: 1,
-        //         slidesToScroll: 1,
-        //         arrows:true,
-        //         dots:false,
-        //       }
-        //     }
-        //   ]
+        responsive: [
+            {
+              breakpoint: 767,
+              settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                arrows:false,
+                dots:false,
+              }
+            }
+          ]
+    });
+
+
+    $('.web-design-portfolio-slider2').slick({
+        dots: true,
+        arrows: false,
+        infinite: true,
+        speed: 300,
+        slidesToShow: 1,
+        adaptiveHeight: false,
+        autoplay: true,
+        autoplaySpeed: 3000,
+        lazyLoad: 'ondemand',
+        rtl: true,
+        responsive: [
+            {
+              breakpoint: 767,
+              settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                arrows:false,
+                dots:false,
+              }
+            }
+          ]
     });
 
 

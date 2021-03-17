@@ -178,8 +178,8 @@
         </div>
 
         
-        <ul class="portfoliolist grid loadmorewebapp web-design-portfolio-slider">
-           <div>
+        <ul class="portfoliolist grid loadmorewebapp web-design-portfolio-slider d-none d-md-block">
+               <div>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.png">
       <figure>
@@ -355,11 +355,234 @@
     </a>
   </li>
 
+</div>            
+</ul>
+<ul class="portfoliolist grid loadmorewebapp web-design-portfolio-slider d-block d-md-none">
+               <div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/1.png" alt="">
+      </figure>
+    </a>
+  </li>
+</div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/2.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/2.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/3.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/3.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/4.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/4.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+   <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.jpg">
+      <figure>
+        <img src="assets/images/portfolio/webapp/t-1.jpg" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+ <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/2.jpg">
+      <figure>
+        <img src="assets/images/portfolio/webapp/t-2.jpg" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  </div>
+  <div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/5.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/5.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/6.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/6.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/7.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/7.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/8.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/8.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/3.jpg">
+      <figure>
+        <img src="assets/images/portfolio/webapp/t-3.jpg" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/4.jpg">
+      <figure>
+        <img src="assets/images/portfolio/webapp/t-4.jpg" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+</ul>
+<ul class="portfoliolist grid loadmorewebapp web-design-portfolio-slider2 d-block d-md-none" dir="rtl">
+  <div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/9.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/9.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/10.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/10.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/11.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/11.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/12.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/12.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+<li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/5.jpg">
+      <figure>
+        <img src="assets/images/portfolio/webapp/t-5.jpg" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+    <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/6.jpg">
+      <figure>
+        <img src="assets/images/portfolio/webapp/t-6.jpg" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+  <div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/13.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/13.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/14.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/14.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/15.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/15.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/16.png">
+      <figure>
+        <img src="assets/images/portfolio/webapp/16.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+     <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/7.jpg">
+      <figure>
+        <img src="assets/images/portfolio/webapp/t-7.jpg" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+     <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/8.jpg">
+      <figure>
+        <img src="assets/images/portfolio/webapp/t-8.jpg" alt="">
+      </figure>
+    </a>
+  </li>
+
 </div>
     
 <!-- <li>
   <a href="javascript:;" class="btn-main" id="loadmorewebapp" style="font-size: 14px;margin-top: 20px;">View More</a>
-</li> -->        </ul>
+</li> -->            </ul>
 
         
 
