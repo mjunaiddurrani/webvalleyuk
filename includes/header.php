@@ -3,6 +3,7 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
+<div id="top-to-scroll"></div>
 
 <div class="mobile-nav"> <a href="/" class=" logo-main"> <img src="assets/images/logo.png" alt="*" /></a>
   <nav>

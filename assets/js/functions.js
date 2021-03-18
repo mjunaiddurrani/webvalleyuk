@@ -92,21 +92,21 @@ $(document).scroll(function () {
 // sticky social end
 
 
-$('[data-parallaxit]').each(function(){
-        var $this = $(this),
-        movement = $(this).data('parallax-value');
-        $(window).mousemove(function(e) {
-            var $win = $(this),
-            relX = e.pageX - $(this).offset().left,
-            relY = e.pageY - $(this).offset().top;
+// $('[data-parallaxit]').each(function(){
+//         var $this = $(this),
+//         movement = $(this).data('parallax-value');
+//         $(window).mousemove(function(e) {
+//             var $win = $(this),
+//             //relX = e.pageX - $(this).offset().left;
+//             relY = e.pageY - $(this).offset().top;
             
-            $this.css({
-                'left': (relX - $win.width() / 2) / $win.width() * movement,
-                'top': (relY - $win.height() / 2) / $win.height() * movement
-            });
+//             $this.css({
+//                 'left': (relX - $win.width() / 2) / $win.width() * movement,
+//                 'top': (relY - $win.height() / 2) / $win.height() * movement
+//             });
             
-        });
-    });
+//         });
+//     });
 
 $(document).ready(function() {
 "use strict";
@@ -225,10 +225,17 @@ var size_video = $(".loadmorevideo li").length;
     });
 
 
-$(document).on("click",".gototop",function(){
-    $('html, body').animate({
-                    scrollTop: $(".header-main").offset().top
-                }, 2000);
+// $(document).on("click",".gototop",function(){
+//     alert("ssf");
+//     $('html, body').animate({
+//                     scrollTop: $(".header-main").offset().top
+//                 }, 2000);
+// });
+
+$(".gototop").click(function() {
+    $([document.documentElement, document.body]).animate({
+        scrollTop: $("#top-to-scroll").offset().top
+    }, 2000);
 });
 
 $(".callusnow").click(function(){
@@ -318,7 +325,7 @@ $(".mslider").slick({
         slidesToScroll: 1,
         autoplay: true,
         arrows:false,
-        dots:true,
+        dots:false,
         }
       }
     ]
@@ -378,7 +385,7 @@ $('.testslider').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
         arrows:false,
-        dots:true,
+        dots:false,
       }
     }
   ]
@@ -793,11 +800,22 @@ $(".sldrtstmnl").slick({
     {
       breakpoint: 767,
       settings: {
-    dots: true,
+        dots: false,
         arrows: false,
         centerMode:false,
+        slidesToShow: 2,
         autoplay: true
       }
+    },
+    {
+        breakpoint: 460,
+        settings: {
+          dots: false,
+          arrows: false,
+          centerMode:false,
+          slidesToShow: 1,
+          autoplay: true
+        }
     }
   ]
     });

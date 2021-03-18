@@ -1606,6 +1606,7 @@
 
 
 
+        <h2>Our Clients</h2>
         <ul class="mycli mslider">
              <li class="first"><img src="assets/images/spo1.jpg" alt="" width="40" height="40"></li>
              <li><img src="assets/images/spo2.png" alt="" width="223" height="40"></li>
