@@ -8458,20 +8458,21 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
 
 
 .fancybox-slide--iframe .fancybox-content{height:100% !important;}
-
+#modalForDiscount button {
+    background: #000!important;
+}
 
 @media (min-width: 992px) {
     #modalForDiscount .modal-content {
         background-color: #fe8705;
-        background-image: url(../img/popup.jpg) no-repeat center/cover;
+        background: url(/img/popup.jpg) no-repeat center/cover;
     }    
 }
 @media only screen and (max-width: 991px) {
 .header-main.stick .nav-area-full{background: #fff;;}
 .hdar-clr .nav-area-full{background:#fff;}
-.modalForDiscount .modal-content {
+#modalForDiscount .modal-content {
     background-color: #fe8705;
-    background: none;
 } 
     }
 
