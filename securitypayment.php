@@ -426,6 +426,9 @@ $(document).ready(function(){
 	    	$('#navbar').removeClass('sticky');
 	    }
 	});
+	$("#payment-form").submit(function (e) {
+	$('.submitPay').prop('disabled',true);
+});
 })
 </script>
 
