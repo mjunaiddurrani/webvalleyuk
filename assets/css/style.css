@@ -1472,7 +1472,8 @@ h2, .h2{font-size: var(--font-size-h2);}
 .testimonials-slider-main .slick-next { right:0px; }
 }
 @media only screen and (max-width: 991px) {
-.logo {/* width: 70px; */} 
+.logo {/* width: 70px; */}
+
 }
 
 
@@ -7464,9 +7465,6 @@ and (orientation : landscape) {
 }
 
 @media only screen and (max-width:736px){
-.pricing-sec h2{
-    padding-top: 20px;
-}
 .main-wtn-sec ul li{
     width: 100%;
     text-align: center;
@@ -7735,9 +7733,6 @@ section.call-actions h3 {
 }
 .mprocess .txtwrap h2 {
     font-size: 24px;
-}
-.pricing-sec h2{
-    padding-top: 30px;
 }
 body .mygrid {
     padding: 50px 0 0 0;
@@ -8273,6 +8268,7 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
 
 @media only screen and (max-width: 767px) and (min-width: 0px)   {
     .wheelpopupwrap.visible,.overlay-bg.vis,.mypopup-wrap,.mypopup-wrap.active,.eggoffer,.mypopup-wrap{display: none!important;}
+    
 }
 .mypopup-innerwrap .form_wrap form input,.mypopup-innerwrap .form_wrap form textarea{color: #000;}
 .mypopup-innerwrap .form_wrap form input[type="submit"]{color: #fff;}
@@ -8468,7 +8464,10 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
 
 
 
-
+@media only screen and (max-width: 991px) {
+.header-main.stick .nav-area-full{background: #fff;;}
+.hdar-clr .nav-area-full{background:#fff;} 
+    }
 
 
 

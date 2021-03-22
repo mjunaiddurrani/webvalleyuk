@@ -70,7 +70,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="col-lg-2 mobile-res-logo">
           <div class="logo">
             <a href="/">
-              <img class="img-fluid" src="assets/images/logof.png" alt="*">
+              <img class="img-fluid" src="assets/images/logo.png" alt="*">
             </a>
           </div>
         </div>
