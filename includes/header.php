@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- Modal For Queries -->
 <div class="modal fade" id="modalForDiscount" tabindex="-1" role="dialog" aria-labelledby="modalForDiscount" aria-hidden="true" style="top:10%;">
   <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content" style="background-image:url('img/popup.jpg');background-size:cover">
+    <div class="modal-content">
       <div class="modal-body">
 	  <!-- <button type="button" class="close modalClose" data-dismiss="modal" onclick="alert(3)">&times;</button> -->
 	  <div class="container">
