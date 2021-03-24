@@ -146,7 +146,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							
 								<label class="containerCheckBox">
 									<!-- <input  type="checkbox" name="subscription" checked disabled> -->
-									<span class="modal-check-para"> We will guide you through the entire writing and publishing process.</span>
+									<span class="modal-check-para"> Our senior consultant will guide you through the entire design & development process.</span>
 								</label>
 								<input type="hidden" name="set" value="true">
 								<div class="text-center pb-3">
