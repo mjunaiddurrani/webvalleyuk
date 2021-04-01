@@ -587,6 +587,7 @@ body {background: #eee;}
   <div class="modal-dialog modal-xl" role="document">
     <div class="modal-content" style="background-image:url('../wp-content/themes/popup.jpg');background-size:cover">
       <div class="modal-body">
+      <button type="button" class="close modalClose" data-dismiss="modal">×</button>
 	  <button type="button" class="close modalClose" data-dismiss="modal">&times;</button>
 	  <div class="container">
 			<div class="row">

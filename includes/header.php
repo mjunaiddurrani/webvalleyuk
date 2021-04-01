@@ -110,6 +110,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-body">
+      <button type="button" class="close modalClose" data-dismiss="modal">×</button>
 	  <!-- <button type="button" class="close modalClose" data-dismiss="modal" onclick="alert(3)">&times;</button> -->
 	  <div class="container">
 			<div class="row">
