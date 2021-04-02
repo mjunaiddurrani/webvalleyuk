@@ -1,0 +1,63 @@
+/*
+Theme Name:   Website Valley.
+Theme URI:
+Description: Css, SASS.
+Version: 1.00
+Author: Muhammad Asif,
+Tags: Logo Design, Website Design, Branding, Video Animation.
+*/
+
+@import "assets/css/style.css";
+
+.home header .banner .contentSection_right img{
+  width : auto !important;
+  height: auto !important;
+}
+@media (max-width: 991px){
+  .home header .banner .contentSection_right img {
+    width: 100% !important;
+  }
+}
+
+header .banner.webservice_banner .contentSection_right .banner_form .form_ConnectWithUs .wpforms-submit.form-btn-disabled{    margin-bottom: 20px;}
+.contact-us-form-message .wpforms-confirmation-container-full p{
+  color: #000 !important;
+  padding: 20px 0 10px !important;
+}
+
+.post-password-form label input{
+  background: transparent;
+  border: 1px solid #fff;
+  box-shadow: 0px 0px 4px 0px rgba(255, 255, 255, 0.5);
+  color: #fff;
+  font-size: 14px;
+  text-shadow: none;
+  font-family: "Roboto";
+  font-weight: 300;
+  border-radius: 5px;
+  width: 260px;
+  padding: 5px;
+}
+
+.post-password-form p{ color : #fff }
+.post-password-form input[type="submit"]{
+  background: #ff8500;
+  font-size: 15px;
+  font-family: "Roboto";
+  font-weight: 500;
+  padding: 5px 23px;
+  border-radius: 6px;
+  position: relative;
+  z-index: 1;
+  border: 2px solid #ff8500;
+  color: #fff;
+  -webkit-transition: all ease-in-out 0.5s;
+  -moz-transition: all ease-in-out 0.5s;
+  -o-transition: all ease-in-out 0.5s;
+  transition: all ease-in-out 0.5s;
+}
+.post-password-form input[type="submit"]:hover {
+  background-color: #fff;
+  border: 2px solid #ff8500;
+  color: #ff8500;
+}
