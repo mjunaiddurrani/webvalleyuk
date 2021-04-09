@@ -48,14 +48,16 @@
           <div class="row">
             <div class=" col-lg-5">
               <div class="home-banner-content">
-                <h1>Trust our seasoned Web Development team for futuristic Web Portal Development projects.</h1>
-                <p class="subtitle">Developing advance web solutions, portals, and enterprise apps, is what we love to do.</p>
+                <h1>Custom Web Application Development Services in the UK</h1>
+                <p class="subtitle">This moment is the perfect opportunity to boost your market strength and game up your sales level. Our web app development company in the UK allows you to engage your web visitors through interactive web app designs. Build your web applications that can:</p>
                 <ul class="myticks">
-                  <li>Bring the World to Your Website</li>
-                  <li>Responsive and User-Centric Websites</li>
-                  <li>Reach and grow your audience</li>
+
+                  <li>Reach millions of business consumers </li>
+                  <li>Grow your income and profits </li>
+                  <li>Generate more leads</li>
+                  <li>Create a substantial place for business operations </li>
                 </ul>
-                <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get Your Web Design </a>
+                <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Develop my Website </a>
               </div>
             </div>
           </div>
@@ -115,57 +117,146 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Web Apps That Stand Out</h2>
-          <p>The seamless user experience will make you love your product as much as your customers do. <br><br>With Website Valley as your web development agency, you receive: qualified web resources, user-centric solutions, state-of-the-art facilities, a standardized approach, authorized credentials and a proven track record.</p>
-          <ul class="whatlist">
-            <li>
-              <figure>
-                <span class="icon-ecommerce"></span>
-              </figure>
-              <div class="textpart">
-                <h3>"Open Source" Development</h3>
-                <p>Promoting open source technologies, tools and frameworks to offer you a more customizable, scalable, secure and flexible web product or website.</p>
-              </div>
-            </li>
-            <li>
-              <figure>
-                <span class="icon-design-prototype"></span>
-              </figure>
-              <div class="textpart">
-                <h3>Custom Software Development</h3>
-                <p>Building enterprise-level customized products like chat applications, omnichannel eCommerce, real-time tracking applications etc.</p>
-              </div>
-            </li>
-            <li>
-              <figure>
-                <span class="icon-Web-app"></span>
-              </figure>
-              <div class="textpart">
-                <h3>Database Development</h3>
-                <p>Development & deployment of complex database architectures using strong DBMS and system design skills.</p>
-              </div>
-            </li>
-            
-          </ul>
+          <h2>Web App Development Company for Innovative Thinkers </h2>
+          <p>Web Application Development Services bring you an opportunity to bypass all your competitors by developing a safe place and user experience for your business consumers. Global digitalization has changed the business process and Development; now, business owners are shifting towards web application development due to its increasing demand. Seize this opportunity in your hands, and do not let your buyers go without addressing their requests.</p>
+     
         </div>
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
           <img src="assets/images/process-tab-01.png" alt="">
         </figure>
-        <ul class="personalcta">
-          <li class="text">
-            <h3>Looking for a reliable and skilled consultancy agency to get started?</h3>
-          </li>
-          <li class="perbtn">
-            <a href="javascript:;" onclick="setButtonURL();" class="btn-theme">Let us build a custom solution for your business</a>
-          </li>
-        </ul>
+     
       </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/create-b2b-web-based-app.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6 ">
+        <div class="txtwrap ">
+          <h2 class="text-right">Website Valley creates B2B and B2C web-based applications to meet the emerging demands in the UK </h2>
+          <p class="text-right">Whether your web application is a one-page website or has multiple pages, our company is here to offer you great results that can increase the multi-layered income streams for you. Get in touch today for Web Application Development Services to create a fantastic experience for your users.</p>
+          <ul class="myticks " >
+
+            <li class="text-black myTickLiNew">Top e-Commerce Solution  </li>
+            <li class="text-black myTickLiNew">Web Application Development </li>
+            <li class="text-black myTickLiNew">Affordable Website Maintenance </li>
+            <li class="text-black myTickLiNew">Professional Branding </li>
+            <li class="text-black myTickLiNew">Quick Website Development </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2>Why do you need Custom web application development services? </h2>
+          <p>Every company has a streamline of processes such as project management, internal communication, marketing, and sales. Therefore, there is always a need to increase the efficiency of web portal development projects. In this regard, web applications development services play a significant role in your day-to-day business operations and web portal development.</p>
+     
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/custom-web-app-development-service.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/earth-on-hand.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2>Become more micro-managed with the best web application development company </h2>
+          <p>You can engage with your business consumers better and efficiently. Online consumers in the Uk and worldwide are evolving with time. The earlier search intent, queries, and directions are met, the better your consumers' online experience with you. Therefore, tap into your hidden potential for your business and offer your clients the services they have been looking for with the best company in the UK. </p>
+     
+        </div>
+      </div>
+      
+      
     </div>
   </div>
 </section>
+<section class="servicessection">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-2 d-none d-lg-block">
+        <img src="assets/images/leftsection.jpg" alt="left-section-design" class="img-fluid">
+      </div>
+      <div class="col-lg-10 col-md-12">
+        <div class="col-lg-4 offset-lg-3">
+          <h4 class="text-center my-5"><b>Our Web Application Development Services</b></h4>
 
+        </div>
+        <div class="row">
+          <div class="col-lg-6  ">
+            <div class="contexthere">
+              <h6><b>The Top Business Workflow Web App</b></h6>
+              <p>
+                Whether you are looking to manage your enterprise by creating an internal web-based application system or communicating with the client directly through an organized plan, your web applications will be the essential part of your workflow.
+              </p>
+            </div>
+            <div class="contexthere">
+              <h6><b>Maximize Your Reach Twice Fold</b></h6>
+              <p>
+              Website Valley is the perfect application development company to launch high-performing web applications to maximize your public reach. Our experts will market and distribute your product and services to your online business consumers in no time.
+              </p>
+            </div>
+            <div class="contexthere">
+              <h6><b>The Best Web portal development</b></h6>
+              <p>
+              Our web portal development company is customer-centric and helps you achieve your business goals through a collaborative approach. Regardless of your business industry, such as health care, e-learning, online shop, or partner/vendor type, we will develop aesthetically pleasing and fully functional web portal development.
+              </p>
+            </div>
+            <div class="contexthere">
+              <h6><b>Manage Business with Ease</b></h6>
+              <p>
+              We also offer custom web application development services that will attract and engage your customers. Make your business operatives more organized and function with the help of our experts. Our skilled professionals deliver top-notch web portal development to represent your brand to the world.
+              </p>
+            </div>
+            <div class="contexthere">
+              <h6><b>Engaging Web Applications</b></h6>
+              <p>
+              Designing your website can be a challenging task. We're here to make it easy. With us, reach out to your audience more effectively and conveniently through our services. Our web app development experts hold more than 15 years of experience in creating applications.
+              </p>
+            </div>
+            <div class="contexthere">
+              <h6><b>Perfect Web Development Partner</b></h6>
+              <p>
+              This work history makes us the perfect group of experts to deliver your business requirements related to your web application development. Improve your online business and empower your consumers by offering more convenient services. 
+              </p>
+            </div>
+            <div class="contexthere">
+              <h6><b>Maintenance and Updates </b></h6>
+              <p>
+              Do you want to change your existing old-school web application design? No worries, our experts also offer maintenance, updates, and re-engineering services to bring more effective results for you. Create the best-looking web application of your respected industry, and achieve more online success through your web applications.
+              </p>
+            </div>
+            <div class="contexthere">
+              <h6><b>Unparalleled Support</b></h6>
+              <p>
+              We offer you complete support in every stage of application development, and we will ensure that you have the world-class app ready to be used. Hire the web application development experts to bring significant change to your business.
+              </p>
+            </div>
+            <div class="contexthere">
+              <h6><b>Quick Consulting</b></h6>
+              <p>
+              Need some guidance related to web applications, or want some advice? We are here to guide you and listen to your concerns to provide the best advice to help you make effective decisions. It is always observed that a few minutes' talks with our free consultants can let you release your stress and remove your confusion. Talk to us through a message, or call us at our given number. We are here to upgrade your business to the next level. 
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <img src="assets/images/rightSection.jpg" alt="left-section-design" class="img-fluid">
+
+          </div>
+        </div>
+      </div>
+        
+    </div>
+  </div>
+</section>
 
 <section class="filterportfolio">
   <div class="container">
@@ -173,56 +264,56 @@
       <div class="col-lg-12">
         
         <div class="text text-center">
-          <h2>Let’s look at some of our Web App Developments.</h2>
-          <p>Sometimes, samples are what make you understand the job better.</p>  
+          <h2>Explore More About Our Ecommerce  Web Design & Development</h2>
+          <p>Looking at the sample work will help you understand our process and creativity, enabling you to make an effective decision! Hire our web design & development agency for a new exciting journey!</p>  
         </div>
 
         
         <ul class="portfoliolist grid loadmorewebapp web-design-portfolio-slider d-none d-md-block">
                <div>
-  <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.png">
-      <figure>
-        <img src="assets/images/portfolio/webapp/1.png" alt="">
-      </figure>
-    </a>
-  </li>
-  <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/2.png">
-      <figure>
-        <img src="assets/images/portfolio/webapp/2.png" alt="">
-      </figure>
-    </a>
-  </li>
-  <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/3.png">
-      <figure>
-        <img src="assets/images/portfolio/webapp/3.png" alt="">
-      </figure>
-    </a>
-  </li>
-  <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/4.png">
-      <figure>
-        <img src="assets/images/portfolio/webapp/4.png" alt="">
-      </figure>
-    </a>
-  </li>
-   <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.jpg">
-      <figure>
-        <img src="assets/images/portfolio/webapp/t-1.jpg" alt="">
-      </figure>
-    </a>
-  </li>
- <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/2.jpg">
-      <figure>
-        <img src="assets/images/portfolio/webapp/t-2.jpg" alt="">
-      </figure>
-    </a>
-  </li>
-  </div>
+                <li class="border-box-effect logoportfo" data-category="transition">
+                  <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.png">
+                    <figure>
+                      <img src="assets/images/portfolio/webapp/1.png" alt="">
+                    </figure>
+                  </a>
+                </li>
+                <li class="border-box-effect logoportfo" data-category="transition">
+                  <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/2.png">
+                    <figure>
+                      <img src="assets/images/portfolio/webapp/2.png" alt="">
+                    </figure>
+                  </a>
+                </li>
+                <li class="border-box-effect logoportfo" data-category="transition">
+                  <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/3.png">
+                    <figure>
+                      <img src="assets/images/portfolio/webapp/3.png" alt="">
+                    </figure>
+                  </a>
+                </li>
+                <li class="border-box-effect logoportfo" data-category="transition">
+                  <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/4.png">
+                    <figure>
+                      <img src="assets/images/portfolio/webapp/4.png" alt="">
+                    </figure>
+                  </a>
+                </li>
+                <li class="border-box-effect logoportfo" data-category="transition">
+                  <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.jpg">
+                    <figure>
+                      <img src="assets/images/portfolio/webapp/t-1.jpg" alt="">
+                    </figure>
+                  </a>
+                </li>
+              <li class="border-box-effect logoportfo" data-category="transition">
+                  <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/2.jpg">
+                    <figure>
+                      <img src="assets/images/portfolio/webapp/t-2.jpg" alt="">
+                    </figure>
+                  </a>
+                </li>
+                </div>
   <div>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/5.png">
@@ -600,8 +691,13 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
-        <h2>How much does it cost to design a web?</h2>
-        <p>We guarantee that you’ll get a great web design no matter what your budget is.</p>
+        <h2>Our Services Packages Include </h2>
+        <p class="text-center text-orange"><b>Affordable</b></p>
+        <p>Our full-stack web application services are designed to fit your budget. Our affordable rates provide you with quality development services that you may never find with cheap services. </p>
+        <p class="text-center text-orange"><b>High-Quality </b></p>
+        <p>We believe in providing you quality within the timeframe and budget limit. Our web designers and developers hold years of experience in perfect, functional, and original web application softwares. </p>
+        <p class="text-center text-orange"><b>Accessible</b></p>
+        <p> Look below to find our services at affordable prices in the UK. Get your perfect web app for your brand right here with the best web application development company. </p>
       </div>  
       <div class="col-lg-12"> 
 
@@ -929,103 +1025,56 @@ Place purchasing requests.</li>
     </div>
   </div>
 </section>
+<section class="faqsSection my-5">
+<div class="container">
+  <h3 class="text-center"><b>FAQs</b></h3>
+  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingOne">
+        <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          1. What is a web application development company in the UK?
+        </a>
+      </h4>
+      </div>
+      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+        <div class="panel-body">
+        Website Valley enables you to maximize your audience reach, lead more income generation opportunities, and create an organized platform for your consumers to interact and engage with your company or with each other. We also help you with web portal development. Now you don't have to search for the best web application services near me. 
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingTwo">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          2. Do you offer responsive web app designs and development services? 
+        </a>
+      </h4>
+      </div>
+      <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+        <div class="panel-body">
+        Absolutely! Our primary purpose is to increase the web apps' efficiency and create responsive designs to adjust to the user's medium, be it a smartphone, desktop, laptop, or tablet. Our designs are highly responsive and provide easy navigation to the users. Consult our customer support to discuss your project, and we'll advise you accordingly. As an established and reputable company, we bring you a wide range of options, meaning you can purchase a professionally made web app within your specific budget range.
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingThree">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          3. What is our custom web application development services process? 
+        </a>
+      </h4>
+      </div>
+      <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+        <div class="panel-body">
+        Our web applications development services are easy to use and entirely convenient for the users due to the interactive user interface design and experience. As a web app development company, we have created a comprehensive process to understand the project first then deliver your required results. Our approach may include the following steps, depending on the stage of web app development. Our software engineers and web app development experts work alongside you to understand your project. We brainstorm and make a list of all the functions you want to include in your web app. Our second stage consists of analysis and peer review in which we create the strategy of how to go about your project. Our designers and web app development experts create the blueprint, while our coders dissect the process to code for your project on every stage. Once our designers and developers are done creating their masterpiece, we show it to the client. When our client approves the initial draft of the web app, we work to make it perform stronger, better, and bugs or threats free so that all the consumers of this application have the best experience. Hire a top-quality web app development company in the UK for your digital needs. 
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
 
-
-<!--<section class="mygrid">-->
-<!--  <div class="container">-->
-<!--    <div class="row">-->
-<!--      <div class="col-lg-12">-->
-<!--        <h2>Size of your business doesn’t matter at Website Valley. For us, it is the simple idea that lets us help you develop an identity through magnificent design and appropriate marketing.</h2>-->
-<!--        <p>Businesses worldwide have benefited from our services as we progressed with them, step by step, into creating the brand of their dreams.</p>-->
-
-<!--        <ul class="gridlisting">-->
-<!--          <li>-->
-<!--            <div class="innerwrap">-->
-<!--              <figure>-->
-<!--                <img src="assets/images/satisfied-clients.svg" alt="">-->
-<!--              </figure>-->
-<!--              <h3><span class="timer">1874</span></h3>-->
-<!--              <p>satisfied clients</p>-->
-<!--            </div>-->
-<!--          </li>-->
-
-<!--          <li>-->
-<!--            <div class="innerwrap">-->
-<!--              <figure>-->
-<!--                <img src="assets/images/years-experience.svg" alt="">-->
-<!--              </figure>-->
-<!--              <h3 class="timer">7</h3>-->
-<!--              <p>Years Experience</p>-->
-<!--            </div>-->
-<!--          </li>-->
-
-<!--          <li>-->
-<!--            <div class="innerwrap">-->
-<!--              <figure>-->
-<!--                <img src="assets/images/projects-completed.svg" alt="">-->
-<!--              </figure>-->
-<!--              <h3 class="timer">9892</h3>-->
-<!--              <p>projects completed</p>-->
-<!--            </div>-->
-<!--          </li>-->
-
-<!--          <li class="nrb">-->
-<!--            <div class="innerwrap">-->
-<!--              <figure>-->
-<!--                <img src="assets/images/increase-in-roi.svg" alt="">-->
-<!--              </figure>-->
-<!--              <h3 class="noplus"><span class="timer">170</span>%</h3>-->
-<!--              <p>Increase in ROI</p>-->
-<!--            </div>-->
-<!--          </li>-->
-
-<!--          <li class="nbb">-->
-<!--            <div class="innerwrap">-->
-<!--              <figure>-->
-<!--                <img src="assets/images/daily-website-visits.svg" alt="">-->
-<!--              </figure>-->
-<!--              <h3 class="timer">1015</h3>-->
-<!--              <p>daily website visits</p>-->
-<!--            </div>-->
-<!--          </li>-->
-
-<!--          <li class="nbb">-->
-<!--            <div class="innerwrap">-->
-<!--              <figure>-->
-<!--                <img src="assets/images/client-coordination.svg" alt="">-->
-<!--              </figure>-->
-<!--              <h3 class="noplus">Constant</h3>-->
-<!--              <p> Client Coordination</p>-->
-<!--            </div>-->
-<!--          </li>-->
-
-<!--          <li class="nbb">-->
-<!--            <div class="innerwrap">-->
-<!--              <figure>-->
-<!--                <img src="assets/images/customer-satisfaction.svg" alt="">-->
-<!--              </figure>-->
-<!--              <h3 class="noplus">Supreme</h3>-->
-<!--              <p> Customer Satisfaction</p>-->
-<!--            </div>-->
-<!--          </li>-->
-
-<!--          <li class="nbb nrb">-->
-<!--            <div class="innerwrap">-->
-<!--              <figure>-->
-<!--                <img src="assets/images/ownership-rights.svg" alt="">-->
-<!--              </figure>-->
-<!--              <h3 class="noplus"><span class="timer">100</span>%</h3>-->
-<!--              <p>Ownership Rights</p>-->
-<!--            </div>-->
-<!--          </li>-->
-          
-
-<!--        </ul>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--  </section>-->
-  
   
 
  
@@ -1033,7 +1082,7 @@ Place purchasing requests.</li>
 
 
 
-<section class="dptestimonials testiem">
+<section class="dptestimonials testiem d-none">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -1191,7 +1240,7 @@ Place purchasing requests.</li>
     </div>
   </div>
 </section>
-<section class="section-padding qualities logodesign">
+<section class="section-padding qualities logodesign d-none">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -1242,46 +1291,13 @@ Place purchasing requests.</li>
   </div>
 </section>
 
-<!--<section class="mylast">-->
-<!--  <div class="container">-->
-<!--    <div class="row">-->
-<!--      <div class="col-md-12">-->
-<!--        <section class="section-padding call-actions  ">-->
-<!--          <div class="row">-->
-<!--            <div class="col-lg-3 col-sm-6">-->
-<!--              <h2 class="text-left">Let's discuss and design your product today</h2>-->
-<!--              <div class="slash slash2"></div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-4 col-sm-6 phone-div">-->
-<!--              <span class="icon-mobile2 phone"></span>-->
-<!--              <h3 class="text-left">-->
-<!--              <span class="mad">Call us now to get started </span>-->
-<!--              +442038087061 </h3><div class="slash"></div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-5 col-sm-12 mail">-->
-<!--              <span class="icon-envelope-o mail"></span>-->
-<!--              <h3 class="text-left">-->
-<!--              <span class="mad">Place an Order</span>-->
-<!--              query@websitevalley.co.uk</h3>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </section>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--</section>-->
 
 
 
 
 
 
-
-
-
-
-
-<div class="belowform">
+<div class="belowform d-none">
   <div class="container ">
     <div class="row">
       <div class=" col-lg-12 col-xl-12 text-center">

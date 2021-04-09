@@ -1416,7 +1416,7 @@ rgba(1, 201, 226, 0);}
 
 /********** Responsive **********/
 @media only screen and (min-width: 768px) {
-.home-banner-content h1 {font-weight: 700;font-size: 45px;text-transform: capitalize;}    
+.home-banner-content h1 {font-weight: 700;font-size: 30px;text-transform: capitalize;}    
 .number-banner-content h1 { font-size: var(--font-size-h1-home)!important; }    
 .inner-banner-content h1 { font-size: var(--font-size-h1-inner)!important; } 
 
@@ -1432,7 +1432,7 @@ h2, .h2{font-size: var(--font-size-h2);}
     .mprocess .txtwrap .whatlist li figure img{    width: 20% !important;}
     .wrap .new-cta{    padding: 11px 8px;     font-size: 15px !important;}
     .cta2 .wrap .gt-strt{    padding: 12px 4px !important;     font-size: 15px !important;}
-    .quality h3{    font-size: 28px !important;}
+    .quality h3{    font-size: 20px !important;}
    .belowform  .mfig{display:none !important;}
    .mygrid{    width: 100% !important;}
    .mycli{margin-top:40px;}
@@ -4417,7 +4417,7 @@ padding-bottom: 30px;
     padding-top: 15px;
 }
 .smallboxes .smallbox h2{
-    font-size: 44px;
+    font-size: 42px;
     color:#4c2500;
     padding-bottom: 0;
     text-align: left;
@@ -5503,7 +5503,7 @@ section.qualities .quality-img {
     font-size: 16px;
     text-transform: capitalize;
 }
-.quality h3 {font-size: 40px;padding: 0;}
+.quality h3 {font-size: 25px;padding: 0;}
 section.qualities p{
     font-size: 20px;
     line-height: 1.4;
@@ -5782,7 +5782,8 @@ section.sponsors-sec{
 .dptestimonials .testwrap .testbox .user{
     width: 90px;
     vertical-align: top;
-    display: inline-block;
+    /* display: inline-block; */
+    margin-bottom: 15px;
     height: 90px;
      /* FF3.6-15 */
     background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,Safari5.1-6 */
@@ -7010,12 +7011,14 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
 .mprocess .mfig{
     margin-top: 50px;
     margin-bottom: 0;
+    text-align: center;
 }
 .mprocess .mfig img {
     width: auto;
-    height: 450px;
+    /* height: 450px; */
     border-radius: 35px;
-    box-shadow: -10px 10px 25px #333;
+    margin:0 auto;
+    /* box-shadow: -10px 10px 25px #333; */
 }
 .header-main .has-submenu a i{font-size: 13px;margin-left: 5px;}
 .border-box-effect:hover{
@@ -8479,16 +8482,89 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
 
 
 
+.text-black{
+    color: #687087!important;
+}
+.text-orange{
+    color:#ff7a00;
+}
+.myTickLiNew{
+    text-align: right;
+}
+.myTickLiNew::before{
+    left: auto!important;
+    right:-20px;
+}
+
+.contexthere h6{
+    font-size: 18px;
+
+}
 
 
 
 
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #fff;
+    border-color: #e4e5e7;
+    padding: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  .panel-default>.panel-heading a {
+    display: block;
+    padding: 10px 15px;
+  }
+  
+  .panel-default>.panel-heading a:after {
+    content: "";
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    float: right;
+    transition: transform .25s linear;
+    -webkit-transition: -webkit-transform .25s linear;
+  }
+/*   
+  .panel-default>.panel-heading a[aria-expanded="true"] {
+    background-color: #eee;
+  } */
+  
+  .panel-default>.panel-heading a[aria-expanded="true"]:after {
+    content: "\2212";
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+  
+  .panel-default>.panel-heading a[aria-expanded="false"]:after {
+    content: "\002b";
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
 
-
-
-
-
-
-
-
+  h4.panel-title{
+    background: rgb(31,71,100);
+    background: linear-gradient(90deg, rgba(31,71,100,1) 0%, rgba(84,74,150,1) 56%);
+    margin-top: 10px;
+    border-radius: 10px;
+    
+  }
+.panel-body{
+    background-color: #f7f7f7;
+    padding: 10px;
+}
+.panel-title a{
+    color:#fff  ;
+    font-size:19px;
+}
 

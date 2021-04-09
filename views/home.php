@@ -95,17 +95,17 @@ include_once('includes/head.php');
             <div class=" col-lg-7">
               <div class="home-banner-content ">
                 <div class="main">
-                  <h1>We build website designs that build your business</h1>
-                <p class="subtitle">Whether you are a start-up or an enterprise business, our expertise in 360* website solutions and digital branding will turn your ideas into online success.</p>
+                  <h1>Professional Website and Brand builder to Level-up Your Business Online in the UK </h1>
+                <p class="subtitle">Whether you are a small enterprise, a new startup, or a well-established company, we are here to build your online brand reputation among your clients sothat your brand remains your consumer’s top choice. We offer 360* branding anddesigning solutions to innovative and top business professionals and entrepreneursin the UK. </p>
                 <ul class="myticks">
-                  <li>Bring the World to Your Website</li>
-                  <li>Responsive and User-Centric Websites</li>
-                  <li>Reach and grow your audience</li>
-                  <li>Custom websites that convert clients</li>
+                  <li>Bring Ideas into World Wide Web Reality</li>
+                  <li>Highly Creative and Responsive Websites </li>
+                  <li>Increase your Revenue and Profits </li>
+                  <li>Engage more audience and generate more leads</li>
                 </ul>
                 </div>
                 <div class="mybtnwrap">
-                  <a href="javascript:void(0)" class="btn-theme-outline " data-toggle="modal" data-target="#modalForDiscount">Get Your Web Design </a>
+                  <a href="javascript:void(0)" class="btn-theme-outline " data-toggle="modal" data-target="#modalForDiscount">Develop my Website </a>
                 </div>
                 <div class="banner-bot">
                     <ul>
@@ -127,102 +127,7 @@ include_once('includes/head.php');
         </div>
       </div>
     </div>
-    <!-- <div class="item">
-      <div class="home-banner d-flex" style="background-image:url(assets/images/banners/hm2.jpg);background-position: center -50px;">
-        <div class="container align-self-center">
-          <div class="row">
-            <div class=" col-lg-5">
-              <div class="home-banner-content">
-                <h1>We build website designs that build your business</h1>
-                <p class="subtitle">Whether you are a start-up or an enterprise business, our expertise in 360 mobility solutions and digital branding will turn your ideas into online success.</p>
-                <ul class="myticks">
-                  <li>Bring the World to Your Website</li>
-                  <li>Responsive and User-Centric Websites</li>
-                  <li>Reach and grow your audience</li>
-                  <li>Custom websites that convert clients</li>
-                </ul>
-                <div class="mybtnwrap">
-                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
-                  <img class="rightside" src="assets/images/rateimg.png" alt="">  
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="home-banner d-flex" style="background-image:url(assets/images/banners/hm3.jpg);background-position: center -50px;">
-        <div class="container align-self-center">
-          <div class="row">
-            <div class=" col-lg-5">
-              <div class="home-banner-content">
-                <h1>We build website designs that build your business</h1>
-                <p class="subtitle">Whether you are a start-up or an enterprise business, our expertise in 360 mobility solutions and digital branding will turn your ideas into online success.</p>
-                <ul class="myticks">
-                  <li>Bring the World to Your Website</li>
-                  <li>Responsive and User-Centric Websites</li>
-                  <li>Reach and grow your audience</li>
-                  <li>Custom websites that convert clients</li>
-                </ul>
-                <div class="mybtnwrap">
-                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
-                  <img class="rightside" src="assets/images/rateimg.png" alt="">  
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="home-banner d-flex" style="background-image:url(assets/images/banners/hm4.jpg);background-position: center -50px;">
-        <div class="container align-self-center">
-          <div class="row">
-            <div class=" col-lg-5">
-              <div class="home-banner-content">
-                <h1>We build website designs that build your business</h1>
-                <p class="subtitle">Whether you are a start-up or an enterprise business, our expertise in 360 mobility solutions and digital branding will turn your ideas into online success.</p>
-                <ul class="myticks">
-                  <li>Bring the World to Your Website</li>
-                  <li>Responsive and User-Centric Websites</li>
-                  <li>Reach and grow your audience</li>
-                  <li>Custom websites that convert clients</li>
-                </ul>
-                <div class="mybtnwrap">
-                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
-                  <img class="rightside" src="assets/images/rateimg.png" alt="">  
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="home-banner d-flex" style="background-image:url(assets/images/banners/hm5.jpg);background-position: center -50px;">
-        <div class="container align-self-center">
-          <div class="row">
-            <div class=" col-lg-5">
-              <div class="home-banner-content">
-                <h1>We build website designs that build your business</h1>
-                <p class="subtitle">Whether you are a start-up or an enterprise business, our expertise in 360 mobility solutions and digital branding will turn your ideas into online success.</p>
-                <ul class="myticks">
-                  <li>Bring the World to Your Website</li>
-                  <li>Responsive and User-Centric Websites</li>
-                  <li>Reach and grow your audience</li>
-                  <li>Custom websites that convert clients</li>
-                </ul>
-                <div class="mybtnwrap">
-                  <a href="https://websitevalley.co.uk/order" class="btn-theme-outline">Get Your Web Design </a>
-                  <img class="rightside" src="assets/images/rateimg.png" alt="">  
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
+
   </section>
   
   
@@ -283,36 +188,14 @@ include_once('includes/head.php');
     <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Our all-in-one platform gives you everything you need to run your business. </h2>
-          <p>We believe anything is possible with the right website to engage visitors. Whether you're about to create a website for the first time or you're a long time pro, we've got you covered.</p>
-          <ul class="whatlist">
-            <li>
-              <figure>
-                <img src="assets/images/ecomrcesltn.svg" alt="">
-              </figure>
-              <div class="textpart">
-                <h3>e-Commerce Solutions</h3>
-                <p>As experts in developing Ecommerce ecosystems, we ensure flawless management of inventory, orders, and sales with the secure integration of payment gateway.</p>
-              </div>
-            </li>
-            <li>
-              <figure>
-                <img src="assets/images/webdesignprotyp.svg" alt="">
-              </figure>
-              <div class="textpart">
-                <h3>Website Design &amp; Prototype</h3>
-                <p>Our dedicated Website Development Team becomes your partner. Website Developers breathe your vision, understand your product and focus on reaching your business goals.</p>
-              </div>
-            </li>
-            <li>
-              <figure>
-                <img src="assets/images/webmntnce.svg" alt="">
-              </figure>
-              <div class="textpart">
-                <h3>Website Maintenance</h3>
-                <p>We have dedicated teams of technical consultants, website designers, website developers, testers, and social marketers to help you with maintenance of your website whether  it is on wordpress or any other platform.</p>
-              </div>
-            </li>
+          <h2>All-Inclusive Platform that Your Business Need Right Now </h2>
+          <p>We are an all-in-one designing, developing, and branding platform thatyour business needs to engage your audience and generate more leads and income.You have got our full-fledged professional support on every stage of website andbranding development. Our professional services cater to every type of industry-specific client in the UK. We will ensure that our quick online developers anddesigners hold the expertise to bring effective results for you.</p>
+          <ul class="myticks">
+            <li class="text-black">Top e-Commerce Solution </li>
+            <li class="text-black">Web Application Development  </li>
+            <li class="text-black">Affordable Website Maintenance  </li>
+            <li class="text-black">Professional Branding </li>
+            <li class="text-black">Quick Website Development</li>
           </ul>
         </div>
       </div>
@@ -340,8 +223,8 @@ include_once('includes/head.php');
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-12"> 
-        <h2>We have done a lot of work and we would <br>like for you to take a look!</h2>
-        <p>Here’s a portfolio made out of hard work, skill and passion.</p>
+        <h2>We design and develop websites for every size of business.<br> Let's take a look atour professional portfolio design online.</h2>
+        <p>Our portfolio is built with passion, skills, hard work, and tons of creativeness. </p>
       </div>  
       <div class="col-lg-12"> 
           <ul class="nav nav-pills">
@@ -1229,8 +1112,8 @@ include_once('includes/head.php');
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
-        <h2 class="text-center">What is going to be the Cost?</h2>
-        <p>Regardless of what you have to offer, we give nothing but our best.</p>
+        <h2 class="text-center">How Much Do We Charge For Our Services?</h2>
+        <p>Our quick, professional services may be affordable, but they are notcheap. We have a mission to create creative, authentic, and valuable designs. Weaim to offer our services with a great passion for driving results for our costumes.Our top creative-led design and development agency enables your brand image tobecome the best, firm, marketable, media-worthy at an affordable price.</p>
       </div>  
       <div class="col-lg-12"> 
           <ul class="nav nav-pills">
@@ -2815,6 +2698,14 @@ Place purchasing requests.</li>
 
 
 <section class="dptestimonials new-testi">
+ <div class="col-lg-6 offset-lg-3">
+ <p>
+  We create websites and build brands that people will fall in love with. Our designers are here to help you exceed expectations! 
+  </p>
+  <h5 class="text-orange text-center mt-3">
+  Listen to what our clients are saying about us.
+  </h5>
+ </div>
   <div class="container">
     <div class="row">
 
@@ -2827,8 +2718,7 @@ Place purchasing requests.</li>
               <!--  <h3>OG</h3>-->
               <!--</div>-->
               <div class="usertest">
-                <h4>Extremely Satisfied with the services!</h4>
-                <p>Received my project on time and provided me proper assistance along the way. Loved working with them!</p>
+                <p>They have a quick and highly efficient team of developers and designers in the UK. I'm delighted to opt for their services as they provided me with quality and fantastic web designing services. I couldn't have gotten such excellent services at an affordable price. I'd definitely recommend them and their benefits. </p>
                 <h6>— Sarah Ramirez, Brand Owner</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -2841,24 +2731,6 @@ Place purchasing requests.</li>
             </div>
           </li>
 
-          <!--<li>-->
-          <!--  <div class="testbox">-->
-          <!--      <img src="assets/images/testimonials-icons/rick-may.png" alt="" class="rounded-circle">-->
-              
-          <!--    <div class="usertest">-->
-          <!--      <h4>Websitevalley Rocked!!</h4>-->
-          <!--      <p>The website they developed for me looks amazing, Couldn't ask for a better team to work with, They are responsive and did incredible job.</p>-->
-          <!--      <h6>— Rick May, Rick May Photography</h6>-->
-          <!--      <div class="ratings">-->
-          <!--        <span class="icon-star"></span>-->
-          <!--        <span class="icon-star"></span>-->
-          <!--        <span class="icon-star"></span>-->
-          <!--        <span class="icon-star"></span>-->
-          <!--        <span class="icon-star"></span>-->
-          <!--      </div>-->
-          <!--    </div>-->
-          <!--  </div>-->
-          <!--</li>-->
 
           <li>
             <div class="testbox">
@@ -2867,8 +2739,7 @@ Place purchasing requests.</li>
               <!--  <h3>TR</h3>-->
               <!--</div>-->
               <div class="usertest">
-                <h4>Big Shout-out to the websitevalley Team!!</h4>
-                <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
+                <p>So happy with this type of affordable website development services in the UK. They got me on the right track with their killer branding strategies. I'm glad to collaborate with them for my next big things. </p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -2888,8 +2759,7 @@ Place purchasing requests.</li>
               <!--  <h3>KA</h3>-->
               <!--</div>-->
               <div class="usertest">
-                <h4>We Couldn't Ask for a Better Job!!</h4>
-                <p>I want to thank websitevalley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevalley in the future. </p>
+                <p>We had an initial discussion over the phone call regarding the project, and I got satisfied through the insightful discussion. I have worked with many services like these but could not say this for about any of them. They are a great team that knows their stuff well. I'll continue using their services. Thank you, Website Valley! </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -2902,54 +2772,14 @@ Place purchasing requests.</li>
             </div>
           </li>
 
-          <li>
-            <div class="testbox">
-              <img src="assets/images/testimonials-icons/antionio-moreno.png" alt="" class="rounded-circle">
-              <!--<div class="user">-->
-              <!--  <h3>AM</h3>-->
-              <!--</div>-->
-              <div class="usertest">
-                <h4>Brilliant Responsive Work</h4>
-                <p>We talk regarding web design services for our website and how it was affecting our rankings. The team provided us responsive web design services and SEO consultation too!</p>
-                <h6>Antionio Moreno, Business Owner</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li>
-            <div class="testbox">
-              <img src="assets/images/testimonials-icons/erika-blackwell.png" alt="" class="rounded-circle">
-              <!--<div class="user">-->
-              <!--  <h3>CR</h3>-->
-              <!--</div>-->
-              <div class="usertest">
-                <h4>Excellent Web Consultation For My Website</h4>
-                <p>I was a bit confused when I got to LDH, and the excellent team helped us along the way! We’re more than happy working with them.</p>
-                <h6>Erika Blackwell, Business Owner</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star-half-empty"></span>
-                </div>
-              </div>
-            </div>
-          </li>
+     
 
         </ul>
       </div>
           
        
 
-<div class="col-lg-12">
+<div class="col-lg-12 d-none">
   
         <h2>Our Clients</h2>
         <ul class="mycli mslider">
@@ -2988,8 +2818,8 @@ Place purchasing requests.</li>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h2 class=" text-center">How Can we Partner Up?</h2>
-        <p class="text-center">From the very first day to the very last day, we make sure we provide you the best of our services with effective communication, skilled team members and a lot of passion for marketing. Contact Us Now.
+        <h2 class=" text-center">What makes us Different from Other</h2>
+        <p class="text-center">It goes without saying that you will not only get the benefit of a successful project when you collaborate with us, but you will build long-term relations with us.
         </p>
       </div>
     </div>
@@ -3011,7 +2841,7 @@ Place purchasing requests.</li>
           <div class="quality-img">
             <img src="assets/images/client-coordination.svg" alt="">
           </div>
-          <h3 class="noplus">Constant</h3>
+          <h3 class="noplus">Successful</h3>
           <h4 class="mad textcentre">Client Coordination</h4>
         </div>
       </div>
@@ -3020,7 +2850,7 @@ Place purchasing requests.</li>
           <div class="quality-img">
             <img src="assets/images/customer-satisfaction.svg" alt="">
           </div>
-          <h3 class="noplus">Supreme</h3>
+          <h3 class="noplus">Excellent</h3>
           <h4 class="mad textcentre"> Customer Satisfaction</h4>
         </div>
       </div>
@@ -3031,6 +2861,15 @@ Place purchasing requests.</li>
         </div>
         <h3 class="noplus "><span class="timer">100</span>%</h3>
         <h4 class="mad textcentre">Ownership Rights</h4>
+        </div>
+      </div>
+      <div class="col has-border mob-noborder" >
+        <div class="quality">
+          <div class="quality-img">
+            <img src="assets/images/customer-satisfaction.svg" alt="">
+          </div>
+          <h3 class="noplus">Money-Back</h3>
+          <h4 class="mad textcentre"> Guarantee</h4>
         </div>
       </div>
       
@@ -3068,6 +2907,94 @@ Place purchasing requests.</li>
 <!--    </div>-->
 <!--  </div>-->
 <!--</section>-->
+<section class="faqsSection my-5">
+<div class="container">
+  <h3 class="text-center"><b>FAQs</b></h3>
+  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingOne">
+        <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          1. How do I update websites? 
+        </a>
+      </h4>
+      </div>
+      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+        <div class="panel-body">
+        Yes, we have complete website maintenance services that help you update your website and bring functional aspects to your website, updating the latest technology. If you want to revamp your current website design, we can also help you change it according to your designs' choice. If there are small changes within the website pages, we can also make the necessary changes cost-effectively in a quick manner. No matter from which part of the UK city you live, we will provide you with the best website development services in the UK. Now you don't have to search for cheap services, and our experts would be best for you. 
+
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingTwo">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          2. Will my website be responsive, quick and cheap?
+        </a>
+      </h4>
+      </div>
+      <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+        <div class="panel-body">
+        Every online website visitor uses different mediums to visit your websites such as smartphones, some desktops, and other laptops or tablets to look up your content online. Therefore, we build your website subsequently to assist those visitors. We create a cheap yet responsive and highly adjustable website at an affordable price that lets the users use the website according to the screen size and resolution. Our cheap website building strategy mainly caters to the need of online users as the technology is evolving. 
+
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingThree">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          3. Do you offer a money-back guarantee if I am not satisfied with the work? 
+        </a>
+      </h4>
+      </div>
+      <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+        <div class="panel-body">
+        Absolutely! Your money is secure with us. However, we work hard to bring you effective results. We have been working for decades now, and it happens only once in a blue moon. We are assured that you'll not have to go through such a situation. Our services may be cheap, but they are the best in our client's favour. However, in case of any act of god, it would take around 30 business working days to return your amount as we have to evaluate our business account to clear all the payments. 
+
+
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingFour">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          4. Do you do SEO for my website, especially for Google? 
+
+        </a>
+      </h4>
+      </div>
+      <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+        <div class="panel-body">
+        Yes, we do. We have the best Search engine optimization process that helps you bring your website among the search engines' top searches, including Google. With our services, you will not have to search SEO services near me, as we'll always be here for you. 
+
+
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingFive">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          5. How many pages am I able to create on my website?
+
+        </a>
+      </h4>
+      </div>
+      <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+        <div class="panel-body">
+        There's no limitation in creating pages on the website. You can create as many as you like. It has been proven beneficial when your pages are internally linked, and page depth is created on your website.    It is best to share your requirements with us before via free consultation, and we'll be more than delighted to guide you.
+
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+</section>
 
 
 <section class="belowform home-form">
@@ -3075,8 +3002,8 @@ Place purchasing requests.</li>
     <div class="row">
       <div class="col-lg-6 inner-content text-left">
         <div class="form-box-main clearfix">
-  <h2>Let’s talk about your next Big thing!</h2>
-  <p>Heads up! We require that you sign up for Website Valley services and packages. We make all your dreams come true in a successful project.</p>
+  <h2>Do you have an idea?  Let's make it a reality.</h2>
+  <p>Please fill the below-mentioned form so that we can contact you. We promise to respect your privacy. We'll not send you mail, junking emails, or offers. We are digital folks who know how bad it is to feel to receive unwanted emails. Rest assured, and sign up for the form to make your best dream come true. </p>
 <?php include_once('includes/form.php');?>
 </div>
 
