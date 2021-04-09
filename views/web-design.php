@@ -48,13 +48,13 @@
           <div class="row">
             <div class=" col-lg-5">
               <div class="home-banner-content">
-                <h1>Custom Website Design and Development</h1>
-                <p class="subtitle">Websites have become essentials when it comes to operating businesses today.</p>
+                <h1>Our Professional Website Design Company Provides Custom Web Design Service Online </h1>
+                <p class="subtitle">Websites have become a necessity for operating businesses in the digital world. Your business deserves professional website development that is memorable, uniquely your own—and that gives you exposure all year long.</p>
                 <ul class="myticks">
-                  <li>Customized</li>
-                  <li>Efficient</li>
-                  <li>Unique</li>
-                  <li>Creative</li>
+                  <li>Customized Designs</li>
+                  <li>Highly Responsive</li>
+                  <li>Easily Managed </li>
+                  <li>Great uptime</li>
                 </ul>
                 <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get Your Web Design </a>
               </div>
@@ -63,49 +63,7 @@
         </div>
       </div>
     </div>
-    <div class="item">
-      <div class="home-banner d-flex" style="background-image:url(assets/images/banners/web-2.png);background-position: center -50px;">
-        <div class="container align-self-center">
-          <div class="row">
-            <div class=" col-lg-5">
-              <div class="home-banner-content">
-                <h1>Custom Website Design and Development</h1>
-                <p class="subtitle">Websites have become essentials when it comes to operating businesses today.</p>
-                <ul class="myticks">
-                  <li>Customized</li>
-                  <li>Efficient</li>
-                  <li>Unique</li>
-                  <li>Creative</li>
-                </ul>
-                <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get Your Web Design </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="home-banner d-flex" style="background-image:url(assets/images/banners/web-3.png);background-position: center -50px;">
-        <div class="container align-self-center">
-          <div class="row">
-            <div class=" col-lg-5">
-              <div class="home-banner-content">
-                <h1>Custom Website Design and Development</h1>
-                <p class="subtitle">Websites have become essentials when it comes to operating businesses today.</p>
-                <ul class="myticks">
-                  <li>Customized</li>
-                  <li>Efficient</li>
-                  <li>Unique</li>
-                  <li>Creative</li>
-                </ul>
-                <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get Your Web Design </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
+
   </section>
 </div>
 
@@ -161,15 +119,19 @@
           <div class="tab-content">
             <div class="tabs webdesign myservices current" role="toolbar">
               <div class="left">
-    <h2>Developing Websites and Long Term Working Relationships</h2>
-    <h3>Use the world wide web for all that it has to offer</h3>
-    <p>Websites are essential in the modern time and age to ensure a strong business model. These Websites make sure that your business grows at an exponentially high rate. At Website Valley, we are determined to provide you with a website that generates traffic along with hinting at the essence of your business itself.</p>
+    <h2>Professional Website Design Company for Stellar Web Designs </h2>
+    <p>To grow your business quickly, you must have a responsive website in these digital times. Professional website development helps your business be registered among the audience and enables you to achieve your marketing goals. Therefore, our professional website design company provides you with the  required exposure for operating your business and grows it significantly.</p>
+    <h3>We offer many Custom Web Design Services Online. </h3>
+    <p>Having a slow, cluttered, designed, or unresponsive website is akin to losing thousands of dollars worth of business with every passing minute. You must be aware of the changing needs of the times and bring your business online with a modern website design.</p>
+    <h3>Increase your ROI, and cultivate a loyal audience for your site </h3>
+    <p>With expert website designers' help, you can grow your business significantly, Our custom website design company offers unique websites that gain your visitors'  attention and help you make longer working relations with them.</p>
     <ul class="pointlisting">
-      <li>Parallex Web page design </li>
-      <li>Wordpress Development </li>
+
+      <li>WordPress Development </li>
+      <li>Ecommerce Website Development  </li>
       <li>Custom Website Development</li>
-      <li>Portal Development</li>
-      <li>Web Applications</li>
+      <li>Web Portal Development</li>
+      <li>Web Applications Development</li>
       
     </ul>
     <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get a website in just £259.99</a>
@@ -187,6 +149,170 @@
   </div>
 </section>
 
+<section class="mprocess pbpx-0 newCreatedSection">
+  <div class="container">
+  <div class="row">
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2>Creative Innovative Brands with Professional Website Designers </h2>
+          <p>Making your unique brand identity online in these ultra-modern digital times is not easy. A lot more is required from you as a brand. Website Valley's professional website development team upholds the highest regard for your business, and this is shown in the type of website design services we deliver to you. Our quick website design company will ensure that your brand remains media-worthy and highlights your unique business value proposition. </p>
+     
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/loyal-visitor.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/online-shop.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6 ">
+        <div class="txtwrap ">
+          <h2 class="text-right">Design and Develop Amazing Websites for your Business.</h2>
+          <p class="text-right">We use a step-by-step approach to understand your business, its related needs and deliver a prompt and intuitive experience for your website that encourages your visitors to trust your brand. </p>
+          
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2>Custom Web Design Service Online </h2>
+          <p>Our services also include the best web design packages according to your budget. Our experienced website designers and developers will help you develop a truly unique website to generate maximum ROI.  </p>
+          <ul class="myticks">
+            <li class="text-black">Intuitive Experience</li> 
+            <li class="text-black">Quick Increase in ROI</li> 
+            <li class="text-black">Modern Website Design</li>
+            <li class="text-black">Maximum Exposure </li>
+            <li class="text-black">Smooth transitions </li>
+            <li class="text-black">Affordable web design services</li>
+            <li class="text-black">Professional website development </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/mogento.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/open-cart.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <div class="txtwrap ">
+          <h2 class="text-right">Your Professional Website Development is the Key to Enter into the Business World.</h2>
+          <p class="text-right">Creating a website is not enough for your business. Your modern website design requires continuous changes that provide web security and bring innovative ideas to remain relevant for your audience. If you seek to gain your audience's attention through modern website design, you need to change according to the technology.</p>
+          <h5 class="text-right">Professional Developers </h5>
+          <p class="text-right">Then you must hire professional website development services for custom web design services online. Your modern website design is the face of your business. Therefore, our Professional Website Design Company will help you tell everyone who you are, what you do, and that you're a serious business. </p>
+        </div>
+      </div>
+     
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2>Hire professional website designers and the best website development team to bring effective results for you.</h2>
+          <p>Developing a website requires a lot of effort from your side. No worries if you are short on time. Our top web design company is here to bring practical solutions to your problem. </p>
+          <h5>We Work with Latest Technology  </h5>
+          <p>We build and design your website with the up-to-date technology of the times, ensure that it remains a digitally secure place for your visitors, and offers them accessibility across all devices.</p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/woocommerce.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/ecommerce-development.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2 class="text-right">Website Made to Fit Every Screen </h2>
+          <p class="text-right">No matter if your user is coming from a mobile, tablet, or regular desktop, your professional website development is necessary. Our Modern web designs are tailored to meet the criteria of every screen. Get the modern website designs that make your website look as sharp as on the desktop screen. </p>
+          <h5 class="text-right">Professional Website Designers are within your reach—no need to search more about the top web design company near me.  </h5>
+          <p class="text-right">We are affordable web design services. Our custom web design service online has designed reasonable web design Packages to satisfy your digital needs within your budget. Now you don't have to look for cheap website design services when you can have the best results at an affordable web design services price.  </p>        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2>Affordable Web Design Packages </h2>
+          <p>Every package is designed with thoughtful considerations to guarantee the best user experience. Showcase your business with web security and great web designs at a reasonable price. Below mentioned are our Web Design Packages. You can also connect with us for any customized package that fits your budget needs when it comes to cheap website design services.</p>
+          <h5>SEO Optimized Website to Reach More Audience   </h5>
+          <p>The online business world has some prerequisites that you need to be aware of, such as website SEO and top website design services. SEO optimization has become crucial for getting your website ranked in search engines. Thereby, your content should be SEO optimized according to the current trends to increase your domain authority. No matter which target market you opt to choose, you will always have the upper hand with our affordable web design services. </p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/woocommerce.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/ecommerce-development.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2 class="text-right">Approachable and Accessible Websites </h2>
+          <p class="text-right">Attract your target audience without paying for ads or PPC, and increase your public relations. We follow quick and practical strategies, which you will not find in any other cheap website design services to help your website rank among your competitors. Make your business more approachable and accessible without any troubles. At Website Valley, we have a dedicated team that holds powerful SEO content strategies that will prove effective in the longer run.  Call to action: Get SEO-optimized Websites for more clicks, more leads, and higher conversion rates.</p>
+          </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2>Our quick, professional website
+designers are here to revamp your
+business online with affordable
+web design services. </h2>
+          <p>Let's hear what our clients are saying.
+
+They are one heck of a professional website design company! We had a fantastic time working with Website Valley as a team. We weren't confident how much cheap website design services would do such a tremendous job. As an agency, we believe they are doing a great job satisfying the customers' needs and providing excellent services. We're lucky to have found them and will keep working with them. 
+
+Overall, it was a great experience working with Website Valley. They had a Custom web design service online with affordable web design packages. They were highly cooperative and understood our brand needs first to deliver effective results. We've got our web developed by them, and we're happy to hire their cheap website design services. We got a great looking website, but they created everything within the budget and the given time. 
+
+Website Valley was easy to work with, and we quickly understood our needs and were able to develop our new website on a short deadline. We'd continue working with them as they have been such a great help to us. We're happy to collaborate with them for our website project development and maintenance at a cheap website design services package. 
+</p>
+         
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/woocommerce.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <figure class="mfig">
+          <img src="assets/images/ecommerce-development.png" alt="">
+        </figure>
+     
+      </div>
+      <div class="col-lg-6">
+        <div class="txtwrap">
+          <h2 class="text-right">How can we partner up? </h2>
+          <p class="text-right">Satisfy your client's needs and increase your profitability through making small changes in your business, starting from the website. Website Valley is a top web design company that will help you build your brands and let you earn your client's trust by simply doing an excellent job on your website. Our top web design company will help you grab your visitors' attention through vibrant, modern, and smooth designs. Create modern website designs to achieve new heights for your business. </p>
+
+          <ul class="myticks">
+            <li class="text-black">Great customer Satisfaction </li> 
+            <li class="text-black">Money Back Guarantee </li> 
+            <li class="text-black">100% Copyrights </li>
+            <li class="text-black">Constant Collaboration </li>
+          </ul>
+           </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
 
 <section class="filterportfolio">
   <div class="container">
