@@ -513,6 +513,7 @@ ul, li {
   <div class="modal-dialog modal-xl" role="document">
     <div class="modal-content" style="background-image:url('../wp-content/themes/popup.jpg');background-size:cover">
       <div class="modal-body">
+      <button type="button" class="close modalClose" data-dismiss="modal">×</button>
 	  <button type="button" class="close modalClose" data-dismiss="modal">&times;</button>
 	  <div class="container">
 			<div class="row">
@@ -528,7 +529,7 @@ ul, li {
 							<hr class="hrModal">
 							
 						</div>
-						<p class="text-center modal-para p-md-4">To schedule a consultation, please send us your details. We will guide you through the entire writing and publishing process.</p>
+						<p class="text-center modal-para p-md-4">To schedule a consultation, please send us your details. Our senior consultant will guide you through the entire design & development process.</p>
 						<form action="/leads/" method="POST" class="modal-fom">
 							<!-- <input type="hidden" name="setprice" class="setprice">	 -->
 							<div class="row">

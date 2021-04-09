@@ -336,7 +336,7 @@ include_once('includes/head.php');
 
 
 
-<section class="sec-padding pricing-sec portfolion pt-5">
+<section class="sec-padding pricing-sec portfolion pt-0 pt-md-3">
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-12"> 
@@ -1225,7 +1225,7 @@ include_once('includes/head.php');
 
 
 
-<section class="sec-padding pricing-sec packages-sec-before" style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%);">
+<section class="sec-padding pricing-sec packages-sec-before pt-4 pt-md-3" style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%);">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 

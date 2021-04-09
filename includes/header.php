@@ -70,7 +70,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="col-lg-2 mobile-res-logo">
           <div class="logo">
             <a href="/">
-              <img class="img-fluid" src="assets/images/logof.png" alt="*">
+              <img class="img-fluid" src="assets/images/logo.png" alt="*">
             </a>
           </div>
         </div>
@@ -108,8 +108,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- Modal For Queries -->
 <div class="modal fade" id="modalForDiscount" tabindex="-1" role="dialog" aria-labelledby="modalForDiscount" aria-hidden="true" style="top:10%;">
   <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content" style="background-image:url('img/popup.jpg');background-size:cover">
+    <div class="modal-content">
       <div class="modal-body">
+      <button type="button" class="close modalClose" data-dismiss="modal">×</button>
 	  <!-- <button type="button" class="close modalClose" data-dismiss="modal" onclick="alert(3)">&times;</button> -->
 	  <div class="container">
 			<div class="row">
@@ -146,7 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							
 								<label class="containerCheckBox">
 									<!-- <input  type="checkbox" name="subscription" checked disabled> -->
-									<span class="modal-check-para"> We will guide you through the entire writing and publishing process.</span>
+									<span class="modal-check-para"> Our senior consultant will guide you through the entire design & development process.</span>
 								</label>
 								<input type="hidden" name="set" value="true">
 								<div class="text-center pb-3">
