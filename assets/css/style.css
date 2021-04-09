@@ -1450,7 +1450,6 @@ h2, .h2{font-size: var(--font-size-h2);}
     .cta2 .wrap .gt-strt{padding: 12px 10px !important;     font-size: 15px !important;}
     .mygrid{width: 95% !important;}
     .smallboxes .smallbox{    width: 40%;}
-    .smallboxes .smallbox .price-btnwrap a{    padding: 12px 0 7px 30px !important;}
     .belowform .mfig{display: none !important;}
     .home-banner{    height: auto !important;}
     .pricing-sec h2{text-align: center !important;}
@@ -3906,7 +3905,7 @@ section.faqsection {}
 }
 
 .footer-bottom .fologo{
-    width: 250px;
+    width: 192px;
     margin-bottom: 5px;
     margin-top: 22px;    
 }
@@ -4576,7 +4575,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2545b', end
 }
 .header-main .secondlogo a{}
 .header-main .secondlogo a img{
-    width: 240px;
+    width: 192px;
 }
 
 .ourapproachsec{
@@ -5001,7 +5000,6 @@ section.call-actions h3 span {    font-size: 16px;}
     .smallboxes .smallbox figure img{width: auto;}
     .smallboxes .smallbox figure{text-align: left;}
     .smallboxes .smallbox h2{text-align: center;padding-top: 0;}
-    .smallboxes .smallbox .price-btnwrap{text-align:left;}
     .smallbox.mright{margin-right: 0px;}
     .pricing-sec h2{padding-top: 0px;text-align: left;}
     .pricing-sec p{text-align: left;}
@@ -8464,7 +8462,7 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
 
 
 .fancybox-slide--iframe .fancybox-content{height:100% !important;}
-
+#modalForDiscount button{background: #000!important;}
 
 
 

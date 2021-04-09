@@ -75,6 +75,32 @@
   </div>
 </section>
 </div>
+
+<section class="belowform home-form">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 inner-content text-left">
+        <div class="form-box-main clearfix">
+  <h2>Let’s talk about your next Big thing!</h2>
+  <p>Heads up! We require that you sign up for Website Valley services and packages. We make all your dreams come true in a successful project.</p>
+<?php include_once('includes/form.php');?>
+</div>
+
+
+
+ 
+      </div>
+      <div class="col-lg-6 align-self-center">
+        <figure class="mfig">
+           <img src="assets/images/footer-laptop.png" alt="">
+        </figure>
+        
+
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="maparea">
   <div class="container">
     <div class="row">

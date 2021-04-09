@@ -358,183 +358,407 @@ include_once('includes/head.php');
 
 
         <div id="webdd" class="tab-pane active">
-            <ul class="portfoliolist web-design-portfolio-slider grid loadmoreweb">
+            <ul class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-none d-md-block">
               <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.png"><img src="assets/images/portfolio/web/thumbnail/1.png" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.png"><img src="assets/images/portfolio/web/thumbnail/2.png" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.png"><img src="assets/images/portfolio/web/thumbnail/3.png" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.png"><img src="assets/images/portfolio/web/thumbnail/4.png" alt=""></a></li>
+              
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/1.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/2.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.jpg"><img src="assets/images/portfolio/web/thumbnail/3.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.jpg"><img src="assets/images/portfolio/web/thumbnail/4.jpg" alt=""></a></li>
 
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.png"><img src="assets/images/portfolio/web/thumbnail/5.png" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.png"><img src="assets/images/portfolio/web/thumbnail/6.png" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.png"><img src="assets/images/portfolio/web/thumbnail/7.png" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.png"><img src="assets/images/portfolio/web/thumbnail/8.png" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.jpg"><img src="assets/images/portfolio/web/thumbnail/5.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.jpg"><img src="assets/images/portfolio/web/thumbnail/6.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.jpg"><img src="assets/images/portfolio/web/thumbnail/7.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.jpg"><img src="assets/images/portfolio/web/thumbnail/8.jpg" alt=""></a></li>
 
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.png"><img src="assets/images/portfolio/web/thumbnail/9.png" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.jpg"><img src="assets/images/portfolio/web/thumbnail/9.jpg" alt=""></a></li>
                 </div>
-<div>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.png"><img src="assets/images/portfolio/web/thumbnail/10.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.png"><img src="assets/images/portfolio/web/thumbnail/11.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.png"><img src="assets/images/portfolio/web/thumbnail/12.png" alt=""></a></li>
+                <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.jpg"><img src="assets/images/portfolio/web/thumbnail/10.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.jpg"><img src="assets/images/portfolio/web/thumbnail/11.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.jpg"><img src="assets/images/portfolio/web/thumbnail/12.jpg" alt=""></a></li>
 
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.png"><img src="assets/images/portfolio/web/thumbnail/13.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.png"><img src="assets/images/portfolio/web/thumbnail/14.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.png"><img src="assets/images/portfolio/web/thumbnail/15.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.png"><img src="assets/images/portfolio/web/thumbnail/16.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-1.jpg" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-2.jpg" alt=""></a></li>
-</div>
-<!-- <li>
-	<a href="javascript:;" class="btn-main" id="loadmoreweb" style="font-size: 14px;margin-top: 20px;">View More</a>
-</li> -->            </ul>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.jpg"><img src="assets/images/portfolio/web/thumbnail/13.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.jpg"><img src="assets/images/portfolio/web/thumbnail/14.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.jpg"><img src="assets/images/portfolio/web/thumbnail/15.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.jpg"><img src="assets/images/portfolio/web/thumbnail/16.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/17.jpg"><img src="assets/images/portfolio/web/thumbnail/17.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/18.jpg"><img src="assets/images/portfolio/web/thumbnail/18.jpg" alt=""></a></li>
+                </div>
+            </ul>
+            <ul class="portfoliolist web-design-portfolio-slider2 grid loadmoreweb d-block d-md-none" dir="rtl">
+              <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/1.jpg" alt=""></a></li>
+               </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/2.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.jpg"><img src="assets/images/portfolio/web/thumbnail/3.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.jpg"><img src="assets/images/portfolio/web/thumbnail/4.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.jpg"><img src="assets/images/portfolio/web/thumbnail/5.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.jpg"><img src="assets/images/portfolio/web/thumbnail/6.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.jpg"><img src="assets/images/portfolio/web/thumbnail/7.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.jpg"><img src="assets/images/portfolio/web/thumbnail/8.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.jpg"><img src="assets/images/portfolio/web/thumbnail/9.jpg" alt=""></a></li>
+                </div>
+            </ul>
+            <ul class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-block d-md-none" >
+                <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.jpg"><img src="assets/images/portfolio/web/thumbnail/10.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.jpg"><img src="assets/images/portfolio/web/thumbnail/11.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.jpg"><img src="assets/images/portfolio/web/thumbnail/12.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.jpg"><img src="assets/images/portfolio/web/thumbnail/13.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.jpg"><img src="assets/images/portfolio/web/thumbnail/14.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.jpg"><img src="assets/images/portfolio/web/thumbnail/15.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.jpg"><img src="assets/images/portfolio/web/thumbnail/16.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/17.jpg"><img src="assets/images/portfolio/web/thumbnail/17.jpg" alt=""></a></li>
+                </div>
+               <div>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/18.jpg"><img src="assets/images/portfolio/web/thumbnail/18.jpg" alt=""></a></li>
+                </div>
+            </ul>
           </div>
           
           
 
           <div id="branding" class="tab-pane">
-            <ul class="portfoliolist grid loadmorebrand web-design-portfolio-slider">
-              <div>
-<li class=" logoportfo border-box-effect" data-category="transition">
-  <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/1.png">
-    <figure>
-      <img src="assets/images/portfolio/branding/1.png" alt="">
-    </figure>
-  </a>
-</li>
-<li class=" logoportfo border-box-effect" data-category="transition">
-  <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/2.png">
-    <figure>
-      <img src="assets/images/portfolio/branding/2.png" alt="">
-    </figure>
-  </a>
-</li>
-<li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/3.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/3.png" alt="">
-      </figure>
-    </a>
-  </li>
+            <ul class="portfoliolist grid loadmorebrand web-design-portfolio-slider d-none d-md-block">
+                <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/1.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/1.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/2.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/2.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                      <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/3.png">
+                        <figure>
+                          <img src="assets/images/portfolio/branding/3.png" alt="">
+                        </figure>
+                      </a>
+                    </li>
 
-<li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/4.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/4.png" alt="">
-      </figure>
-    </a>
-  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                      <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/4.png">
+                        <figure>
+                          <img src="assets/images/portfolio/branding/4.png" alt="">
+                        </figure>
+                      </a>
+                    </li>
 
-<li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/5.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/5.png" alt="">
-      </figure>
-    </a>
-  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/5.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/5.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
 
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/6.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/6.png" alt="">
-      </figure>
-    </a>
-  </li>
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/7.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/7.png" alt="">
-      </figure>
-    </a>
-  </li>
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/8.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/8.png" alt="">
-      </figure>
-    </a>
-  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/6.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/6.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/7.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/7.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/8.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/8.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
 
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/9.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/9.png" alt="">
-      </figure>
-    </a>
-  </li>
-</div>
-<div>
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/10.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/10.png" alt="">
-      </figure>
-    </a>
-  </li>
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/11.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/11.png" alt="">
-      </figure>
-    </a>
-  </li>
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/12.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/12.png" alt="">
-      </figure>
-    </a>
-  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/9.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/9.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                </div>
+                <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/10.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/10.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/11.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/11.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/12.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/12.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
 
 
 
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/13.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/13.png" alt="">
-      </figure>
-    </a>
-  </li>
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/14.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/14.png" alt="">
-      </figure>
-    </a>
-  </li>
-  <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/15.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/15.png" alt="">
-      </figure>
-    </a>
-  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/13.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/13.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/14.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/14.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/15.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/15.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
 
-   <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/16.png">
-      <figure>
-        <img src="assets/images/portfolio/branding/16.png" alt="">
-      </figure>
-    </a>
-  </li>
-    <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/1.jpg">
-      <figure>
-        <img src="assets/images/portfolio/branding/thumbnail-1.jpg" alt="">
-      </figure>
-    </a>
-  </li>
-    <li class=" logoportfo border-box-effect" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/2.jpg">
-      <figure>
-        <img src="assets/images/portfolio/branding/thumbnail-2.jpg" alt="">
-      </figure>
-    </a>
-  </li>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/16.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/16.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                    <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/1.jpg">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/thumbnail-1.jpg" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                    <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/2.jpg">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/thumbnail-2.jpg" alt="">
+                      </figure>
+                    </a>
+                  </li>
 
-</div>
-<!-- <li>
-  <a href="javascript:;" class="btn-main" id="loadmorebrand" style="font-size: 14px;margin-top: 20px;">View More</a>
-</li> -->            </ul>
+                </div>
+            </ul>
+            <ul class="portfoliolist grid loadmorebrand web-design-portfolio-slider d-block d-md-none">
+                <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/1.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/1.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>                  
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/2.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/2.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                      <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/3.png">
+                        <figure>
+                          <img src="assets/images/portfolio/branding/3.png" alt="">
+                        </figure>
+                      </a>
+                    </li>
+                    </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                      <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/4.png">
+                        <figure>
+                          <img src="assets/images/portfolio/branding/4.png" alt="">
+                        </figure>
+                      </a>
+                    </li>
+                    </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/5.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/5.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/6.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/6.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/7.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/7.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/8.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/8.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/9.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/9.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+              </ul>
+              <ul class="portfoliolist grid loadmorebrand web-design-portfolio-slider2 d-block d-md-none" dir="rtl">  
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/10.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/10.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/11.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/11.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/12.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/12.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+
+
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/13.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/13.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/14.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/14.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/15.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/15.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                  <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/16.png">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/16.png" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                    <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/1.jpg">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/thumbnail-1.jpg" alt="">
+                      </figure>
+                    </a>
+                  </li>
+                  </div>
+                  <div>
+                    <li class=" logoportfo border-box-effect" data-category="transition">
+                    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/2.jpg">
+                      <figure>
+                        <img src="assets/images/portfolio/branding/thumbnail-2.jpg" alt="">
+                      </figure>
+                    </a>
+                  </li>
+
+                </div>
+            </ul>
           </div>
 
           
@@ -678,7 +902,7 @@ include_once('includes/head.php');
           </div>
 
           <div id="ecom" class="tab-pane">
-            <ul class="portfoliolist grid loadmoreecomm web-design-portfolio-slider">
+            <ul class="portfoliolist grid loadmoreecomm web-design-portfolio-slider d-none d-md-block">
                <div>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/1b.png">
@@ -815,9 +1039,174 @@ include_once('includes/head.php');
 
   </div>
 
-<!-- <li>
-  <a href="javascript:;" class="btn-main" id="loadmoreecomm" style="font-size: 14px;margin-top: 20px;">View More</a>
-</li> -->
+
+               </ul>
+               <ul class="portfoliolist grid loadmoreecomm web-design-portfolio-slider d-block d-md-none">
+               <div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/1b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/1.png" alt="">
+      </figure>
+    </a>
+  </li>
+</div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/2b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/2.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/3b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/3.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/4b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/4.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/5b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/5.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/6b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/6.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/7b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/7.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/8b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/8.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/9b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/9.png" alt="">
+      </figure>
+    </a>
+  </li>
+</div>
+</ul>
+<ul class="portfoliolist grid loadmoreecomm web-design-portfolio-slider2 d-block d-md-none" dir="rtl">
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/10b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/10.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/11b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/11.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/12b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/12.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/13b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/13.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/14b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/14.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/15b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/15.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/16b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/16.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+    <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/17b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/17.png" alt="">
+      </figure>
+    </a>
+  </li>
+  </div>
+<div>
+ <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/18b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/18.png" alt="">
+      </figure>
+    </a>
+  </li>
+
+  </div>
 
 
                </ul>
@@ -2562,6 +2951,7 @@ Place purchasing requests.</li>
 
 <div class="col-lg-12">
   
+        <h2>Our Clients</h2>
         <ul class="mycli mslider">
              <li class="first"><img src="assets/images/spo1.jpg" alt="" width="40" height="40"></li>
              <li><img src="assets/images/spo2.png" alt="" width="223" height="40"></li>

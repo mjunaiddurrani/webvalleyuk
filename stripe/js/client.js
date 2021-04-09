@@ -22,6 +22,7 @@ form.addEventListener("submit", function(event) {
                         text: result.error.message,
                         type: "warning",
                     });
+                    $('.submitPay').prop('disabled', false);
                 }
             });
 

@@ -164,21 +164,13 @@
   left: -25px; }
   [dir="rtl"] .slick-prev {
     left: auto;
-    right: -25px; }
-  .slick-prev:before {
-    content: "Ã¢â€ Â"; }
-    [dir="rtl"] .slick-prev:before {
-      content: "Ã¢â€ â€™"; }
+    right: auto; }
 
 .slick-next {
   right: -25px; }
   [dir="rtl"] .slick-next {
-    left: -25px;
+    left: auto;
     right: auto; }
-  .slick-next:before {
-    content: "Ã¢â€ â€™"; }
-    [dir="rtl"] .slick-next:before {
-      content: "Ã¢â€ Â"; }
 
 /* Dots */
 .slick-dots {
