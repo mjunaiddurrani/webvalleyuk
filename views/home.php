@@ -587,7 +587,7 @@ bottom: 10px;
                       </figure>
                     </a>
                   </li>
-                  <ul>  
+                  </ul>  
                 </div>
                   <div>
                   <ul>
