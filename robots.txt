@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /
 User-agent: SemrushBot
 Allow: /
+
+sitemap: https://www.websitevalley.co.uk/sitemap.xml
