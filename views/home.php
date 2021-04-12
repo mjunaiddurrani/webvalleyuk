@@ -287,33 +287,33 @@ bottom: 10px;
                <div>
                  <ul>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.jpg"><img src="assets/images/portfolio/web/thumbnail/4.jpg" alt=""></a></li>
-                </div>
-                  </ul>
+                </ul>  
+              </div>
                <div>
                  <ul>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.jpg"><img src="assets/images/portfolio/web/thumbnail/5.jpg" alt=""></a></li>
-                </div>
-                  </ul>
+                </ul>  
+              </div>
                <div>
                  <ul>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.jpg"><img src="assets/images/portfolio/web/thumbnail/6.jpg" alt=""></a></li>
-                </div>
-                  </ul>
+                </ul>  
+              </div>
                <div>
                  <ul>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.jpg"><img src="assets/images/portfolio/web/thumbnail/7.jpg" alt=""></a></li>
-                </div>
-                  </ul>
+                </ul>  
+              </div>
                <div>
                  <ul>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.jpg"><img src="assets/images/portfolio/web/thumbnail/8.jpg" alt=""></a></li>
-                </div>
-                  </ul>
+                </ul>  
+              </div>
                <div>
                  <ul>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.jpg"><img src="assets/images/portfolio/web/thumbnail/9.jpg" alt=""></a></li>
-                </div>
-                  </ul>
+                </ul>  
+              </div>
             </div>
             <div class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-block d-md-none" >
                 <div>
