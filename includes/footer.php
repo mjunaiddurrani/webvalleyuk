@@ -163,14 +163,14 @@
                     <div class="row">
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input id="username" name="name" minlength="2" type="text" placeholder="Enter your name" required />
+                          <input  name="name" minlength="2" type="text" placeholder="Enter your name" required />
                           <i class="fa fa-user" aria-hidden="true"></i>
                         </div>
                       </div>
                      
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input id="cemail" type="email" name="email" placeholder="Enter email here" required>
+                          <input  type="email" name="email" placeholder="Enter email here" required>
                           <i class="fa fa-envelope" aria-hidden="true"></i>
                         </div>
                       </div>
@@ -190,7 +190,7 @@
                         <div class="fldset">
                           <input name="submit" type="submit" placeholder="Connect With Us" required />
         
-                          <script data-cfasync="false" src="not-found.html"></script><script type="text/javascript">
+                          <script data-cfasync="false" src="not-found.html"></script><script >
                         document.getElementById('flocation').value = window.location.href;
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
@@ -239,14 +239,14 @@
                 <p>Send us your number to speak with an actual human.</p>
                  <input id="phone-coun" name="Number" required="" type="text" onkeypress="return isNumberKey(event);" rangelength="[2,15]" placeholder="Enter phone here">
                  <button class="newbtn" type="submit">Submit</button>
-                 <script type="text/javascript">
+                 <script>
                 document.getElementById('location').value = window.location.href;
               </script>
               <input type="hidden" name="hiddencapcha" value="">
               <input type="hidden" name="ctry" value="">
               <input type="hidden" name="pc" value="">
               
-              <input type="hidden" id="location" name="locationURL" value="http://websitevalley.co.uk/" />
+              <input type="hidden"  name="locationURL" value="http://websitevalley.co.uk/" />
                </div>
 
                
@@ -294,7 +294,7 @@
   <div class="mypopup">
     <div class="left">
       <figure>
-        <img class="lazy loaded" src="not-found.html" data-src="assets/images/popup-inner.png" data-was-processed="true">
+        <img class="lazy loaded" src="not-found.html" alt="not found" data-src="assets/images/popup-inner.png" data-was-processed="true">
       </figure>
     </div>
     <div class="right">
@@ -310,18 +310,15 @@
                     <input id="fname" name="Name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
                   </div>
                   <div class="dtf">
-                    <input id="cemail" type="email" name="Email" placeholder="Enter email here" required="">
+                    <input  type="email" name="Email" placeholder="Enter email here" required="">
                   </div>
                   <div class="dtf">
-                    <input id="cemail" type="email" name="Email" placeholder="Enter email here" required="">
+                    <input  type="email" name="Email" placeholder="Enter email here" required="">
                   </div>
                   <div class="dtf text-left">
                   
-                    <input type="hidden" name="hiddencapcha" value="">
                     <input class="submit" type="submit" value="RESERVE THIS OFFER">
-                    <input class="" type="hidden" name="ctry" value="">
-                    <input type="hidden" name="pc" value="">
-                     <input type="hidden" id="location" name="locationURL" value="">
+                   
                   </div>
                 </div>
               </div>
