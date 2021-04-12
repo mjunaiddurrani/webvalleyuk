@@ -322,8 +322,8 @@
       <div class="col-lg-12">
         
         <div class="text text-center">
-          <h2>Take a peek at some of our latest and greatest work!</h2>
-          <p>Design excellence can’t really be achieved without working side by side with extraordinary clients from around the world.</p>  
+          <h2>Make your life easier, and take a look at our  recent projects!</h2>
+          <p>Technology is changing continuously. You can become confused with what type of application you require for your business. Our mobile app development agency's sample work will help you decide what you are looking for.</p>  
         </div>
 
         
