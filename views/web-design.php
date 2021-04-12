@@ -11,7 +11,8 @@
 
 
 
-<?php include_once('includes/head.php');?>
+<?php include_once('includes/head.php');
+?>
 
 <!--[if IE]>
   <script src="assets/js/html5.js"></script>
@@ -149,7 +150,7 @@
   </div>
 </section>
 
-<section class="mprocess pbpx-0 newCreatedSection">
+<section class="mprocess pbpx-0  newCreatedSection">
   <div class="container">
   <div class="row">
       <div class="col-lg-6">
@@ -161,17 +162,17 @@
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/loyal-visitor.png" alt="">
+          <img src="assets/images/web-design-1.png" alt="">
         </figure>
      
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/online-shop.png" alt="">
+          <img src="assets/images/start-your-own-website.png" alt="">
         </figure>
      
       </div>
-      <div class="col-lg-6 ">
+      <div class="col-lg-6 align-self-center">
         <div class="txtwrap ">
           <h2 class="text-right">Design and Develop Amazing Websites for your Business.</h2>
           <p class="text-right">We use a step-by-step approach to understand your business, its related needs and deliver a prompt and intuitive experience for your website that encourages your visitors to trust your brand. </p>
@@ -195,13 +196,13 @@
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/mogento.png" alt="">
+          <img src="assets/images/custom-website-design.png" alt="">
         </figure>
      
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/open-cart.png" alt="">
+          <img src="assets/images/promote-your-local-business.png" alt="">
         </figure>
      
       </div>
@@ -224,13 +225,13 @@
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/woocommerce.png" alt="">
+          <img src="assets/images/hire-professional-website-designer.png" alt="">
         </figure>
      
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/ecommerce-development.png" alt="">
+          <img src="assets/images/website-made-to-fit.png" alt="">
         </figure>
      
       </div>
@@ -251,13 +252,13 @@
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/woocommerce.png" alt="">
+          <img src="assets/images/affordable-website-design-package.png" alt="">
         </figure>
      
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/ecommerce-development.png" alt="">
+          <img src="assets/images/approchable-and-acessible.png" alt="">
         </figure>
      
       </div>
@@ -286,13 +287,13 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/woocommerce.png" alt="">
+          <img src="assets/images/quick-professional-website-designer.png" alt="">
         </figure>
      
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/ecommerce-development.png" alt="">
+          <img src="assets/images/partner-up.png" alt="">
         </figure>
      
       </div>
@@ -301,10 +302,10 @@ Website Valley was easy to work with, and we quickly understood our needs and we
           <h2 class="text-right">How can we partner up? </h2>
           <p class="text-right">Satisfy your client's needs and increase your profitability through making small changes in your business, starting from the website. Website Valley is a top web design company that will help you build your brands and let you earn your client's trust by simply doing an excellent job on your website. Our top web design company will help you grab your visitors' attention through vibrant, modern, and smooth designs. Create modern website designs to achieve new heights for your business. </p>
 
-          <ul class="myticks">
+          <ul class="myticks mb-5">
             <li class="text-black">Great customer Satisfaction </li> 
             <li class="text-black">Money Back Guarantee </li> 
-            <li class="text-black">100% Copyrights </li>
+            <li class="text-black">100% Copyrights </li>  
             <li class="text-black">Constant Collaboration </li>
           </ul>
            </div>
@@ -313,7 +314,84 @@ Website Valley was easy to work with, and we quickly understood our needs and we
     </div>
   </div>
 </section>
+<section class="faqsSection py-5">
+<div class="container">
+  <h3 class="text-center"><b>FAQs</b></h3>
+  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingOne">
+        <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          1. How much do you charge to create a website?
 
+        </a>
+      </h4>
+      </div>
+      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+        <div class="panel-body">
+        Our Top web design company prices vary according to the nature of the project. It would be impossible to give a fixed price in one sentence as our client's product type and business nature are different. Likewise, there are many other factors involved in the pricing of Web design packages. However, our affordable web design services in the UK can change the website game for you, which cheap website design services cannot build. Before charging any money from you, our team gives you a free consultation to understand your website requirements. To understand our pricing plans for the website to build: 
+          Drop us a message by opting for our contact form or give us a call.  Fill in the brief content form regarding our website type, design, and development requirement. We will provide you with an initial figure after assessing your website demands. Once satisfied with our discussion, we'll give you the final quote. Our website design services will make you happy and content.  
+
+
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingTwo">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          2. What If I am not happy with your Website design and development service?
+
+        </a>
+      </h4>
+      </div>
+      <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+        <div class="panel-body">
+        We hope that does not happen as we do our best to provide a seamless experience to our UK clients. However, if for some reason you get a non-satisfactory experience. We offer a 100% money-back guarantee. According to our business policy and agreement, your funds will be returned in the next 60 business days. (As it takes time to reevaluate our bank accounts and return the funds to you). This offer makes our custom web design service online trustable and unique from others. 
+
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingThree">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          3. What is your payment process to hire professional website designers? 
+ 
+        </a>
+      </h4>
+      </div>
+      <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+        <div class="panel-body">
+        We offer Affordable web design services to relieve you from financial stress. Our professional website designers are quick and efficient. We require 50% of the upfront payment at the beginning of the web project. Once everything is completed, we show your website mockup from our server. Once you approve the website, you require you to pay the other 50% of the project to deliver your server's website. In the case of a big website project, we are also happy to break the payment into two or more milestone installments. 
+
+
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingFour">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          4. How to know if I need a responsive website design and Development?
+
+
+        </a>
+      </h4>
+      </div>
+      <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+        <div class="panel-body">
+        In the digital era having a responsive website has become essential for operating businesses. Our expert website designers know this by heart. It has been said that more than half of website visitors come from mobile devices. Therefore, your website must be optimized and perform responsively. Our custom web design service online ensures that your digital needs are met in due time. Hire expert website designers of the top web design company in the UK. 
+
+
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+</div>
+</section>
 <section class="filterportfolio">
   <div class="container">
     <div class="row">
