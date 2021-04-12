@@ -187,7 +187,7 @@
                       
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input name="submit" type="submit"  required />
+                          <input name="submit" type="submit"   />
         
                           <script data-cfasync="false" src="not-found.html"></script><script >
                         document.getElementById('flocation').value = window.location.href;

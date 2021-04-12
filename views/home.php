@@ -237,7 +237,7 @@ bottom: 10px;
 
 
         <div id="webdd" class="tab-pane active">
-            <ul class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-none d-md-block">
+            <div class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-none d-md-block">
               <div>
               
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/1.jpg" alt=""></a></li>
@@ -264,8 +264,8 @@ bottom: 10px;
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/17.jpg"><img src="assets/images/portfolio/web/thumbnail/17.jpg" alt=""></a></li>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/18.jpg"><img src="assets/images/portfolio/web/thumbnail/18.jpg" alt=""></a></li>
                 </div>
-            </ul>
-            <ul class="portfoliolist web-design-portfolio-slider2 grid loadmoreweb d-block d-md-none" dir="rtl">
+            </div>
+            <div class="portfoliolist web-design-portfolio-slider2 grid loadmoreweb d-block d-md-none" dir="rtl">
               <div>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/1.jpg" alt=""></a></li>
                </div>
@@ -293,8 +293,8 @@ bottom: 10px;
                <div>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.jpg"><img src="assets/images/portfolio/web/thumbnail/9.jpg" alt=""></a></li>
                 </div>
-            </ul>
-            <ul class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-block d-md-none" >
+            </div>
+            <div class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-block d-md-none" >
                 <div>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.jpg"><img src="assets/images/portfolio/web/thumbnail/10.jpg" alt=""></a></li>
                 </div>
@@ -322,13 +322,13 @@ bottom: 10px;
                <div>
                 <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/18.jpg"><img src="assets/images/portfolio/web/thumbnail/18.jpg" alt=""></a></li>
                 </div>
-            </ul>
+            </div>
           </div>
           
           
 
           <div id="branding" class="tab-pane">
-            <ul class="portfoliolist grid loadmorebrand web-design-portfolio-slider d-none d-md-block">
+            <div class="portfoliolist grid loadmorebrand web-design-portfolio-slider d-none d-md-block">
                 <div>
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/1.png">
@@ -468,8 +468,8 @@ bottom: 10px;
                   </li>
 
                 </div>
-            </ul>
-            <ul class="portfoliolist grid loadmorebrand web-design-portfolio-slider d-block d-md-none">
+            </div>
+            <div class="portfoliolist grid loadmorebrand web-design-portfolio-slider d-block d-md-none">
                 <div>
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/1.png">
@@ -551,8 +551,8 @@ bottom: 10px;
                     </a>
                   </li>
                   </div>
-              </ul>
-              <ul class="portfoliolist grid loadmorebrand web-design-portfolio-slider2 d-block d-md-none" dir="rtl">  
+              </div>
+              <div class="portfoliolist grid loadmorebrand web-design-portfolio-slider2 d-block d-md-none" dir="rtl">  
                   <div>
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/10.png">
@@ -637,13 +637,13 @@ bottom: 10px;
                   </li>
 
                 </div>
-            </ul>
+            </div>
           </div>
 
           
 
           <div id="videoanimation" class="tab-pane">
-            <ul class="portfoliolist grid loadmorevideo web-design-portfolio-slider">
+            <div class="portfoliolist grid loadmorevideo web-design-portfolio-slider">
               <div>
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/1.mp4">
@@ -777,11 +777,11 @@ bottom: 10px;
   <a href="javascript:;" class="btn-main" id="loadmorevideo" style="font-size: 14px;margin-top: 20px;">View More</a>
 </li> -->
 
-            </ul>
+            </div>
           </div>
 
           <div id="ecom" class="tab-pane">
-            <ul class="portfoliolist grid loadmoreecomm web-design-portfolio-slider d-none d-md-block">
+            <div class="portfoliolist grid loadmoreecomm web-design-portfolio-slider d-none d-md-block">
                <div>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/1b.png">
@@ -919,8 +919,8 @@ bottom: 10px;
   </div>
 
 
-               </ul>
-               <ul class="portfoliolist grid loadmoreecomm web-design-portfolio-slider d-block d-md-none">
+               </div>
+               <div class="portfoliolist grid loadmoreecomm web-design-portfolio-slider d-block d-md-none">
                <div>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/1b.png">
@@ -1002,8 +1002,8 @@ bottom: 10px;
     </a>
   </li>
 </div>
-</ul>
-<ul class="portfoliolist grid loadmoreecomm web-design-portfolio-slider2 d-block d-md-none" dir="rtl">
+</div>
+<div class="portfoliolist grid loadmoreecomm web-design-portfolio-slider2 d-block d-md-none" dir="rtl">
 <div>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/10b.png">
@@ -1088,7 +1088,7 @@ bottom: 10px;
   </div>
 
 
-               </ul>
+               </div>
           </div>
           
         </div>
