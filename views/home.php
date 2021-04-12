@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en-GB">
 
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
+
 <title>Innovative Website Designing Services In UK | Website Valley</title>
 
 <?php 
@@ -30,6 +30,22 @@ include_once('includes/head.php');
     background-color: rgb(5 255 227 / 76%) !important;
 }
 
+.shownImage {
+
+position: relative;
+
+
+}
+.shownImage > img {
+position: absolute;
+top: 10px;
+left: 10px;
+right: 10px;
+bottom: 10px;
+
+}
+
+
 </style>
 </head>
 <body class="hompg hdar-clr">
@@ -43,37 +59,15 @@ include_once('includes/head.php');
 <?php include_once('includes/header.php');?>
 
 
-<style>
-
-
-.shownImage {
-
-  position: relative;
-
-
-}
-.shownImage > img {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  right: 10px;
-  bottom: 10px;
-
-}
-
-
-</style>
-
-
 
 
 <div class="slider-wrapper">
 <div class="container">
 <div class="topformcontainer"  style="width: 700px;margin-right: -120px;margin-top:-40px">
 <div id="slideshow1" class="shownImage" >
-<img src="assets/images/2b.png"  style="width: 700px;">
-<img src="assets/images/3b.png"  style="width: 700px;">
-<img src="assets/images/1b.png"  style="width: 700px;">
+<img src="assets/images/2b.png" alt="fire protection partner"  style="width: 700px;">
+<img src="assets/images/3b.png" alt="explore the world of age"  style="width: 700px;">
+<img src="assets/images/1b.png" alt="masage to your workspace"  style="width: 700px;">
 
 
 </div>
