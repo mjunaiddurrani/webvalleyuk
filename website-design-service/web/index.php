@@ -3254,7 +3254,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                         <div class="fldset">
                           <input name="submit" type="submit" placeholder="Connect With Us" required="">
         
-                          <script data-cfasync="false" src="not-found.html"></script><script type="text/javascript">
+                          <script data-cfasync="false" src="not-found.html"></script><script>
                         document.getElementById('flocation').value = window.location.href;
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
@@ -3542,7 +3542,7 @@ $(document).on('click','.clickbutton',function(){
     </script>
 
 
-<script type="text/javascript">
+<script>
   function setButtonURL(){
   //CUGICHelper.bubbleChat.toggle();
   // $zopim.livechat.window.toggle();

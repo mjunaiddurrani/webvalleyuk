@@ -6,7 +6,7 @@
 <script src="assets/js/functions.js"></script> 
 
 <!--Start of Zendesk Chat Script-->
-<script type="text/javascript">
+<script>
 
 
 

@@ -38,7 +38,6 @@
             <li><a href="tel:+442038087061">+442038087061</a></li>
             <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
             <li><a class="address"> 86-90 Paul Street, London <br>EC2A 4NE, UK</a></li>
-            <br>
             <li><a class="address"> 104 Meads Lane, Ilford IG3<br> 8PE, UK</a></li>
           </ul>
           <!-- <ul class="scalmdia">
@@ -176,19 +175,19 @@
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input id="phone-coun" name="phone" type="number" placeholder="Phone Number" required />
+                          <input  name="phone" type="number" placeholder="Phone Number" required />
                         </div>
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
+                          <textarea name="brief"  rows="7" placeholder="Talk About Your Project"></textarea>
                           <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
                         </div>
                       </div>
                       
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input name="submit" type="submit" placeholder="Connect With Us" required />
+                          <input name="submit" type="submit"  required />
         
                           <script data-cfasync="false" src="not-found.html"></script><script >
                         document.getElementById('flocation').value = window.location.href;
@@ -237,7 +236,7 @@
               </div>
                <div class="fldst">
                 <p>Send us your number to speak with an actual human.</p>
-                 <input id="phone-coun" name="Number" required="" type="text" onkeypress="return isNumberKey(event);" rangelength="[2,15]" placeholder="Enter phone here">
+                 <input  name="Number" required="" type="text" onkeypress="return isNumberKey(event);"  placeholder="Enter phone here">
                  <button class="newbtn" type="submit">Submit</button>
                  <script>
                 document.getElementById('location').value = window.location.href;
@@ -251,7 +250,7 @@
 
                
               
-               <p class="lst-p">Not ready for a call? <a href="javascript:;" onclick="setButtonURL();"> Discuss with our strategist</a></span></p>
+               <p class="lst-p">Not ready for a call? <a href="javascript:;" onclick="setButtonURL();"> Discuss with our strategist</a></p>
 
              </form>
            </div>
