@@ -217,7 +217,68 @@
         </div>
   </div>
 </section>
+<section class="mprocess pbpx-0" style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%); padding:70px 0px !important">
+<div class="container">
+<h3 class="text-center py-5"><b>What do We offer? </b></h3>
+<div class="row">
+<div class="col-lg-6">
+<div class="txtwrap">
+<h2>Android App Development</h2>
+<p>According to a study, a large number of mobile users use android phones to communicate digitally. Henceforth, our mobile app developers cannot ignore this significant number. Our mobile app designer or developer deals with every business industry for their application needs. Drop us a message or reach out for our free consultation for the full-stack android app.</p>
 
+</div>
+</div>
+<div class="col-lg-6">
+<figure class="mfig">
+<img src="assets/images/w1.png" alt="">
+</figure>
+
+</div>
+<div class="col-lg-6">
+<figure class="mfig">
+<img src="assets/images/w2.png" alt="">
+</figure>
+
+</div>
+<div class="col-lg-6 ">
+<div class="txtwrap ">
+<h2 class="text-right">iPhone Application Development </h2>
+<p class="text-right">We provide iPhone application development or, say, iOS mobile apps development services. Our strategy for application building is constantly evolving as the phones are becoming more advanced and innovative. iPhones, iPads, or Apple watches, our iPhone development is designed accordingly. Therefore, get your iPhone Application Development from a professional mob application agency. </p>
+
+</div>
+</div>
+<div class="col-lg-6">
+<div class="txtwrap">
+<h2>Cross-Platform </h2>
+<p>You want a website that will build your brand recognition, represent your mission and help convey your message on multiple platforms? Be at ease now. We build cross-platform applications to provide their business consumers with the freedom to choose their desired system. Our app development services will enable you to market your products and services quicker. </p>
+
+
+</div>
+</div>
+<div class="col-lg-6">
+<figure class="mfig">
+<img src="assets/images/w3.png" alt="">
+</figure>
+
+</div>
+
+<div class="col-lg-6">
+<figure class="mfig">
+<img src="assets/images/w4.png" alt="">
+</figure>
+
+</div>
+<div class="col-lg-6 ">
+<div class="txtwrap ">
+<h2 class="text-right">Business app development</h2>
+<p class="text-right">No matter if your business is a larger enterprise or a small company, we are here to bring your business within reach of your people. We are a highly cooperative and collaborative mobile app design and development agency. Once we get down to the project, we'll deal with all the internal and external problems related to the application development.</p>
+
+</div>
+</div>
+
+</div>
+</div>
+</section>
 <section class="servicesec">
   <div class="container">
     
@@ -711,64 +772,8 @@
 
 
 
-<section class="bottomcta"> 
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <ul class="ctalist">
-          <li>
-            <h3>Email</h3>
-            <div class="wrap">
-              <div class="iconpart">
-                <span class="icon-envelope-o"></span>
-              </div>
-              <div class="textpart">
-                
-                <a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a>
-              </div>
-            </div>
-          </li>
-          <li>
-            <h3>Address</h3>
-            <div class="wrap">
-              <div class="iconpart">
-                <span class="icon-location"></span>
-              </div>
-              <div class="textpart">
-                <p> 86-90 Paul Street, London <br>EC2A 4NE, UK</p>
-              </div>
-            </div>
-          </li>
-          <li>
-            <h3>Phone</h3>
-            <div class="wrap">
-              <div class="iconpart">
-                <span class="icon-phone2"></span>
-              </div>
-              <div class="textpart">
-                <a href="tel:+442038087061" class="callbx">Call Us +442038087061</a>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
 
 
-
-<div class="belowform">
-  <div class="container ">
-    <div class="row">
-      <div class=" col-lg-12 col-xl-12 text-center">
-        <div class="home-banner-content">
-          <div class="col-lg-8 offset-lg-2 inner-content text-left">
-              <div class="form-box-main clearfix">
-  <h2>Let’s talk about your next Big thing!</h2>
-  <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
- <?php include_once('includes/form.php');?>
-</div>
 
 
 
@@ -781,7 +786,32 @@
 </div>
     
 
+<section class="faqsSection my-5">
+<div class="container">
+  <h3 class="text-center"><b>FAQs</b></h3>
+  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingOne">
+        <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          1. Can our mobile app designer create a gaming application? 
 
+        </a>
+      </h4>
+      </div>
+      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+        <div class="panel-body">
+        Absolutely, as a mobile app development agency, we take pride in a creative team of experts. We have an incredible in-house team of mobile app designers and developers who can work on your gaming application. Share your details with us, and we'd be more than happy to assist you in the process. 
+
+        </div>
+      </div>
+    </div>
+
+
+
+  </div>
+</div>
+</section>
 
 <?php include_once('includes/footer.php');?>
 
