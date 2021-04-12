@@ -48,12 +48,15 @@
           <div class="row">
             <div class=" col-lg-5">
               <div class="home-banner-content">
-                <h1>Maximize your ROI with Custom E-Commerce Website Development</h1>
-                <p class="subtitle">We will help you sell your products and services globally with a robust, stable, and secure online e-commerce system.</p>
+                <h1>Ecommerce Website Development Services to Maximize Your Profit</h1>
+                <p class="subtitle">Sell your products and services with a robust, secure, and fast online eCommerce website design service.</p>
                 <ul class="myticks">
-                  <li>Bring the World to Your Website</li>
-                  <li>Responsive and User-Centric Websites</li>
-                  <li>Reach and grow your audience</li>
+                  <li>Maximize your ROI</li>
+                  <li>Great User Experience</li>
+                  <li>Responsive from the Core</li>
+                  <li>eCommerce Development Services</li>
+                  <li>Increase your online and offline audience</li>
+                  <li>Get your custom eCommerce website design.</li>
                 </ul>
                 <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get Your Web Design </a>
               </div>
@@ -960,8 +963,8 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h2 class=" text-center">How Can we Partner Up?</h2>
-        <p class="text-center">From the very first day to the very last day, we make sure we provide you the best of our services with effective communication, skilled team members and a lot of passion for marketing. Contact Us Now.
+        <h2 class=" text-center">Are you ready to partner up for custom eCommerce website development services?</h2>
+        <p class="text-center">We'd love to collaborate with you and be your designing partner in your new venture. From ideation and making a blueprint of the website to developing and publishing your web, we are with you on every stage. We believe in rendering you with the best eCommerce Development Services so that you remember us for the long term.
         </p>
       </div>
     </div>

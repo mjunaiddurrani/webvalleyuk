@@ -205,10 +205,12 @@ include_once('includes/head.php');
         </figure>
         <ul class="personalcta">
           <li class="text">
-            <h3>Looking for a reliable and skilled consultancy agency to get started?</h3>
+            <h3>Looking for trustworthy online consultations to make an effective decision? </h3>
+            <h3>Talk to our UK's reliable website and branding consultant for free. </h3>
+  
           </li>
           <li class="perbtn">
-            <a href="javascript:;" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme">Let us build a custom solution for your business</a>
+            <a href="javascript:;" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme">Build a top custom solution for my business </a>
           </li>
         </ul>
       </div>

@@ -159,3 +159,38 @@ if(window.location.pathname=="/"){
 
 </script>
 
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "websitevalley",
+        "url": "https://www.websitevalley.co.uk/",
+        "logo": "https://www.websitevalley.co.uk/img/logo.png",
+        "contactPoint": { "@type": "ContactPoint", "telephone": "+442038087061", "contactType": "customer service" },
+        "sameAs": ["https://www.facebook.com/websitevalley/", "https://twitter.com/websitevalley", "https://www.instagram.com/websitevalley/", "https://www.linkedin.com/company/websitevalley/"]
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SiteNavigationElement",
+        "hasPart": [
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/editing/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/publishing/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/pricing/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/blog/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/contact-us/" }
+        ]
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            { "@type": "ListItem", "position": 0, "name": "Home", "item": "https://www.websitevalley.co.uk/" },
+            { "@type": "ListItem", "position": 1, "name": "websitevalley" }
+        ]
+    }
+</script>

@@ -859,102 +859,10 @@ Website Valley was easy to work with, and we quickly understood our needs and we
   </div>
 </section>
 
-<section class="cta2">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="wrap">
-            <h6>We have a better plan for your new business!</h6>
-            <h3>We provide full-circle services for entrepreneurs, funded startups and fund-seeking start-ups</h3>
-            <a href="tel:+442038087061" class="btn-secondary-outline">Call Us now to get started </a>
-        </div>
-        </div>
-      </div>
-    </div>
-  </section>
-<section class="sponsors-sec">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-12">
-            
-         </div>
-      </div>
-   </div>
-</section>
-<section class="dptestimonials">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h2>We help you create brands that build businesses.</h2>
-        <p>Trusted by thousands of brands from every industry.</p>
 
-        <ul class="testwrap testslider">
-          <li>
-            <div class="testbox">
-              <div class="user">
-                <h3>AM</h3>
-              </div>
-              <div class="usertest">
-                <h4>Brilliant Responsive Work</h4>
-                <p>We talk regarding web design services for our website and how it was affecting our rankings. The team provided us responsive web design services and SEO consultation too!</p>
-                <h6>Antionio Moreno, Business Owner</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star-half-empty"></span>
-                </div>
-              </div>
-            </div>
-          </li>
 
-          <li>
-            <div class="testbox">
-              <div class="user">
-                <h3>EB</h3>
-              </div>
-              <div class="usertest">
-                <h4>Excellent Web Consultation For My Website</h4>
-                <p>I was a bit confused when I got to LDH, and the excellent team helped us along the way! We’re more than happy working with them.</p>
-                <h6>Erika Blackwell, Business Owner</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                </div>
-              </div>
-            </div>
-          </li>
 
-          <li>
-            <div class="testbox">
-              <div class="user">
-                <h3>JS</h3>
-              </div>
-              <div class="usertest">
-                <h4>Super Amazing Branding Service</h4>
-                <p>Website Valleyamazingly created a logo and then web design team gave my online store a whole new look! I am extremely overwhelmed by the services provided.</p>
-                <h6>Justin Sundling, Business Owner</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                </div>
-              </div>
-            </div>
-          </li> 
-                   
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="section-padding qualities logodesign">
+<section class="section-padding qualities logodesign d-none">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -1005,41 +913,10 @@ Website Valley was easy to work with, and we quickly understood our needs and we
   </div>
 </section>
 
-<!--<section class="mylast">-->
-<!--  <div class="container">-->
-<!--    <div class="row">-->
-<!--      <div class="col-md-12">-->
-<!--        <section class="section-padding call-actions  ">-->
-<!--          <div class="row">-->
-<!--            <div class="col-lg-3 col-sm-6">-->
-<!--              <h2 class="text-left">Let's discuss and design your product today</h2>-->
-<!--              <div class="slash slash2"></div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-4 col-sm-6 phone-div">-->
-<!--              <span class="icon-mobile2 phone"></span>-->
-<!--              <h3 class="text-left">-->
-<!--              <span class="mad">Call us now to get started </span>-->
-<!--              +442038087061 </h3><div class="slash"></div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-5 col-sm-12 mail">-->
-<!--              <span class="icon-envelope-o mail"></span>-->
-<!--              <h3 class="text-left">-->
-<!--              <span class="mad">Place an Order</span>-->
-<!--              query@websitevalley.co.uk</h3>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </section>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--</section>-->
 
 
 
-
-
-
-<section class="bottomcta"> 
+<section class="bottomcta d-none"> 
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
