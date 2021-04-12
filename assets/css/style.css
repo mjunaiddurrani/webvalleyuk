@@ -8569,3 +8569,34 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
     font-size:19px;
 }
 
+
+/ -----------------------------Hassan Changes------------------------------------- /
+.brand-lift {
+padding: 60px 0;
+background: #4b4576;
+color: #ff7d00;
+font-size: 30px;
+}
+.has {
+color: #fff;
+font-size: 18px;
+padding-top: 30px;
+}
+.has-plp {
+font-size: 20px !important;
+font-weight: 500 !important;
+}
+.btn-h1 button.btn.btn-link {
+color: #687087;
+}
+.qwer {
+background: url(/assets/images/rec.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+padding: 70px 0px;
+}
+.loou {
+color: white;
+font-size: 24px;
+}
