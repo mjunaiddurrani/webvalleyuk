@@ -90,7 +90,7 @@ bottom: 10px;
               <div class="home-banner-content ">
                 <div class="main">
                   <h1>Professional Website and Brand builder to Level-up Your Business Online in the UK </h1>
-                <p class="subtitle">We offer 360° branding anddesigning solutions to innovative and top business professionals and entrepreneursin the UK. </p>
+                <p class="subtitle">We offer 360° website design and development solutions for top business professionals and emerging startups in the UK.</p>
                 <ul class="myticks">
                   <li>Bring Ideas into World Wide Web Reality</li>
                   <li>Highly Creative and Responsive Websites </li>
