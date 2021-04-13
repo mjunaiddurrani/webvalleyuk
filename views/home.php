@@ -90,7 +90,7 @@ bottom: 10px;
               <div class="home-banner-content ">
                 <div class="main">
                   <h1>Professional Website and Brand builder to Level-up Your Business Online in the UK </h1>
-                <p class="subtitle">Whether you are a small enterprise, a new startup, or a well-established company, we are here to build your online brand reputation among your clients sothat your brand remains your consumer’s top choice. We offer 360* branding anddesigning solutions to innovative and top business professionals and entrepreneursin the UK. </p>
+                <p class="subtitle">We offer 360° branding anddesigning solutions to innovative and top business professionals and entrepreneursin the UK. </p>
                 <ul class="myticks">
                   <li>Bring Ideas into World Wide Web Reality</li>
                   <li>Highly Creative and Responsive Websites </li>
@@ -1227,7 +1227,7 @@ bottom: 10px;
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
         <h2 class="text-center">How Much Do We Charge For Our Services?</h2>
-        <p>Our quick, professional services may be affordable, but they are notcheap. We have a mission to create creative, authentic, and valuable designs. Weaim to offer our services with a great passion for driving results for our costumes.Our top creative-led design and development agency enables your brand image tobecome the best, firm, marketable, media-worthy at an affordable price.</p>
+        <p>Our quick, professional services may be affordable, but they are not cheap. We have a mission to create creative, authentic, and valuable designs. We aim to offer our services with a great passion for driving results for our costumes. Our top creative-led design and development agency enables your brand image to become the best, firm, marketable, media-worthy at an affordable price.</p>
       </div>  
       <div class="col-lg-12"> 
           <ul class="nav nav-pills">
