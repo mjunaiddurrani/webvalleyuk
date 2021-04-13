@@ -3,8 +3,8 @@
 
 <head>
 
-<title>Innovative Website Designing Services In UK | Website Valley</title>
-
+<title>Website Valley: Best Web Development Services Company in UK | Website Valley</title>
+<meta name="description" content="Website valley is a professional Web design, e-commerce, and mobile app development company located in the UK, based on your budget, timeline, and specifications.">
 <?php 
 include_once('includes/head.php');
 ?>
@@ -1226,7 +1226,7 @@ bottom: 10px;
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
-        <h2 class="text-center">How Much Do We Charge For Our Services?</h2>
+        <h3 class="text-center" style="font-size: 30px; font-weight:600;">How Much Do We Charge For Our Services?</h3>
         <p>Our quick, professional services may be affordable, but they are not cheap. We have a mission to create creative, authentic, and valuable designs. We aim to offer our services with a great passion for driving results for our costumes. Our top creative-led design and development agency enables your brand image to become the best, firm, marketable, media-worthy at an affordable price.</p>
       </div>  
       <div class="col-lg-12"> 
@@ -2816,9 +2816,9 @@ Place purchasing requests.</li>
  <p>
   We create websites and build brands that people will fall in love with. Our designers are here to help you exceed expectations! 
   </p>
-  <h5 class="text-orange text-center mt-3">
+  <h4 class="text-orange text-center mt-3 font-weight-bold">
   Listen to what our clients are saying about us.
-  </h5>
+  </h4>
  </div>
   <div class="container">
     <div class="row">
@@ -2932,7 +2932,7 @@ Place purchasing requests.</li>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h2 class=" text-center">What makes us Different from Other</h2>
+        <h4 class="text-center font-weight-bold h2">What makes us Different from Other</h4>
         <p class="text-center">It goes without saying that you will not only get the benefit of a successful project when you collaborate with us, but you will build long-term relations with us.
         </p>
       </div>
@@ -3116,7 +3116,7 @@ Place purchasing requests.</li>
     <div class="row">
       <div class="col-lg-6 inner-content text-left">
         <div class="form-box-main clearfix">
-  <h2>Do you have an idea?  Let's make it a reality.</h2>
+  <h5 class="font-weight h2">Do you have an idea?  Let's make it a reality.</h5>
   <p>Please fill the below-mentioned form so that we can contact you. We promise to respect your privacy. We'll not send you mail, junking emails, or offers. We are digital folks who know how bad it is to feel to receive unwanted emails. Rest assured, and sign up for the form to make your best dream come true. </p>
 <?php include_once('includes/form.php');?>
 </div>

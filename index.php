@@ -75,8 +75,8 @@ switch($url){
     case addslashes('/web-app-development/') :
         require __DIR__.'/views/web-app-development.php';
         break;
-    case addslashes('/web-design/') :
-        require __DIR__.'/views/web-design.php';
+    case addslashes('/web-design-development/') :
+        require __DIR__.'/views/web-design-development.php';
         break;
     case addslashes('/website-design-prototype/') :
         require __DIR__.'/views/website-design-prototype.php';

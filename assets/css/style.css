@@ -5844,7 +5844,7 @@ section.sponsors-sec{
     margin-bottom: 0;
 }
 .myticks li{font-size: 16px;position: relative;color: #fff;padding: 0 0 5px 25px;}
-.myticks li:before{content: "\e962";position: absolute;left: 0;color: #f9bc35;font-family: 'icomoon' !important;}
+.myticks li:before{content: "\e962";color: #f9bc35;font-family: 'icomoon' !important; float: left;}
 
 /*.floatbutton.visible .clickbutton{opacity: 1;-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;}
 .floatbutton{
@@ -6964,12 +6964,12 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
 }
 .mprocess .txtwrap{}
 .mprocess .txtwrap h2{
-    font-size: 36px;
+    font-size: 29px;
     text-align: left;
     font-weight: 700;
 }
 .mprocess .txtwrap p{
-    font-size: 20px;
+    font-size: 17px;
     line-height: 1.4;
     text-align: left;
     padding-bottom: 20px;
@@ -7010,7 +7010,7 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
 }
 
 .mprocess .mfig{
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 0;
     text-align: center;
 }
@@ -7064,7 +7064,11 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
     width: 100%;
 }
 
-.ecomm .home-banner-content h1{    font-size: 42px;
+.ecomm .home-banner-content h1{  
+    font-size: 34px;
+    width: 500px;
+    line-height: 45px;
+    margin-top: 35px;
 }
 
 .innerpages .mprocess .txtwrap .whatlist li figure{display: none;}

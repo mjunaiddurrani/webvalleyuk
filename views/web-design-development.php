@@ -20,7 +20,14 @@
 
 
 
+<style>
+#more {display: none;}
 
+#myBtn{
+  background: transparent;
+    border: none;
+}
+</style>
 
 </head>
 <body class="innerpages webdespge">
@@ -173,12 +180,12 @@
       </div>
       <div class="col-lg-6 align-self-center">
         <div class="txtwrap ">
-          <h2 class="text-right">Design and Develop Amazing Websites for your Business.</h2>
-          <p class="text-right">We use a step-by-step approach to understand your business, its related needs and deliver a prompt and intuitive experience for your website that encourages your visitors to trust your brand. </p>
+          <h2 class="text-left">Design and Develop Amazing Websites for your Business.</h2>
+          <p class="text-left">We use a step-by-step approach to understand your business, its related needs and deliver a prompt and intuitive experience for your website that encourages your visitors to trust your brand. </p>
           
         </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <div class="txtwrap">
           <h2>Custom Web Design Service Online </h2>
           <p>Our services also include the best web design packages according to your budget. Our experienced website designers and developers will help you develop a truly unique website to generate maximum ROI.  </p>
@@ -193,28 +200,28 @@
           </ul>
         </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <figure class="mfig">
           <img src="assets/images/custom-website-design.png" alt="">
         </figure>
      
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <figure class="mfig">
           <img src="assets/images/promote-your-local-business.png" alt="">
         </figure>
      
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-3">
         <div class="txtwrap ">
-          <h2 class="text-right">Your Professional Website Development is the Key to Enter into the Business World.</h2>
-          <p class="text-right">Creating a website is not enough for your business. Your modern website design requires continuous changes that provide web security and bring innovative ideas to remain relevant for your audience. If you seek to gain your audience's attention through modern website design, you need to change according to the technology.</p>
-          <h5 class="text-right">Professional Developers </h5>
-          <p class="text-right">Then you must hire professional website development services for custom web design services online. Your modern website design is the face of your business. Therefore, our Professional Website Design Company will help you tell everyone who you are, what you do, and that you're a serious business. </p>
+          <h2 class="text-left">Your Professional Website Development is the Key to Enter into the Business World.</h2>
+          <p class="text-left">Creating a website is not enough for your business. Your modern website design requires continuous changes that provide web security and bring innovative ideas to remain relevant for your audience. If you seek to gain your audience's attention through modern website design, you need to change according to the technology.</p>
+          <h5 class="text-left">Professional Developers </h5>
+          <p class="text-left">Then you must hire professional website development services for custom web design services online. Your modern website design is the face of your business. Therefore, our Professional Website Design Company will help you tell everyone who you are, what you do, and that you're a serious business. </p>
         </div>
       </div>
      
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <div class="txtwrap">
           <h2>Hire professional website designers and the best website development team to bring effective results for you.</h2>
           <p>Developing a website requires a lot of effort from your side. No worries if you are short on time. Our top web design company is here to bring practical solutions to your problem. </p>
@@ -222,26 +229,26 @@
           <p>We build and design your website with the up-to-date technology of the times, ensure that it remains a digitally secure place for your visitors, and offers them accessibility across all devices.</p>
         </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <figure class="mfig">
           <img src="assets/images/hire-professional-website-designer.png" alt="">
         </figure>
      
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <figure class="mfig">
           <img src="assets/images/website-made-to-fit.png" alt="">
         </figure>
      
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-3">
         <div class="txtwrap">
-          <h2 class="text-right">Website Made to Fit Every Screen </h2>
-          <p class="text-right">No matter if your user is coming from a mobile, tablet, or regular desktop, your professional website development is necessary. Our Modern web designs are tailored to meet the criteria of every screen. Get the modern website designs that make your website look as sharp as on the desktop screen. </p>
-          <h5 class="text-right">Professional Website Designers are within your reach—no need to search more about the top web design company near me.  </h5>
-          <p class="text-right">We are affordable web design services. Our custom web design service online has designed reasonable web design Packages to satisfy your digital needs within your budget. Now you don't have to look for cheap website design services when you can have the best results at an affordable web design services price.  </p>        </div>
+          <h2 class="text-left">Website Made to Fit Every Screen </h2>
+          <p class="text-left">No matter if your user is coming from a mobile, tablet, or regular desktop, your professional website development is necessary. Our Modern web designs are tailored to meet the criteria of every screen. Get the modern website designs that make your website look as sharp as on the desktop screen. </p>
+          <h5 class="text-left">Professional Website Designers are within your reach—no need to search more about the top web design company near me.  </h5>
+          <p class="text-left">We are affordable web design services. Our custom web design service online has designed reasonable web design Packages to satisfy your digital needs within your budget. Now you don't have to look for cheap website design services when you can have the best results at an affordable web design services price.  </p>        </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-2">
         <div class="txtwrap">
           <h2>Affordable Web Design Packages </h2>
           <p>Every package is designed with thoughtful considerations to guarantee the best user experience. Showcase your business with web security and great web designs at a reasonable price. Below mentioned are our Web Design Packages. You can also connect with us for any customized package that fits your budget needs when it comes to cheap website design services.</p>
@@ -249,25 +256,25 @@
           <p>The online business world has some prerequisites that you need to be aware of, such as website SEO and top website design services. SEO optimization has become crucial for getting your website ranked in search engines. Thereby, your content should be SEO optimized according to the current trends to increase your domain authority. No matter which target market you opt to choose, you will always have the upper hand with our affordable web design services. </p>
         </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <figure class="mfig">
           <img src="assets/images/affordable-website-design-package.png" alt="">
         </figure>
      
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-2">
         <figure class="mfig">
           <img src="assets/images/approchable-and-acessible.png" alt="">
         </figure>
      
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <div class="txtwrap">
-          <h2 class="text-right">Approachable and Accessible Websites </h2>
-          <p class="text-right">Attract your target audience without paying for ads or PPC, and increase your public relations. We follow quick and practical strategies, which you will not find in any other cheap website design services to help your website rank among your competitors. Make your business more approachable and accessible without any troubles. At Website Valley, we have a dedicated team that holds powerful SEO content strategies that will prove effective in the longer run.  Call to action: Get SEO-optimized Websites for more clicks, more leads, and higher conversion rates.</p>
+          <h2 class="text-left">Approachable and Accessible Websites </h2>
+          <p class="text-left">Attract your target audience without paying for ads or PPC, and increase your public relations. We follow quick and practical strategies, which you will not find in any other cheap website design services to help your website rank among your competitors. Make your business more approachable and accessible without any troubles. At Website Valley, we have a dedicated team that holds powerful SEO content strategies that will prove effective in the longer run.  Call to action: Get SEO-optimized Websites for more clicks, more leads, and higher conversion rates.</p>
           </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-3">
         <div class="txtwrap">
           <h2>Our quick, professional website
 designers are here to revamp your
@@ -277,14 +284,15 @@ web design services. </h2>
 
 They are one heck of a professional website design company! We had a fantastic time working with Website Valley as a team. We weren't confident how much cheap website design services would do such a tremendous job. As an agency, we believe they are doing a great job satisfying the customers' needs and providing excellent services. We're lucky to have found them and will keep working with them. 
 
-Overall, it was a great experience working with Website Valley. They had a Custom web design service online with affordable web design packages. They were highly cooperative and understood our brand needs first to deliver effective results. We've got our web developed by them, and we're happy to hire their cheap website design services. We got a great looking website, but they created everything within the budget and the given time. 
+Overall, it was a great experience working with Website Valley.<span id="dots">...</span><span id="more"> They had a Custom web design service online with affordable web design packages.They were highly cooperative and understood our brand needs first to deliver effective results. We've got our web developed by them, and we're happy to hire their cheap website design services. We got a great looking website, but they created everything within the budget and the given time. 
 
 Website Valley was easy to work with, and we quickly understood our needs and were able to develop our new website on a short deadline. We'd continue working with them as they have been such a great help to us. We're happy to collaborate with them for our website project development and maintenance at a cheap website design services package. 
 </p>
-         
+</span>
+<button onclick="myFunction()" id="myBtn">Read more <i class="fas fa-arrow-right"></i></button>        
         </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <figure class="mfig">
           <img src="assets/images/quick-professional-website-designer.png" alt="">
         </figure>
@@ -298,8 +306,8 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       </div>
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2 class="text-right">How can we partner up? </h2>
-          <p class="text-right">Satisfy your client's needs and increase your profitability through making small changes in your business, starting from the website. Website Valley is a top web design company that will help you build your brands and let you earn your client's trust by simply doing an excellent job on your website. Our top web design company will help you grab your visitors' attention through vibrant, modern, and smooth designs. Create modern website designs to achieve new heights for your business. </p>
+          <h2 class="text-left">How can we partner up? </h2>
+          <p class="text-left">Satisfy your client's needs and increase your profitability through making small changes in your business, starting from the website. Website Valley is a top web design company that will help you build your brands and let you earn your client's trust by simply doing an excellent job on your website. Our top web design company will help you grab your visitors' attention through vibrant, modern, and smooth designs. Create modern website designs to achieve new heights for your business. </p>
 
           <ul class="myticks mb-5">
             <li class="text-black">Great customer Satisfaction </li> 
@@ -983,7 +991,23 @@ Website Valley was easy to work with, and we quickly understood our needs and we
     </div>
   </div>
 </div>
-    
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script> 
 <?php include_once('includes/footer.php');?>
 <?php include_once('includes/scripts.php');?>
 

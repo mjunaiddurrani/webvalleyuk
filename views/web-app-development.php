@@ -139,11 +139,11 @@
           <p class="text-right">Whether your web application is a one-page website or has multiple pages, our company is here to offer you great results that can increase the multi-layered income streams for you. Get in touch today for Web Application Development Services to create a fantastic experience for your users.</p>
           <ul class="myticks " >
 
-            <li class="text-black myTickLiNew">Top e-Commerce Solution  </li>
-            <li class="text-black myTickLiNew">Web Application Development </li>
-            <li class="text-black myTickLiNew">Affordable Website Maintenance </li>
-            <li class="text-black myTickLiNew">Professional Branding </li>
-            <li class="text-black myTickLiNew">Quick Website Development </li>
+            <li class="text-black myTickLiNew text-left">Top e-Commerce Solution  </li>
+            <li class="text-black myTickLiNew text-left">Web Application Development </li>
+            <li class="text-black myTickLiNew text-left">Affordable Website Maintenance </li>
+            <li class="text-black myTickLiNew text-left">Professional Branding </li>
+            <li class="text-black myTickLiNew text-left">Quick Website Development </li>
           </ul>
         </div>
       </div>
@@ -186,11 +186,11 @@
       </div>
       <div class="col-lg-10 col-md-12">
         <div class="col-lg-4 offset-lg-3">
-          <h4 class="text-center my-5"><b>Our Web Application Development Services</b></h4>
+          <h2 class="text-center my-5 h4"><b>Our Web Application Development Services</b></h2>
 
         </div>
         <div class="row">
-          <div class="col-lg-6  ">
+          <div class="col-lg-6">
             <div class="contexthere">
               <h6><b>The Top Business Workflow Web App</b></h6>
               <p>
@@ -1066,7 +1066,8 @@ Place purchasing requests.</li>
       </div>
       <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
         <div class="panel-body">
-        Our web applications development services are easy to use and entirely convenient for the users due to the interactive user interface design and experience. As a web app development company, we have created a comprehensive process to understand the project first then deliver your required results. Our approach may include the following steps, depending on the stage of web app development. Our software engineers and web app development experts work alongside you to understand your project. We brainstorm and make a list of all the functions you want to include in your web app. Our second stage consists of analysis and peer review in which we create the strategy of how to go about your project. Our designers and web app development experts create the blueprint, while our coders dissect the process to code for your project on every stage. Once our designers and developers are done creating their masterpiece, we show it to the client. When our client approves the initial draft of the web app, we work to make it perform stronger, better, and bugs or threats free so that all the consumers of this application have the best experience. Hire a top-quality web app development company in the UK for your digital needs. 
+        Our web applications development services are easy to use and entirely convenient for the users due to the interactive user interface design and experience. As a web app development company, we have created a comprehensive process to understand the project first then deliver your required results. Our approach may include the following steps, depending on the stage of web app development. Our software engineers and web app development experts work alongside you to understand your project. We brainstorm and make a list of all the functions you want to include in your web app.
+        <br>Our second stage consists of analysis and peer review in which we create the strategy of how to go about your project. Our designers and web app development experts create the blueprint, while our coders dissect the process to code for your project on every stage. Once our designers and developers are done creating their masterpiece, we show it to the client. When our client approves the initial draft of the web app, we work to make it perform stronger, better, and bugs or threats free so that all the consumers of this application have the best experience. Hire a top-quality web app development company in the UK for your digital needs. 
         </div>
       </div>
     </div>

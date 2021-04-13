@@ -117,7 +117,7 @@
   <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Make Your Web Visitors into Loyal Buyers of Your Product or Services</h2>
+          <h3 class="h2">Make Your Web Visitors into Loyal Buyers of Your Product or Services</h3>
           <p>Ecommerce stores have to be built in a way that provides a smooth shopping experience to your consumers. Think of your website just like a physical store. Your buyer would hate to cross all the aisles and rows to buy a pack of their favourite chips. Your online buyers would do that same. Making them go through pages after pages to search for a product of their choice is nothing but the perfect recipe for a business disaster. </p>
      
         </div>
@@ -136,7 +136,7 @@
       </div>
       <div class="col-lg-6 ">
         <div class="txtwrap ">
-          <h2 class="text-right">Website Valley creates online shops that touch your buyer’s hearts through security, safety, functionality, and aesthetics.</h2>
+          <h3 class="text-right h2">Website Valley creates online shops that touch your buyer’s hearts through security, safety, functionality, and aesthetics.</h3>
           <p class="text-right">Our eCommerce web design & development services will help you focus more on the ways to provide your customers with the best services ever. Our eCommerce website development services experts will collaborate with you until you start earning your desired sales through your custom eCommerce website development.</p>
           
         </div>
@@ -145,11 +145,11 @@
         <div class="txtwrap">
           <h2>Best Ecommerce Web Developers Hold Expertise in Magneto </h2>
           <p>Magneto is an open-source platform that uses open source to provide a highly responsive user experience. One such great feasibility of this excellent eCommerce web design is that it gives the eCommerce web developer room to make changes in the coding, integrate new features, or add creative functions according to the users' demands. </p>
-          <h5>Evolving your Platform with Digital Trends </h5>
+          <h4>Evolving your Platform with Digital Trends </h4>
           <p>
            Magneto is an open-source platform that continues to evolve with the changing needs of the times that could answer your eCommerce web design requirements. Our expert web developer will help you boost your profits and sales by designing a well-functioning website.
           </p>
-          <h5>Effective, eye-catching and Fully Functional</h5>
+          <h4>Effective, eye-catching and Fully Functional</h4>
           <p>
           We ensure that your web remains efficient, unique, fast, and generates loads of traffic with every passing minute to better your business. Hire the best custom eCommerce website development company.
           </p>
@@ -171,9 +171,9 @@
         <div class="txtwrap ">
           <h2 class="text-right">OpenCart is the Perfect custom eCommerce website design to Manage Business like a Pro.</h2>
           <p class="text-right">OpenCart will fulfil your website requirement in no time. It offers you a holistic group of services to manage your online business without any difficulties. At Website Valley, we offer custom eCommerce website development services to build your OpenCart custom eCommerce website design in a way that engages your visitor through a profound user experience.</p>
-          <h5 class="text-right">Double your Store Sales</h5>
+          <h4 class="text-right">Double your Store Sales</h4>
           <p class="text-right">Our eCommerce web developer understands that your primary purpose in hiring a website developer is to build your brand and increase your store sales. Therefore, all of our strategies are designed to fit your needs. With us, you can integrate payment methods, shipping procedures, increase your sales and accounting.</p>
-          <h5 class="text-right">Keep Track on the changing Trends</h5>
+          <h4 class="text-right">Keep Track on the changing Trends</h4>
           <p class="text-right">Our eCommerce web developer will also keep an eye on the analytics insights to understand the areas that need improvement and add the social selling options. Get the most out of our eCommerce website design service to reach new heights in the digital market.</p>
         </div>
       </div>
@@ -182,9 +182,9 @@
         <div class="txtwrap">
           <h2>Increase Online Sales With eCommerce Web Developer of WooCommerce</h2>
           <p>Increasing your online sales has been difficult in the digital marketplace. Suppose you are using the right platform for custom eCommerce website development. It won't be a problem. We specialize in creating eCommerce websites using woo-commerce. Attain the smoothes user experience and thrive your sales online with the top-quality eCommerce website design service in the UK.</p>
-          <h5>Generate More Revenue </h5>
+          <h4>Generate More Revenue </h4>
           <p>At Website Valley, we have created hundreds of Woocommerce websites that generate millions of worth of revenue, and we take pride in them. Our web designers ensure user flexibility, easy management, and online data safety and security through custom eCommerce website development. </p>
-          <h5>Your Personalized Website Developer </h5>
+          <h4>Your Personalized Website Developer </h4>
           <p>You can call us your personalized web development services that can turn all your visions into operative websites. With us, you do not just create a website. Instead, you create a whole intuitive user experience that makes your visitors come back for more. </p>
         </div>
       </div>
@@ -204,9 +204,9 @@
         <div class="txtwrap">
           <h2 class="text-right">Our eCommerce Development Services</h2>
           <p class="text-right">We offer more than just website building. We offer eCommerce web development services. Our specialized web developer provides you with the best custom eCommerce website design that fulfils your functional and aesthetic aspects of website creations. Website Valley's web design & development team have a step-by-step approach.</p>
-          <h5 class="text-right">Meeting your Every Expectations </h5>
+          <h4 class="text-right">Meeting your Every Expectations </h4>
           <p class="text-right">Our eCommerce web design & development services keep you in the communication loop to be aware of your website building stages and provide your feedback accordingly when it comes to design. We believe in a collaborative and friendly approach to design and web development. Therefore, you will never feel like an outsider. </p>
-          <h5 class="text-right">Bring Your Website in the Top Searches  </h5>
+          <h4 class="text-right">Bring Your Website in the Top Searches  </h4>
           <p class="text-right">Our expert team once confirms the pricing plan with you, we will also help you in the SEO strategies. These SEO techniques will bring your website among the search engines' top searches. We keep track of every design detail and functional aspect of your website to provide timely maintenance and keep it secure from cyber threats and bugs. </p>
         </div>
       </div>
@@ -551,8 +551,8 @@
 <section class="sec-padding pricing-sec ptpx-0">
   <div class="container">
     <div class="row">
-      <div class="col-lg-10 offset-lg-1"> 
-        <h2>Our Custom eCommerce Website Design Packages</h2>
+      <div class="col-lg-10 offset-lg-1 mt-4  "> 
+        <h3 class="h2">Our Custom eCommerce Website Design Packages</h3>
         <p>Ever y problem has an effective solution. You want to hire professional web developers for your website but not sure about the website packages? No worries, we've got your back. Our packages are designed after thoughtful considerations. You can build your website at an affordable price. It is worth noting that we make affordable websites, not cheap. Henceforth, you will always notice a significant difference between our eCommerce web development services and others. </p>
       </div>  
       <div class="col-lg-12"> 
@@ -778,7 +778,7 @@
   <div class="row">
       <div class="col-lg-6 align-self-center">
         <div class="txtwrap">
-          <h2>Distinctive Approach </h2>
+          <h5 class="h2">Distinctive Approach </h5>
           <p>Our mission and vision separates us from our competitors. Our goal is to offer affordable eCommerce web design & development services and provide you with the best user experience. Join our journey to have fully functional, unique UI/UIX designs for your online shopping business.</p>
      
         </div>

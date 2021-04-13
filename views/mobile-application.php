@@ -130,17 +130,17 @@
       </div>
       <div class="col-lg-6 ">
         <div class="txtwrap ">
-          <h2 class="text-right">Modern, Interactive, And Growth-Oriented Mobile Apps Development Agency </h2>
-          <p class="text-right">We are here to create endless possibilities with mobile application development services. Research has proven that Mob Applications become consumers’ No.1 choice if they are easy to download and personalized according to the user. Therefore, we ensure that our clients' business remains the top priority of their customers. </p>
+          <h2 class="text-left">Modern, Interactive, And Growth-Oriented Mobile Apps Development Agency </h2>
+          <p class="text-left">We are here to create endless possibilities with mobile application development services. Research has proven that Mob Applications become consumers’ No.1 choice if they are easy to download and personalized according to the user. Therefore, we ensure that our clients' business remains the top priority of their customers. </p>
           <h5>Calculated Steps on Every Stage </h5>
           <p>Our every step is calculated and considerate. Throughout our working experience, we have provided excellent development services that have resulted in the 100% satisfaction of our clients. Here's what our firm in the UK can build for you. For any custom design and Development, please book your consultations for free at our mobile app production agency.</p>
-          <ul class="myticks ">
-            <li class="text-black myTickLiNew">iOS Mobile Apps  </li>
-            <li class="text-black myTickLiNew">iPhone Application Development </li>
-            <li class="text-black myTickLiNew">Android App Development </li>
-            <li class="text-black myTickLiNew">Gaming Mobile Apps  </li>
-            <li class="text-black myTickLiNew">Virtual Reality Applications  </li>
-            <li class="text-black myTickLiNew">Augmented Reality Applications   </li>
+          <ul class="myticks">
+            <li class="text-black myTickLiNew text-left"> iOS Mobile Apps  </li>
+            <li class="text-black myTickLiNew text-left"> iPhone Application Development </li>
+            <li class="text-black myTickLiNew text-left"> Android App Development </li>
+            <li class="text-black myTickLiNew text-left"> Gaming Mobile Apps  </li>
+            <li class="text-black myTickLiNew text-left"> Virtual Reality Applications  </li>
+            <li class="text-black myTickLiNew text-left"> Augmented Reality Applications   </li>
           </ul>
         </div>
       </div>
@@ -169,7 +169,7 @@
 <section class="servicessection py-5" style="background-image:url('assets/images/Website-Valley---Mobile-Application-and-Development---Website-Page---9th-March_02.jpg')">
   <div class="container">
   <div class="text-center">
-  <h3><strong>Our Process of Mobile App Design & Development<strong></h3>
+  <h2><strong>Our Process of Mobile App Design & Development<strong></h2>
   <p>Our app design and development process depend on the complexity of the project and your business operations' style. Every mobile application development service has different features that set them apart from other applications. Our mob app developers create the blueprint of the application first after getting the brief from you. </p>
   <h6><strong>Making Your Application User-Favorite</strong></h6>
   <p>Then we follow a step-by-step strategy for Mob App design and Development that takes your application to the highest level without any bugs and threats problems. In the meanwhile, our mobile app designer ensures that the performance reaches the top level making our company the leading app development firm in the UK. Here's what our mobile app development process may look like: </p>
