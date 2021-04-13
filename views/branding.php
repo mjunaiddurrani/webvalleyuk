@@ -4,9 +4,8 @@
 <!-- Mirrored from websitevalley.co.uk/branding by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:41 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Branding | Website Valley</title>
-<meta name="keywords" content="Branding Services In UK, website design company">
-<meta name="description" content="Branding Changes Everything.">
+<title>Digital Branding Services By Brand Identity Agency In UK</title>
+<meta name="description" content="Avail branding services including custom stationery design, brand identity design, business card design to upgrade your brand, and attract user's attention.">
 
 
 
@@ -966,34 +965,6 @@
   </div>
 </section>
 
-<!--<section class="mylast">-->
-<!--  <div class="container">-->
-<!--    <div class="row">-->
-<!--      <div class="col-md-12">-->
-<!--        <section class="section-padding call-actions  ">-->
-<!--          <div class="row">-->
-<!--            <div class="col-lg-3 col-sm-6">-->
-<!--              <h2 class="text-left">Let's discuss and design your product today</h2>-->
-<!--              <div class="slash slash2"></div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-4 col-sm-6 phone-div">-->
-<!--              <span class="icon-mobile2 phone"></span>-->
-<!--              <h3 class="text-left">-->
-<!--              <span class="mad">Call us now to get started </span>-->
-<!--              +442038087061 </h3><div class="slash"></div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-5 col-sm-12 mail">-->
-<!--              <span class="icon-envelope-o mail"></span>-->
-<!--              <h3 class="text-left">-->
-<!--              <span class="mad">Place an Order</span>-->
-<!--              query@websitevalley.co.uk</h3>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </section>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--</section>-->
 
 <section class="brand-lift text-black py-5" style="background-color:#4b4576;color:#fff;">
   <div class="container text-center">

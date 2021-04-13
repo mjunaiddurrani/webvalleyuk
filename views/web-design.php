@@ -4,9 +4,8 @@
 <!-- Mirrored from websitevalley.co.uk/web-design by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:32 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Custom Website Design Services In UK | Website Valley</title>
-<meta name="keywords" content="Professional Web Design Services | Website Valley">
-<meta name="description" content="Our custom website design services make sure that your business grows at an high rate. At Website Valley, we are determined to provide you with a website that generates traffic and suits your business as well.">
+<title>website development company NO 1 website design services</title>
+<meta name="description" content="Get Affordable web design services by Award-winning company Speedy service within your timeline! modern website design, & custom web design service online!">
 
 
 

@@ -4,9 +4,8 @@
 <!-- Mirrored from websitevalley.co.uk/mobile-application by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:36 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Mobile App Development Services UK | Website Valley</title>
-<meta name="keywords" content="Website Valley">
-<meta name="description" content="Our mobile application development services ensures that you business remains at top. Our professionals give it all ase we create an application that suits your needs and budget.">
+<title>Hire Best mobile app designer By Mob Apps development Firm</title>
+<meta name="description" content="We are one of the leading mobile app development firm. With over 500+ successful projects Hire the No 1 mobile app designer & Android App Development Experts.">
 
 
 <?php include_once('includes/head.php');?>

@@ -49,15 +49,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- seo  -->
   <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Ghostwriting Services By Professional Ghostwriters For Hire" />
-  <meta property="og:description" content="Professional Ghostwriters at your service! Our ghostwriting agency provides the best services in the market. Learn for yourself. Contact us now!" />
+  <meta property="og:title" content="Innovative Website Designing Services In UK | Website Valley" />
+  <meta property="og:description" content="Avail branding services including custom stationery design, brand identity design, business card design to upgrade your brand, and attract user's attention." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
-  <meta property="og:site_name" content="GhostwritingFounder" />
-  <meta property="article:publisher" content="https://www.facebook.com/ghostwritingfounder" />
-  <meta property="og:image" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/img/logo.png" />
+  <meta property="og:site_name" content="websitevalley" />
+  <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
+  <meta property="og:image" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:creator" content="@websitevalleyuk" />
   <meta name="twitter:site" content="@websitevalleyuk" />
-  <meta name="twitter:image:src" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/img/logo.png">
+  <meta name="twitter:image:src" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png">
   <link rel="canonical" href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>">
   <link rel="alternate" href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].''.$_SERVER['REQUEST_URI'] ?>" hreflang="en-GB" />
