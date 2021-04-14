@@ -166,7 +166,7 @@ if(window.location.pathname=="/"){
         "@type": "Organization",
         "name": "websitevalley",
         "url": "https://www.websitevalley.co.uk/",
-        "logo": "https://www.websitevalley.co.uk/img/logo.png",
+        "logo": "https://www.websitevalley.co.uk/assets/images/logo.png",
         "contactPoint": { "@type": "ContactPoint", "telephone": "+442038087061", "contactType": "customer service" },
         "sameAs": ["https://www.facebook.com/websitevalley/", "https://twitter.com/websitevalley", "https://www.instagram.com/websitevalley/", "https://www.linkedin.com/company/websitevalley/"]
     }
