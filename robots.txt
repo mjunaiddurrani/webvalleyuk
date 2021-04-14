@@ -1,6 +1,13 @@
 User-agent: *
 Allow: /
+Disallow: /leads/
+
+
+
+
 User-agent: SemrushBot
 Allow: /
+Disallow: /leads/
+
 
 sitemap: https://www.websitevalley.co.uk/sitemap.xml
