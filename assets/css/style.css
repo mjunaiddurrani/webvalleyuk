@@ -4301,12 +4301,12 @@ padding-bottom: 30px;
 
 .smallboxes .smallbox figure{}
 .smallboxes .smallbox figure img{
-    height: 150px;
+    height: 150px; 
     width: 100%;
 }
 .smallboxes .smallbox h4{margin: 0 auto;font-size: 21px;font-weight: 600;text-align: left;max-width: 100%;}
 .smallboxes .smallbox p{
-    font-size: 12px;
+    /* font-size: 12px; */
     text-align: left;
     line-height: 1.4;
     padding-bottom: 10px;
@@ -5497,14 +5497,14 @@ section.qualities .quality-img {
     width: 70px;
     display: inline-block;
 }
-.quality h4 {
+.quality .h4 {
     line-height: 1.1;
     padding-top: 5px;
     color: #2e2e2e;
     font-size: 16px;
     text-transform: capitalize;
 }
-.quality h3 {font-size: 25px;padding: 0;}
+.quality .h3 {font-size: 25px;padding: 0;}
 section.qualities p{
     font-size: 20px;
     line-height: 1.4;
@@ -7108,10 +7108,10 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
     font-size: 14px;
     padding: 16px 28px;
 }
-.smallboxes .smallbox h4 {
-   font-size: 18px;
+.smallboxes .smallbox .h4 {
+   font-size: 18px!important;
 }
-.smallboxes .smallbox h2 {
+.smallboxes .smallbox .h2 {
     font-size: 30px;
 }
 .slick-prev, .slick-next {
