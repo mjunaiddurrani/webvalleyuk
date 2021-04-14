@@ -228,8 +228,8 @@
         <div class=container>
             <nav class="navbar navbar-expand-lg navbar-light inner_pages_nav"><a class=navbar-brand
                     href=https://logopoppin.com/ aria-label=logo>
-                    <img src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/logopoppin_logo.png alt=img
-                        class=img-fluid width=100% height=100%>
+                    <img src="https://logopoppin.com/wp-content/themes/edigisol/assets/images/logopoppin_logo.png" alt="img"
+                        class="img-fluid" width="100%" height="100%">
                 </a><button class=navbar-toggler type=button data-toggle=collapse data-target=#navbarSupportedContent
                     aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
                     <span class=navbar-toggler-icon></span>
@@ -356,7 +356,7 @@
                                         aria-live=assertive data-alt-text=Sending...
                                         data-submit-text="CONTACT OUR TEAM">CONTACT OUR TEAM</button><img
                                         src=https://logopoppin.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg
-                                        class=wpforms-submit-spinner style="display: none;" width=26 height=26 alt>
+                                        class=wpforms-submit-spinner style="display: none;" width=26 height=26 alt="submit spin">
                                 </div>
                             </form>
                         </div>
@@ -407,15 +407,15 @@
                 <div class=col-lg-12
                     data-anijs="if: scroll, on: window, do:animate__animated animate__backInLeft, to: .client-logos, before: scrollReveal">
                     <ul class=recognization_logos>
-                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/01/appfutura.png alt=img
+                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/01/appfutura.png alt="img"
                                 class=img-fluid></li>
-                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/01/clutch.png alt=img
+                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/01/clutch.png alt="img"
                                 class=img-fluid></li>
-                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/02/goodfirm_up.png alt=img
+                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/02/goodfirm_up.png alt="img"
                                 class=img-fluid></li>
-                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/01/topdevelopers.png alt=img
+                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/01/topdevelopers.png alt="img"
                                 class=img-fluid></li>
-                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/01/mobileappdaily.png alt=img
+                        <li><img src=https://logopoppin.com/wp-content/uploads/2021/01/mobileappdaily.png alt="img"
                                 class=img-fluid></li>
                     </ul>
                 </div>
@@ -628,43 +628,43 @@
                     <div class=row>
                         <div class=col-md-4> <a
                                 href=https://logopoppin.com/wp-content/themes/edigisol/assets/images/portfolio-Images/web/01.jpg
-                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/01.jpg alt=img
+                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/01.jpg alt="img"
                                     class=img-fluid> </a></div>
                         <div class=col-md-4> <a
                                 href=https://logopoppin.com/wp-content/themes/edigisol/assets/images/portfolio-Images/web/02.jpg
-                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/02.jpg alt=img
+                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/02.jpg alt="img"
                                     class=img-fluid> </a></div>
                         <div class=col-md-4> <a
                                 href=https://logopoppin.com/wp-content/themes/edigisol/assets/images/portfolio-Images/web/03.jpg
-                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/03.jpg alt=img
+                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/03.jpg alt="img"
                                     class=img-fluid> </a></div>
                     </div>
                     <div class=row>
                         <div class=col-md-4> <a
                                 href=https://logopoppin.com/wp-content/themes/edigisol/assets/images/portfolio-Images/web/04.jpg
-                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/04.jpg alt=img
+                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/04.jpg alt="img"
                                     class=img-fluid> </a></div>
                         <div class=col-md-4> <a
                                 href=https://logopoppin.com/wp-content/themes/edigisol/assets/images/portfolio-Images/web/05.jpg
-                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/05.jpg alt=img
+                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/05.jpg alt="img"
                                     class=img-fluid> </a></div>
                         <div class=col-md-4> <a
                                 href=https://logopoppin.com/wp-content/themes/edigisol/assets/images/portfolio-Images/web/06.png
-                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/06.jpg alt=img
+                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/06.jpg alt="img"
                                     class=img-fluid> </a></div>
                     </div>
                     <div class=row>
                         <div class=col-md-4> <a
                                 href=https://logopoppin.com/wp-content/themes/edigisol/assets/images/portfolio-Images/web/07.jpg
-                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/07.jpg alt=img
+                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/07.jpg alt="img"
                                     class=img-fluid> </a></div>
                         <div class=col-md-4> <a
                                 href=https://logopoppin.com/wp-content/themes/edigisol/assets/images/portfolio-Images/web/08.jpg
-                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/08.jpg alt=img
+                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/08.jpg alt="img"
                                     class=img-fluid> </a></div>
                         <div class=col-md-4> <a
                                 href=https://logopoppin.com/wp-content/themes/edigisol/assets/images/portfolio-Images/web/09.jpg
-                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/09.jpg alt=img
+                                target=_blank> <img src=https://logopoppin.com/wp-content/uploads/2021/01/09.jpg alt="img"
                                     class=img-fluid> </a></div>
                     </div>
                 </div>
@@ -683,16 +683,16 @@
             </div>
             <div class="row pb-5 pt-5">
                 <div class="col-md-3 align-self-center text-center"> <img
-                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/client-logo-1.png alt=img
+                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/client-logo-1.png alt="img"
                         class=img-fluid></div>
                 <div class="col-md-3 align-self-center text-center"> <img
-                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/client-logo-2.png alt=img>
+                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/client-logo-2.png alt="img">
                 </div>
                 <div class="col-md-3 align-self-center text-center"> <img
-                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/client-logo-3.png alt=img>
+                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/client-logo-3.png alt="img">
                 </div>
                 <div class="col-md-3 align-self-center text-center"> <img
-                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/client-logo-4.png alt=img>
+                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/client-logo-4.png alt="img">
                 </div>
             </div>
         </div>
@@ -710,32 +710,32 @@
             </div>
             <div class="row pt-5 pb-5">
                 <div class="col-md-3 align-self-center text-center"> <img
-                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/cash_back.png alt=img
+                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/cash_back.png alt="img"
                         class=img-fluid> <span class="d-block pt-2 text-center">CASH BACK</span></div>
                 <div class="col-md-3 align-self-center text-center"> <img
                         src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/satisfied_customer.png
-                        alt=img class=img-fluid> <span class="d-block pt-2 text-center">SATISFIED CUSTOMERS</span></div>
+                        alt="img" class=img-fluid> <span class="d-block pt-2 text-center">SATISFIED CUSTOMERS</span></div>
                 <div class="col-md-3 align-self-center text-center"> <img
                         src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/project_completed.png
-                        alt=img class=img-fluid> <span class="d-block pt-2 text-center">PROJECTS COMPLETED</span></div>
+                        alt="img" class=img-fluid> <span class="d-block pt-2 text-center">PROJECTS COMPLETED</span></div>
                 <div class="col-md-3 align-self-center text-center"> <img
-                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/increase_in_roi.png alt=img
+                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/increase_in_roi.png alt="img"
                         class=img-fluid> <span class="d-block pt-2 text-center">INCREASE IN ROI</span></div>
             </div>
             <div class="row pb-5">
                 <div class="col-md-3 align-self-center text-center"> <img
                         src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/daily_website_visit.png
-                        alt=img class=img-fluid> <span class="d-block pt-2 text-center">DAILY WEBSITE VISITS</span>
+                        alt="img" class=img-fluid> <span class="d-block pt-2 text-center">DAILY WEBSITE VISITS</span>
                 </div>
                 <div class="col-md-3 align-self-center text-center"> <img
                         src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/client_coordination.png
-                        alt=img class=img-fluid> <span class="d-block pt-2 text-center">CLIENT COORDINATION </span>
+                        alt="img" class=img-fluid> <span class="d-block pt-2 text-center">CLIENT COORDINATION </span>
                 </div>
                 <div class="col-md-3 align-self-center text-center"> <img
-                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/on_time_delivery.png alt=img
+                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/on_time_delivery.png alt="img"
                         class=img-fluid> <span class="d-block pt-2 text-center">On-Time Delivery</span></div>
                 <div class="col-md-3 align-self-center text-center"> <img
-                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/ownership_rights.png alt=img
+                        src=https://logopoppin.com/wp-content/themes/edigisol/assets/images/ownership_rights.png alt="img"
                         class=img-fluid> <span class="d-block pt-2 text-center">Ownership Rights</span></div>
             </div>
         </div>
@@ -790,7 +790,7 @@
                         <div>
                             <div class=row>
                                 <div class="col-md-6 align-self-center"> <img class="img-fluid owl-lazy"
-                                        data-src=../wp-content/uploads/2020/11/web_reviews_2.png alt=img width=100%
+                                        data-src=../wp-content/uploads/2020/11/web_reviews_2.png alt="img" width=100%
                                         height=100%></div>
                                 <div class="col-md-6 align-self-center">
                                     <div class=review-profile>
@@ -810,7 +810,7 @@
                         <div>
                             <div class=row>
                                 <div class="col-md-6 align-self-center"> <img class="img-fluid owl-lazy"
-                                        data-src=../wp-content/uploads/2020/11/web_reviews_1.png alt=img width=100%
+                                        data-src=../wp-content/uploads/2020/11/web_reviews_1.png alt="img" width=100%
                                         height=100%></div>
                                 <div class="col-md-6 align-self-center">
                                     <div class=review-profile>
@@ -830,7 +830,7 @@
                         <div>
                             <div class=row>
                                 <div class="col-md-6 align-self-center"> <img class="img-fluid owl-lazy"
-                                        data-src=../wp-content/uploads/2020/11/web_reviews_3.png alt=img width=100%
+                                        data-src=../wp-content/uploads/2020/11/web_reviews_3.png alt="img" width=100%
                                         height=100%></div>
                                 <div class="col-md-6 align-self-center">
                                     <div class=review-profile>
@@ -855,7 +855,7 @@
     <section class=news_letters>
         <div class=container>
             <div class=row>
-                <div class=col-md-12> <img src=https://logopoppin.com/wp-content/uploads/2021/01/news-letter.png alt=img
+                <div class=col-md-12> <img src=https://logopoppin.com/wp-content/uploads/2021/01/news-letter.png alt="img"
                         class=img-fluid></div>
             </div>
         </div>
@@ -896,9 +896,9 @@
                                     target=_blank aria-label="linkedin Link"> <i class="fab fa-linkedin"></i> </a></li>
                         </ul>
                         <ul>
-                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/footer-mb.png alt=img
+                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/footer-mb.png alt="img"
                                     class=img-fluid></li>
-                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/footer-g.png alt=img
+                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/footer-g.png alt="img"
                                     class=img-fluid></li>
                         </ul>
                     </div>
@@ -912,13 +912,13 @@
                                     href=mailto:query@logopoppin.com>query@logopoppin.com</a></li>
                         </ul>
                         <ul>
-                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/Visa.png alt=img
+                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/Visa.png alt="img"
                                     class=img-fluid></li>
-                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/Paypal.png alt=img
+                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/Paypal.png alt="img"
                                     class=img-fluid></li>
-                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/Master.png alt=img
+                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/Master.png alt="img"
                                     class=img-fluid></li>
-                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/DCMA.png alt=img
+                            <li> <img src=https://logopoppin.com/wp-content/uploads/2021/01/DCMA.png alt="img"
                                     class=img-fluid></li>
                         </ul>
                     </div>

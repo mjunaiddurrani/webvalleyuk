@@ -57,34 +57,34 @@
               <ul class="topajencies">
                 <li style="    margin-right: 25px;">
                   <figure>
-                    <img src="assets/images/trust-verified.png" alt="" style="height: auto;">
+                    <img src="assets/images/trust-verified.png" alt="trust verified" style="height: auto;">
                   </figure>
                 </li>
                 <li>
                   <figure>
-                    <img src="assets/images/copyscape.png" alt="" style="height: auto;">
+                    <img src="assets/images/copyscape.png" alt="copy scape" style="height: auto;">
                   </figure>
                 </li>
                 <li>
                   <figure>
-                    <img src="assets/images/partner1.png" alt="">
+                    <img src="assets/images/partner1.png" alt="partner one">
                   </figure>
                 </li>
                 <li>
                   <figure>
-                    <img src="assets/images/partner5.png" alt="">
+                    <img src="assets/images/partner5.png" alt="partner">
                   </figure>
                 </li>
                 <li>
                   <figure>
-                    <img src="assets/images/partner2.png" alt="">
+                    <img src="assets/images/partner2.png" alt="partner">
                   </figure>
                 </li>
               </ul>
             </div>
             <div class="footer-img">
               <figure>
-                <img src="assets/images/payment-icon.png" alt="">
+                <img src="assets/images/payment-icon.png" alt="payment icon">
               </figure>
             </div>
 
@@ -99,7 +99,7 @@
       <div class="row">
         <div class="col-sm-4">
           <div class="fologo">
-            <img src="assets/images/logof.png" alt="">
+            <img src="assets/images/logof.png" alt="logo">
           </div>
        
         </div>

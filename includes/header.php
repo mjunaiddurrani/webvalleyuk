@@ -45,8 +45,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="col-lg-6">
           <div class="secondlogo">
             <a href="/">
-              <img class="img-fluid fblack" src="assets/images/logo.png" alt="*" />
-              <img class="img-fluid fwhite" src="assets/images/logo.png" alt="*" />
+              <img class="img-fluid fblack" src="assets/images/logo.png" alt="logo" />
+              <img class="img-fluid fwhite" src="assets/images/logo.png" alt="logo" />
             </a>
           </div>
           <div class="emailsec">
