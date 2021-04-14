@@ -2636,8 +2636,7 @@ Place purchasing requests.</li>
     <h4>Seo Value<br> Package</h4>
     <p class="h2 h2Heading"><span class="currency_symbol">£</span>400.00 <span><s>£800.00</s></span> </p>
     <p>£1200 – Quarterly Plan</p>
-    <!-- <div class="hrline"></div> -->
-    <!-- <h3>Payable Amount</h3> -->
+
     <ul class="ticklist2 list-scroll">
         <li class="heading">Prior Analysis</li>
         <li>Business Analysis</li>
@@ -2711,8 +2710,7 @@ Place purchasing requests.</li>
     <h4>Seo Pro<br> Package</h4>
     <p class="h2 h2Heading"><span class="currency_symbol">£</span>600.00 <span><s>£1,200.00</s></span> </p>
     <p>£1800 – Quarterly Plan</p>
-    <!-- <div class="hrline"></div> -->
-    <!-- <h3>Payable Amount</h3> -->
+
     <ul class="ticklist2 list-scroll">
         <li class="heading">Prior Analysis </li>
         <li>Business Analysis</li>
@@ -2828,9 +2826,7 @@ Place purchasing requests.</li>
           <li>
             <div class="testbox">
               <img src="assets/images/testimonials-icons/sarah-ramirez.png" alt="" class="rounded-circle">
-              <!--<div class="user">-->
-              <!--  <h3>OG</h3>-->
-              <!--</div>-->
+ 
               <div class="usertest">
                 <p>They have a quick and highly efficient team of developers and designers in the UK. I'm delighted to opt for their services as they provided me with quality and fantastic web designing services. I couldn't have gotten such excellent services at an affordable price. I'd definitely recommend them and their benefits. </p>
                 <h6>— Sarah Ramirez, Brand Owner</h6>
@@ -2849,9 +2845,7 @@ Place purchasing requests.</li>
           <li>
             <div class="testbox">
               <img src="assets/images/testimonials-icons/bhooshan-ramchurn.png" alt="" class="rounded-circle">
-              <!--<div class="user">-->
-              <!--  <h3>TR</h3>-->
-              <!--</div>-->
+       
               <div class="usertest">
                 <p>So happy with this type of affordable website development services in the UK. They got me on the right track with their killer branding strategies. I'm glad to collaborate with them for my next big things. </p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
@@ -2869,9 +2863,7 @@ Place purchasing requests.</li>
           <li>
             <div class="testbox">
               <img src="assets/images/testimonials-icons/michael-vanzille.png" alt="" class="rounded-circle">
-              <!--<div class="user">-->
-              <!--  <h3>KA</h3>-->
-              <!--</div>-->
+    
               <div class="usertest">
                 <p>We had an initial discussion over the phone call regarding the project, and I got satisfied through the insightful discussion. I have worked with many services like these but could not say this for about any of them. They are a great team that knows their stuff well. I'll continue using their services. Thank you, Website Valley! </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
