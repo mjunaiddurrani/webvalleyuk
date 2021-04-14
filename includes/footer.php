@@ -224,7 +224,7 @@
            <figure style="background-image: url(assets/images/linda-dok.jpg);"> </figure>
            <span class="heading">Book a Call </span>
              <h2 class="text-center">Our smart and friendly client support team is available to guide you through the creative process and answer all of your questions.</h2>
-             <form id="popupfrm" class="cmxform"  method="POST" action="https://websitevalley.co.uk/webpages/bookacallFormController.php">
+             <form id="popupfrm" class="cmxform"  method="POST" action="">
 
                <div class="fldst btnattach">
                  <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
@@ -304,7 +304,7 @@
         <h3 class="text-center">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 75% DISCOUNT</span></h3>
         <div class="form_wrap">
           <div class="analyzeform ">
-            <form class="" id="banform" method="POST" action="https://websitevalley.co.uk/webpages/bannerFormController.php">
+            <form class="" id="banform" method="POST" action="">
               <div class="row">
                 <div class="wrap">
                   <div class="dtf">
