@@ -43,7 +43,7 @@
       <div class="col-lg-12">
         <div class="margin-bottom-20">
           <h3>About The Policy</h3>
-          <p>At Website Valley, the privacy of our clients is our top priority on <a href="not-found.html" target="_blank">www.websitevalley.co.uk </a> and we respect it as our own. Though we collect information from our clients, it is only used to make improvements in our customer services. Our company acknowledges that the maintenance and use of our clients' information is our responsibility. We DO NOT rent or sell the information that our clients provide us online.</p>
+          <p>At Website Valley, the privacy of our clients is our top priority on <a href="" target="_blank">www.websitevalley.co.uk </a> and we respect it as our own. Though we collect information from our clients, it is only used to make improvements in our customer services. Our company acknowledges that the maintenance and use of our clients' information is our responsibility. We DO NOT rent or sell the information that our clients provide us online.</p>
           <p>This policy describes how the personal information of our client collected by us is used, why we collect it, and how we use it. It is within our policy that we describe the choices you can make about how we can collect and use your information</p>
         </div>
         <div class="margin-bottom-20">

@@ -1251,14 +1251,14 @@ bottom: 10px;
   <div class="smallbox">
   <div class="package_inner">
     <h4>Startup Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>220.00 <span><s>£460.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>220.00 <span><s>£460.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
     <ul class="ticklist2 list-scroll">
       <li>5 Stock Photos</li>
       <li>5 Page Website</li>
-      <li>3 Banner Design</li>
+      <li>3 Banner Design</li> 
       <li>1 jQuery Slider Banner</li>
       <li>FREE Google Friendly Sitemap</li>
       <li>Complete W3C Certified HTML</li>
@@ -1307,7 +1307,7 @@ bottom: 10px;
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Professional Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>399.99 <span><s>£819.99</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>399.99 <span><s>£819.99</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1365,7 +1365,7 @@ bottom: 10px;
   <div class="smallbox">
   <div class="package_inner">
     <h4>Elite Website <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>699.99 <span><s> £1419.99</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>699.99 <span><s> £1419.99</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1431,7 +1431,7 @@ bottom: 10px;
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>E-Commerce Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>999.99 <span><s>£2009.99</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>999.99 <span><s>£2009.99</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1501,7 +1501,7 @@ bottom: 10px;
   <div class="smallbox">
   <div class="package_inner">
     <h4>Silver Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1599.99 <span><s> £3219.99</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>1599.99 <span><s> £3219.99</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1584,7 +1584,7 @@ bottom: 10px;
   <div class="smallbox">
   <div class="package_inner">
     <h4>E-Commerce   <br> Startup</h4>
-    <h2><span class="currency_symbol">£</span>600.00 <span><s>£1,200.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>600.00 <span><s>£1,200.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1635,7 +1635,7 @@ bottom: 10px;
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>E-Commerce  <br> Professional</h4>
-    <h2><span class="currency_symbol">£</span>1,394.00 <span><s>£2,788.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>1,394.00 <span><s>£2,788.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1689,7 +1689,7 @@ bottom: 10px;
   <div class="smallbox">
   <div class="package_inner">
     <h4>E-Commerce  <br> Elite</h4>
-    <h2><span class="currency_symbol">£</span>699.00 <span><s> £7,388.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>699.00 <span><s> £7,388.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1780,7 +1780,7 @@ bottom: 10px;
   <div class="smallbox">
   <div class="package_inner">
     <h4>Business Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1999.00 <span><s>£3998.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>1999.00 <span><s>£3998.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1856,7 +1856,7 @@ bottom: 10px;
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Automated/Interactive <br>Conferencing Portal</h4>
-    <h2><span class="currency_symbol">£</span>3999.00 <span><s>£7998.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>3999.00 <span><s>£7998.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1946,7 +1946,7 @@ bottom: 10px;
   <div class="smallbox">
   <div class="package_inner">
     <h4>Automated/Interactive <br> E-Commerce Website</h4>
-    <h2><span class="currency_symbol">£</span>4999.00 <span><s> £9998.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>4999.00 <span><s> £9998.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -2087,7 +2087,7 @@ Place purchasing requests.</li>
     <div class="smallbox">
     <div class="package_inner">
     <h4>Stationery <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>74.99 <span><s>£149.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>74.99 <span><s>£149.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -2143,7 +2143,7 @@ Place purchasing requests.</li>
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Infographic <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>139.99 <span><s>£279.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>139.99 <span><s>£279.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -2195,7 +2195,7 @@ Place purchasing requests.</li>
   <div class="smallbox">
   <div class="package_inner">
     <h4>Brochure/Flyer <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>134.99 <span><s>£269.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>134.99 <span><s>£269.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -2255,7 +2255,7 @@ Place purchasing requests.</li>
   <div class="smallbox">
   <div class="package_inner">
     <h4>Startup Video <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>209.99 <span><s>£419.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>209.99 <span><s>£419.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -2305,7 +2305,7 @@ Place purchasing requests.</li>
   <div class="smallbox">
   <div class="package_inner">
     <h4>Classic Video <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>409.99 <span><s>£819.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>409.99 <span><s>£819.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -2351,7 +2351,7 @@ Place purchasing requests.</li>
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Premium Video <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>809.99 <span><s>£1619.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>809.99 <span><s>£1619.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -2398,7 +2398,7 @@ Place purchasing requests.</li>
   <div class="smallbox">
   <div class="package_inner">
     <h4>Unlimited Animation <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1409.99 <span><s>£2819.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>1409.99 <span><s>£2819.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -2444,7 +2444,7 @@ Place purchasing requests.</li>
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Professional 3D VFX <br> Animation</h4>
-    <h2><span class="currency_symbol">£</span>2009.99 <span><s>£4019.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>2009.99 <span><s>£4019.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -2501,7 +2501,7 @@ Place purchasing requests.</li>
   <div class="smallbox">
   <div class="package_inner">
     <h4>Elite 3D VFX <br> Animation</h4>
-    <h2><span class="currency_symbol">£</span>2509.99 <span><s>£5019.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>2509.99 <span><s>£5019.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -2565,7 +2565,7 @@ Place purchasing requests.</li>
   <div class="smallbox seopack">
   <div class="package_inner">
     <h4>Seo Booster <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>200.00 <span><s>£400.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>200.00 <span><s>£400.00</s></span> </p>
     <p>£600 – Quarterly Plan</p>
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -2634,7 +2634,7 @@ Place purchasing requests.</li>
   <div class="smallbox bst-selr seopack">
   <div class="package_inner">
     <h4>Seo Value<br> Package</h4>
-    <h2><span class="currency_symbol">£</span>400.00 <span><s>£800.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>400.00 <span><s>£800.00</s></span> </p>
     <p>£1200 – Quarterly Plan</p>
     <!-- <div class="hrline"></div> -->
     <!-- <h3>Payable Amount</h3> -->
@@ -2709,7 +2709,7 @@ Place purchasing requests.</li>
   <div class="smallbox seopack">
   <div class="package_inner">
     <h4>Seo Pro<br> Package</h4>
-    <h2><span class="currency_symbol">£</span>600.00 <span><s>£1,200.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>600.00 <span><s>£1,200.00</s></span> </p>
     <p>£1800 – Quarterly Plan</p>
     <!-- <div class="hrline"></div> -->
     <!-- <h3>Payable Amount</h3> -->

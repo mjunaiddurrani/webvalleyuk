@@ -784,7 +784,7 @@
                 <figure>
                   <img src="assets/images/mobile-01.svg" alt="">
                 </figure>
-                <a href="custom-quote.html" class="btn-packages">Get a Custom Quote</a>
+                <a href="javascript:void(0);" class="btn-packages">Get a Custom Quote</a>
               </div>
               <div class="rightarea">
                 <h4>Uncovering the “Next-Big-Thing” Mobile App for You! We develops enterprise-grade software platforms for businesses.</h4>

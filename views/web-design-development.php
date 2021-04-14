@@ -190,13 +190,13 @@
           <h2>Custom Web Design Service Online </h2>
           <p>Our services also include the best web design packages according to your budget. Our experienced website designers and developers will help you develop a truly unique website to generate maximum ROI.  </p>
           <ul class="myticks">
-            <li class="text-black">Intuitive Experience</li> 
-            <li class="text-black">Quick Increase in ROI</li> 
-            <li class="text-black">Modern Website Design</li>
-            <li class="text-black">Maximum Exposure </li>
-            <li class="text-black">Smooth transitions </li>
-            <li class="text-black">Affordable web design services</li>
-            <li class="text-black">Professional website development </li>
+            <li class="text-black"> Intuitive Experience</li> 
+            <li class="text-black"> Quick Increase in ROI</li> 
+            <li class="text-black"> Modern Website Design</li>
+            <li class="text-black"> Maximum Exposure </li>
+            <li class="text-black"> Smooth transitions </li>
+            <li class="text-black"> Affordable web design services</li>
+            <li class="text-black"> Professional website development </li>
           </ul>
         </div>
       </div>
