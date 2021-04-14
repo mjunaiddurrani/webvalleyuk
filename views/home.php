@@ -138,7 +138,7 @@ bottom: 10px;
                 <figure>
                   <img src="assets/images/satisfied-clients.svg" alt="">
                 </figure>
-                <h3><span class="timer">1874</span></h3>
+                <p class="h3 h3Heading"><span class="timer">1874</span></p>
                 <p>satisfied clients</p>
               </div>
             </li>
@@ -147,7 +147,7 @@ bottom: 10px;
                 <figure>
                   <img src="assets/images/years-experience.svg" alt="">
                 </figure>
-                <h3 class="timer">7</h3>
+                <p class="timer h3 h3Heading">7</p>
                 <p>Years Experience</p>
               </div>
             </li>
@@ -156,7 +156,7 @@ bottom: 10px;
                 <figure>
                   <img src="assets/images/projects-completed.svg" alt="">
                 </figure>
-                <h3 class="timer">4392</h3>
+                <p class="timer h3 h3Heading">4392</p>
                 <p>projects completed</p>
               </div>
             </li>
@@ -165,7 +165,7 @@ bottom: 10px;
                 <figure>
                   <img src="assets/images/increase-in-roi.svg" alt="">
                 </figure>
-                <h3 class="noplus"><span class="timer">170</span>%</h3>
+                <p class="noplus h3 h3Heading"><span class="timer">170</span>%</p>
                 <p>Increase in ROI</p>
               </div>
             </li>

@@ -100,7 +100,7 @@ img{
 
 
 p strong { color: black; }
-p span { color: black; }
+/* p span { color: black; } */
 a:hover { text-decoration: none; }
 a:focus { outline: none; text-decoration: none; }
 img { border: 0px; outline: none; }
