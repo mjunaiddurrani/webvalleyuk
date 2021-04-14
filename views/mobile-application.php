@@ -299,7 +299,7 @@
       <li>Augmented Reality </li>
       
     </ul>
-    <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get a custom quote </a>
+    <a href="javascript:void(0);" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get a custom quote </a>
   </div>
   <div class="right">
     <figure>
@@ -476,7 +476,7 @@
     <figure>
       <img src="assets/images/mobile-01.svg">
     </figure>
-    <a href="order.html" class="btn-packages">Get a Custom Quote</a>
+    <a href="/order/" class="btn-packages">Get a Custom Quote</a>
   </div>
   <div class="rightarea">
     <h4>Let Mobile Apps do the talking for you!</h4>
