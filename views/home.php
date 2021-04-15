@@ -1222,8 +1222,8 @@ bottom: 10px;
 
 
 
-<section class="sec-padding pricing-sec packages-sec-before pt-4 pt-md-3" style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%);">
-  <div class="container">
+<section class="sec-padding pricing-sec packages-sec-before " style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%);">
+  <div class="container my-5">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
         <h3 class="text-center" style="font-size: 30px; font-weight:600;">How Much Do We Charge For Our Services?</h3>
@@ -2809,12 +2809,12 @@ Place purchasing requests.</li>
 
 
 
-<section class="dptestimonials new-testi">
+<section class="dptestimonials new-testi my-5">
  <div class="col-lg-6 offset-lg-3">
  <p>
   We create websites and build brands that people will fall in love with. Our designers are here to help you exceed expectations! 
   </p>
-  <h4 class="text-orange text-center mt-3 font-weight-bold">
+  <h4 class="text-orange text-center mt-3 ">
   Listen to what our clients are saying about us.
   </h4>
  </div>
