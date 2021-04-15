@@ -219,7 +219,7 @@ bottom: 10px;
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-12"> 
-        <h2>We design and develop websites for every size of business.<br> Let's take a look atour professional portfolio design online.</h2>
+        <h2>We design and develop websites for every size of<br> business. Let's take a look atour professional <br>portfolio design online.</h2>
         <p>Our portfolio is built with passion, skills, hard work, and tons of creativeness. </p>
       </div>  
       <div class="col-lg-12"> 

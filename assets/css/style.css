@@ -64,7 +64,7 @@ h5, .h5 { font-size: var(--font-size-h5); }
 h6, .h6 { font-size: var(--font-size-h6); }
 p { /*font-size: var(--base-font-size);*/ }
 
-p {font-weight: 400;line-height: 1.4;padding: 0 0 30px;margin:0px;color: #687087;}
+p {font-weight: 400;line-height: 1.4;padding: 0 0 30px;margin:0px;color: #000;}
 img{
     max-width: 100%;
 }
@@ -3159,14 +3159,14 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
 }
 
 .pricing-sec h2{
-    font-size: 36px;
+    font-size: 32px;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
    margin-top: 35px;
-    color: #222d39;
+    color: #000;
 }
 .pricing-sec p{
-    font-size: 20px;
+    font-size: 15px;
     line-height: 1.4;
     text-align:  center;
 }
@@ -5760,7 +5760,7 @@ section.sponsors-sec{
     font-weight: 700;
 }
 .dptestimonials p{
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.4;
     text-align: center;
     padding-bottom: 0;
@@ -7047,7 +7047,7 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
 }
 .personalcta li.text{width: 100%;}
 .personalcta li.text h3{
-    font-size: 15px;
+    font-size: 13.2px;
 }
 .personalcta li.text h3 a{
     color: #ff7900;
@@ -8214,7 +8214,7 @@ section.call-actions h3 span {
     background: linear-gradient(to bottom, #daeef4 0%,#FFF 100%)
 }
 .packages-sec-before h2{color: #171717;}
-.packages-sec-before p{color: #687087;}
+.packages-sec-before p{color: #000;}
 .packages-sec-before .nav-pills li a{color: #687087;}
 
 .home-form{padding: 40px;}
@@ -8488,7 +8488,7 @@ p.small{font-size:14px;color:#000;text-align:center;display:block;}
 
 
 .text-black{
-    color: #687087!important;
+    color: #000!important;
 }
 .text-orange{
     color:#ff7a00;
