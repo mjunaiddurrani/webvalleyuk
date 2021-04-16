@@ -6667,7 +6667,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     vertical-align: top;
     position: relative;
 }
-.mysatisfied .fullwrapper .rightwrap .figureslide li p{font-weight: 400;padding-bottom: 0;font-size: 16px;color: #000;letter-spacing: 1px;padding-top: 52px;}
+.mysatisfied .fullwrapper .rightwrap .figureslide li p{font-weight: 400;padding-bottom: 0;font-size: 14px;color: #000;letter-spacing: 1px;padding-top: 52px;}
 .mysatisfied .fullwrapper .rightwrap .figureslide li p span{font-weight: 600;color: #000000;}
 
 .mysatisfied .fullwrapper .rightwrap .figureslide li:before{
@@ -8591,8 +8591,8 @@ font-size: 18px;
 padding-top: 30px;
 }
 .has-plp {
-font-size: 20px !important;
-font-weight: 500 !important;
+font-size: 17px !important;
+font-weight: 800 !important;
 }
 .btn-h1 button.btn.btn-link {
 color: #687087;
