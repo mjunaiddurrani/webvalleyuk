@@ -124,7 +124,7 @@
       <div class="col-lg-12">
         <div class="centerwrap">
           <div class="tab-content">
-            <div class="tabs webdesign myservices current" role="toolbar">
+            <div class=" webdesign myservices current" role="toolbar">
               <div class="left">
     <h2>Professional Website Design Company for Stellar Web Designs </h2>
     <p>To grow your business quickly, you must have a responsive website in these digital times. Professional website development helps your business be registered among the audience and enables you to achieve your marketing goals. Therefore, our professional website design company provides you with the  required exposure for operating your business and grows it significantly.</p>
@@ -132,15 +132,16 @@
     <p>Having a slow, cluttered, designed, or unresponsive website is akin to losing thousands of dollars worth of business with every passing minute. You must be aware of the changing needs of the times and bring your business online with a modern website design.</p>
     <h3>Increase your ROI, and cultivate a loyal audience for your site </h3>
     <p>With expert website designers' help, you can grow your business significantly, Our custom website design company offers unique websites that gain your visitors'  attention and help you make longer working relations with them.</p>
-    <ul class="pointlisting">
+    <ul class="myticks">
+      <li class="text-black"> WordPress Development</li> 
+      <li class="text-black"> Ecommerce Website Development</li> 
+      <li class="text-black"> Custom Website Development</li>
+      <li class="text-black"> Web Portal Development </li>
+      <li class="text-black"> Web Applications Development </li>
+      <li class="text-black"> Affordable web design services</li>
+      <li class="text-black"> Professional website development </li>
+  </ul>
 
-      <li>WordPress Development </li>
-      <li>Ecommerce Website Development  </li>
-      <li>Custom Website Development</li>
-      <li>Web Portal Development</li>
-      <li>Web Applications Development</li>
-      
-    </ul>
     <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get a website in just £259.99</a>
   </div>
   <div class="right">
@@ -159,7 +160,7 @@
 <section class="mprocess pbpx-0  newCreatedSection">
   <div class="container">
   <div class="row">
-      <div class="col-lg-6">
+      <div class="col-lg-6 my-auto">
         <div class="txtwrap">
           <h2>Creative Innovative Brands with Professional Website Designers </h2>
           <p>Making your unique brand identity online in these ultra-modern digital times is not easy. A lot more is required from you as a brand. Website Valley's professional website development team upholds the highest regard for your business, and this is shown in the type of website design services we deliver to you. Our quick website design company will ensure that your brand remains media-worthy and highlights your unique business value proposition. </p>
@@ -185,7 +186,7 @@
           
         </div>
       </div>
-      <div class="col-lg-6 mt-5">
+      <div class="col-lg-6 mt-5 my-auto">
         <div class="txtwrap">
           <h2>Custom Web Design Service Online </h2>
           <p>Our services also include the best web design packages according to your budget. Our experienced website designers and developers will help you develop a truly unique website to generate maximum ROI.  </p>
@@ -221,7 +222,7 @@
         </div>
       </div>
      
-      <div class="col-lg-6 mt-5">
+      <div class="col-lg-6 mt-5 my-auto">
         <div class="txtwrap">
           <h2>Hire professional website designers and the best website development team to bring effective results for you.</h2>
           <p>Developing a website requires a lot of effort from your side. No worries if you are short on time. Our top web design company is here to bring practical solutions to your problem. </p>
@@ -529,7 +530,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
   <div class="smallbox">
   <div class="package_inner">
     <h4>Startup Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>230.00 <span><s>£460.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>230.00 <span><s>£460.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -585,7 +586,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Professional Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>409.99 <span><s>£819.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>409.99 <span><s>£819.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -643,7 +644,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
   <div class="smallbox">
   <div class="package_inner">
     <h4>Elite Website <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>709.99 <span><s> £1419.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>709.99 <span><s> £1419.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -709,7 +710,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>E-Commerce Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1004.99 <span><s>£2009.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>1004.99 <span><s>£2009.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -779,7 +780,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
   <div class="smallbox">
   <div class="package_inner">
     <h4>Silver Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1609.99 <span><s> £3219.98</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>1609.99 <span><s> £3219.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     

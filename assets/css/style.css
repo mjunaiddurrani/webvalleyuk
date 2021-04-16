@@ -5331,7 +5331,7 @@ and(-webkit-min-device-pixel-ratio:0) { @media
     font-size: 0;
 }
 .myservices .left{
-    width: 50%;
+    width: 60%;
     vertical-align: middle;
     padding: 0 15px;
     display: inline-block;
@@ -5339,14 +5339,14 @@ and(-webkit-min-device-pixel-ratio:0) { @media
 }
 .myservices .left h2{
     font-size: 35px;
-    color: #ff7900;
+    color: #000;
     font-family: 'Khula', sans-serif;
 }
 .myservices .left h3{
     font-size: 18px;
 }
 .myservices .left p{
-    font-size: 18px;
+    font-size: 15px;
     text-align: left;
 }
 .pointlisting{
@@ -5358,9 +5358,9 @@ and(-webkit-min-device-pixel-ratio:0) { @media
 
 .myservices .right{
     display: inline-block;
-    width: 50%;
+    width: 40%;
     padding: 30px 15px 0;
-    vertical-align: middle;
+    vertical-align: top;
 }
 .myservices .right figure{
     margin-bottom: 0;
@@ -7094,10 +7094,10 @@ background: linear-gradient(to right, #ff8500 0%, #ff7900 100%); /* Chrome10-25,
     padding: 20px 40px;
 }
 .servicesec .myservices .left{
-    width: 50%;
+    width: 60%;
 }
 .myservices .right{
-    width: 50%;
+    width: 40%;
 }
 .btn-theme-outline{
   padding: 12px 20px;
@@ -8640,4 +8640,8 @@ font-size: 24px;
 }
 .smallboxes .smallbox .h4{
     font-size: 22px;
+}
+.txtwrap h5{
+    font-size:16px;
+    font-weight: 700;
 }
