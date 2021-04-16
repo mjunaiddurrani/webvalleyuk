@@ -51,7 +51,7 @@
                   <li>Develop Responsive Applications </li>
                   <li>Build Brilliant Android App </li>
                 </ul>
-                <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get Custom Quote </a>
+                <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme-service-mobile">Get Custom Quote </a>
               </div>
             </div>
           </div>
