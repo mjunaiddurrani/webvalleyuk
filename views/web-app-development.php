@@ -182,9 +182,9 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-2 d-none d-lg-block">
-        <img src="assets/images/leftsection.jpg" alt="left-section-design" class="img-fluid">
+        <img src="assets/images/leftsection.jpg" alt="left-section-design" class="img-fluid make-height">
       </div>
-      <div class="col-lg-10 col-md-12">
+      <div class="col-lg-10 col-md-12 measure-height">
         <div class="col-lg-4 offset-lg-3">
           <h2 class="text-center my-5 h4"><b>Our Web Application Development Services</b></h2>
 
@@ -247,7 +247,7 @@
             </div>
           </div>
           <div class="col-lg-6">
-            <img src="assets/images/rightSection.jpg" alt="left-section-design" class="img-fluid">
+            <img src="assets/images/rightSection.jpg" alt="left-section-design" class="img-fluid make-height ">
 
           </div>
         </div>
@@ -1325,6 +1325,16 @@ Place purchasing requests.</li>
 <?php include_once('includes/footer.php');?>
 <?php include_once('includes/scripts.php');?>
 
+<script>
+// $(document).ready(function(){
+  if(window.innerWidth>992){
+
+  
+  var mesure = $('.measure-height').height();
+  var make = $('.make-height').height(mesure);
+  }   
+  // });
+</script>
 </body>
 
 <!-- Mirrored from websitevalley.co.uk/web-app-development by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:04 GMT -->

@@ -42,7 +42,7 @@
 <div class="slider-wrapper">
   <section class="banslidee">
     <div class="item">
-      <div class="home-banner d-flex" style="background-image:url(assets/images/banners/hm2.jpg);background-position: center -50px;">
+      <div class="home-banner d-flex" style="background-image:url(assets/images/banners/hm2.jpg);background-position: center -200px;">
         <div class="container align-self-center">
           <div class="row">
             <div class=" col-lg-5">
