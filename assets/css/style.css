@@ -5189,7 +5189,7 @@ display: block; }
 #packages option.colr{color:#ff7900;font-weight: 700;}
 .form-box-main p{
     text-align: left;
-    font-size: 20px;
+    font-size: 18px;
     width: 100%;
     padding-bottom: 30px;
     line-height: 1.4;
@@ -8644,4 +8644,14 @@ font-size: 24px;
 .txtwrap h5{
     font-size:16px;
     font-weight: 700;
+}
+.h2{
+    font-size: 1.5em;
+    font-weight: bolder
+}
+.font-40{
+    font-size:40px;
+}
+.font-30{
+    font-size: 30px;
 }

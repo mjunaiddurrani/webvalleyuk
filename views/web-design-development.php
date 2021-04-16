@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-GB">
 
 <!-- Mirrored from websitevalley.co.uk/web-design by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:32 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
@@ -27,6 +27,7 @@
   background: transparent;
     border: none;
 }
+
 </style>
 
 </head>
@@ -324,7 +325,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
 </section>
 <section class="faqsSection py-5">
 <div class="container">
-  <h3 class="text-center"><b>FAQs</b></h3>
+  <p class="text-center h3 font-30"><b>FAQs</b></p>
   <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
     <div class="panel panel-default">
       <div class="panel-heading" role="tab" id="headingOne">
@@ -870,56 +871,6 @@ Website Valley was easy to work with, and we quickly understood our needs and we
 
 
 
-<section class="section-padding qualities logodesign d-none">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h2 class=" text-center">How Can we Partner Up?</h2>
-        <p class="text-center">From the very first day to the very last day, we make sure we provide you the best of our services with effective communication, skilled team members and a lot of passion for marketing. Contact Us Now.
-        </p>
-      </div>
-    </div>
-
-    <div class="row margin-bottom-20 margin-top-20 quick-contact-slider  sensation-slider">
-      <div class="col has-border  " >
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Constant-Client-Coordination mad"></span></div>
-          <h4 class="mad textcentre">Constant Client Coordination</h4>
-        </div>
-      </div>
-      <div class="col has-border nobrd">
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Customer-Satisfaction mad"></span></div>
-          <h4 class="mad textcentre">Supreme Customer Satisfaction</h4>
-        </div>
-      </div>
-      <div class="col has-border mob-noborder" >
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Ownership-Rights mad"></span></div>
-          <h4 class="mad textcentre">100% Ownership <br> Rights</h4>
-        </div>
-      </div>
-      <div class="col has-border nobrd " >
-        <div class="quality">
-        <div class="quality-img">
-          <span class="icon-Secure-Money-Back-Guarantee mad">
-          <span class="path1 mad"></span><span class="path2 mad"></span><span class="path3 mad"></span><span class="path4 mad"></span><span class="path5 mad"></span><span class="path6 mad"></span><span class="path7 mad"></span><span class="path8 mad"></span><span class="path9 mad"></span><span class="path10 mad"></span><span class="path11 mad"></span><span class="path12 mad"></span>
-          </span>
-        </div>
-        <h4 class="mad textcentre">Secure Money Back Guarantee</h4>
-        </div>
-      </div>
-      <div class="col" >
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Industry-Proven-Professionals mad"></span></div>
-          <h4 class="mad textcentre">Industry Proven Professionals</h4>
-        </div>
-      </div>
-    </div>
-
-    
-  </div>
-</section>
 
 
 
@@ -978,7 +929,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
         <div class="home-banner-content">
           <div class="col-lg-8 offset-lg-2 inner-content text-left">
               <div class="form-box-main clearfix">
-  <h2>Let’s talk about your next Big thing!</h2>
+  <span class="h2 font-40">Let’s talk about your next Big thing!</span>
   <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
  <?php include_once('includes/form.php');?>
 </div>
