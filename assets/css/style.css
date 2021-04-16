@@ -6510,6 +6510,20 @@ footer .social-full {
     padding-top: 20px;
 }
 
+.mysatisfied .fullwrapper .rightwrap .figureslide li p {
+    font-weight: 400;
+    padding-bottom: 0;
+    font-size: 14px;
+    color: #000;
+    letter-spacing: 1px;
+    padding-top: 52px;
+}
+
+.mysatisfied .fullwrapper .rightwrap .figureslide li p span {
+    font-weight: 600;
+    color: #000000;
+}
+
 .testsec .firsttesti .txarea .rating i {
     color: #fff;
     font-size: 20px;
@@ -15848,8 +15862,11 @@ h4.panel-title {
     padding-top: 30px;
 }
 .has-plp {
-    font-size: 20px !important;
+    <<<<<<< HEAD font-size: 20px !important;
     font-weight: 500 !important;
+    =======font-size: 17px !important;
+    font-weight: 800 !important;
+    >>>>>>>95796b3b3775c9498b309b30dfe6c1d1491c19cb
 }
 .btn-h1 button.btn.btn-link {
     color: #687087;
