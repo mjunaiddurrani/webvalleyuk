@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
 <head>
     <?php include_once('includes/head.php');?>
     <title>404 Page</title>

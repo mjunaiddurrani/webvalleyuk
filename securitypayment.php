@@ -75,7 +75,7 @@ if ($response=="") {
 // die();
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
 <head>
 <?php 
 if (isset($_SERVER['HTTPS'])) {
@@ -93,7 +93,7 @@ ini_set('display_errors', 1);
  ?>
 
 <!doctype html>
-<html lang="en">
+<html lang="en-GB">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
   <title>WebsiteValley</title>
