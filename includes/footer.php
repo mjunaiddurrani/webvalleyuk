@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3">
-          <h3>Services</h3>
+          <p class="h3 ">Services</p>
           <ul class="linkinglist">
           <li><a href="/web-app-development/">Web App Development</a></li>
           <li><a href="/web-design-development/">Web Design Development</a></li>
@@ -18,7 +18,7 @@
           </ul>
         </div>
         <div class="col-lg-3">
-          <h3 class="xsmtpx-30">Quick Links</h3>
+          <p class="xsmtpx-30 h3">Quick Links</p>
           <ul class="linkinglist">
             <li><a href="/packages/">Packages</a></li>
             <li><a href="/combo-packages/">Combo Packages</a></li>
@@ -28,14 +28,14 @@
           </ul>
         </div>
         <div class="col-lg-3">
-          <h3 class="xshide">Company</h3>
+          <p class="xshide h3">Company</p>
           <ul class="linkinglist">
             <!--<li><a href="https://websitevalley.co.uk/culture">Our Culture</a></li>-->
             <li><a href="/contact/">Contact us</a></li>
           </ul>
         </div>
         <div class="col-lg-3">
-          <h3 class="xsmtpx-30">About</h3>
+          <p class="xsmtpx-30 h3">About</p>
           <ul class="linkinglist">
             <li><a href="tel:+442038087061">+442038087061</a></li>
             <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
@@ -150,7 +150,7 @@
 <div class="floatbutton">
     <div class="clickbutton"><div class="crossplus"><i class="fa fa-envelope"></i></div></div>
       <div class="banner-form">
-        <h3>Chat With Us to <br>Avail 50% Discount</h3>
+        <span class="font-20">Chat With Us to <br>Avail 50% Discount</span>
         <div class="banform">
           <div class="container">
             <div class="row">
@@ -223,7 +223,7 @@
            <div class="book-call-popupform tabform clearfix  text-left">
            <figure style="background-image: url(assets/images/linda-dok.jpg);"> </figure>
            <span class="heading">Book a Call </span>
-             <h2 class="text-center">Our smart and friendly client support team is available to guide you through the creative process and answer all of your questions.</h2>
+             
              <form id="popupfrm" class="cmxform"  method="POST" action="">
 
                <div class="fldst btnattach">
@@ -301,7 +301,7 @@
     <div class="right">
       <div class="closebutton">x</div>
       <div class="mypopup-innerwrap">
-        <h3 class="text-center">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 75% DISCOUNT</span></h3>
+        <span class="text-center font-20">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 75% DISCOUNT</span></span>
         <div class="form_wrap">
           <div class="analyzeform ">
             <form class="" id="banform" method="POST" action="">

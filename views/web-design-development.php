@@ -83,18 +83,18 @@
       <div class="col-lg-12">
         <div class="fullwrapper">
           <div class="leftwrap">
-            <h3>Satisfied Customers<strong><span class="timer">1874</span>+</strong></h3>
+            <p class="h3">Satisfied Customers<strong><span class="timer">1874</span>+</strong></p>
           </div>
           <div class="rightwrap">
             <div class="coslider">
 
               <div>
                 <ul class="countslide">
-                  <li><h4><span class="timer">1300</span>+</h4><p>Web Design</p></li>
-                  <li><h4><span class="timer">780</span>+</h4><p>Custom Website Development</p></li>
-                  <li><h4><span class="timer">1290</span>+</h4><p>Single Page <br> Websites</p></li>
-                  <li><h4><span class="timer">1500</span>+</h4><p>Ecommerce <br> Websites</p></li>
-                  <li class="nbr"><h4><span class="timer">9000</span>+</h4><p>Landing <br> Pages</p></li>
+                  <li><p class="h4"><span class="timer">1300</span>+</p><p>Web Design</p></li>
+                  <li><p class="h4"><span class="timer">780</span>+</p><p>Custom Website Development</p></li>
+                  <li><p class="h4"><span class="timer">1290</span>+</p><p>Single Page <br> Websites</p></li>
+                  <li><p class="h4"><span class="timer">1500</span>+</p><p>Ecommerce <br> Websites</p></li>
+                  <li class="nbr"><p class="h4"><span class="timer">9000</span>+</p><p>Landing <br> Pages</p></li>
                   <!-- <li class="nbr"><h4>50+</h4><p>Award Winning <br> Designers</p></li> -->
                 </ul>
               </div>
@@ -131,7 +131,7 @@
     <p>To grow your business quickly, you must have a responsive website in these digital times. Professional website development helps your business be registered among the audience and enables you to achieve your marketing goals. Therefore, our professional website design company provides you with the  required exposure for operating your business and grows it significantly.</p>
     <h3>We offer many Custom Web Design Services Online. </h3>
     <p>Having a slow, cluttered, designed, or unresponsive website is akin to losing thousands of dollars worth of business with every passing minute. You must be aware of the changing needs of the times and bring your business online with a modern website design.</p>
-    <h3>Increase your ROI, and cultivate a loyal audience for your site </h3>
+    <span class="h3  font-18">Increase your ROI, and cultivate a loyal audience for your site </span>
     <p>With expert website designers' help, you can grow your business significantly, Our custom website design company offers unique websites that gain your visitors'  attention and help you make longer working relations with them.</p>
     <ul class="myticks">
       <li class="text-black"> WordPress Development</li> 
@@ -182,7 +182,7 @@
       </div>
       <div class="col-lg-6 align-self-center">
         <div class="txtwrap ">
-          <h2 class="text-left">Design and Develop Amazing Websites for your Business.</h2>
+          <span class="text-left h2  font-29">Design and Develop Amazing Websites for your Business.</span>
           <p class="text-left">We use a step-by-step approach to understand your business, its related needs and deliver a prompt and intuitive experience for your website that encourages your visitors to trust your brand. </p>
           
         </div>
@@ -225,7 +225,7 @@
      
       <div class="col-lg-6 mt-5 my-auto">
         <div class="txtwrap">
-          <h2>Hire professional website designers and the best website development team to bring effective results for you.</h2>
+          <h3 class="h2 font-29">Hire professional website designers and the best website development team to bring effective results for you.</h3>
           <p>Developing a website requires a lot of effort from your side. No worries if you are short on time. Our top web design company is here to bring practical solutions to your problem. </p>
           <h5>We Work with Latest Technology  </h5>
           <p>We build and design your website with the up-to-date technology of the times, ensure that it remains a digitally secure place for your visitors, and offers them accessibility across all devices.</p>
@@ -245,7 +245,7 @@
       </div>
       <div class="col-lg-6 mt-3">
         <div class="txtwrap">
-          <h2 class="text-left">Website Made to Fit Every Screen </h2>
+          <span class="text-left h2 font-29">Website Made to Fit Every Screen </span>
           <p class="text-left">No matter if your user is coming from a mobile, tablet, or regular desktop, your professional website development is necessary. Our Modern web designs are tailored to meet the criteria of every screen. Get the modern website designs that make your website look as sharp as on the desktop screen. </p>
           <h5 class="text-left">Professional Website Designers are within your reach—no need to search more about the top web design company near me.  </h5>
           <p class="text-left">We are affordable web design services. Our custom web design service online has designed reasonable web design Packages to satisfy your digital needs within your budget. Now you don't have to look for cheap website design services when you can have the best results at an affordable web design services price.  </p>        </div>
@@ -272,16 +272,16 @@
       </div>
       <div class="col-lg-6 mt-5">
         <div class="txtwrap">
-          <h2 class="text-left">Approachable and Accessible Websites </h2>
+          <span class="text-left h2 font-29">Approachable and Accessible Websites </span>
           <p class="text-left">Attract your target audience without paying for ads or PPC, and increase your public relations. We follow quick and practical strategies, which you will not find in any other cheap website design services to help your website rank among your competitors. Make your business more approachable and accessible without any troubles. At Website Valley, we have a dedicated team that holds powerful SEO content strategies that will prove effective in the longer run.  Call to action: Get SEO-optimized Websites for more clicks, more leads, and higher conversion rates.</p>
           </div>
       </div>
       <div class="col-lg-6 mt-3">
         <div class="txtwrap">
-          <h2>Our quick, professional website
+          <h3 class="h2 font-29">Our quick, professional website
 designers are here to revamp your
 business online with affordable
-web design services. </h2>
+web design services. </h3>
           <p>Let's hear what our clients are saying.
 
 They are one heck of a professional website design company! We had a fantastic time working with Website Valley as a team. We weren't confident how much cheap website design services would do such a tremendous job. As an agency, we believe they are doing a great job satisfying the customers' needs and providing excellent services. We're lucky to have found them and will keep working with them. 
@@ -308,7 +308,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       </div>
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2 class="text-left">How can we partner up? </h2>
+          <span class="text-left h2 font-29">How can we partner up? </span>
           <p class="text-left">Satisfy your client's needs and increase your profitability through making small changes in your business, starting from the website. Website Valley is a top web design company that will help you build your brands and let you earn your client's trust by simply doing an excellent job on your website. Our top web design company will help you grab your visitors' attention through vibrant, modern, and smooth designs. Create modern website designs to achieve new heights for your business. </p>
 
           <ul class="myticks mb-5">
@@ -407,7 +407,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       <div class="col-lg-12">
         
         <div class="text text-center">
-          <h2>Let’s look at some of our Website Designs and Developments.</h2>
+          <h3 class="font-39">Let’s look at some of our Website Designs and Developments.</h3>
           <p>Sometimes, samples are what make you understand the job better.</p>  
         </div>
 
@@ -515,7 +515,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
-        <h2>How much does it cost to design a web?</h2>
+        <h6 class="h2 font-32 text-center">How much does it cost to design a web?</h6>
         <p>We guarantee that you’ll get a great web design no matter what your budget is.</p>
       </div>  
       <div class="col-lg-12"> 
@@ -875,50 +875,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
 
 
 
-<section class="bottomcta d-none"> 
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <ul class="ctalist">
-          <li>
-            <h3>Email</h3>
-            <div class="wrap">
-              <div class="iconpart">
-                <span class="icon-envelope-o"></span>
-              </div>
-              <div class="textpart">
-                
-                <a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a>
-              </div>
-            </div>
-          </li>
-          <li>
-            <h3>Address</h3>
-            <div class="wrap">
-              <div class="iconpart">
-                <span class="icon-location"></span>
-              </div>
-              <div class="textpart">
-                <p> 86-90 Paul Street, London <br>EC2A 4NE, UK</p>
-              </div>
-            </div>
-          </li>
-          <li>
-            <h3>Phone</h3>
-            <div class="wrap">
-              <div class="iconpart">
-                <span class="icon-phone2"></span>
-              </div>
-              <div class="textpart">
-                <a href="tel:+442038087061" class="callbx">Call Us +442038087061</a>
-              </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
+
 
 
 

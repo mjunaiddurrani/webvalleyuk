@@ -51,7 +51,7 @@
                   <li>Develop Responsive Applications </li>
                   <li>Build Brilliant Android App </li>
                 </ul>
-                <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get Custom Quote </a>
+                <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme-service-mobile">Get Custom Quote </a>
               </div>
             </div>
           </div>
@@ -122,13 +122,13 @@
         </figure>
      
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-5">
         <figure class="mfig">
           <img src="assets/images/growth-oriented-mobile-app.png" alt="">
         </figure>
      
       </div>
-      <div class="col-lg-6 ">
+      <div class="col-lg-6 mt-2">
         <div class="txtwrap ">
           <h2 class="text-left">Modern, Interactive, And Growth-Oriented Mobile Apps Development Agency </h2>
           <p class="text-left">We are here to create endless possibilities with mobile application development services. Research has proven that Mob Applications become consumers’ No.1 choice if they are easy to download and personalized according to the user. Therefore, we ensure that our clients' business remains the top priority of their customers. </p>
@@ -144,7 +144,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-3 mb-4">
         <div class="txtwrap">
           <h2>Think of any imaginative app design. Our app developers will make it happen for you! </h2>
           <p>Website Valley has been serving for more than 15 years in the industry as one of the leading app development firms in the UK. It caters to every big, medium, and small enterprise of all kinds of business. From working on the imagination to creating Mobile App design and Development, we ensure that you remain satisfied throughout the time. </p>
@@ -153,7 +153,7 @@
 
         </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-6 mt-3 mb-4">
         <figure class="mfig">
           <img src="assets/images/imagination-app-design.png" alt="">
         </figure>
@@ -209,18 +209,18 @@
             </div>
          
           </div>
-          <div class="col-lg-6">
-            <img src="assets/images/mobile-app-display.png" alt="left-section-design" class="img-fluid">
+          <div class="col-lg-6 mt-4">
+            <img src="assets/images/mobile-app-display.png" alt="left-section-design" style="height:84%; width:100%;">
 
           </div>
         </div>
   </div>
 </section>
-<section class="mprocess pbpx-0" style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%); padding:70px 0px !important">
+<section class="mprocess pbpx-0" style="background-image: linear-gradient(#d4ebf3, #fff, #d4ebf3); padding:70px 0px !important">
 <div class="container">
 <h3 class="text-center py-5"><b>What do We offer? </b></h3>
 <div class="row">
-<div class="col-lg-6">
+<div class="col-lg-6 mt-3">
 <div class="txtwrap">
 <h2>Android App Development</h2>
 <p>According to a study, a large number of mobile users use android phones to communicate digitally. Henceforth, our mobile app developers cannot ignore this significant number. Our mobile app designer or developer deals with every business industry for their application needs. Drop us a message or reach out for our free consultation for the full-stack android app.</p>
@@ -233,20 +233,20 @@
 </figure>
 
 </div>
-<div class="col-lg-6">
+<div class="col-lg-6 mt-3">
 <figure class="mfig">
 <img src="assets/images/w2.png" alt="">
 </figure>
 
 </div>
-<div class="col-lg-6 ">
+<div class="col-lg-6 mt-5">
 <div class="txtwrap ">
 <h2 class="text-right">iPhone Application Development </h2>
 <p class="text-right">We provide iPhone application development or, say, iOS mobile apps development services. Our strategy for application building is constantly evolving as the phones are becoming more advanced and innovative. iPhones, iPads, or Apple watches, our iPhone development is designed accordingly. Therefore, get your iPhone Application Development from a professional mob application agency. </p>
 
 </div>
 </div>
-<div class="col-lg-6">
+<div class="col-lg-6 mt-4">
 <div class="txtwrap">
 <h2>Cross-Platform </h2>
 <p>You want a website that will build your brand recognition, represent your mission and help convey your message on multiple platforms? Be at ease now. We build cross-platform applications to provide their business consumers with the freedom to choose their desired system. Our app development services will enable you to market your products and services quicker. </p>
@@ -254,20 +254,20 @@
 
 </div>
 </div>
-<div class="col-lg-6">
+<div class="col-lg-6 mt-2">
 <figure class="mfig">
 <img src="assets/images/w3.png" alt="">
 </figure>
 
 </div>
 
-<div class="col-lg-6">
+<div class="col-lg-6 mt-3">
 <figure class="mfig">
 <img src="assets/images/w4.png" alt="">
 </figure>
 
 </div>
-<div class="col-lg-6 ">
+<div class="col-lg-6 mt-5">
 <div class="txtwrap ">
 <h2 class="text-right">Business app development</h2>
 <p class="text-right">No matter if your business is a larger enterprise or a small company, we are here to bring your business within reach of your people. We are a highly cooperative and collaborative mobile app design and development agency. Once we get down to the project, we'll deal with all the internal and external problems related to the application development.</p>

@@ -931,7 +931,7 @@
 
 
 
-        <h2>Our Clients</h2>
+        <p class="h2">Our Clients</p>
         <ul class="mycli mslider">
              <li class="first"><img src="assets/images/spo1.jpg" alt="" width="40" height="40"></li>
              <li><img src="assets/images/spo2.png" alt="" width="223" height="40"></li>
@@ -972,19 +972,19 @@
       <div class="col has-border  " >
         <div class="quality">
           <div class="quality-img"><span class="icon-Constant-Client-Coordination mad"></span></div>
-          <h4 class="mad textcentre">Constant Client Coordination</h4>
+          <p class="mad textcentre h4 font-18">Constant Client Coordination</p>
         </div>
       </div>
       <div class="col has-border nobrd">
         <div class="quality">
           <div class="quality-img"><span class="icon-Customer-Satisfaction mad"></span></div>
-          <h4 class="mad textcentre">Supreme Customer Satisfaction</h4>
+          <p class="mad textcentre h4 font-18">Supreme Customer Satisfaction</p>
         </div>
       </div>
       <div class="col has-border mob-noborder" >
         <div class="quality">
           <div class="quality-img"><span class="icon-Ownership-Rights mad"></span></div>
-          <h4 class="mad textcentre">100% Ownership <br> Rights</h4>
+          <p class="mad textcentre h4 font-18">100% Ownership <br> Rights</p>
         </div>
       </div>
       <div class="col has-border nobrd " >
@@ -994,13 +994,13 @@
           <span class="path1 mad"></span><span class="path2 mad"></span><span class="path3 mad"></span><span class="path4 mad"></span><span class="path5 mad"></span><span class="path6 mad"></span><span class="path7 mad"></span><span class="path8 mad"></span><span class="path9 mad"></span><span class="path10 mad"></span><span class="path11 mad"></span><span class="path12 mad"></span>
           </span>
         </div>
-        <h4 class="mad textcentre">Secure Money Back Guarantee</h4>
+        <p class="mad textcentre font-18 h4">Secure Money Back Guarantee</p>
         </div>
       </div>
       <div class="col" >
         <div class="quality">
           <div class="quality-img"><span class="icon-Industry-Proven-Professionals mad"></span></div>
-          <h4 class="mad textcentre">Industry Proven Professionals</h4>
+          <p class="mad textcentre font-18 h4">Industry Proven Professionals</p>
         </div>
       </div>
     </div>
@@ -1050,28 +1050,7 @@
 
 
 
-<div class="belowform d-none">
-  <div class="container ">
-    <div class="row">
-      <div class=" col-lg-12 col-xl-12 text-center">
-        <div class="home-banner-content">
-          <div class="col-lg-8 offset-lg-2 inner-content text-left">
-              <div class="form-box-main clearfix">
-  <h2>Let’s talk about your next Big thing!</h2>
-  <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
- <?php include_once('includes/form.php');?>
-</div>
 
-
-
- 
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-    
 
 
 
