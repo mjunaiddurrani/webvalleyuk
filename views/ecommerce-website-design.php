@@ -84,11 +84,11 @@
 
               <div>
                 <ul class="countslide">
-                  <li><h4><span class="timer">1300</span>+</h4><p>Web Design</p></li>
-                  <li><h4><span class="timer">780</span>+</h4><p>Custom Website Development</p></li>
-                  <li><h4><span class="timer">1290</span>+</h4><p>Single Page <br> Websites</p></li>
-                  <li><h4><span class="timer">1500</span>+</h4><p>Ecommerce <br> Websites</p></li>
-                  <li class="nbr"><h4><span class="timer">9000</span>+</h4><p>Landing <br> Pages</p></li>
+                  <li><p class="h4 h4Heading"><span class="timer">1300</span>+</p><p>Web Design</p></li>
+                  <li><p class="h4 h4Heading"><span class="timer">780</span>+</p><p>Custom Website Development</p></li>
+                  <li><p class="h4 h4Heading"><span class="timer">1290</span>+</p><p>Single Page <br> Websites</p></li>
+                  <li><p class="h4 h4Heading"><span class="timer">1500</span>+</p><p>Ecommerce <br> Websites</p></li>
+                  <li class="nbr"><p class="h4 h4Heading"><span class="timer">9000</span>+</p><p>Landing <br> Pages</p></li>
                   <!-- <li class="nbr"><h4>50+</h4><p>Award Winning <br> Designers</p></li> -->
                 </ul>
               </div>
@@ -568,7 +568,7 @@
   <div class="smallbox">
   <div class="package_inner">
     <h4>E-Commerce   <br> Startup</h4>
-    <h2><span class="currency_symbol">£</span>600.00 <span><s>£1,200.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>600.00 <span><s>£1,200.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -619,7 +619,7 @@
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>E-Commerce  <br> Professional</h4>
-    <h2><span class="currency_symbol">£</span>1,394.00 <span><s>£2,788.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>1,394.00 <span><s>£2,788.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -673,7 +673,7 @@
   <div class="smallbox">
   <div class="package_inner">
     <h4>E-Commerce  <br> Elite</h4>
-    <h2><span class="currency_symbol">£</span>3,694.00 <span><s> £7,388.00</s></span> </h2>
+    <p class="h2 h2Heading"><span class="currency_symbol">£</span>3,694.00 <span><s> £7,388.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -810,7 +810,7 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>OG</h3>
+                <p class="h3 h3Heading">OG</p>
               </div>
               <div class="usertest">
                 <h4>Extremely Satisfied with the services!</h4>
@@ -830,7 +830,7 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>JV</h3>
+                <p class="h3 h3Heading">JV</p>
               </div>
               <div class="usertest">
                 <h4>Websitevalley Rocked!!</h4>
@@ -850,7 +850,7 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>TR</h3>
+                <p class="h3 h3Heading">TR</p>
               </div>
               <div class="usertest">
                 <h4>Big Shout-out to the websitevalley Team!!</h4>
@@ -870,7 +870,7 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>KA</h3>
+                <p class="h3 h3Heading">KA</p>
               </div>
               <div class="usertest">
                 <h4>We Couldn't Ask for a Better Job!!</h4>
@@ -890,7 +890,7 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>AM</h3>
+                <p class="h3 h3Heading">AM</p>
               </div>
               <div class="usertest">
                 <h4>Brilliant Responsive Work</h4>
@@ -910,7 +910,7 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>CR</h3>
+                <p class="h3 h3Heading">CR</p>
               </div>
               <div class="usertest">
                 <h4>Excellent Web Consultation For My Website</h4>
