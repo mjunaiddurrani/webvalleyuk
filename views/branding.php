@@ -104,18 +104,18 @@
       <div class="col-lg-12">
         <div class="fullwrapper">
           <div class="leftwrap">
-            <h3>Satisfied Customers<strong><span class="timer">1874</span>+</strong></h3>
+            <p class="h3">Satisfied Customers<strong><span class="timer">1874</span>+</strong></p>
           </div>
           <div class="rightwrap">
             <div class="coslider">
 
               <div>
                 <ul class="countslide">
-                  <li><h4><span class="timer">1300</span>+</h4><p>Web Design</p></li>
-                  <li><h4><span class="timer">780</span>+</h4><p>Custom Website Development</p></li>
-                  <li><h4><span class="timer">1290</span>+</h4><p>Single Page <br> Websites</p></li>
-                  <li><h4><span class="timer">1500</span>+</h4><p>Ecommerce <br> Websites</p></li>
-                  <li class="nbr"><h4><span class="timer">9000</span>+</h4><p>Landing <br> Pages</p></li>
+                  <li><p class="h4"><span class="timer">1300</span>+</p><p>Web Design</p></li>
+                  <li><p class="h4"><span class="timer">780</span>+</p><p>Custom Website Development</p></li>
+                  <li><p class="h4"><span class="timer">1290</span>+</p><p>Single Page <br> Websites</p></li>
+                  <li><p class="h4"><span class="timer">1500</span>+</p><p>Ecommerce <br> Websites</p></li>
+                  <li class="nbr"><p class="h4"><span class="timer">9000</span>+</p><p>Landing <br> Pages</p></li>
                   <!-- <li class="nbr"><h4>50+</h4><p>Award Winning <br> Designers</p></li> -->
                 </ul>
               </div>
@@ -143,12 +143,12 @@
   <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Provide the Best Experience to Your Consumers</h2>
+          <span class="h2">Provide the Best Experience to Your Consumers</span>
           <p>Build a brand identity design that enables your consumers to be involved in the due process. More interactive and engaging your brand becomes, the more business milestones you achieve in your career. </p>
      
         </div>
         <div class="txtwrap">
-          <h2 class="has-plp">Limitless Ceiling for Growth</h2>
+          <p class="font-weight-bold">Limitless Ceiling for Growth</p>
           <p>The branding world has a limitless ceiling of growth for your business. Seize the moment and collaborate with professional branding services that can understand the digital trends. At Logo Valley, create your corporate brand identity effortlessly.</p>
      
         </div>
@@ -174,7 +174,7 @@
       </div>
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Enabling You To Create Meaningful Connections With Your Audience</h2>
+          <span class="h2">Enabling You To Create Meaningful Connections With Your Audience</span>
           <p>It only takes a few seconds to judge your brand identity design and its image in the fast-paced digital space. It is starting with the logo, animation, colours, and or the creation of the website. If your audience is not intrigued by what you have to offer, it is unlikely they will buy your product or services.</p>
           
           <h5 class="has-plp">Customer-Centric Brand </h5>
@@ -224,40 +224,7 @@
 </section>
 
 
-<section class="servicesec d-none">
-  <div class="container">
-    
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="centerwrap">
-          <div class="tab-content">
-            <div class="tabs brandingservices myservices current" role="toolbar">
-              
-  <div class="left">
-    <h2>Let Brilliance Take Over</h2>
-    <h3>Businesses from over the world have worked with us to create brands with utmost brilliance. We understand the importance of branding and make sure everything goes as per market needs, your ideology and our expertise.</p>
-    <ul class="pointlisting">
-      <li>Brand Identity</li>
-      <li>Rebranding</li>
-      <li>Stationery Design</li>
-      <li>Print Design</li>
-      <li>Packaging Design</li>
-      
-    </ul>
-    <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Brand your business in just £74.99</a>
-  </div>
-  <div class="right">
-    <figure>
-      <img src="assets/images/brandingimage.svg" alt="">
-    </figure>
-  </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+
 
 
 <section class="filterportfolio">
@@ -266,7 +233,7 @@
       <div class="col-lg-12">
         
         <div class="text text-center">
-          <h2>Here’s some of our work that you might be interested in.</h2>
+          <span class="h2">Here’s some of our work that you might be interested in.</span>
           <p>Branding works miraculously for some brands and here are some examples that might help you decide.</p>  
         </div>
 
@@ -614,7 +581,7 @@
     <div class="smallbox">
     <div class="package_inner">
     <h4>Stationery <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>74.99 <span><s>£149.98</s></span> </h2>
+    <p class="h2"><span class="currency_symbol">£</span>74.99 <span><s>£149.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -670,7 +637,7 @@
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Infographic <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>139.99 <span><s>£279.98</s></span> </h2>
+    <p class="h2"><span class="currency_symbol">£</span>139.99 <span><s>£279.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -722,7 +689,7 @@
   <div class="smallbox">
   <div class="package_inner">
     <h4>Brochure/Flyer <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>134.99 <span><s>£269.98</s></span> </h2>
+    <p class="h2"><span class="currency_symbol">£</span>134.99 <span><s>£269.98</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     <ul class="ticklist2 list-scroll">
@@ -824,10 +791,10 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>OG</h3>
+                <p class="h3">OG</p>
               </div>
               <div class="usertest">
-                <h4>Extremely Satisfied with the services!</h4>
+                <p class="h4">Extremely Satisfied with the services!</p>
                 <p>Website Valley has been indeed a magical service provider for my brand development strategy. I must say they are the top brand agency in the UK. They listened to my requirements and asked me questions that made me aware that they are deeply interested in my brand identity design and custom stationery design. I love their back to back sessions while working on the brand development strategy with our team. They have completely revamped my corporate brand identity. Honestly, it's a highly recommend branding company in the UK</p>
                 <h6>— Sarah Ramirez, Brand Owner</h6>
                 <div class="ratings">
@@ -844,10 +811,10 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>JV</h3>
+                <p class="h3">JV</p>
               </div>
               <div class="usertest">
-                <h4>Websitevalley Rocked!!</h4>
+                <p class="h4">Websitevalley Rocked!!</p>
                 <p>Website Valley is the best brand-building place to be. We loved working with this top brand agency and their creative team as they understood first then focused on giving us practical solutions for custom stationery design which made us hire their services for website development. We're more than happy to collaborate with the top branding company's branding services team. Every moment was worth anticipating as they worked on our campaign. We'd highly recommend their services.</p>
                 <h6>— Mike Miller, Project Owner</h6>
                 <div class="ratings">
@@ -864,10 +831,10 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>TR</h3>
+                <p class="h3">TR</p>
               </div>
               <div class="usertest">
-                <h4>Big Shout-out to the websitevalley Team!!</h4>
+                <p class="h4">Big Shout-out to the websitevalley Team!!</p>
                 <p>From the first moment we had an initial discussion on the brand development strategy to the interview and the brainstorming sessions, every moment was incredible. Through their prompt services, we were able to build our business from only a business card design online to the whole brand level. They clarified every decision they made and brought clarity to our mindset. Being a startup business, we weren't entirely sure where to start when it came to branding. We merely contacted them for business brochure design and business card design online. However, they have proven to be beneficial and kind services. Definitely, I'd recommend this top branding company services to new startups like me who need more than just business brochure design to kickstart their business.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -1000,27 +967,7 @@
 
 
 
-<div class="belowform d-none">
-  <div class="container ">
-    <div class="row">
-      <div class=" col-lg-12 col-xl-12 text-center">
-        <div class="home-banner-content">
-          <div class="col-lg-8 offset-lg-2 inner-content text-left">
-              <div class="form-box-main clearfix">
-  <h2>Let’s talk about your next Big thing!</h2>
-  <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
- <?php include_once('includes/form.php');?>
-</div>
 
-
-
- 
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     
 
 

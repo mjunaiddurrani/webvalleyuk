@@ -18,7 +18,11 @@
 
 
 
-
+<style>
+  .myservices .left h3:first-child{
+    font-size:35px;
+  }
+</style>
 
 </head>
 <body class="innerpages mblpge">
@@ -72,18 +76,18 @@
       <div class="col-lg-12">
         <div class="fullwrapper">
           <div class="leftwrap">
-            <h3>Satisfied Customers<strong><span class="timer">1874</span>+</strong></h3>
+            <p class="h3">Satisfied Customers<strong><span class="timer">1874</span>+</strong></p>
           </div>
           <div class="rightwrap">
             <div class="coslider">
 
               <div>
                 <ul class="countslide">
-                  <li><h4><span class="timer">1300</span>+</h4><p>Web Design</p></li>
-                  <li><h4><span class="timer">780</span>+</h4><p>Custom Website Development</p></li>
-                  <li><h4><span class="timer">1290</span>+</h4><p>Single Page <br> Websites</p></li>
-                  <li><h4><span class="timer">1500</span>+</h4><p>Ecommerce <br> Websites</p></li>
-                  <li class="nbr"><h4><span class="timer">9000</span>+</h4><p>Landing <br> Pages</p></li>
+                  <li><p class="h4"><span class="timer">1300</span>+</p><p>Web Design</p></li>
+                  <li><p class="h4"><span class="timer">780</span>+</p><p>Custom Website Development</p></li>
+                  <li><p class="h4"><span class="timer">1290</span>+</p><p>Single Page <br> Websites</p></li>
+                  <li><p class="h4"><span class="timer">1500</span>+</p><p>Ecommerce <br> Websites</p></li>
+                  <li class="nbr"><p class="h4"><span class="timer">9000</span>+</p><p>Landing <br> Pages</p></li>
                   <!-- <li class="nbr"><h4>50+</h4><p>Award Winning <br> Designers</p></li> -->
                 </ul>
               </div>
@@ -111,7 +115,7 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Turn your web visitors into long-term clients who keep coming back for more </h2>
+          <span class="h2">Turn your web visitors into long-term clients who keep coming back for more </span>
           <p>Using state-of-the-art technology and the latest programming languages, our leading firm builds your website so that it can maximize profits for you. The higher the number of mobile application downloads, the better the advertisement, marketing, and sales of your product and services. Our developers are here to take your business to the next level. Achieve your marketing and sales goals with the leading application development firm in the UK.</p>
      
         </div>
@@ -146,7 +150,7 @@
       </div>
       <div class="col-lg-6 mt-3 mb-4">
         <div class="txtwrap">
-          <h2>Think of any imaginative app design. Our app developers will make it happen for you! </h2>
+          <span class="h2">Think of any imaginative app design. Our app developers will make it happen for you! </span>
           <p>Website Valley has been serving for more than 15 years in the industry as one of the leading app development firms in the UK. It caters to every big, medium, and small enterprise of all kinds of business. From working on the imagination to creating Mobile App design and Development, we ensure that you remain satisfied throughout the time. </p>
           <h5>We believe in Collaborate Work  </h5>
           <p>Our process may seem simple, but we collaborate with you on every developmental stage of your mobile app to ensure that your ideas are executed flawlessly. Our agency will work to bring ultimate satisfaction to business consumers. Boost your online sales, increase your profitability, and effectively manage your project and business.  Your mobile application will prove to be the key to the digital world. Hire the best Mobile Applications design and development firm. </p>
@@ -216,9 +220,9 @@
         </div>
   </div>
 </section>
-<section class="mprocess pbpx-0" style="background-image: linear-gradient(#d4ebf3, #fff, #d4ebf3); padding:70px 0px !important">
+<section class="mprocess pbpx-0 py-5 " style="background-image: linear-gradient(#d4ebf3, #fff, #d4ebf3);">
 <div class="container">
-<h3 class="text-center py-5"><b>What do We offer? </b></h3>
+<p class="text-center h2"><b>What do We offer? </b></p>
 <div class="row">
 <div class="col-lg-6 mt-3">
 <div class="txtwrap">
@@ -248,7 +252,7 @@
 </div>
 <div class="col-lg-6 mt-4">
 <div class="txtwrap">
-<h2>Cross-Platform </h2>
+<span class="h2">Cross-Platform </span>
 <p>You want a website that will build your brand recognition, represent your mission and help convey your message on multiple platforms? Be at ease now. We build cross-platform applications to provide their business consumers with the freedom to choose their desired system. Our app development services will enable you to market your products and services quicker. </p>
 
 
@@ -288,7 +292,7 @@
             <div class="tabs Mobileapplication myservices current" role="toolbar">
               
   <div class="left">
-    <h2>Mobile Application Development for Growth</h2>
+    <h3 class="font-35">Mobile Application Development for Growth</h3>
     <h3>Custom mobile apps that boost brand presence, revenue, and reputation.</h3>
     <p>Let your brand grow and expand with the help of a Mobile Application. Our Mobile Application services are backed by plenty of experience, fresh creative minds and a bond of trust with our clients.</p>
     <ul class="pointlisting">
@@ -321,8 +325,8 @@
       <div class="col-lg-12">
         
         <div class="text text-center">
-          <h2>Make your life easier, and take a look at our  recent projects!</h2>
-          <p>Technology is changing continuously. You can become confused with what type of application you require for your business. Our mobile app development agency's sample work will help you decide what you are looking for.</p>  
+          <span class="h2 font-39 ">Make your life easier, and take a look at our  recent projects!</span>
+          <p class="mt-3">Technology is changing continuously. You can become confused with what type of application you require for your business. Our mobile app development agency's sample work will help you decide what you are looking for.</p>  
         </div>
 
         
@@ -456,58 +460,6 @@
 
 
 
-<section class="sec-padding pricing-sec d-none">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-10 offset-lg-1"> 
-        <h2>What Does a Mobile App Cost?</h2>
-        <p>Regardless of what your business may be able to afford, we give you our best.</p>
-      </div>  
-      <div class="col-lg-12"> 
-          
-        <div class="tab-content pricingboxes">
-          
-          
-
-
-          <div class="tab-pane active">
-            <div class="largebox">
-  <div class="leftarea">
-    <figure>
-      <img src="assets/images/mobile-01.svg">
-    </figure>
-    <a href="/order/" class="btn-packages">Get a Custom Quote</a>
-  </div>
-  <div class="rightarea">
-    <h4>Let Mobile Apps do the talking for you!</h4>
-    <p>We have a skilled team that handles hundreds of brands with utmost care, professionalism and a tinge of creativity. We offer you nothing short of perfection with a team that works consistently to provide you with services that help your brand stand out.</p>
-    <h3>App For All Screens</h3>
-    <ul class="ticklist">
-      <li>
-        <img src="assets/images/logoss.png">
-      </li>
-      <li class="ralign">
-        <a href="javascript:;" onclick="setButtonURL();">Speak with our App Strategist</a>
-        <a href="tel:+442038087061"><h6>+442038087061</h6></a>
-      </li>
-      
-    </ul>
-  </div>
-</div>          </div>
-
-          
-
-          
-
-          
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
 
 
 <section class="qwer">
@@ -534,56 +486,7 @@ Call our leading mobile apps development firm to get started.
 </div>
 </div>
 </section>
-<section class="section-padding qualities logodesign">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h2 class=" text-center">How Can we Partner Up?</h2>
-        <p class="text-center">From the very first day to the very last day, we make sure we provide you the best of our services with effective communication, skilled team members and a lot of passion for marketing. Contact Us Now.
-        </p>
-      </div>
-    </div>
 
-    <div class="row margin-bottom-20 margin-top-20 quick-contact-slider  sensation-slider">
-      <div class="col has-border  " >
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Constant-Client-Coordination mad"></span></div>
-          <h4 class="mad textcentre">Constant Client Coordination</h4>
-        </div>
-      </div>
-      <div class="col has-border nobrd">
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Customer-Satisfaction mad"></span></div>
-          <h4 class="mad textcentre">Supreme Customer Satisfaction</h4>
-        </div>
-      </div>
-      <div class="col has-border mob-noborder" >
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Ownership-Rights mad"></span></div>
-          <h4 class="mad textcentre">100% Ownership <br> Rights</h4>
-        </div>
-      </div>
-      <div class="col has-border nobrd " >
-        <div class="quality">
-        <div class="quality-img">
-          <span class="icon-Secure-Money-Back-Guarantee mad">
-          <span class="path1 mad"></span><span class="path2 mad"></span><span class="path3 mad"></span><span class="path4 mad"></span><span class="path5 mad"></span><span class="path6 mad"></span><span class="path7 mad"></span><span class="path8 mad"></span><span class="path9 mad"></span><span class="path10 mad"></span><span class="path11 mad"></span><span class="path12 mad"></span>
-          </span>
-        </div>
-        <h4 class="mad textcentre">Secure Money Back Guarantee</h4>
-        </div>
-      </div>
-      <div class="col" >
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Industry-Proven-Professionals mad"></span></div>
-          <h4 class="mad textcentre">Industry Proven Professionals</h4>
-        </div>
-      </div>
-    </div>
-
-    
-  </div>
-</section>
 
 <!--<section class="mylast">-->
 <!--  <div class="container">-->

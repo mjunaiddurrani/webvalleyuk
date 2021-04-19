@@ -77,7 +77,7 @@
       <div class="col-lg-12">
         <div class="fullwrapper">
           <div class="leftwrap">
-            <h3>Satisfied Customers<strong><span class="timer">1874</span>+</strong></h3>
+            <p class="h3">Satisfied Customers<strong><span class="timer">1874</span>+</strong></p>
           </div>
           <div class="rightwrap">
             <div class="coslider">
@@ -117,7 +117,7 @@
   <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h3 class="h2">Make Your Web Visitors into Loyal Buyers of Your Product or Services</h3>
+          <span class="h2">Make Your Web Visitors into Loyal Buyers of Your Product or Services</span>
           <p>Ecommerce stores have to be built in a way that provides a smooth shopping experience to your consumers. Think of your website just like a physical store. Your buyer would hate to cross all the aisles and rows to buy a pack of their favourite chips. Your online buyers would do that same. Making them go through pages after pages to search for a product of their choice is nothing but the perfect recipe for a business disaster. </p>
      
         </div>
@@ -145,11 +145,11 @@
         <div class="txtwrap">
           <h2>Best Ecommerce Web Developers Hold Expertise in Magneto </h2>
           <p>Magneto is an open-source platform that uses open source to provide a highly responsive user experience. One such great feasibility of this excellent eCommerce web design is that it gives the eCommerce web developer room to make changes in the coding, integrate new features, or add creative functions according to the users' demands. </p>
-          <h4>Evolving your Platform with Digital Trends </h4>
+          <p class="font-weight-bold">Evolving your Platform with Digital Trends </p>
           <p>
            Magneto is an open-source platform that continues to evolve with the changing needs of the times that could answer your eCommerce web design requirements. Our expert web developer will help you boost your profits and sales by designing a well-functioning website.
           </p>
-          <h4>Effective, eye-catching and Fully Functional</h4>
+          <p class="font-weight-bold">Effective, eye-catching and Fully Functional</p>
           <p>
           We ensure that your web remains efficient, unique, fast, and generates loads of traffic with every passing minute to better your business. Hire the best custom eCommerce website development company.
           </p>
@@ -171,9 +171,9 @@
         <div class="txtwrap ">
           <h2 class="text-right">OpenCart is the Perfect custom eCommerce website design to Manage Business like a Pro.</h2>
           <p class="text-right">OpenCart will fulfil your website requirement in no time. It offers you a holistic group of services to manage your online business without any difficulties. At Website Valley, we offer custom eCommerce website development services to build your OpenCart custom eCommerce website design in a way that engages your visitor through a profound user experience.</p>
-          <h4 class="text-right">Double your Store Sales</h4>
+          <p class="text-right font-weight-bold" >Double your Store Sales</p>
           <p class="text-right">Our eCommerce web developer understands that your primary purpose in hiring a website developer is to build your brand and increase your store sales. Therefore, all of our strategies are designed to fit your needs. With us, you can integrate payment methods, shipping procedures, increase your sales and accounting.</p>
-          <h4 class="text-right">Keep Track on the changing Trends</h4>
+          <p class="text-right font-weight-bold">Keep Track on the changing Trends</p>
           <p class="text-right">Our eCommerce web developer will also keep an eye on the analytics insights to understand the areas that need improvement and add the social selling options. Get the most out of our eCommerce website design service to reach new heights in the digital market.</p>
         </div>
       </div>
@@ -182,9 +182,9 @@
         <div class="txtwrap">
           <h2>Increase Online Sales With eCommerce Web Developer of WooCommerce</h2>
           <p>Increasing your online sales has been difficult in the digital marketplace. Suppose you are using the right platform for custom eCommerce website development. It won't be a problem. We specialize in creating eCommerce websites using woo-commerce. Attain the smoothes user experience and thrive your sales online with the top-quality eCommerce website design service in the UK.</p>
-          <h4>Generate More Revenue </h4>
+          <p class="font-weight-bold">Generate More Revenue </p>
           <p>At Website Valley, we have created hundreds of Woocommerce websites that generate millions of worth of revenue, and we take pride in them. Our web designers ensure user flexibility, easy management, and online data safety and security through custom eCommerce website development. </p>
-          <h4>Your Personalized Website Developer </h4>
+          <p class="font-weight-bold">Your Personalized Website Developer </p>
           <p>You can call us your personalized web development services that can turn all your visions into operative websites. With us, you do not just create a website. Instead, you create a whole intuitive user experience that makes your visitors come back for more. </p>
         </div>
       </div>
@@ -204,9 +204,9 @@
         <div class="txtwrap">
           <h2 class="text-right">Our eCommerce Development Services</h2>
           <p class="text-right">We offer more than just website building. We offer eCommerce web development services. Our specialized web developer provides you with the best custom eCommerce website design that fulfils your functional and aesthetic aspects of website creations. Website Valley's web design & development team have a step-by-step approach.</p>
-          <h4 class="text-right">Meeting your Every Expectations </h4>
+          <p class="text-right font-weight-bold">Meeting your Every Expectations </p>
           <p class="text-right">Our eCommerce web design & development services keep you in the communication loop to be aware of your website building stages and provide your feedback accordingly when it comes to design. We believe in a collaborative and friendly approach to design and web development. Therefore, you will never feel like an outsider. </p>
-          <h4 class="text-right">Bring Your Website in the Top Searches  </h4>
+          <p class="text-right font-weight-bold">Bring Your Website in the Top Searches  </p>
           <p class="text-right">Our expert team once confirms the pricing plan with you, we will also help you in the SEO strategies. These SEO techniques will bring your website among the search engines' top searches. We keep track of every design detail and functional aspect of your website to provide timely maintenance and keep it secure from cyber threats and bugs. </p>
         </div>
       </div>
@@ -799,7 +799,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>Testimonials</h2>
+        <p class="h2 ">Testimonials</p>
         <p>
         Not sure? Let's hear out what our clients are saying about us.
 
@@ -813,7 +813,7 @@
                 <p class="h3 h3Heading">OG</p>
               </div>
               <div class="usertest">
-                <h4>Extremely Satisfied with the services!</h4>
+                <span class="h4">Extremely Satisfied with the services!</span>
                 <p>We had a great experience working with Website Valley. Not only they understood our web requirements, but they shared their valuable insights to help us understand the current trends and modern designs aspect. They turn our simple idea into a fully functional business within a short period. We are grateful for their services and would continue working with them in the future. Thanks, folks, for offering such quick services near me!</p>
                 <h6>— Sarah Ramirez, Brand Owner</h6>
                 <div class="ratings">
@@ -833,7 +833,7 @@
                 <p class="h3 h3Heading">JV</p>
               </div>
               <div class="usertest">
-                <h4>Websitevalley Rocked!!</h4>
+                <span class="h4">Websitevalley Rocked!!</span>
                 <p>I just wanted to thank Website valley for their web design & development services and for doing phenomenal work for our website. I'm genuinely thankful for having you guys work on a web project. If someone is looking for trustworthy eCommerce Development Services, then you are at the right place. They truly know how to keep their clients satisfied and happy with their services.</p>
                 <h6>— Mike Miller, Project Owner</h6>
                 <div class="ratings">
@@ -853,7 +853,7 @@
                 <p class="h3 h3Heading">TR</p>
               </div>
               <div class="usertest">
-                <h4>Big Shout-out to the websitevalley Team!!</h4>
+                <span class="h4">Big Shout-out to the websitevalley Team!!</span>
                 <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -873,7 +873,7 @@
                 <p class="h3 h3Heading">KA</p>
               </div>
               <div class="usertest">
-                <h4>We Couldn't Ask for a Better Job!!</h4>
+                <span class="h4">We Couldn't Ask for a Better Job!!</span>
                 <p>I want to thank websitevalley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevalley in the future. </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
@@ -893,7 +893,7 @@
                 <p class="h3 h3Heading">AM</p>
               </div>
               <div class="usertest">
-                <h4>Brilliant Responsive Work</h4>
+                <span class="h4">Brilliant Responsive Work</span>
                 <p>We talk regarding web design services for our website and how it was affecting our rankings. The team provided us responsive web design services and SEO consultation too!</p>
                 <h6>Antionio Moreno, Business Owner</h6>
                 <div class="ratings">
@@ -913,7 +913,7 @@
                 <p class="h3 h3Heading">CR</p>
               </div>
               <div class="usertest">
-                <h4>Excellent Web Consultation For My Website</h4>
+                <span class="h4">Excellent Web Consultation For My Website</span>
                 <p>I was a bit confused when I got to LDH, and the excellent team helped us along the way! We’re more than happy working with them.</p>
                 <h6>Erika Blackwell, Business Owner</h6>
                 <div class="ratings">
@@ -962,7 +962,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h2 class=" text-center">Are you ready to partner up for custom eCommerce website development services?</h2>
+        <h3 class="h2 text-center">Are you ready to partner up for custom eCommerce website development services?</h3>
         <p class="text-center">We'd love to collaborate with you and be your designing partner in your new venture. From ideation and making a blueprint of the website to developing and publishing your web, we are with you on every stage. We believe in rendering you with the best eCommerce Development Services so that you remember us for the long term.
         </p>
       </div>
@@ -1010,7 +1010,7 @@
 </section>
 <section class="faqsSection my-5">
 <div class="container">
-  <h3 class="text-center"><b>FAQs</b></h3>
+  <p class="h3 text-center"><b>FAQs</b></p>
   <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
     <div class="panel panel-default">
       <div class="panel-heading" role="tab" id="headingOne">

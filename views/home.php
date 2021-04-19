@@ -2887,7 +2887,7 @@ Place purchasing requests.</li>
 
 <div class="col-lg-12 d-none">
   
-        <h2>Our Clients</h2>
+        <p class="h2 text-center">Our Clients</p>
         <ul class="mycli mslider">
              <li class="first"><img src="assets/images/spo1.jpg" alt="" width="40" height="40"></li>
              <li><img src="assets/images/spo2.png" alt="" width="223" height="40"></li>

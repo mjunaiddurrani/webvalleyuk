@@ -76,18 +76,18 @@
       <div class="col-lg-12">
         <div class="fullwrapper">
           <div class="leftwrap">
-            <h3>Satisfied Customers<strong><span class="timer">1874</span>+</strong></h3>
+            <p class="h3">Satisfied Customers<strong><span class="timer">1874</span>+</strong></p>
           </div>
           <div class="rightwrap">
             <div class="coslider">
 
               <div>
                 <ul class="countslide">
-                  <li><h4><span class="timer">1300</span>+</h4><p>Web Design</p></li>
-                  <li><h4><span class="timer">780</span>+</h4><p>Custom Website Development</p></li>
-                  <li><h4><span class="timer">1290</span>+</h4><p>Single Page <br> Websites</p></li>
-                  <li><h4><span class="timer">1500</span>+</h4><p>Ecommerce <br> Websites</p></li>
-                  <li class="nbr"><h4><span class="timer">9000</span>+</h4><p>Landing <br> Pages</p></li>
+                  <li><p class="h4"><span class="timer">1300</span>+</p><p>Web Design</p></li>
+                  <li><p class="h4"><span class="timer">780</span>+</p><p>Custom Website Development</p></li>
+                  <li><p class="h4"><span class="timer">1290</span>+</p><p>Single Page <br> Websites</p></li>
+                  <li><p class="h4"><span class="timer">1500</span>+</p><p>Ecommerce <br> Websites</p></li>
+                  <li class="nbr"><p class="h4"><span class="timer">9000</span>+</p><p>Landing <br> Pages</p></li>
                   <!-- <li class="nbr"><h4>50+</h4><p>Award Winning <br> Designers</p></li> -->
                 </ul>
               </div>
@@ -135,7 +135,7 @@
       </div>
       <div class="col-lg-6 ">
         <div class="txtwrap ">
-          <h2 class="text-right">Website Valley creates B2B and B2C web-based applications to meet the emerging demands in the UK </h2>
+          <span class="text-right h2">Website Valley creates B2B and B2C web-based applications to meet the emerging demands in the UK </span>
           <p class="text-right">Whether your web application is a one-page website or has multiple pages, our company is here to offer you great results that can increase the multi-layered income streams for you. Get in touch today for Web Application Development Services to create a fantastic experience for your users.</p>
           <ul class="myticks " >
 
@@ -690,7 +690,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
-        <h2>Our Services Packages Include </h2>
+        <p class="h2">Our Services Packages Include </p>
         <p class="text-center text-orange"><b>Affordable</b></p>
         <p>Our full-stack web application services are designed to fit your budget. Our affordable rates provide you with quality development services that you may never find with cheap services. </p>
         <p class="text-center text-orange"><b>High-Quality </b></p>
@@ -714,7 +714,7 @@
   <div class="smallbox">
   <div class="package_inner">
     <h4>Business Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>1999.00 <span><s>£3998.00</s></span> </h2>
+    <p class="h2"><span class="currency_symbol">£</span>1999.00 <span><s>£3998.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -790,7 +790,7 @@
   <div class="smallbox bst-selr">
   <div class="package_inner">
     <h4>Automated/Interactive <br>Conferencing Portal</h4>
-    <h2><span class="currency_symbol">£</span>3999.00 <span><s>£7998.00</s></span> </h2>
+    <p class="h2"><span class="currency_symbol">£</span>3999.00 <span><s>£7998.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -880,7 +880,7 @@
   <div class="smallbox">
   <div class="package_inner">
     <h4>Automated/Interactive <br> E-Commerce Website</h4>
-    <h2><span class="currency_symbol">£</span>4999.00 <span><s> £9998.00</s></span> </h2>
+    <p class="h2"><span class="currency_symbol">£</span>4999.00 <span><s> £9998.00</s></span> </p>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -1082,243 +1082,9 @@ Place purchasing requests.</li>
 
 
 
-<section class="dptestimonials testiem d-none">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h2>Our business is built from satisfied clients</h2>
-          
-        <ul class="testwrap testslider">
-          <li>
-            <div class="testbox">
-              <div class="user">
-                <h3>OG</h3>
-              </div>
-              <div class="usertest">
-                <h4>Extremely Satisfied with the services!</h4>
-                <p>Received my project on time and provided me proper assistance along the way. Loved working with them!</p>
-                <h6>— Sarah Ramirez, Brand Owner</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star-half-empty"></span>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li>
-            <div class="testbox">
-              <div class="user">
-                <h3>JV</h3>
-              </div>
-              <div class="usertest">
-                <h4>Websitevalley Rocked!!</h4>
-                <p>I am extremely happy with websitevalley. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
-                <h6>— Mike Miller, Project Owner</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li>
-            <div class="testbox">
-              <div class="user">
-                <h3>TR</h3>
-              </div>
-              <div class="usertest">
-                <h4>Big Shout-out to the websitevalley Team!!</h4>
-                <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
-                <h6>— Bhooshan Ramchurn, SteamWipe</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li>
-            <div class="testbox">
-              <div class="user">
-                <h3>KA</h3>
-              </div>
-              <div class="usertest">
-                <h4>We Couldn't Ask for a Better Job!!</h4>
-                <p>I want to thank websitevalley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevalley in the future. </p>
-                <h6>— Michael Vanzille, Achievers Day School</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star-half-empty"></span>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li>
-            <div class="testbox">
-              <div class="user">
-                <h3>AM</h3>
-              </div>
-              <div class="usertest">
-                <h4>Brilliant Responsive Work</h4>
-                <p>We talk regarding web design services for our website and how it was affecting our rankings. The team provided us responsive web design services and SEO consultation too!</p>
-                <h6>Antionio Moreno, Business Owner</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li>
-            <div class="testbox">
-              <div class="user">
-                <h3>CR</h3>
-              </div>
-              <div class="usertest">
-                <h4>Excellent Web Consultation For My Website</h4>
-                <p>I was a bit confused when I got to LDH, and the excellent team helped us along the way! We’re more than happy working with them.</p>
-                <h6>Erika Blackwell, Business Owner</h6>
-                <div class="ratings">
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star"></span>
-                  <span class="icon-star-half-empty"></span>
-                </div>
-              </div>
-            </div>
-          </li>
-
-        </ul>
 
 
 
-        <h2>Our Clients</h2>
-        <ul class="mycli mslider">
-             <li class="first"><img src="assets/images/spo1.jpg" alt="" width="40" height="40"></li>
-             <li><img src="assets/images/spo2.png" alt="" width="223" height="40"></li>
-             <li><img src="assets/images/spo3.jpg" alt="" width="173" height="40"></li>
-             <li><img src="assets/images/spo4.png" alt="" width="181" height="40"></li>
-             <li><img src="assets/images/spo5.jpg" alt="" width="317" height="40"></li>
-             <li><img src="assets/images/spo6.png" alt="" width="146" height="40"></li>
-             <li><img src="assets/images/spo7.jpg" alt="" width="87" height="40"></li>
-             <li><img src="assets/images/spo8.jpg" alt="" width="175" height="40"></li>
-             <li><img src="assets/images/spo9.png" alt="" width="286" height="40"></li>
-             <li><img src="assets/images/spo10.jpg" alt="" width="269" height="40"></li>
-             <li><img src="assets/images/spo11.jpg" alt="" width="133" height="40"></li>
-             <li><img src="assets/images/spo12.jpg" alt="" width="127" height="40"></li>
-             <li><img src="assets/images/spo13.jpg" alt="" width="80" height="40"></li>
-             <li><img src="assets/images/spo14.jpg" alt="" width="122" height="40"></li>
-             <li class="last"><img src="assets/images/spo15.jpg" alt="" width="156" height="40"></li>
-          </ul>
-
-
-
-
-
-      </div>
-    </div>
-  </div>
-</section>
-<section class="section-padding qualities logodesign d-none">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h2 class=" text-center">How Can we Partner Up?</h2>
-        <p class="text-center">From the very first day to the very last day, we make sure we provide you the best of our services with effective communication, skilled team members and a lot of passion for marketing. Contact Us Now.
-        </p>
-      </div>
-    </div>
-
-    <div class="row margin-bottom-20 margin-top-20 quick-contact-slider  sensation-slider">
-      <div class="col has-border  " >
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Constant-Client-Coordination mad"></span></div>
-          <h4 class="mad textcentre">Constant Client Coordination</h4>
-        </div>
-      </div>
-      <div class="col has-border nobrd">
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Customer-Satisfaction mad"></span></div>
-          <h4 class="mad textcentre">Supreme Customer Satisfaction</h4>
-        </div>
-      </div>
-      <div class="col has-border mob-noborder" >
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Ownership-Rights mad"></span></div>
-          <h4 class="mad textcentre">100% Ownership <br> Rights</h4>
-        </div>
-      </div>
-      <div class="col has-border nobrd " >
-        <div class="quality">
-        <div class="quality-img">
-          <span class="icon-Secure-Money-Back-Guarantee mad">
-          <span class="path1 mad"></span><span class="path2 mad"></span><span class="path3 mad"></span><span class="path4 mad"></span><span class="path5 mad"></span><span class="path6 mad"></span><span class="path7 mad"></span><span class="path8 mad"></span><span class="path9 mad"></span><span class="path10 mad"></span><span class="path11 mad"></span><span class="path12 mad"></span>
-          </span>
-        </div>
-        <h4 class="mad textcentre">Secure Money Back Guarantee</h4>
-        </div>
-      </div>
-      <div class="col" >
-        <div class="quality">
-          <div class="quality-img"><span class="icon-Industry-Proven-Professionals mad"></span></div>
-          <h4 class="mad textcentre">Industry Proven Professionals</h4>
-        </div>
-      </div>
-    </div>
-
-    
-  </div>
-</section>
-
-
-
-
-
-
-
-<div class="belowform d-none">
-  <div class="container ">
-    <div class="row">
-      <div class=" col-lg-12 col-xl-12 text-center">
-        <div class="home-banner-content">
-          <div class="col-lg-8 offset-lg-2 inner-content text-left">
-              <div class="form-box-main clearfix">
-  <h2>Let’s talk about your next Big thing!</h2>
-  <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
- <?php include_once('includes/form.php');?>
-</div>
-
-
-
- 
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-    
 
 
 

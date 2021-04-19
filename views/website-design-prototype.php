@@ -561,7 +561,7 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>OG</h3>
+                <p class="h3">OG</p>
               </div>
               <div class="usertest">
                 <h4>Extremely Satisfied with the services!</h4>
@@ -581,7 +581,7 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>JV</h3>
+                <p class="h3">JV</p>
               </div>
               <div class="usertest">
                 <h4>Websitevalley Rocked!!</h4>
@@ -601,7 +601,7 @@
           <li>
             <div class="testbox">
               <div class="user">
-                <h3>TR</h3>
+                <p class="h3">TR</p>
               </div>
               <div class="usertest">
                 <h4>Big Shout-out to the websitevalley Team!!</h4>
@@ -682,7 +682,7 @@
 
 
 
-        <h2>Our Clients</h2>
+        <p class="h2 text-center">Our Clients</p>
         <ul class="mycli mslider">
              <li class="first"><img src="assets/images/spo1.jpg" alt="" width="40" height="40"></li>
              <li><img src="assets/images/spo2.png" alt="" width="223" height="40"></li>
