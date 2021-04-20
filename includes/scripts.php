@@ -20,8 +20,6 @@ function setButtonURL(){
 
 
 
-<!-- <script src="../cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script> -->
-
 <script>
 var options = {
 debug: false,
