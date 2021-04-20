@@ -11501,7 +11501,7 @@ section.sponsors-sec {
     /*position: relative;*/
 }
 
-.dptestimonials .h2 {
+.dptestimonials .h2,.dptestimonials h2 {
     font-size: 36px;
     text-align: center;
     font-weight: 700;
@@ -13820,7 +13820,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     .qualities.logodesign .h2,
     .brndg-pckg .h2,
     section.sponsors-sec .h2,
-    .dptestimonials .h2,
+    .dptestimonials .h2,.dptestimonials h2,
     .form-box-main .h2,
     .myservices .left .h2,
     .servicesec h4,
@@ -15908,11 +15908,15 @@ p.small {
     content: "\2212";
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
+    float:right;
+    clear:both;
 }
 .panel-default>.panel-heading a[aria-expanded="false"]:after {
     content: "\002b";
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
+    float:right;
+    clear:both;
 }
 h4.panel-title {
     background: rgb(31, 71, 100);
