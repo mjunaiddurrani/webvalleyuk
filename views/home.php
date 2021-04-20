@@ -125,7 +125,7 @@ bottom: 10px;
   
 </div>
 
-<section id="factsTwo">
+<div id="factsTwo">
   <div class="css-overlay" >
     <div class="container">
       <div class="row text-center">
@@ -172,7 +172,7 @@ bottom: 10px;
       </div>
     </div>
   </div>
-</section>
+</div>
 
 
 <section class="mprocess">

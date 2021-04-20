@@ -191,7 +191,7 @@
                         <div class="fldset">
                           <input name="submit" type="submit"   />
         
-                          <script data-cfasync="false" src=""></script><script >
+                          <script >
                         document.getElementById('flocation').value = window.location.href;
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
@@ -224,21 +224,21 @@
            <figure style="background-image: url(assets/images/linda-dok.jpg);"> </figure>
            <span class="heading">Book a Call </span>
              
-             <form id="popupfrm" class="cmxform"  method="POST" action="">
+             <form id="popupfrm" class="cmxform"  method="POST" action="/leads/">
 
                <div class="fldst btnattach">
                  <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
                  <a class="callus" href="tel:+442038087061"> Free design consultation <i class="fa fa-phone"></i>  +442038087061</a>
                </div>
               <div class="fldst-two">
-                <input type="text" name="Name" placeholder="Enter Name" required="">
+                <input type="text" name="name" placeholder="Enter Name" required="">
               </div>
               <div class="fldst-two last">
-                <input type="email"  name="Email" placeholder="Enter Email" required="">
+                <input type="email"  name="email" placeholder="Enter Email" required="">
               </div>
                <div class="fldst">
                 <p>Send us your number to speak with an actual human.</p>
-                 <input  name="Number" required="" type="text" onkeypress="return isNumberKey(event);"  placeholder="Enter phone here">
+                 <input  name="phone" required="" type="text" onkeypress="return isNumberKey(event);"  placeholder="Enter phone here">
                  <button class="newbtn" type="submit">Submit</button>
                  <script>
                 document.getElementById('location').value = window.location.href;
@@ -246,8 +246,7 @@
               <input type="hidden" name="hiddencapcha" value="">
               <input type="hidden" name="ctry" value="">
               <input type="hidden" name="pc" value="">
-              
-              <input type="hidden"  name="locationURL" value="http://websitevalley.co.uk/" />
+             
                </div>
 
                
@@ -295,7 +294,7 @@
   <div class="mypopup">
     <div class="left">
       <figure>
-        <img class="lazy loaded" src="" alt="not found" data-src="assets/images/popup-inner.png" data-was-processed="true">
+        <img class="lazy loaded" src="assets/images/logo.png" alt="not found" data-src="assets/images/popup-inner.png" data-was-processed="true">
       </figure>
     </div>
     <div class="right">
@@ -304,17 +303,17 @@
         <span class="text-center font-20">CHRISTMAS SALE! <br>SIGN UP NOW TO GET <span> 75% DISCOUNT</span></span>
         <div class="form_wrap">
           <div class="analyzeform ">
-            <form class="" id="banform" method="POST" action="">
+            <form class="" id="banform" method="POST" action="/leads/">
               <div class="row">
                 <div class="wrap">
                   <div class="dtf">
-                    <input id="fname" name="Name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
+                    <input id="fname" name="name" minlength="5" class="round" type="text" placeholder="Enter Name" required="">
                   </div>
                   <div class="dtf">
-                    <input  type="email" name="Email" placeholder="Enter email here" required="">
+                    <input  type="email" name="email" placeholder="Enter email here" required="">
                   </div>
                   <div class="dtf">
-                    <input  type="email" name="Email" placeholder="Enter email here" required="">
+                    <input  type="email" name="email" placeholder="Enter email here" required="">
                   </div>
                   <div class="dtf text-left">
                   
