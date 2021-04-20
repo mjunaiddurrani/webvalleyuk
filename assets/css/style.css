@@ -9121,7 +9121,7 @@ section.faqsection {}
     padding-top: 15px;
 }
 
-.smallboxes .smallbox .h2 {
+.smallboxes .smallbox .h2,.smallboxes .smallbox h2 {
     font-size: 42px !important;
     color: #4c2500;
     padding-bottom: 0;
@@ -13706,7 +13706,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
         font-size: 18px!important;
     }
     
-    .smallboxes .smallbox .h2 {
+    .smallboxes .smallbox .h2,.smallboxes .smallbox h2 {
         font-size: 30px;
     }
     
