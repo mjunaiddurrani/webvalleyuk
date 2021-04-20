@@ -149,7 +149,7 @@
         </div>
         <div class="txtwrap">
           <p class="font-weight-bold">Limitless Ceiling for Growth</p>
-          <p>The branding world has a limitless ceiling of growth for your business. Seize the moment and collaborate with professional branding services that can understand the digital trends. At Logo Valley, create your corporate brand identity effortlessly.</p>
+          <p>The branding world has a limitless ceiling of growth for your business. Seize the moment and collaborate with professional branding services that can understand the digital trends. At Website Valley, create your corporate brand identity effortlessly.</p>
      
         </div>
       </div>
