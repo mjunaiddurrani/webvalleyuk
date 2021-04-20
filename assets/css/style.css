@@ -4677,7 +4677,7 @@ footer .social-full {
     .home-banner {
         height: auto !important;
     }
-    .pricing-sec .h2 {
+    .pricing-sec .h2,.pricing-sec h2 {
         text-align: center !important;
     }
     .pricing-sec p {
@@ -7314,7 +7314,7 @@ footer .social-full {
     height: 500px;
 }
 
-.portfolio-page.pricing-sec .h2,
+.portfolio-page.pricing-sec .h2,.pricing-sec h2,
 .portfolio-page.pricing-sec p {
     color: #333;
 }
@@ -7327,7 +7327,7 @@ footer .social-full {
     color: #333;
 }
 
-.pricing-sec .h2 {
+.pricing-sec .h2,.pricing-sec h2 {
     font-size: 32px;
     text-align: center;
     font-weight: 600;
@@ -9801,7 +9801,7 @@ section.faqsection {}
     .servicesec h4,
     .listsec h2,
     .maparea h2,
-    .pricing-sec .h2,
+    .pricing-sec .h2,.pricing-sec h2,
     .who-we-sec h2,
     .ourprocesses .paright h2,
     .leftinner h2,
@@ -10133,7 +10133,7 @@ section.faqsection {}
     .smallbox.mright {
         margin-right: 0px;
     }
-    .pricing-sec .h2 {
+    .pricing-sec .h2,.pricing-sec h2 {
         padding-top: 0px;
         text-align: left;
     }
@@ -13824,7 +13824,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     .form-box-main .h2,
     .myservices .left .h2,
     .servicesec h4,
-    .pricing-sec .h2,
+    .pricing-sec .h2,.pricing-sec h2,
     .myservices .left .h2,
     .innerpages .filterportfolio .text .h2,
     .mid-banner h1,
@@ -14425,7 +14425,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     .form-box-main h2,
     .myservices .left h2,
     .servicesec h4,
-    .pricing-sec .h2,
+    .pricing-sec .h2,.pricing-sec h2,
     .myservices .left h2,
     .innerpages .filterportfolio .text h2,
     .mid-banner h1,
@@ -14743,7 +14743,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     .form-box-main h2,
     .myservices .left h2,
     .servicesec h4,
-    .pricing-sec .h2,
+    .pricing-sec .h2,.pricing-sec h2,
     .myservices .left h2,
     .innerpages .filterportfolio .text h2 {
         font-size: 22px;
@@ -14886,7 +14886,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     .form-box-main h2,
     .myservices .left h2,
     .servicesec h4,
-    .pricing-sec .h2,
+    .pricing-sec .h2,.pricing-sec h2,
     .myservices .left h2,
     .innerpages .filterportfolio .text h2,
     .mid-banner h1,
