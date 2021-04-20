@@ -4,6 +4,7 @@
 <!-- Mirrored from websitevalley.co.uk/web-design by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:32 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <title>website development company NO 1 website design services</title>
 <meta name="description" content="Get Affordable web design services by Award-winning company Speedy service within your timeline! modern website design, & custom web design service online!">
 
@@ -26,6 +27,30 @@
 #myBtn{
   background: transparent;
     border: none;
+}
+
+#text{
+display:none;
+}
+.btn-container{
+  margin: auto;
+  height:44px;
+  /* width:166.23px; */
+  
+}
+a:active{
+  color:#ffd323;
+}
+#toggle{
+  user-select:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  cursor:pointer;
+  border:none;
+  font-size:15px;
+  color:black;
+  box-sizing:border-box;
 }
 
 </style>
@@ -129,10 +154,19 @@
               <div class="left">
     <h2>Professional Website Design Company for Stellar Web Designs </h2>
     <p>To grow your business quickly, you must have a responsive website in these digital times. Professional website development helps your business be registered among the audience and enables you to achieve your marketing goals. Therefore, our professional website design company provides you with the  required exposure for operating your business and grows it significantly.</p>
-    <h3>We offer many Custom Web Design Services Online. </h3>
+    
+    <div>
+  <br>
+ <span id="text"><h3>We offer many Custom Web Design Services Online. </h3>
     <p>Having a slow, cluttered, designed, or unresponsive website is akin to losing thousands of dollars worth of business with every passing minute. You must be aware of the changing needs of the times and bring your business online with a modern website design.</p>
     <span class="h3  font-18">Increase your ROI, and cultivate a loyal audience for your site </span>
     <p>With expert website designers' help, you can grow your business significantly, Our custom website design company offers unique websites that gain your visitors'  attention and help you make longer working relations with them.</p>
+
+  </span>
+</div>
+<div class="btn-container">
+<span id="toggle">Read More <i class="fas fa-arrow-right"></i></span>
+</div>
     <ul class="myticks">
       <li class="text-black"> WordPress Development</li> 
       <li class="text-black"> Ecommerce Website Development</li> 
@@ -141,7 +175,9 @@
       <li class="text-black"> Web Applications Development </li>
       <li class="text-black"> Affordable web design services</li>
       <li class="text-black"> Professional website development </li>
-  </ul>
+  </ul><br>
+    
+    
 
     <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get a website in just £259.99</a>
   </div>
@@ -900,6 +936,22 @@ Website Valley was easy to work with, and we quickly understood our needs and we
     </div>
   </div>
 </div>
+<script>
+$(document).ready(function() {
+  $("#toggle").click(function() {
+    var elem = $("#toggle").text();
+    if (elem == "Read More") {
+      //Stuff to do when btn is in the read more state\
+      $(this).html('Read Less <i class="fas fa-arrow-right font-18"></i>');
+      $("#text").slideDown();
+    } else {
+      //Stuff to do when btn is in the read less state
+      $("#toggle").text('Read More');
+      $("#text").slideUp();
+    }
+  });
+});
+</script>
 <script>
 function myFunction() {
   var dots = document.getElementById("dots");
