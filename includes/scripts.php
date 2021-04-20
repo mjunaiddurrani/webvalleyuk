@@ -139,7 +139,7 @@ $(".fancybox").fancybox({
 
 if(window.location.pathname=="/"){
   $('.home').addClass('active');
-}else if(window.location.pathname=="/ecommerce-website-design/"){
+}else if(window.location.pathname=="/ecommerce-web-design/"){
   $('.ecommerce').addClass('active');
 }else if(window.location.pathname=="/web-app-development/"){
   $('.web').addClass('active');

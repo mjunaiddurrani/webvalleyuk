@@ -705,7 +705,7 @@ body {background: #eee;}
                             <ul class=sub-menu>
                                 <li id=menu-item-346
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a
-                                        href=/ecommerce-website-design/>Ecommerce Solutions</a></li>
+                                        href=/ecommerce-web-design/>Ecommerce Solutions</a></li>
                                 <li id=menu-item-348
                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83 current_page_item menu-item-348">
                                     <a href="/web-app-development/" aria-current=page>Web App Development</a></li>
@@ -3112,7 +3112,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                 <ul id=menu-services class=footer-menu>
                                     <li id=menu-item-458
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458">
-                                        <a href="/ecommerce-website-design/">Ecommerce Solutions</a></li>
+                                        <a href="/ecommerce-web-design/">Ecommerce Solutions</a></li>
                                     <li id=menu-item-460
                                         class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83 current_page_item menu-item-460">
                                         <a href="/web-app-development/" aria-current=page>Web App Development</a></li>

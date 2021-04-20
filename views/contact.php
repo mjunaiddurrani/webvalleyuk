@@ -5,8 +5,8 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <meta charset="utf-8">
-<title>Contact Us | Website Valley</title>
-<meta name="keywords" content="Custom Website Development, Website builder, design a website">
+<title>Contact Us </title>
+
 <meta name="description" content="You have any idea for your business and want to shap it through website contact us now!">
 
 

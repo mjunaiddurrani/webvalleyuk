@@ -4,8 +4,8 @@
 <!-- Mirrored from websitevalley.co.uk/packages by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<title>Packages | Website Valley</title>
-<meta name="keywords" content="Web App Development services in UK">
+<title>Packages </title>
+
 <meta name="description" content="Our packages are designed to suit your budgets and requirements with ease.">
 
 

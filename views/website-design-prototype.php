@@ -3,8 +3,8 @@
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<title>Design & Prototype | Website Valley</title>
-<meta name="keywords" content="Web design services in UK, Website design, website designer, design a website">
+<title>Design & Prototype </title>
+
 <meta name="description" content="Our designs reflect your brand persona">
 
 

@@ -3,7 +3,7 @@
 
 <head>
 
-<title>Website Valley: Best Web Development Services Company in UK | Website Valley</title>
+<title>Website Valley: Developing the Websites. Apps. Brands. </title>
 <meta name="description" content="Website valley is a professional Web design, e-commerce, and mobile app development company located in the UK, based on your budget, timeline, and specifications.">
 <?php 
 include_once('includes/head.php');

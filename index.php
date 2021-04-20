@@ -45,10 +45,10 @@ switch($url){
     case addslashes('/custom-quote/') :
         require __DIR__.'/views/custom-quote.php';
         break;
-    case addslashes('/ecommerce-website-design/') :
+    case addslashes('/ecommerce-web-design/') :
         require __DIR__.'/views/ecommerce-website-design.php';
         break;
-    case addslashes('/mobile-application/') :
+    case addslashes('/mobile-app-development/') :
         require __DIR__.'/views/mobile-application.php';
         break;
     case addslashes('/not-found/') :

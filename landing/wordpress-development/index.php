@@ -8,7 +8,7 @@
     <link rel=stylesheet href="../index822e.html?w3tc_minify=1931b.default.include.eee198.css" media=all>
     <meta charset="UTF-8">
     <meta name="description" content="websitevalley- Home Page">
-    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    
     <meta name="author" content="  Website Valley">
     <title>WordPress Development -   Website Valley</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

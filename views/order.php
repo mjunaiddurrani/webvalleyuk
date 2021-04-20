@@ -6,7 +6,7 @@
 <head>
 <title>Hire us to Get Started! Website Valleyis the way to go. - websitevalley</title>
 
-<meta name="keywords" content="">
+
 <meta name="description" content="">
 
 
