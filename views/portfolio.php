@@ -2,7 +2,7 @@
 <html lang="en-GB">
 
 <!-- Mirrored from websitevalley.co.uk/portfolio by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <title>Portfolio | Website Valley</title>
 <meta name="keywords" content="Web Development Portfolio in UK, Website design">
@@ -16,9 +16,7 @@
 
 
 
-<!--[if IE]>
-  <script src="assets/js/html5.js"></script>
-<![endif]-->
+
 
 
 

@@ -2,7 +2,7 @@
 <html lang="en-GB">
 
 <!-- Mirrored from websitevalley.co.uk/web-app-development by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:53 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <title>Top Web application development Services company in UK</title>
 <meta name="description" content="We offer a wide range of web application development services at a cheap price in the UK. Hire our expert web app developers for developing amazing website">
@@ -13,9 +13,7 @@
 <?php include_once('includes/head.php');?>
 
 
-<!--[if IE]>
-  <script src="assets/js/html5.js"></script>
-<![endif]-->
+
 
 
 

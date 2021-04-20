@@ -2,7 +2,7 @@
 <html>
 
 <!-- Mirrored from websitevalley.co.uk/contact by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:07 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <meta charset="utf-8">
 <title>Contact Us | Website Valley</title>
@@ -12,9 +12,7 @@
 
 <?php include_once('includes/head.php');?>
 
-<!--[if IE]>
-  <script src="assets/js/html5.js"></script>
-<![endif]-->
+
 
 
 

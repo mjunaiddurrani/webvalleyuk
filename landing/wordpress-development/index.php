@@ -2,7 +2,7 @@
 <html lang=en>
 <!-- Mirrored from logopoppin.com/wordpress-development/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Feb 2021 15:23:14 GMT -->
 <!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
     <link rel=stylesheet href="../index822e.html?w3tc_minify=1931b.default.include.eee198.css" media=all>

@@ -1,8 +1,7 @@
 <!doctype html>
 <html lang="en-GB">
 
-<!-- Mirrored from websitevalley.co.uk/website-design-prototype by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:52 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <title>Design & Prototype | Website Valley</title>
 <meta name="keywords" content="Web design services in UK, Website design, website designer, design a website">
@@ -15,9 +14,7 @@
 
 
 
-<!--[if IE]>
-  <script src="assets/js/html5.js"></script>
-<![endif]-->
+
 
 
 
@@ -179,36 +176,6 @@
           <p>Sometimes, samples are what make you understand the job better.</p>  
         </div>
 
-<!--         
-        <ul class="portfoliolist grid loadmoreweb web-design-portfolio-slider">
-          <div>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.png"><img src="assets/images/portfolio/web/thumbnail/1.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.png"><img src="assets/images/portfolio/web/thumbnail/2.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.png"><img src="assets/images/portfolio/web/thumbnail/3.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.png"><img src="assets/images/portfolio/web/thumbnail/4.png" alt=""></a></li>
-
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.png"><img src="assets/images/portfolio/web/thumbnail/5.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.png"><img src="assets/images/portfolio/web/thumbnail/6.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.png"><img src="assets/images/portfolio/web/thumbnail/7.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.png"><img src="assets/images/portfolio/web/thumbnail/8.png" alt=""></a></li>
-
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.png"><img src="assets/images/portfolio/web/thumbnail/9.png" alt=""></a></li>
-</div>
-<div>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.png"><img src="assets/images/portfolio/web/thumbnail/10.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.png"><img src="assets/images/portfolio/web/thumbnail/11.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.png"><img src="assets/images/portfolio/web/thumbnail/12.png" alt=""></a></li>
-
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.png"><img src="assets/images/portfolio/web/thumbnail/13.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.png"><img src="assets/images/portfolio/web/thumbnail/14.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.png"><img src="assets/images/portfolio/web/thumbnail/15.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.png"><img src="assets/images/portfolio/web/thumbnail/16.png" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-1.jpg" alt=""></a></li>
-<li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/thumbnail-2.jpg" alt=""></a></li>
-</div>
- <li>
-	<a href="javascript:;" class="btn-main" id="loadmoreweb" style="font-size: 14px;margin-top: 20px;">View More</a>
-</li>    </ul> -->
 
         
 

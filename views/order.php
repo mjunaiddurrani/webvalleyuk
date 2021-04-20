@@ -2,7 +2,7 @@
 <html lang="en-GB">
 
 <!-- Mirrored from websitevalley.co.uk/order by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:07 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <title>Hire us to Get Started! Website Valleyis the way to go. - websitevalley</title>
 
@@ -14,9 +14,7 @@
 <?php include_once('includes/head.php');?>
 
 
-<!--[if IE]>
-  <script src="assets/js/html5.js"></script>
-<![endif]-->
+
 
 
 
