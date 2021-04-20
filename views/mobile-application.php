@@ -120,13 +120,13 @@
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/visitor-into-long-term-clients.png" alt="">
+          <img src="assets/images/visitor-into-long-term-clients.png" alt="imgae">
         </figure>
      
       </div>
       <div class="col-lg-6 mt-5">
         <figure class="mfig">
-          <img src="assets/images/growth-oriented-mobile-app.png" alt="">
+          <img src="assets/images/growth-oriented-mobile-app.png" alt="imgae">
         </figure>
      
       </div>
@@ -157,7 +157,7 @@
       </div>
       <div class="col-lg-6 mt-3 mb-4">
         <figure class="mfig">
-          <img src="assets/images/imagination-app-design.png" alt="">
+          <img src="assets/images/imagination-app-design.png" alt="imgae">
         </figure>
      
       </div>
@@ -231,13 +231,13 @@
 </div>
 <div class="col-lg-6">
 <figure class="mfig">
-<img src="assets/images/w1.png" alt="">
+<img src="assets/images/w1.png" alt="imgae">
 </figure>
 
 </div>
 <div class="col-lg-6 mt-3">
 <figure class="mfig">
-<img src="assets/images/w2.png" alt="">
+<img src="assets/images/w2.png" alt="imgae">
 </figure>
 
 </div>
@@ -258,14 +258,14 @@
 </div>
 <div class="col-lg-6 mt-2">
 <figure class="mfig">
-<img src="assets/images/w3.png" alt="">
+<img src="assets/images/w3.png" alt="imgae">
 </figure>
 
 </div>
 
 <div class="col-lg-6 mt-3">
 <figure class="mfig">
-<img src="assets/images/w4.png" alt="">
+<img src="assets/images/w4.png" alt="imgae">
 </figure>
 
 </div>
@@ -305,7 +305,7 @@
   </div>
   <div class="right">
     <figure>
-      <img src="assets/images/mobileimage.svg" alt="">
+      <img src="assets/images/mobileimage.svg" alt="imgae">
     </figure>
   </div>
             </div>
@@ -332,21 +332,21 @@
           <li class="logoportfo border-box-effect" data-category="transition">
   <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/1.png">
     <figure>
-      <img src="assets/images/portfolio/app/1.png" alt="">
+      <img src="assets/images/portfolio/app/1.png" alt="imgae">
     </figure>
   </a>
 </li>
 <li class="logoportfo border-box-effect" data-category="transition">
   <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/2.png">
     <figure>
-      <img src="assets/images/portfolio/app/2.png" alt="">
+      <img src="assets/images/portfolio/app/2.png" alt="imgae">
     </figure>
   </a>
 </li>
 <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/3.png">
       <figure>
-        <img src="assets/images/portfolio/app/3.png" alt="">
+        <img src="assets/images/portfolio/app/3.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -354,14 +354,14 @@
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/4.png">
       <figure>
-        <img src="assets/images/portfolio/app/4.png" alt="">
+        <img src="assets/images/portfolio/app/4.png" alt="imgae">
       </figure>
     </a>
   </li>
 <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/5.png">
       <figure>
-        <img src="assets/images/portfolio/app/5.png" alt="">
+        <img src="assets/images/portfolio/app/5.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -369,70 +369,70 @@
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/6.png">
       <figure>
-        <img src="assets/images/portfolio/app/6.png" alt="">
+        <img src="assets/images/portfolio/app/6.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/7.png">
       <figure>
-        <img src="assets/images/portfolio/app/7.png" alt="">
+        <img src="assets/images/portfolio/app/7.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/8.png">
       <figure>
-        <img src="assets/images/portfolio/app/8.png" alt="">
+        <img src="assets/images/portfolio/app/8.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/9.png">
       <figure>
-        <img src="assets/images/portfolio/app/9.png" alt="">
+        <img src="assets/images/portfolio/app/9.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/10.png">
       <figure>
-        <img src="assets/images/portfolio/app/10.png" alt="">
+        <img src="assets/images/portfolio/app/10.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/11.png">
       <figure>
-        <img src="assets/images/portfolio/app/11.png" alt="">
+        <img src="assets/images/portfolio/app/11.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/12.png">
       <figure>
-        <img src="assets/images/portfolio/app/12.png" alt="">
+        <img src="assets/images/portfolio/app/12.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/13.png">
       <figure>
-        <img src="assets/images/portfolio/app/13.png" alt="">
+        <img src="assets/images/portfolio/app/13.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/14.png">
       <figure>
-        <img src="assets/images/portfolio/app/14.png" alt="">
+        <img src="assets/images/portfolio/app/14.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/15.png">
       <figure>
-        <img src="assets/images/portfolio/app/15.png" alt="">
+        <img src="assets/images/portfolio/app/15.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -440,7 +440,7 @@
    <li class="logoportfo border-box-effect" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/app/16.png">
       <figure>
-        <img src="assets/images/portfolio/app/16.png" alt="">
+        <img src="assets/images/portfolio/app/16.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -476,7 +476,7 @@ Call our leading mobile apps development firm to get started.
 <div class="col-lg-6">
 <div>
 <figure>
-<!-- <img src="assets/images/call.png" alt=""> -->
+<!-- <img src="assets/images/call.png" alt="imgae"> -->
 <a href="tel:+442038087061"><img src="assets/images/call.png" ;=""></a>
 </figure>
 </div>

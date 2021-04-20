@@ -593,7 +593,7 @@ body {background: #eee;}
 				<div class="col-lg-5 col-md-12 mbl-none p-0">
 						<!--<a type="button" class="modalClose" data-dismiss="modal" style="text-align: right;"><i class="fa fa-times"></i></a>-->
 					
-					<!-- <img src="img/footer.jpg" style="width:100%;height:100%;" alt=""> -->
+					<!-- <img src="img/footer.jpg" style="width:100%;height:100%;" alt="imgae"> -->
 				</div>
 				<div class="col-lg-7 col-md-12 col-sm-12 col-12 text-white">
 					<div class="modalDetailsOf">

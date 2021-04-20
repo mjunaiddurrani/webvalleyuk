@@ -90,7 +90,7 @@
       </div>
       <div class="col-lg-6 align-self-center">
         <figure class="mfig">
-           <img src="assets/images/footer-laptop.png" alt="">
+           <img src="assets/images/footer-laptop.png" alt="imgae">
         </figure>
         
 

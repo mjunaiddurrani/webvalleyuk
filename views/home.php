@@ -515,7 +515,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/1.png">
                       <figure>
-                        <img src="assets/images/portfolio/branding/1.png" alt="">
+                        <img src="assets/images/portfolio/branding/1.png" alt="imgae">
                       </figure>
                     </a>
                   </li>
@@ -526,7 +526,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/2.png">
                       <figure>
-                        <img src="assets/images/portfolio/branding/2.png" alt="">
+                        <img src="assets/images/portfolio/branding/2.png" alt="imgae">
                       </figure>
                     </a>
                   </li>
@@ -537,7 +537,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                       <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/3.png">
                         <figure>
-                          <img src="assets/images/portfolio/branding/3.png" alt="">
+                          <img src="assets/images/portfolio/branding/3.png" alt="imgae">
                         </figure>
                       </a>
                     </li>
@@ -548,7 +548,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                       <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/4.png">
                         <figure>
-                          <img src="assets/images/portfolio/branding/4.png" alt="">
+                          <img src="assets/images/portfolio/branding/4.png" alt="imgae">
                         </figure>
                       </a>
                     </li>
@@ -559,7 +559,7 @@ bottom: 10px;
                       <li class=" logoportfo border-box-effect" data-category="transition">
                         <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/5.png">
                           <figure>
-                            <img src="assets/images/portfolio/branding/5.png" alt="">
+                            <img src="assets/images/portfolio/branding/5.png" alt="imgae">
                           </figure>
                         </a>
                       </li>
@@ -570,7 +570,7 @@ bottom: 10px;
                     <li class=" logoportfo border-box-effect" data-category="transition">
                       <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/6.png">
                         <figure>
-                          <img src="assets/images/portfolio/branding/6.png" alt="">
+                          <img src="assets/images/portfolio/branding/6.png" alt="imgae">
                         </figure>
                       </a>
                     </li>
@@ -581,7 +581,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/7.png">
                       <figure>
-                        <img src="assets/images/portfolio/branding/7.png" alt="">
+                        <img src="assets/images/portfolio/branding/7.png" alt="imgae">
                       </figure>
                     </a>
                   </li>
@@ -592,7 +592,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/8.png">
                       <figure>
-                        <img src="assets/images/portfolio/branding/8.png" alt="">
+                        <img src="assets/images/portfolio/branding/8.png" alt="imgae">
                       </figure>
                     </a>
                   </li>
@@ -603,7 +603,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/9.png">
                       <figure>
-                        <img src="assets/images/portfolio/branding/9.png" alt="">
+                        <img src="assets/images/portfolio/branding/9.png" alt="imgae">
                       </figure>
                     </a>
                   </li>
@@ -616,7 +616,7 @@ bottom: 10px;
                       <li class=" logoportfo border-box-effect" data-category="transition">
                         <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/10.png">
                           <figure>
-                            <img src="assets/images/portfolio/branding/10.png" alt="">
+                            <img src="assets/images/portfolio/branding/10.png" alt="imgae">
                           </figure>
                         </a>
                       </li>
@@ -627,7 +627,7 @@ bottom: 10px;
                     <li class=" logoportfo border-box-effect" data-category="transition">
                       <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/11.png">
                         <figure>
-                          <img src="assets/images/portfolio/branding/11.png" alt="">
+                          <img src="assets/images/portfolio/branding/11.png" alt="imgae">
                         </figure>
                       </a>
                     </li>
@@ -638,7 +638,7 @@ bottom: 10px;
                     <li class=" logoportfo border-box-effect" data-category="transition">
                       <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/12.png">
                         <figure>
-                          <img src="assets/images/portfolio/branding/12.png" alt="">
+                          <img src="assets/images/portfolio/branding/12.png" alt="imgae">
                         </figure>
                       </a>
                     </li>
@@ -650,7 +650,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/13.png">
                       <figure>
-                        <img src="assets/images/portfolio/branding/13.png" alt="">
+                        <img src="assets/images/portfolio/branding/13.png" alt="imgae">
                       </figure>
                     </a>
                   </li>
@@ -661,7 +661,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/14.png">
                       <figure>
-                        <img src="assets/images/portfolio/branding/14.png" alt="">
+                        <img src="assets/images/portfolio/branding/14.png" alt="imgae">
                       </figure>
                     </a>
                   </li>
@@ -672,7 +672,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/15.png">
                       <figure>
-                        <img src="assets/images/portfolio/branding/15.png" alt="">
+                        <img src="assets/images/portfolio/branding/15.png" alt="imgae">
                       </figure>
                     </a>
                   </li>
@@ -683,7 +683,7 @@ bottom: 10px;
                   <li class=" logoportfo border-box-effect" data-category="transition">
                     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/branding/16.png">
                       <figure>
-                        <img src="assets/images/portfolio/branding/16.png" alt="">
+                        <img src="assets/images/portfolio/branding/16.png" alt="imgae">
                       </figure>
                     </a>
                   </li>

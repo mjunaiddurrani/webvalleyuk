@@ -240,7 +240,7 @@ body{
    <div class="main_nav">
         <div class="container">   
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand logo" href="index.php" data-aos="fade-down" data-aos-duration="1000"> <img class="" style="max-width: 35%;" src="assets/images/logo.png" alt=""> </a>
+                <a class="navbar-brand logo" href="index.php" data-aos="fade-down" data-aos-duration="1000"> <img class="" style="max-width: 35%;" src="assets/images/logo.png" alt="imgae"> </a>
                     
             </nav>        
         </div>

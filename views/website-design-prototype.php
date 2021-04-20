@@ -150,7 +150,7 @@
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/process-tab-01.png" alt="">
+          <img src="assets/images/process-tab-01.png" alt="imgae">
         </figure>
         <ul class="personalcta">
           <li class="text">
@@ -651,21 +651,21 @@
 
         <p class="h2 text-center">Our Clients</p>
         <ul class="mycli mslider">
-             <li class="first"><img src="assets/images/spo1.jpg" alt="" width="40" height="40"></li>
-             <li><img src="assets/images/spo2.png" alt="" width="223" height="40"></li>
-             <li><img src="assets/images/spo3.jpg" alt="" width="173" height="40"></li>
-             <li><img src="assets/images/spo4.png" alt="" width="181" height="40"></li>
-             <li><img src="assets/images/spo5.jpg" alt="" width="317" height="40"></li>
-             <li><img src="assets/images/spo6.png" alt="" width="146" height="40"></li>
-             <li><img src="assets/images/spo7.jpg" alt="" width="87" height="40"></li>
-             <li><img src="assets/images/spo8.jpg" alt="" width="175" height="40"></li>
-             <li><img src="assets/images/spo9.png" alt="" width="286" height="40"></li>
-             <li><img src="assets/images/spo10.jpg" alt="" width="269" height="40"></li>
-             <li><img src="assets/images/spo11.jpg" alt="" width="133" height="40"></li>
-             <li><img src="assets/images/spo12.jpg" alt="" width="127" height="40"></li>
-             <li><img src="assets/images/spo13.jpg" alt="" width="80" height="40"></li>
-             <li><img src="assets/images/spo14.jpg" alt="" width="122" height="40"></li>
-             <li class="last"><img src="assets/images/spo15.jpg" alt="" width="156" height="40"></li>
+             <li class="first"><img src="assets/images/spo1.jpg" alt="imgae" width="40" height="40"></li>
+             <li><img src="assets/images/spo2.png" alt="imgae" width="223" height="40"></li>
+             <li><img src="assets/images/spo3.jpg" alt="imgae" width="173" height="40"></li>
+             <li><img src="assets/images/spo4.png" alt="imgae" width="181" height="40"></li>
+             <li><img src="assets/images/spo5.jpg" alt="imgae" width="317" height="40"></li>
+             <li><img src="assets/images/spo6.png" alt="imgae" width="146" height="40"></li>
+             <li><img src="assets/images/spo7.jpg" alt="imgae" width="87" height="40"></li>
+             <li><img src="assets/images/spo8.jpg" alt="imgae" width="175" height="40"></li>
+             <li><img src="assets/images/spo9.png" alt="imgae" width="286" height="40"></li>
+             <li><img src="assets/images/spo10.jpg" alt="imgae" width="269" height="40"></li>
+             <li><img src="assets/images/spo11.jpg" alt="imgae" width="133" height="40"></li>
+             <li><img src="assets/images/spo12.jpg" alt="imgae" width="127" height="40"></li>
+             <li><img src="assets/images/spo13.jpg" alt="imgae" width="80" height="40"></li>
+             <li><img src="assets/images/spo14.jpg" alt="imgae" width="122" height="40"></li>
+             <li class="last"><img src="assets/images/spo15.jpg" alt="imgae" width="156" height="40"></li>
           </ul>
 
 

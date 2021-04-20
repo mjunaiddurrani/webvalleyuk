@@ -90,7 +90,7 @@
 
 <!-- scroll top car
 <div class="car-top"><span>
-<img src="assets/images/car.png" alt="Top" title="Back to top" alt="" />
+<img src="assets/images/car.png" alt="Top" title="Back to top" alt="imgae" />
 </span></div>
 -->
 </body>

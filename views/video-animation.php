@@ -150,7 +150,7 @@
   </div>
   <div class="right">
     <figure>
-      <img src="assets/images/videoimage.svg" alt="">
+      <img src="assets/images/videoimage.svg" alt="imgae">
     </figure>
   </div>
             </div>
@@ -178,21 +178,21 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/1.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/1.png" alt="">
+        <img src="assets/images/portfolio/video/1.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/2.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/2.png" alt="">
+        <img src="assets/images/portfolio/video/2.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/3.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/3.png" alt="">
+        <img src="assets/images/portfolio/video/3.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -200,7 +200,7 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/4.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/4.png" alt="">
+        <img src="assets/images/portfolio/video/4.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -208,14 +208,14 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/5.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/5.png" alt="">
+        <img src="assets/images/portfolio/video/5.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/6.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/6.png" alt="">
+        <img src="assets/images/portfolio/video/6.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -223,7 +223,7 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/7.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/7.png" alt="">
+        <img src="assets/images/portfolio/video/7.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -231,7 +231,7 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/8.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/8.png" alt="">
+        <img src="assets/images/portfolio/video/8.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -239,7 +239,7 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/9.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/9.png" alt="">
+        <img src="assets/images/portfolio/video/9.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -250,7 +250,7 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/10.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/10.png" alt="">
+        <img src="assets/images/portfolio/video/10.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -258,7 +258,7 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/11.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/11.png" alt="">
+        <img src="assets/images/portfolio/video/11.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -266,7 +266,7 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/12.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/12.png" alt="">
+        <img src="assets/images/portfolio/video/12.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -274,7 +274,7 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/13.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/13.png" alt="">
+        <img src="assets/images/portfolio/video/13.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -282,7 +282,7 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/14.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/14.png" alt="">
+        <img src="assets/images/portfolio/video/14.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -290,14 +290,14 @@
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/15.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/15.png" alt="">
+        <img src="assets/images/portfolio/video/15.png" alt="imgae">
       </figure>
     </a>
   </li>
   <li class="border-box-effect">
     <a class="" data-fancybox  href="javascript:;"  data-type="iframe" data-src="assets/videos/16.mp4">
       <figure>
-        <img src="assets/images/portfolio/video/16.png" alt="">
+        <img src="assets/images/portfolio/video/16.png" alt="imgae">
       </figure>
     </a>
   </li>
@@ -615,7 +615,7 @@
             <div class="largebox">
               <div class="leftarea">
                 <figure>
-                  <img src="assets/images/mobile-01.svg" alt="">
+                  <img src="assets/images/mobile-01.svg" alt="imgae">
                 </figure>
                 <a href="javascript:void(0);" class="btn-packages">Get a Custom Quote</a>
               </div>
@@ -625,7 +625,7 @@
                 <h3>App For All Screens</h3>
                 <ul class="ticklist">
                   <li>
-                    <img src="assets/images/logoss.png" alt="">
+                    <img src="assets/images/logoss.png" alt="imgae">
                   </li>
                   <li class="ralign">
                     <a href="javascript:;" onclick="setButtonURL();">Speak with our App Strategist</a>
@@ -778,21 +778,21 @@
 
         <p class="h2 text-center">Our Clients</p>
         <ul class="mycli mslider">
-             <li class="first"><img src="assets/images/spo1.jpg" alt="" width="40" height="40"></li>
-             <li><img src="assets/images/spo2.png" alt="" width="223" height="40"></li>
-             <li><img src="assets/images/spo3.jpg" alt="" width="173" height="40"></li>
-             <li><img src="assets/images/spo4.png" alt="" width="181" height="40"></li>
-             <li><img src="assets/images/spo5.jpg" alt="" width="317" height="40"></li>
-             <li><img src="assets/images/spo6.png" alt="" width="146" height="40"></li>
-             <li><img src="assets/images/spo7.jpg" alt="" width="87" height="40"></li>
-             <li><img src="assets/images/spo8.jpg" alt="" width="175" height="40"></li>
-             <li><img src="assets/images/spo9.png" alt="" width="286" height="40"></li>
-             <li><img src="assets/images/spo10.jpg" alt="" width="269" height="40"></li>
-             <li><img src="assets/images/spo11.jpg" alt="" width="133" height="40"></li>
-             <li><img src="assets/images/spo12.jpg" alt="" width="127" height="40"></li>
-             <li><img src="assets/images/spo13.jpg" alt="" width="80" height="40"></li>
-             <li><img src="assets/images/spo14.jpg" alt="" width="122" height="40"></li>
-             <li class="last"><img src="assets/images/spo15.jpg" alt="" width="156" height="40"></li>
+             <li class="first"><img src="assets/images/spo1.jpg" alt="imgae" width="40" height="40"></li>
+             <li><img src="assets/images/spo2.png" alt="imgae" width="223" height="40"></li>
+             <li><img src="assets/images/spo3.jpg" alt="imgae" width="173" height="40"></li>
+             <li><img src="assets/images/spo4.png" alt="imgae" width="181" height="40"></li>
+             <li><img src="assets/images/spo5.jpg" alt="imgae" width="317" height="40"></li>
+             <li><img src="assets/images/spo6.png" alt="imgae" width="146" height="40"></li>
+             <li><img src="assets/images/spo7.jpg" alt="imgae" width="87" height="40"></li>
+             <li><img src="assets/images/spo8.jpg" alt="imgae" width="175" height="40"></li>
+             <li><img src="assets/images/spo9.png" alt="imgae" width="286" height="40"></li>
+             <li><img src="assets/images/spo10.jpg" alt="imgae" width="269" height="40"></li>
+             <li><img src="assets/images/spo11.jpg" alt="imgae" width="133" height="40"></li>
+             <li><img src="assets/images/spo12.jpg" alt="imgae" width="127" height="40"></li>
+             <li><img src="assets/images/spo13.jpg" alt="imgae" width="80" height="40"></li>
+             <li><img src="assets/images/spo14.jpg" alt="imgae" width="122" height="40"></li>
+             <li class="last"><img src="assets/images/spo15.jpg" alt="imgae" width="156" height="40"></li>
           </ul>
 
 

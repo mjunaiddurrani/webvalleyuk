@@ -181,7 +181,7 @@ a:active{
   </div>
   <div class="right">
     <figure>
-      <img src="assets/images/websiteimage.svg" alt="">
+      <img src="assets/images/websiteimage.svg" alt="imgae">
     </figure>
   </div>
             </div>
@@ -204,13 +204,13 @@ a:active{
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/web-design-1.png" alt="">
+          <img src="assets/images/web-design-1.png" alt="imgae">
         </figure>
      
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/start-your-own-website.png" alt="">
+          <img src="assets/images/start-your-own-website.png" alt="imgae">
         </figure>
      
       </div>
@@ -238,13 +238,13 @@ a:active{
       </div>
       <div class="col-lg-6 mt-5">
         <figure class="mfig">
-          <img src="assets/images/custom-website-design.png" alt="">
+          <img src="assets/images/custom-website-design.png" alt="imgae">
         </figure>
      
       </div>
       <div class="col-lg-6 mt-5">
         <figure class="mfig">
-          <img src="assets/images/promote-your-local-business.png" alt="">
+          <img src="assets/images/promote-your-local-business.png" alt="imgae">
         </figure>
      
       </div>
@@ -267,13 +267,13 @@ a:active{
       </div>
       <div class="col-lg-6 mt-5">
         <figure class="mfig">
-          <img src="assets/images/hire-professional-website-designer.png" alt="">
+          <img src="assets/images/hire-professional-website-designer.png" alt="imgae">
         </figure>
      
       </div>
       <div class="col-lg-6 mt-5">
         <figure class="mfig">
-          <img src="assets/images/website-made-to-fit.png" alt="">
+          <img src="assets/images/website-made-to-fit.png" alt="imgae">
         </figure>
      
       </div>
@@ -294,13 +294,13 @@ a:active{
       </div>
       <div class="col-lg-6 mt-5">
         <figure class="mfig">
-          <img src="assets/images/affordable-website-design-package.png" alt="">
+          <img src="assets/images/affordable-website-design-package.png" alt="imgae">
         </figure>
      
       </div>
       <div class="col-lg-6 mt-2">
         <figure class="mfig">
-          <img src="assets/images/approchable-and-acessible.png" alt="">
+          <img src="assets/images/approchable-and-acessible.png" alt="imgae">
         </figure>
      
       </div>
@@ -330,13 +330,13 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       </div>
       <div class="col-lg-6 mt-5">
         <figure class="mfig">
-          <img src="assets/images/quick-professional-website-designer.png" alt="">
+          <img src="assets/images/quick-professional-website-designer.png" alt="imgae">
         </figure>
      
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img src="assets/images/partner-up.png" alt="">
+          <img src="assets/images/partner-up.png" alt="imgae">
         </figure>
      
       </div>
@@ -449,87 +449,87 @@ Website Valley was easy to work with, and we quickly understood our needs and we
         <ul class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-none d-md-block">
               <div>
               
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/1.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/2.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.jpg"><img src="assets/images/portfolio/web/thumbnail/3.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.jpg"><img src="assets/images/portfolio/web/thumbnail/4.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/1.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/2.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.jpg"><img src="assets/images/portfolio/web/thumbnail/3.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.jpg"><img src="assets/images/portfolio/web/thumbnail/4.jpg" alt="imgae"></a></li>
 
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.jpg"><img src="assets/images/portfolio/web/thumbnail/5.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.jpg"><img src="assets/images/portfolio/web/thumbnail/6.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.jpg"><img src="assets/images/portfolio/web/thumbnail/7.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.jpg"><img src="assets/images/portfolio/web/thumbnail/8.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.jpg"><img src="assets/images/portfolio/web/thumbnail/5.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.jpg"><img src="assets/images/portfolio/web/thumbnail/6.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.jpg"><img src="assets/images/portfolio/web/thumbnail/7.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.jpg"><img src="assets/images/portfolio/web/thumbnail/8.jpg" alt="imgae"></a></li>
 
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.jpg"><img src="assets/images/portfolio/web/thumbnail/9.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.jpg"><img src="assets/images/portfolio/web/thumbnail/9.jpg" alt="imgae"></a></li>
                 </div>
                 <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.jpg"><img src="assets/images/portfolio/web/thumbnail/10.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.jpg"><img src="assets/images/portfolio/web/thumbnail/11.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.jpg"><img src="assets/images/portfolio/web/thumbnail/12.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.jpg"><img src="assets/images/portfolio/web/thumbnail/10.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.jpg"><img src="assets/images/portfolio/web/thumbnail/11.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.jpg"><img src="assets/images/portfolio/web/thumbnail/12.jpg" alt="imgae"></a></li>
 
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.jpg"><img src="assets/images/portfolio/web/thumbnail/13.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.jpg"><img src="assets/images/portfolio/web/thumbnail/14.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.jpg"><img src="assets/images/portfolio/web/thumbnail/15.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.jpg"><img src="assets/images/portfolio/web/thumbnail/16.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/17.jpg"><img src="assets/images/portfolio/web/thumbnail/17.jpg" alt=""></a></li>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/18.jpg"><img src="assets/images/portfolio/web/thumbnail/18.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.jpg"><img src="assets/images/portfolio/web/thumbnail/13.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.jpg"><img src="assets/images/portfolio/web/thumbnail/14.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.jpg"><img src="assets/images/portfolio/web/thumbnail/15.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.jpg"><img src="assets/images/portfolio/web/thumbnail/16.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/17.jpg"><img src="assets/images/portfolio/web/thumbnail/17.jpg" alt="imgae"></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/18.jpg"><img src="assets/images/portfolio/web/thumbnail/18.jpg" alt="imgae"></a></li>
                 </div>
             </ul>
             <ul class="portfoliolist web-design-portfolio-slider2 grid loadmoreweb d-block d-md-none" dir="rtl">
               <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/1.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/1.jpg"><img src="assets/images/portfolio/web/thumbnail/1.jpg" alt="imgae"></a></li>
                </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/2.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/2.jpg"><img src="assets/images/portfolio/web/thumbnail/2.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.jpg"><img src="assets/images/portfolio/web/thumbnail/3.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/3.jpg"><img src="assets/images/portfolio/web/thumbnail/3.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.jpg"><img src="assets/images/portfolio/web/thumbnail/4.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/4.jpg"><img src="assets/images/portfolio/web/thumbnail/4.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.jpg"><img src="assets/images/portfolio/web/thumbnail/5.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/5.jpg"><img src="assets/images/portfolio/web/thumbnail/5.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.jpg"><img src="assets/images/portfolio/web/thumbnail/6.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/6.jpg"><img src="assets/images/portfolio/web/thumbnail/6.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.jpg"><img src="assets/images/portfolio/web/thumbnail/7.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/7.jpg"><img src="assets/images/portfolio/web/thumbnail/7.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.jpg"><img src="assets/images/portfolio/web/thumbnail/8.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/8.jpg"><img src="assets/images/portfolio/web/thumbnail/8.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.jpg"><img src="assets/images/portfolio/web/thumbnail/9.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/9.jpg"><img src="assets/images/portfolio/web/thumbnail/9.jpg" alt="imgae"></a></li>
                 </div>
             </ul>
             <ul class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-block d-md-none" >
                 <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.jpg"><img src="assets/images/portfolio/web/thumbnail/10.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/10.jpg"><img src="assets/images/portfolio/web/thumbnail/10.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.jpg"><img src="assets/images/portfolio/web/thumbnail/11.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/11.jpg"><img src="assets/images/portfolio/web/thumbnail/11.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.jpg"><img src="assets/images/portfolio/web/thumbnail/12.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/12.jpg"><img src="assets/images/portfolio/web/thumbnail/12.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.jpg"><img src="assets/images/portfolio/web/thumbnail/13.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/13.jpg"><img src="assets/images/portfolio/web/thumbnail/13.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.jpg"><img src="assets/images/portfolio/web/thumbnail/14.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/14.jpg"><img src="assets/images/portfolio/web/thumbnail/14.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.jpg"><img src="assets/images/portfolio/web/thumbnail/15.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/15.jpg"><img src="assets/images/portfolio/web/thumbnail/15.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.jpg"><img src="assets/images/portfolio/web/thumbnail/16.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/16.jpg"><img src="assets/images/portfolio/web/thumbnail/16.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/17.jpg"><img src="assets/images/portfolio/web/thumbnail/17.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/17.jpg"><img src="assets/images/portfolio/web/thumbnail/17.jpg" alt="imgae"></a></li>
                 </div>
                <div>
-                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/18.jpg"><img src="assets/images/portfolio/web/thumbnail/18.jpg" alt=""></a></li>
+                <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox href="assets/images/portfolio/web/ui/18.jpg"><img src="assets/images/portfolio/web/thumbnail/18.jpg" alt="imgae"></a></li>
                 </div>
             </ul>
 
