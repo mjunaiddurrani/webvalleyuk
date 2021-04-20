@@ -129,7 +129,6 @@
               <div class="left">
     <h2>Professional Website Design Company for Stellar Web Designs </h2>
     <p>To grow your business quickly, you must have a responsive website in these digital times. Professional website development helps your business be registered among the audience and enables you to achieve your marketing goals. Therefore, our professional website design company provides you with the  required exposure for operating your business and grows it significantly.</p>
-    
     <h3>We offer many Custom Web Design Services Online. </h3>
     <p>Having a slow, cluttered, designed, or unresponsive website is akin to losing thousands of dollars worth of business with every passing minute. You must be aware of the changing needs of the times and bring your business online with a modern website design.</p>
     <span class="h3  font-18">Increase your ROI, and cultivate a loyal audience for your site </span>
@@ -287,12 +286,12 @@ web design services. </h3>
 
 They are one heck of a professional website design company! We had a fantastic time working with Website Valley as a team. We weren't confident how much cheap website design services would do such a tremendous job. As an agency, we believe they are doing a great job satisfying the customers' needs and providing excellent services. We're lucky to have found them and will keep working with them. 
 
-Overall, it was a great experience working with Website Valley.<span class="dots">...</span><span class="more"> They had a Custom web design service online with affordable web design packages.They were highly cooperative and understood our brand needs first to deliver effective results. We've got our web developed by them, and we're happy to hire their cheap website design services. We got a great looking website, but they created everything within the budget and the given time. 
+Overall, it was a great experience working with Website Valley.<span id="dots">...</span><span id="more"> They had a Custom web design service online with affordable web design packages.They were highly cooperative and understood our brand needs first to deliver effective results. We've got our web developed by them, and we're happy to hire their cheap website design services. We got a great looking website, but they created everything within the budget and the given time. 
 
 Website Valley was easy to work with, and we quickly understood our needs and were able to develop our new website on a short deadline. We'd continue working with them as they have been such a great help to us. We're happy to collaborate with them for our website project development and maintenance at a cheap website design services package. 
 </p>
 </span>
-<button onclick="myFunction()" class="myBtn">Read more <i class="fas fa-arrow-right"></i></button>        
+<button onclick="myFunction()" id="myBtn">Read more <i class="fas fa-arrow-right"></i></button>        
         </div>
       </div>
       <div class="col-lg-6 mt-5">
@@ -903,9 +902,9 @@ Website Valley was easy to work with, and we quickly understood our needs and we
 </div>
 <script>
 function myFunction() {
-  var dots = document.querySelector(".dots");
-  var moreText = document.querySelector(".more");
-  var btnText = document.querySelector(".myBtn");
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
