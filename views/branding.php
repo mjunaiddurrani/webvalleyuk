@@ -886,7 +886,7 @@
         </a>
       </h4>
       </div>
-      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
         A business brochure design is designing a brochure used as a communicative piece of paper for promotional needs. You may have a business card design online to represent your business and its name. Your business brochure design can be creative, simple, cluttered, or plain and elegant that can be folded multiple times in different shapes, such as into a leaflet, copy style, or pamphlet type. All these marketing materials are often known as custom stationery design. A business brochure design helps you promote your business through marketing and advertising material. If you are looking for a top branding company that creates affordable business card design online or a brochure, then contact our customer support.
 

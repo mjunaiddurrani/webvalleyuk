@@ -547,7 +547,7 @@ Call our leading mobile apps development firm to get started.
         </a>
       </h4>
       </div>
-      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
         Absolutely, as a mobile app development agency, we take pride in a creative team of experts. We have an incredible in-house team of mobile app designers and developers who can work on your gaming application. Share your details with us, and we'd be more than happy to assist you in the process. 
 

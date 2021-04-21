@@ -20,7 +20,7 @@
     <!-- End of HubSpot Embed Code -->
 
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="u2Hu5XSG3LkMhd_Zpz2yXQYspUbPr7mhqNDdt3zF3NA" />
     <link rel="icon" href="../favicon.png" type="image/x-icon" />
     <link href="../assets/css/m-style.css" rel="stylesheet" type="text/css" />
@@ -42,6 +42,15 @@
 
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-194982789-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-194982789-1');
+</script>
 
 </head>
 
@@ -107,7 +116,7 @@
     <!--               <div class="fldst">-->
     <!--                      <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />-->
     <!--                      <script>-->
-    <!--                      document.getElementById('location').value = window.location.href;-->
+    <!--                      -->
     <!--                      </script>-->
     <!--                      <input type="hidden" name="hiddencapcha" value="">-->
     <!--                      <input type="hidden" name="ctry" value="">-->
@@ -123,7 +132,7 @@
     <!--               <div class="fldst btnattach">-->
     <!--                 <button type="submit" value="Submit" class="btn-theme-outline btn btn-white btn-animate"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
     <!--                 <script>-->
-    <!--                  document.getElementById('location').value = window.location.href;-->
+    <!--                  -->
     <!--                  </script>-->
     <!--                  <input type="hidden" name="hiddencapcha" value="">-->
     <!--                  <input type="hidden" id="location" name="locationURL" value="http://www.octaanimations.com/" />-->
@@ -608,7 +617,7 @@
 
                                                 <script data-cfasync="false" src="../"></script>
                                                 <script>
-                                                    document.getElementById('flocation').value = window.location.href;
+                                                    
                                                 </script>
                                                 <input type="hidden" name="hiddencapcha" value="">
                                                 <input type="hidden" name="ctry" value="">
@@ -657,7 +666,7 @@
                                 <input id="phone-coun" name="Number" required="" type="text" onkeypress="return isNumberKey(event);" rangelength="[2,15]" placeholder="Enter phone here">
                                 <button class="newbtn" type="submit">Submit</button>
                                 <script>
-                                    document.getElementById('location').value = window.location.href;
+                                    
                                 </script>
                                 <input type="hidden" name="hiddencapcha" value="">
                                 <input type="hidden" name="ctry" value="">
@@ -795,11 +804,7 @@
 
 
 
-        if ($.cookie('ysExit') == 1) {
-
-        } else {
-            ysExit(options);
-        }
+      
 
 
         // setTimeout(function(){

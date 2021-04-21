@@ -5,9 +5,9 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <meta charset="utf-8">
-<title>Contact Us </title>
+<title>Our services are available 24/7 throughout the year </title>
 
-<meta name="description" content="You have any idea for your business and want to shap it through website contact us now!">
+<meta name="description" content="You have a mind-changing idea for your business? You want to achieve all your marketing goals? No worries, you've got our full-fledged support. Contact now">
 
 
 <?php include_once('includes/head.php');?>
@@ -37,7 +37,7 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="inner-banner-content">
-          <h3>Get in touch</h3>
+          <h1 class="h3">Get in touch</h1>
           <p>Want to get in touch? We'd love to hear from you. Here's how you can reach us...</p>
         </div>
       </div>

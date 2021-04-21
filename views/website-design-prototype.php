@@ -795,5 +795,4 @@
 
 </body>
 
-<!-- Mirrored from websitevalley.co.uk/website-design-prototype by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:53 GMT -->
 </html>

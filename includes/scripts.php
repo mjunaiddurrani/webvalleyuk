@@ -31,13 +31,13 @@ debug: false,
 
 
 
-if ($.cookie('ysExit') == 1)
-     {
+// if ($.cookie('ysExit') == 1)
+//      {
 
-     }
-else{
- ysExit(options);
-}
+//      }
+// else{
+//  ysExit(options);
+// }
 
 
 
@@ -114,9 +114,7 @@ setTimeout(function(){
         $zopim.livechat.window.show();
 
     });
-    $zopim(function() {
-       $zopim.livechat.hideAll();
-    });
+    
 }, 2000);
 
 
@@ -174,11 +172,12 @@ if(window.location.pathname=="/"){
         "@context": "https://schema.org",
         "@type": "SiteNavigationElement",
         "hasPart": [
-            { "@context": "https://schema.org", "@type": "WebPage", "url": "/editing/" },
-            { "@context": "https://schema.org", "@type": "WebPage", "url": "/publishing/" },
-            { "@context": "https://schema.org", "@type": "WebPage", "url": "/pricing/" },
-            { "@context": "https://schema.org", "@type": "WebPage", "url": "/blog/" },
-            { "@context": "https://schema.org", "@type": "WebPage", "url": "/contact-us/" }
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/web-design-development/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/ecommerce-web-design/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/web-app-development/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/mobile-app-development/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/branding/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/blog/" }
         ]
     }
 </script>

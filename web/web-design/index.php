@@ -2927,9 +2927,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
         $zopim.livechat.window.show();
 
     });
-    $zopim(function() {
-       $zopim.livechat.hideAll();
-    });
+    
 }, 15000);
 
 

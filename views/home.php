@@ -3011,7 +3011,7 @@ Place purchasing requests.</li>
         </a>
       </h4>
       </div>
-      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
         Yes, we have complete website maintenance services that help you update your website and bring functional aspects to your website, updating the latest technology. If you want to revamp your current website design, we can also help you change it according to your designs' choice. If there are small changes within the website pages, we can also make the necessary changes cost-effectively in a quick manner. No matter from which part of the UK city you live, we will provide you with the best website development services in the UK. Now you don't have to search for cheap services, and our experts would be best for you. 
 

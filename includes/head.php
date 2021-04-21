@@ -12,7 +12,7 @@ if (isset($_SERVER['HTTPS'])) {
 
 <base href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].'/' ?>">
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="u2Hu5XSG3LkMhd_Zpz2yXQYspUbPr7mhqNDdt3zF3NA" />
 <link rel="icon" href="favicon.png" type="image/x-icon" />
 <link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
@@ -71,3 +71,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   gtag('config', 'UA-194982789-1');
 </script>
+

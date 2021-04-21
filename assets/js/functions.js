@@ -989,10 +989,10 @@ $(".sldrtstmnl").slick({
 var options = {
 debug: false,
 }
-if ($.cookie('ysExit') == 1)
-     {
-     }
-else{
- ysExit(options);
-}
+// if ($.cookie('ysExit') == 1)
+//      {
+//      }
+// else{
+//  ysExit(options);
+// }
 

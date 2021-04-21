@@ -7,8 +7,8 @@
       <meta charset=utf-8>
       <meta content="IE=edge,chrome=1" http-equiv=X-UA-Compatible>
       <meta name=viewport content="width=device-width, initial-scale=1, minimal-ui">
-      <title>Privacy Policy </title>
-      <meta name=description content="Affordable logo design services that's made instantly and stays forever.">
+      <title>Privacy Policy- Privacy and Terms- Website Valley </title>
+      <meta name=description content="Privacy policy page helps you understand why we collect information. We do not disclose your information to others except with the concerned authorities. ">
       
 
 

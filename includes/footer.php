@@ -12,7 +12,6 @@
           <li><a href="/ecommerce-web-design/">Ecommerce Web Development</a></li>
           <li><a href="/branding/">Branding</a></li>
         
-          <!-- <li><a href="/website-design-prototype/">Design & Prototype</a></li> -->
           
             
           </ul>
@@ -192,7 +191,7 @@
                           <input name="submit" type="submit"   />
         
                           <script >
-                        document.getElementById('flocation').value = window.location.href;
+                        
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
                       <input type="hidden" name="ctry" value="">
@@ -241,7 +240,7 @@
                  <input  name="phone" required="" type="text" onkeypress="return isNumberKey(event);"  placeholder="Enter phone here">
                  <button class="newbtn" type="submit">Submit</button>
                  <script>
-                document.getElementById('location').value = window.location.href;
+                
               </script>
               <input type="hidden" name="hiddencapcha" value="">
               <input type="hidden" name="ctry" value="">

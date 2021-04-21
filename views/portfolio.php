@@ -4,9 +4,9 @@
 <!-- Mirrored from websitevalley.co.uk/portfolio by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<title>Portfolio </title>
+<title>Website Valley's Portfolio is Built with Love </title>
 
-<meta name="description" content="Our Portfolio is Vast yet Unique and Diverse yet Minimalistic.">
+<meta name="description" content="A portfolio is the heart of every company, so it is always built through dedication and handwork. See our portfolio to understand our unique capabilities.">
 
 
 
@@ -37,7 +37,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
-        <h2 class="port-hed">Our Portfolio is Vast yet Unique and Diverse yet Minimalistic.</h2>
+        <h1 class="port-hed h2">Our Portfolio is Vast yet Unique and Diverse yet Minimalistic.</h1>
         <p>Client needs define the kind of work we do and here are some examples of that.</p>
       </div>  
       <div class="col-lg-12"> 

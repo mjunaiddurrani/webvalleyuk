@@ -7,8 +7,8 @@
       <meta charset=utf-8>
       <meta content="IE=edge,chrome=1" http-equiv=X-UA-Compatible>
       <meta name=viewport content="width=device-width, initial-scale=1, minimal-ui">
-      <title>Terms and Conditions </title>
-      <meta name=description content="Affordable logo design services that's made instantly and stays forever.">
+      <title>Our Terms and Conditions Page at the Website Valley </title>
+      <meta name=description content="This page informs us about all the terms and conditions of working with us. You can opt out of our services if you disagree with our terms. Check out T&Cs">
       
      
       

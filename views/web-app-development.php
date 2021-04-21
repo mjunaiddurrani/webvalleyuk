@@ -1025,7 +1025,7 @@ Place purchasing requests.</li>
 <section class="faqsSection my-5">
 <div class="container">
   <h3 class="text-center"><b>FAQs</b></h3>
-  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel-group collapsed" id="accordion" role="tablist" aria-multiselectable="true" aria-expanded="false" >
     <div class="panel panel-default">
       <div class="panel-heading" role="tab" id="headingOne">
         <h4 class="panel-title">
@@ -1034,7 +1034,7 @@ Place purchasing requests.</li>
         </a>
       </h4>
       </div>
-      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
         Website Valley enables you to maximize your audience reach, lead more income generation opportunities, and create an organized platform for your consumers to interact and engage with your company or with each other. We also help you with web portal development. Now you don't have to search for the best web application services near me. 
         </div>

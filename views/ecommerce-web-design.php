@@ -1020,7 +1020,7 @@
         </a>
       </h4>
       </div>
-      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
         Our eCommerce website development services are always within your budget. Look for our eCommerce web development services packages above to have a better understanding of the ballpark figure. However, we assure you our services are customized according to the project requirement's design complexity and functional capacity. Contact customer support or talk to our consultant for free to know more about what a website design service can do for you.
         </div>

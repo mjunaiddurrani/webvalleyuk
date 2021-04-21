@@ -370,7 +370,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
         </a>
       </h4>
       </div>
-      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
         Our Top web design company prices vary according to the nature of the project. It would be impossible to give a fixed price in one sentence as our client's product type and business nature are different. Likewise, there are many other factors involved in the pricing of Web design packages. However, our affordable web design services in the UK can change the website game for you, which cheap website design services cannot build. Before charging any money from you, our team gives you a free consultation to understand your website requirements. To understand our pricing plans for the website to build: 
           Drop us a message by opting for our contact form or give us a call.  Fill in the brief content form regarding our website type, design, and development requirement. We will provide you with an initial figure after assessing your website demands. Once satisfied with our discussion, we'll give you the final quote. Our website design services will make you happy and content.  

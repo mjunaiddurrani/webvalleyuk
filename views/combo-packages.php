@@ -4,9 +4,9 @@
 <!-- Mirrored from websitevalley.co.uk/combo-packages by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:04 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<title>Combo Packages </title>
+<title>Combo Packages for Development and Branding Services </title>
 
-<meta name="description" content="Different Packages For Different type of business. Contact Now if you have any querry">
+<meta name="description" content="Avail affordable packages to achieve your business goals at a competitive market price! Website Valley offers combo packages for every type of business.">
 
 
 <?php include_once('includes/head.php');?>
@@ -34,7 +34,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
-        <h2>Our Combos</h2>
+        <h1 class="h2">Our Combos</h1>
         <p>Combo Packages allow you to pick and choose from a variety of options that suit your requirements.</p>
       </div>  
       <div class="col-lg-12"> 

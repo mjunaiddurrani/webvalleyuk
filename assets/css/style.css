@@ -8421,7 +8421,7 @@ section.faqsection {}
 
 .footer-top {}
 
-.footer-top .h3 {
+.footer-top .h3,.footer-top h3 {
     color: #fff;
     font-size: 22px;
     line-height: 1;
@@ -8491,11 +8491,13 @@ section.faqsection {}
     text-align: center;
 }
 
-.oddinner-banner .inner-banner-content h3 {
+.oddinner-banner .inner-banner-content h3,.oddinner-banner .inner-banner-content .h3 {
     color: #333;
     font-size: 42px;
     /* padding-top: 55px; */
     font-weight: 700;
+    float: none;
+    text-shadow: none;
 }
 
 .oddinner-banner .inner-banner-content p {
@@ -10147,7 +10149,7 @@ section.faqsection {}
         margin-right: 0px;
         margin-bottom: 30px;
     }
-    .oddinner-banner .inner-banner-content h3 {
+    .oddinner-banner .inner-banner-content h3,.oddinner-banner .inner-banner-content .h3 {
         font-size: 36px;
         text-align: left;
     }
@@ -10952,6 +10954,7 @@ _:future,
 
 .myservices .left h2 {
     font-size: 35px;
+    font-weight: 800;
     color: #000;
     font-family: 'Khula', sans-serif;
 }

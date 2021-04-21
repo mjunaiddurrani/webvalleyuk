@@ -4,9 +4,9 @@
 <!-- Mirrored from websitevalley.co.uk/packages by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<title>Packages </title>
+<title>Designing, Developing, Marketing, and Branding Packages </title>
 
-<meta name="description" content="Our packages are designed to suit your budgets and requirements with ease.">
+<meta name="description" content="We have a professional in-house team who is ready to work on your project at any time. Our Packages are designed to fulfill your budget needs with ease.">
 
 
 <?php include_once('includes/head.php');?>
@@ -34,7 +34,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
-        <h2 class="pkgewrp">What Do Our Packages Look Like?</h2>
+        <h1 class="pkgewrp h2">What Do Our Packages Look Like?</h1>
         <p>Our packages are designed to suit your budgets and requirements with ease.</p>
       </div>  
       <div class="col-lg-12"> 

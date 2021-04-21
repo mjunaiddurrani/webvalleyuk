@@ -3255,7 +3255,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                           <input name="submit" type="submit" placeholder="Connect With Us" required="">
         
                           <script>
-                        document.getElementById('flocation').value = window.location.href;
+                        
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
                       <input type="hidden" name="ctry" value="">
@@ -3490,9 +3490,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     });
 
 
-    $zopim(function() {
-       $zopim.livechat.hideAll();
-    });
+    
 }, 15000);
 $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
 

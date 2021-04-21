@@ -3246,7 +3246,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                           <input name="submit" type="submit" placeholder="Connect With Us" required="">
         
                           <script>
-                        document.getElementById('flocation').value = window.location.href;
+                        
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
                       <input type="hidden" name="ctry" value="">
@@ -3479,9 +3479,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
         $zopim.livechat.window.show();
 
     });
-    $zopim(function() {
-       $zopim.livechat.hideAll();
-    });
+    
 }, 15000);
 
 
