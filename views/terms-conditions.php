@@ -39,7 +39,7 @@
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         
            <div class="container">
-        <p><strong>REVISION POLICY</strong></p>
+        <h1 class="text-black"><strong>REVISION POLICY</strong></h1>
 
 
 

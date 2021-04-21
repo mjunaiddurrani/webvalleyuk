@@ -477,43 +477,13 @@ Call our leading mobile apps development firm to get started.
 <div>
 <figure>
 <!-- <img src="assets/images/call.png" alt="imgae"> -->
-<a href="tel:+442038087061"><img src="assets/images/call.png" ;=""></a>
+<a href="tel:+442038087061"><img src="assets/images/call.png" alt="mobile icon"></a>
 </figure>
 </div>
 </div>
 </div>
 </div>
 </section>
-
-
-<!--<section class="mylast">-->
-<!--  <div class="container">-->
-<!--    <div class="row">-->
-<!--      <div class="col-md-12">-->
-<!--        <section class="section-padding call-actions  ">-->
-<!--          <div class="row">-->
-<!--            <div class="col-lg-3 col-sm-6">-->
-<!--              <h2 class="text-left">Let's discuss and design your product today</h2>-->
-<!--              <div class="slash slash2"></div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-4 col-sm-6 phone-div">-->
-<!--              <span class="icon-mobile2 phone"></span>-->
-<!--              <h3 class="text-left">-->
-<!--              <span class="mad">Call us now to get started </span>-->
-<!--              +442038087061 </h3><div class="slash"></div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-5 col-sm-12 mail">-->
-<!--              <span class="icon-envelope-o mail"></span>-->
-<!--              <h3 class="text-left">-->
-<!--              <span class="mad">Place an Order</span>-->
-<!--              query@websitevalley.co.uk</h3>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </section>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--</section>-->
 
 
 

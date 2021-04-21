@@ -86,7 +86,10 @@
                 <img src="assets/images/payment-icon.png" alt="payment icon">
               </figure>
             </div>
-
+            <div class="social">
+              <a href="https://www.facebook.com/websitevalleyuk"><i class="fab fa-facebook-f"></i></a>
+              <a href="https://www.instagram.com/websitevalley/"><i class="fab fa-instagram"></i></a>
+            </div>
           </div>
         </div>
       </div>

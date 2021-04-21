@@ -16030,3 +16030,43 @@ h4.panel-title {
 .font-35{
     font-size:35px;
 }
+.fab {
+    font-size: 25px;
+    width: 40px;
+    background-color: #2e34a6;
+    color: #010624;
+    height: 40px;
+    border-radius: 50%;
+    padding-top: 8px;
+    text-align: center;
+    text-decoration: none;
+    margin: 15px 2px;
+}
+
+.fa-facebook-f {
+    color: #fff;
+    transition: .5s ease-in-out;
+}
+.fa-facebook-f:hover {
+    background: #3b5998;
+    transition: .5s ease-in-out;
+    color: #fff;
+}
+.fa-twitter {
+    color: #fff;
+    transition: .5s ease-in-out;
+}
+.fa-twitter:hover {
+    background: #55acee;
+    transition: .5s ease-in-out;
+    color: #fff;
+}
+.fa-instagram {
+    color: #fff;
+    transition: .5s ease-in-out;
+}
+.fa-instagram:hover {
+    background: #125688;
+    transition: .5s ease-in-out;
+    color: #ff4d4d;
+}
