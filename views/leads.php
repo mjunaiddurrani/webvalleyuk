@@ -53,7 +53,10 @@ $msg = $decodeResponse[1];
 
 
 if (headers_sent()) {
-    echo "Redirect failed. Please click on this link: <a href='/thank-you/?thanksMsg=$msg'>/thank-you/?thanksMsg=$msg</a>";
+    echo "<script>
+    window.open('/thank-you/?thanksMsg=$msg','_self')
+    </script>";
+    // echo "Redirect failed. Please click on this link: <a href='/thank-you/?thanksMsg=$msg'>/thank-you/?thanksMsg=$msg</a>";
 }
 else{
     exit(header("location:/thank-you/?thanksMsg=$msg"));
