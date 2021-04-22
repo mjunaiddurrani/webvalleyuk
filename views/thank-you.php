@@ -12,7 +12,7 @@
       <div class="container">
         <div class="row text-center text-sm-left my-auto">
           <div class="col-lg-9">
-            <h1 class="text-white mb-4 font-medium" style="position: relative;top: 200px;"><?php if(isset($_GET['thanksMsg'])){ echo $_SESSION['thanksMsg'];} ?></h1>
+            <h1 class="text-white mb-4 font-medium" style="position: relative;top: 200px;"><?php if(isset($_REQUEST['thanksMsg'])){ echo $_REQUEST['thanksMsg'];} ?></h1>
           </div>
         </div>
       </div>
