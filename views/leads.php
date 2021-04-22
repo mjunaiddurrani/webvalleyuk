@@ -49,6 +49,6 @@ $decodeResponse = json_decode($response);
 $msg = $decodeResponse[1];
 
 
-$_SESSION['thanksMsg'] = $msg;
+// $_SESSION['thanksMsg'] = $msg;
 
-header("location:/thank-you/");
+header("location:/thank-you/?thanksMsg=$msg");
