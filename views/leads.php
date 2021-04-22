@@ -50,6 +50,11 @@ $msg = $decodeResponse[1];
 
 
 // $_SESSION['thanksMsg'] = $msg;
-ob_start();
 
-header("location:/thank-you/?thanksMsg=$msg");
+
+if (headers_sent()) {
+    die("Redirect failed. Please click on this link: <a href='/thank-you/?thanksMsg=$msg'>");
+}
+else{
+    exit(header("location:/thank-you/?thanksMsg=$msg"));
+}
