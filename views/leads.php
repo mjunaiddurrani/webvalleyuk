@@ -50,5 +50,6 @@ $msg = $decodeResponse[1];
 
 
 // $_SESSION['thanksMsg'] = $msg;
+ob_start();
 
 header("location:/thank-you/?thanksMsg=$msg");
