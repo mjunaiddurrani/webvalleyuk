@@ -6,7 +6,7 @@
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <title>Website Development Company #1 in UK Website Design Service</title>
-<meta name="description" content="Get Affordable web design services by Award-winning company Speedy service within your timeline! modern website design, & custom web design service online!">
+<meta name="description" content="Get affordable web design services by our professional website designers in your timeline! Also, hire our expert web developers for custom web development.">
 
 
 

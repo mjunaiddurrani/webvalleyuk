@@ -4,7 +4,7 @@
 <head>
 
 <title>Website Valley: Developing the Websites. Apps. Brands. </title>
-<meta name="description" content="Website valley is a professional Web design, e-commerce, and mobile app development company located in the UK, based on your budget, timeline, and specifications.">
+<meta name="description" content="Website Valley is a professional web design, app development, and branding agency in the UK. Get our services on your budget, timeline, and specifications.">
 <?php 
 include_once('includes/head.php');
 ?>
@@ -3006,7 +3006,7 @@ Place purchasing requests.</li>
     <div class="panel panel-default">
       <div class="panel-heading" role="tab" id="headingOne">
         <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           1. How do I update websites? 
         </a>
       </h4>

@@ -5,7 +5,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <title>Custom Ecommerce Website Design & Development Agency in UK</title>
-<meta name="description" content="WebsiteValley is a UK based ECommerce web design & development company, that offers custom eCommerce website design services to meet your business needs">
+<meta name="description" content="Website Valley is a UK based ecommerce web design & development company, that offers custom ecommerce website design services to meet your business needs.">
 
 
 <?php include_once('includes/head.php');?>
@@ -143,11 +143,11 @@
       </div>
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Best Ecommerce Web Developers Hold Expertise in Magneto </h2>
-          <p>Magneto is an open-source platform that uses open source to provide a highly responsive user experience. One such great feasibility of this excellent eCommerce web design is that it gives the eCommerce web developer room to make changes in the coding, integrate new features, or add creative functions according to the users' demands. </p>
+          <h2>Best Ecommerce Web Developers Hold Expertise in Magento </h2>
+          <p>Magento is an open-source platform that uses open source to provide a highly responsive user experience. One such great feasibility of this excellent eCommerce web design is that it gives the eCommerce web developer room to make changes in the coding, integrate new features, or add creative functions according to the users' demands. </p>
           <p class="font-weight-bold">Evolving your Platform with Digital Trends </p>
           <p>
-           Magneto is an open-source platform that continues to evolve with the changing needs of the times that could answer your eCommerce web design requirements. Our expert web developer will help you boost your profits and sales by designing a well-functioning website.
+           Magento is an open-source platform that continues to evolve with the changing needs of the times that could answer your eCommerce web design requirements. Our expert web developer will help you boost your profits and sales by designing a well-functioning website.
           </p>
           <p class="font-weight-bold">Effective, eye-catching and Fully Functional</p>
           <p>

@@ -5,7 +5,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <title>Mobile App Development Services by Top UK App Developers</title>
-<meta name="description" content="We are one of the leading mobile app development firm. With over 500+ successful projects Hire the No 1 mobile app designer & Android App Development Experts.">
+<meta name="description" content="We are one of the leading mobile app development service in UK. With over 500+ successful projects hire our top UK app developers and mobile app designers.">
 
 
 <?php include_once('includes/head.php');?>
