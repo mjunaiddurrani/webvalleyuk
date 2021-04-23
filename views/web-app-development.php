@@ -770,7 +770,7 @@
       </div>
     </div></div>
     <div class="price-btnwrap">
-      <a href="ourpackages/business-website-package.html">View Details</a> 
+      <a href="/packages/business-website-package/">View Details</a> 
       <div class="row">
          
          <div class="col-md-12">
@@ -862,7 +862,7 @@
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="ourpackages/automated-Interactive-conferencing-portal.html">View Details</a>
+      <a href="/packages/automated-Interactive-conferencing-portal/">View Details</a>
       <div class="row">
          
          <div class="col-md-12">
@@ -994,7 +994,7 @@ Place purchasing requests.</li>
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="ourpackages/automated-interactive-e-Commerce-website.html">View Details</a>
+      <a href="/packages/automated-interactive-e-Commerce-website/">View Details</a>
       <div class="row">
          
          <div class="col-md-12">

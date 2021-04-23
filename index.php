@@ -45,7 +45,7 @@
 //     case addslashes('/custom-quote/') :
 //         require __DIR__.'/views/custom-quote.php';
 //         break;
-//     case addslashes('/ecommerce-web-design/') :
+//     case addslashes('/ecommerce-web-development/') :
 //         require __DIR__.'/views/ecommerce-website-design.php';
 //         break;
 //     case addslashes('/mobile-app-development/') :

@@ -605,7 +605,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       </div>
     </div></div>
     <div class="price-btnwrap">
-      <a href="ourpackages/startup-website-package.html">View Details</a> 
+      <a href="/packages/startup-website-package/">View Details</a> 
       <div class="row">
          
          <div class="col-md-12">
@@ -665,7 +665,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="ourpackages/professional-website-package.html">View Details</a>
+      <a href="/packages/professional-website-package/">View Details</a>
       <div class="row">
          
          <div class="col-md-12">
@@ -731,7 +731,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="ourpackages/elite-website-package.html">View Details</a>
+      <a href="/packages/elite-website-package/">View Details</a>
       <div class="row">
          
          <div class="col-md-12">
@@ -801,7 +801,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/e-commerce-website-package.html">View Details</a>
+      <a href="/packages/e-commerce-website-package/">View Details</a>
       <div class="row">
          
          <div class="col-md-12">
@@ -874,7 +874,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/silver-website-package.html">View Details</a>
+      <a href="/packages/silver-website-package/">View Details</a>
       <div class="row">
          
          <div class="col-md-12">

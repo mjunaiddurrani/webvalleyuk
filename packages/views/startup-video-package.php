@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-GB">
 
-<!-- Mirrored from websitevalley.co.uk/ourpackages/startup-video-package by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:22 GMT -->
+<!-- Mirrored from websitevalley.co.uk/packages/startup-video-package by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:22 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
@@ -19,16 +19,7 @@
 
     <!-- End of HubSpot Embed Code -->
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="u2Hu5XSG3LkMhd_Zpz2yXQYspUbPr7mhqNDdt3zF3NA" />
-    <link rel="icon" href="../favicon.png" type="image/x-icon" />
-    <link href="../assets/css/m-style.css" rel="stylesheet" type="text/css" />
-    <link href="../assets/css/style.css" rel="stylesheet" type="text/css" />
-    <!--  -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Exo:300,400,500,600,700,900&display=swap" rel="stylesheet"> -->
-    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,800,900&amp;display=swap" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=Quattrocento+Sans&display=swap" rel="stylesheet"> -->
+   <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?>
 
 
 
@@ -47,214 +38,9 @@
 
 <body class="hompg hdar-clr">
 
-    <!--<div class="overlay-bg"></div>
-<div class="mypopup-wrap">
-  <div class="mypopup">
-    <div class="left">
-      <figure>
-        <img src="../assets/images/popup.png">
-      </figure>
-    </div>
-    <div class="right">
-      <div class="closebutton">x</div>
-      <div class="mypopup-innerwrap">
-        
-        <div class="form_wrap">
-        <h3> <span>50% OFF </span>by Placing Order Today</h3>
-                  </div>
-      </div>
-    </div>
-  </div>
-</div>
+    
 
-<div class="eggoffer">
-    <a href="javascript:;">
-  <div class="top">
-    <figure>
-      <img src="../assets/images/icon.png">
-    </figure>
-  </div>
-  
-  </a>
-</div>-->
-
-    <!-- exit form start -->
-    <!--<div class="ys-layer"></div>-->
-    <!--<div class="ys-container" id="ys-container">-->
-    <!--   <div class="ys-box">-->
-    <!--       <a class="ys-popup-close ys-exit" href="#">x</a>-->
-
-    <!--       <div class="ys-popup-content">-->
-
-
-    <!--           <div class="popupform tabform clearfix  text-left">-->
-
-    <!--             <h3 class="main-heading"><span>Get Special</span> Discount</h3>-->
-    <!--             <figure>-->
-    <!--               <img src="assets/images/popup-img.jpg" alt="imgae">-->
-    <!--             </figure>-->
-    <!--             <P>Don't miss out on special discount offer</P>-->
-    <!--             <form id="popupfrm" class="cmxform"  method="POST" action=>-->
-
-    <!--               <div class="fldst">-->
-    <!--                 <input id="username" name="Name" minlength="2" type="text" placeholder="Full Name" required />-->
-    <!--               </div>-->
-
-    <!--               <div class="fldst fldstrght">-->
-    <!--                 <input id="cemail" type="Email" name="Email" placeholder="Email Address" required>-->
-    <!--               </div>-->
-
-    <!--               <div class="fldst">-->
-    <!--                      <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />-->
-    <!--                      <script>-->
-    <!--                      -->
-    <!--                      </script>-->
-    <!--                      <input type="hidden" name="hiddencapcha" value="">-->
-    <!--                      <input type="hidden" name="ctry" value="">-->
-    <!--                      <input type="hidden" name="pc" value="">-->
-    <!--               </div>-->
-
-    <!-- <div class="fldst">
-<!--                 <textarea name="Message" placeholder="Enter a brief description of your Book Project"></textarea>-->
-
-    <!--               </div> -->
-
-
-    <!--               <div class="fldst btnattach">-->
-    <!--                 <button type="submit" value="Submit" class="btn-theme-outline btn btn-white btn-animate"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
-    <!--                 <script>-->
-    <!--                  -->
-    <!--                  </script>-->
-    <!--                  <input type="hidden" name="hiddencapcha" value="">-->
-    <!--                  <input type="hidden" id="location" name="locationURL" value="http://www.octaanimations.com/" />-->
-    <!--               </div>-->
-    <!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+442038087061">+442038087061</a></span></p>-->
-    <!--             </form>-->
-    <!--           </div>-->
-    <!--       </div>-->
-    <!--   </div>-->
-    <!--</div>-->
-
-
-    <!-- exit form end -->
-
-
-    <noscript>
-<div id="jqcheck"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB60lEQVQ4T2NkwAHePzrxf3ebL1jWp/0oA5egGiM2pVgFQQq31uj/N/ANZvj+8T3D7aNHGDwbTxNvwKtbO/9f3dLHYJ+axfDn5w+GI/NnMRhFtTEISJtjGIIh8Pv39/87ak0ZzCLiGMRUNMCufnLxDMOlrZsY3JtOMrCwsKPowTDg3tGZ/59f2sVgFRvPkO+bAzZgwsZJDEcXzWNQtIlikDGIwG3Az+9v/+9qsGOwTc1h4JeQhhswcfMUhrcP7zEcXzyXwb3xMAMbuwDcEBTTzi7P/s/M8IFB3zccbDPMBSADQODs2sUMzFwyDIah/ZgGfHt/7/+BvmAGm+RsBl4RMawGfHr5jOHowlkMjiUbGDj55MCGwE060Of1X0RZi0Hb2Q4e3eguAElc2X2A4e2DmwwOhVsRBnx6cfH/yXm5DFZxyQxcAoJ4Dfj24T3DsUVzGcwSJjLwSxkygk3ZVmv4X805gkHZRBNXwkQRv3/+NsP1nUsYvFvOMzI+PLXo/73DSxgsouIYOHj5UBRi8wJIwY8vnxlOLV/CIGcewsC4vkDhv01yLoOIoiqG7bgMACn88Owxw8HpvQyMGwqV/vs19TMwQnxDEthYW8DAeGCC3/9XN46TpBGmWEzDkoHx06dP/z9//kyWAby8vAwAcza2SBMOSCMAAAAASUVORK5CYII=" alt="No Script" /> Javascript is disabled. Please enable it for better working experience.</div>
-</noscript>
-    <div class="mobile-nav">
-        <a href="/" class="logo-main"> <img src="../assets/images/logo.png" alt="*" /></a>
-        <nav>
-
-            <ul class="unstyled mainnav pbpx-15">
-                <li><a href="/">Home</a></li>
-                <li><a href="javascript:;">Services <i class="xicon icon-angle-down"></i></a>
-                    <ul class="firstlevel unstyled">
-                        <li><a href="/branding/">Branding</a></li>
-
-                        <li><a href="/ecommerce-web-design/">Ecommerce Solutions</a></li>
-
-                        <li><a href="/web-app-development/">Web App Development</a></li>
-                        <!--<li><a href="https://websitevalley.co.uk/website-mantainance">Website Maintenance</a></li>-->
-                    </ul>
-                </li>
-
-
-                <li><a href="/combo-packages/">Combo Packages</a></li>
-                <li><a href="/packages/">Packages</a></li>
-                <li><a href="/portfolio/">Portfolio</a></li>
-                <li><a href="/contact/">Contact</a></li>
-            </ul>
-
-
-
-
-        </nav>
-    </div>
-    <main class="app-container">
-        <!-- Mobile Navigation Button Start-->
-        <div class="mobile-nav-btn"> <span class="lines"></span> </div>
-        <!-- Mobile Navigation Button End-->
-
-        <header class="header-main">
-            <div class="top-bar d-none d-lg-block">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="secondlogo">
-                                <a href="/">
-                                    <img class="img-fluid fblack" src="../assets/images/logo.png" alt="*" />
-                                    <img class="img-fluid fwhite" src="../assets/images/logo.png" alt="*" />
-                                </a>
-                            </div>
-                            <div class="emailsec">
-                                <a href="mailto:query@websitevalley.co.uk"><span class="icon-envelope2"></span>query@websitevalley.co.uk</a>
-                            </div>
-
-
-
-                        </div>
-                        <div class="col-lg-6">
-                            <ul class="top-info-list">
-                                <li>
-                                    <a href="tel:+442038087061"><img src="../assets/images/uk-flag.png" alt="UK Flag" />+442038087061</a>
-                                </li>
-                                <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
-                                <li><a href="javascript:;" onclick="setButtonURL();" class="btn-main">Let's Get Started</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="nav-area-full">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-2 mobile-res-logo">
-                            <div class="logo">
-                                <a href="/">
-                                    <img src="../assets/images/logo.png" alt="imgae">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-12 d-flex ">
-                            <div class="main-menu align-self-center d-none d-lg-block">
-                                <ul class="forpgactive">
-                                    <li class="home"><a href="/">Home</a></li>
-                                    <li class="serviceli"><a href="">Services</a>
-                                        <ul>
-                                            <li><a href="/web-design-development/">Web Design Development</a></li>
-                                            <li class="ecommerce"><a href="/ecommerce-web-design/">Ecommerce Web Development</a></li>
-                                            <li class="web"><a href="/web-app-development/">Web App Development</a></li>
-                                            <li><a href="/mobile-app-development/">Mobile App Development</a></li>
-                                            <li><a href="/branding/">Branding</a></li>
-
-                                        </ul>
-                                    </li>
-
-
-
-
-                                    <li class="web"><a href="">Blog</a></li>
-
-
-
-
-
-                                    <li class=""><a href="/combo-packages/">Combo Packages</a></li>
-                                    <li class=""><a href="/packages/">Packages</a></li>
-
-                                    <li class=""><a href="/portfolio/">Portfolio</a></li>
-                                    <li class=""><a href="/contact/">Contact</a></li>
-
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- <a href="https://websitevalley.co.uk/" class="logo-main"> <img class="mobile-res-logo" src="assets/images/logo.png" alt="*"></a> -->
-        </header>
-
+<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/header.php');?>
 
 
 
@@ -601,7 +387,7 @@
                                                 <input type="hidden" name="hiddencapcha" value="">
                                                 <input type="hidden" name="ctry" value="">
                                                 <input type="hidden" name="pc" value="">
-                                                <input type="hidden" id="locationURL" name="page" value="https://websitevalley.co.uk/ourpackages/startup-video-package" />
+                                                <input type="hidden" id="locationURL" name="page" value="https://websitevalley.co.uk/packages/startup-video-package" />
                                             </div>
                                         </div>
                                     </div>
@@ -651,7 +437,7 @@
                                 <input type="hidden" name="ctry" value="">
                                 <input type="hidden" name="pc" value="">
 
-                                <input type="hidden" id="location" name="locationURL" value="http://websitevalley.co.uk/ourpackages/startup-video-package" />
+                                <input type="hidden" id="location" name="locationURL" value="http://websitevalley.co.uk/packages/startup-video-package" />
                             </div>
 
 
@@ -874,6 +660,6 @@
     </script>
 </body>
 
-<!-- Mirrored from websitevalley.co.uk/ourpackages/startup-video-package by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:23 GMT -->
+<!-- Mirrored from websitevalley.co.uk/packages/startup-video-package by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:23 GMT -->
 
 </html>

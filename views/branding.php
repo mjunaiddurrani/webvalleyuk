@@ -622,7 +622,7 @@
     </div>
   </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/stationery-package.html">View Details</a>
+      <a href="/packages/stationery-package/">View Details</a>
       <div class="row">
          
          <div class="col-md-12">
@@ -675,7 +675,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/infographic-package.html">View Details</a> 
+      <a href="/packages/infographic-package/">View Details</a> 
       <div class="row">
          
          <div class="col-md-12">
@@ -728,7 +728,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/brochure-flyer-package.html">View Details</a> 
+      <a href="/packages/brochure-flyer-package/">View Details</a> 
       <div class="row">
          
          <div class="col-md-12">

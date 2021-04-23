@@ -137,7 +137,7 @@ $(".fancybox").fancybox({
 
 if(window.location.pathname=="/"){
   $('.home').addClass('active');
-}else if(window.location.pathname=="/ecommerce-web-design/"){
+}else if(window.location.pathname=="/ecommerce-web-development/"){
   $('.ecommerce').addClass('active');
 }else if(window.location.pathname=="/web-app-development/"){
   $('.web').addClass('active');
@@ -173,7 +173,7 @@ if(window.location.pathname=="/"){
         "@type": "SiteNavigationElement",
         "hasPart": [
             { "@context": "https://schema.org", "@type": "WebPage", "url": "/web-design-development/" },
-            { "@context": "https://schema.org", "@type": "WebPage", "url": "/ecommerce-web-design/" },
+            { "@context": "https://schema.org", "@type": "WebPage", "url": "/ecommerce-web-development/" },
             { "@context": "https://schema.org", "@type": "WebPage", "url": "/web-app-development/" },
             { "@context": "https://schema.org", "@type": "WebPage", "url": "/mobile-app-development/" },
             { "@context": "https://schema.org", "@type": "WebPage", "url": "/branding/" },

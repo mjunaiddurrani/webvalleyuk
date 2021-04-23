@@ -605,7 +605,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/e-commerce-startup-package.html">View Details</a> 
+      <a href="/packages/e-commerce-startup-package/">View Details</a> 
       <div class="row">
          
          <div class="col-md-12">
@@ -659,7 +659,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/e-commerce-professional-package.html">View Details</a>
+      <a href="/packages/e-commerce-professional-package/">View Details</a>
       <div class="row">
          
          <div class="col-md-12">
@@ -738,7 +738,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="ourpackages/e-commerce-elite-package.html">View Details</a>
+      <a href="/packages/e-commerce-elite-package/">View Details</a>
       <div class="row">
          
          <div class="col-md-12">

@@ -17,16 +17,7 @@
 
 
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="u2Hu5XSG3LkMhd_Zpz2yXQYspUbPr7mhqNDdt3zF3NA" />
-    <link rel="icon" href="../favicon.png" type="image/x-icon" />
-    <link href="../assets/css/m-style.css" rel="stylesheet" type="text/css" />
-    <link href="../assets/css/style.css" rel="stylesheet" type="text/css" />
-    <!--  -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Exo:300,400,500,600,700,900&display=swap" rel="stylesheet"> -->
-    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,800,900&amp;display=swap" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=Quattrocento+Sans&display=swap" rel="stylesheet"> -->
+   <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?>
 
 
 
@@ -45,96 +36,7 @@
 
 <body class="hompg hdar-clr">
 
-    <!--<div class="overlay-bg"></div>
-<div class="mypopup-wrap">
-  <div class="mypopup">
-    <div class="left">
-      <figure>
-        <img src="../assets/images/popup.png">
-      </figure>
-    </div>
-    <div class="right">
-      <div class="closebutton">x</div>
-      <div class="mypopup-innerwrap">
-        
-        <div class="form_wrap">
-        <h3> <span>50% OFF </span>by Placing Order Today</h3>
-                  </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="eggoffer">
-    <a href="javascript:;">
-  <div class="top">
-    <figure>
-      <img src="../assets/images/icon.png">
-    </figure>
-  </div>
-  
-  </a>
-</div>-->
-
-    <!-- exit form start -->
-    <!--<div class="ys-layer"></div>-->
-    <!--<div class="ys-container" id="ys-container">-->
-    <!--   <div class="ys-box">-->
-    <!--       <a class="ys-popup-close ys-exit" href="#">x</a>-->
-
-    <!--       <div class="ys-popup-content">-->
-
-
-    <!--           <div class="popupform tabform clearfix  text-left">-->
-
-    <!--             <h3 class="main-heading"><span>Get Special</span> Discount</h3>-->
-    <!--             <figure>-->
-    <!--               <img src="assets/images/popup-img.jpg" alt="imgae">-->
-    <!--             </figure>-->
-    <!--             <P>Don't miss out on special discount offer</P>-->
-    <!--             <form id="popupfrm" class="cmxform"  method="POST" action=>-->
-
-    <!--               <div class="fldst">-->
-    <!--                 <input id="username" name="Name" minlength="2" type="text" placeholder="Full Name" required />-->
-    <!--               </div>-->
-
-    <!--               <div class="fldst fldstrght">-->
-    <!--                 <input id="cemail" type="Email" name="Email" placeholder="Email Address" required>-->
-    <!--               </div>-->
-
-    <!--               <div class="fldst">-->
-    <!--                      <input id="phone-coun" name="Number" type="number" placeholder="Phone Number" required />-->
-    <!--                      <script>-->
-    <!--                      -->
-    <!--                      </script>-->
-    <!--                      <input type="hidden" name="hiddencapcha" value="">-->
-    <!--                      <input type="hidden" name="ctry" value="">-->
-    <!--                      <input type="hidden" name="pc" value="">-->
-    <!--               </div>-->
-
-    <!-- <div class="fldst">
-<!--                 <textarea name="Message" placeholder="Enter a brief description of your Book Project"></textarea>-->
-
-    <!--               </div> -->
-
-
-    <!--               <div class="fldst btnattach">-->
-    <!--                 <button type="submit" value="Submit" class="btn-theme-outline btn btn-white btn-animate"><span class="icon-paperplane plane"></span> Let's Get Started</button>-->
-    <!--                 <script>-->
-    <!--                  -->
-    <!--                  </script>-->
-    <!--                  <input type="hidden" name="hiddencapcha" value="">-->
-    <!--                  <input type="hidden" id="location" name="locationURL" value="http://www.octaanimations.com/" />-->
-    <!--               </div>-->
-    <!--               <p class="lst-p">Discuss With Our Strategic Consultant <span><a href="tel:+442038087061">+442038087061</a></span></p>-->
-    <!--             </form>-->
-    <!--           </div>-->
-    <!--       </div>-->
-    <!--   </div>-->
-    <!--</div>-->
-
-
-    <!-- exit form end -->
+    
 
 
     <noscript>
@@ -150,7 +52,7 @@
                     <ul class="firstlevel unstyled">
                         <li><a href="/branding/">Branding</a></li>
 
-                        <li><a href="/ecommerce-web-design/">Ecommerce Solutions</a></li>
+                        <li><a href="/ecommerce-web-development/">Ecommerce Solutions</a></li>
 
                         <li><a href="/web-app-development/">Web App Development</a></li>
                     </ul>
@@ -220,7 +122,7 @@
                                     <li class="serviceli"><a href="">Services</a>
                                         <ul>
                                             <li><a href="/web-design-development/">Web Design Development</a></li>
-                                            <li class="ecommerce"><a href="/ecommerce-web-design/">Ecommerce Web Development</a></li>
+                                            <li class="ecommerce"><a href="/ecommerce-web-development/">Ecommerce Web Development</a></li>
                                             <li class="web"><a href="/web-app-development/">Web App Development</a></li>
                                             <li><a href="/mobile-app-development/">Mobile App Development</a></li>
                                             <li><a href="/branding/">Branding</a></li>

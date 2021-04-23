@@ -15981,11 +15981,24 @@ h4.panel-title {
     min-width: 280px;
     position: absolute;
     top: 35px;
-    padding: 20px;
     background-color: #1e4763;
 }
-.serviceli ul li {
+.serviceli ul li{
+    border-bottom:1px solid #000;
+
+}
+.serviceli ul li a{
     font-size: 15px;
+    padding:10px 20px;
+    transition:.4s ease-in-out;
+    line-height: 40px;
+    
+
+}
+.serviceli ul li:hover {
+    background-color: #000;
+    transition:.4s ease-in-out;
+    border-color: #ff7900;
 }
 .serviceli ul li a {
     color: #fff !important;
