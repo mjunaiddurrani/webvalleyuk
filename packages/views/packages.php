@@ -9,7 +9,7 @@
 <meta name="description" content="We have a professional in-house team who is ready to work on your project at any time. Our Packages are designed to fulfill your budget needs with ease.">
 
 
-<?php include_once('includes/head.php');?>
+<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?>
 
 
 
@@ -21,7 +21,7 @@
 
 <!-- Mobile Navigation Button End-->
 
-<?php include_once('includes/header.php');?>
+<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/header.php');?>
 
 
 
@@ -1785,7 +1785,7 @@ Place purchasing requests.</li>
               <div class="form-box-main clearfix">
   <h2>Let’s talk about your next Big thing!</h2>
   <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
- <?php include_once('includes/form.php');?>
+ <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/form.php');?>
 </div>
 
 
@@ -1801,8 +1801,8 @@ Place purchasing requests.</li>
 
 
 
-<?php include_once('includes/footer.php');?>
-<?php include_once('includes/scripts.php');?>
+<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/footer.php');?>
+<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/scripts.php');?>
 
 
 </body>

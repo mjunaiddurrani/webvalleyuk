@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-    <?php include_once('includes/head.php');?>
+    <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?>
     <title>404 Page</title>
 <style>
     
@@ -65,7 +65,7 @@ a:hover {
 </head>
 <body>
     
-<?php include_once('includes/header.php');?>
+<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/header.php');?>
 
 <!-- purple x moss 2020 -->
 
@@ -81,6 +81,6 @@ a:hover {
     <div class="msg">Maybe this page moved? Got deleted? Is hiding out in quarantine? Never existed in the first place?<p>Let's go <a href="/">home</a> and try from there.</p></div>
       </div>
 
- <?php include_once('includes/footer.php');?>     
+ <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/footer.php');?>     
 </body>
 </html>
