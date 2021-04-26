@@ -61,9 +61,9 @@ bottom: 10px;
 <div class="container">
 <div class="topformcontainer"  style="width: 700px;margin-right: -120px;margin-top:-40px">
 <div id="slideshow1" class="shownImage" >
-<img src="assets/images/2b.png" alt="fire protection partner"   style="width: 700px;">
-<img src="assets/images/3b.png" alt="explore the world of age"   style="width: 700px;">
-<img src="assets/images/1b.png" alt="masage to your workspace"   style="width: 700px;">
+<img src="assets/images/loading.svg" data-src="assets/images/2b.png" alt="fire protection partner" class="lazy"  style="width: 700px;">
+<img src="assets/images/loading.svg" data-src="assets/images/3b.png" alt="explore the world of age" class="lazy"  style="width: 700px;">
+<img src="assets/images/loading.svg" data-src="assets/images/1b.png" alt="masage to your workspace" class="lazy"  style="width: 700px;">
 
 
 </div>
@@ -100,13 +100,13 @@ bottom: 10px;
                 <div class="banner-bot">
                     <ul>
                       <li>
-                        <img  src="assets/images/rateimg.png" alt="rateimg">
+                        <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/rateimg.png" alt="rateimg">
                       </li>
                       <li>
-                         <img  src="assets/images/partner1.png" alt="partner1">
+                         <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/partner1.png" alt="partner1">
                       </li>
                       <li>
-                        <img  src="assets/images/partner5.png" alt="partner5">
+                        <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/partner5.png" alt="partner5">
                       </li>
                     </ul>
                  </div>
