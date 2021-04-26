@@ -8,6 +8,10 @@ if (isset($_SERVER['HTTPS'])) {
 	$requesMet = "http";
 }
 
+
+// define dashboard url
+$_SESSION['dashboard'] = 'http://127.0.0.1:8000';
+
 ?>
 
 <base href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].'/' ?>">

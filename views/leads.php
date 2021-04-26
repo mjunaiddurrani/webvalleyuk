@@ -49,15 +49,15 @@ $decodeResponse = json_decode($response);
 $msg = $decodeResponse[1];
 
 
-$_SESSION['thanksMsg'] = $msg;
+// $_SESSION['thanksMsg'] = $msg;
 
 header_remove();
 if (headers_sent()) {
     echo "<script>
-    window.open('/thank-you/','_self')
+    window.open('/thank-you/?thanksMsg=$msg','_self')
     </script>";
-    // echo "Redirect failed. Please click on this link: <a href='/thank-you/?thanksMsg=$msg'>/thank-you/?thanksMsg=$msg</a>";
+    echo "Redirect failed. Please click on this link: <a href='/thank-you/?thanksMsg=$msg'>/thank-you/?thanksMsg=$msg</a>";
 }
 else{
-    exit(header("location:/thank-you/"));
+    exit(header("location:/thank-you/?thanksMsg=$msg"));
 }

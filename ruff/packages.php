@@ -26,10 +26,10 @@
 
 <?php 
 $api = new Api;
-// $data = $api->hit('GET','http://127.0.0.1:8000/api/packages/websitevalley.co.uk');
+$websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/websitevalley.co.uk/website-design');
+
 
 ?>
-
 
 
 
@@ -58,11 +58,12 @@ $api = new Api;
           <div id="webd" class="tab-pane active">
             
             <div class="smallboxes packagesslider">
-
+<?php foreach($websitePackages as $key => $value):?>            
   <div class="smallbox">
   <div class="package_inner">
-    <h4>Startup Website  <br> Package</h4>
-    <h2><span class="currency_symbol">£</span>220.00 <span><s>£460.00</s></span> </h2>
+    <h4><?= $value['heading'];?></h4>
+    <!-- <h4>Startup Website  <br> Package</h4> -->
+    <h2><span class="currency_symbol"><?= $value['currency'];?></span><?= $value['price']-0.01;?> <span><s><?= $value['currency'];?><?= $value['cut_price']-0.01;?></s></span> </h2>
     <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
     <!-- <div class="hrline"></div> -->
     
@@ -112,7 +113,8 @@ $api = new Api;
       </div>
     </div>
   </div>
-
+  <?php endforeach;?>
+<?php die();?>
 
   <div class="smallbox bst-selr">
   <div class="package_inner">
