@@ -171,7 +171,7 @@
 <section class="servicessection py-5" style="background-image:url('assets/images/Website-Valley---Mobile-Application-and-Development---Website-Page---9th-March_02.jpg')">
   <div class="container">
   <div class="text-center">
-  <h2><strong>Our Process of Mobile App Design & Development<strong></h2>
+  <h2><strong>Our Process of Mobile App Design & Development</strong></h2>
   <p>Our app design and development process depend on the complexity of the project and your business operations' style. Every mobile application development service has different features that set them apart from other applications. Our mob app developers create the blueprint of the application first after getting the brief from you. </p>
   <h6><strong>Making Your Application User-Favorite</strong></h6>
   <p>Then we follow a step-by-step strategy for Mob App design and Development that takes your application to the highest level without any bugs and threats problems. In the meanwhile, our mobile app designer ensures that the performance reaches the top level making our company the leading app development firm in the UK. Here's what our mobile app development process may look like: </p>
