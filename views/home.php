@@ -100,13 +100,13 @@ bottom: 10px;
                 <div class="banner-bot">
                     <ul>
                       <li>
-                        <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/rateimg.png" alt="rateimg">
+                        <img  src="assets/images/rateimg.png" alt="rateimg">
                       </li>
                       <li>
-                         <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/partner1.png" alt="partner1">
+                         <img  src="assets/images/partner1.png" alt="partner1">
                       </li>
                       <li>
-                        <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/partner5.png" alt="partner5">
+                        <img  src="assets/images/partner5.png" alt="partner5">
                       </li>
                     </ul>
                  </div>
