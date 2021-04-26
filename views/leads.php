@@ -51,7 +51,6 @@ $msg = $decodeResponse[1];
 
 // $_SESSION['thanksMsg'] = $msg;
 
-header_remove();
 if (headers_sent()) {
     echo "<script>
     window.open('/thank-you/?thanksMsg=$msg','_self')
