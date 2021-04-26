@@ -22,10 +22,13 @@
 <!-- Mobile Navigation Button End-->
 
 <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/header.php');?>
+<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/api.class.php');?>
 
+<?php 
+$api = new Api;
+$data = $api->hit('GET','http://127.0.0.1:8000/api/packages/websitevalley.co.uk');
 
-
-
+?>
 
 
 
@@ -45,10 +48,7 @@
              <li><a data-toggle="pill" href="#brandd" class="">Branding</a></li>
             <li><a data-toggle="pill" href="#videod" class="">Video Animation</a></li>
             <li><a data-toggle="pill" href="#seo" class="">Seo</a></li>
-            <!--
-            <li><a data-toggle="pill" href="#content" class="">Content Writing</a></li>
-            <li><a data-toggle="pill" href="#socal" class="">Social Media Marketing</a></li>
-            <li><a data-toggle="pill" href="#mobiled" class="">Mob App Development</a></li> -->
+
           </ul>
         <div class="tab-content pricingboxes">
           
@@ -112,7 +112,6 @@
       </div>
     </div>
   </div>
-
 
 
   <div class="smallbox bst-selr">
