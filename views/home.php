@@ -3140,7 +3140,7 @@ setInterval(function(){
     var datasrc = $(this).attr('data-src');
     $(this).attr('src',datasrc);
   })
-},1000)
+},3000)
 </script>
 
 
