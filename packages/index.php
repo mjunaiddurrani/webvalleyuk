@@ -1,6 +1,5 @@
 
 <?php
-die();
 ob_start();
 session_start();
 
@@ -36,7 +35,15 @@ if (in_array($url,$fileWithOutExt)) {
     $filename = str_replace('/','',$url);
 
     require $dir.'/'.$filename.'.php';
+    // for($i=0;$i<count($files);$i++){
+        
 
+    //     if($url == __DIR__.'/'.$fileWithOutExt[$i]){
+    //         require $dir.'/'.$files[$i];
+    //         // echo "somethisn";
+    //     }
+    
+    // }
     
 }
 else{
