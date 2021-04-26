@@ -1872,32 +1872,6 @@ Place purchasing requests.</li>
           
        
 
-<div class="col-lg-12 d-none">
-  
-        <p class="h2 text-center">Our Clients</p>
-        <ul class="mycli mslider">
-             <li class="first"><img src="assets/images/spo1.jpg" alt="spo1" width="40" height="40"></li>
-             <li><img src="assets/images/spo2.png" alt="spo2" width="223" height="40"></li>
-             <li><img src="assets/images/spo3.jpg" alt="spo3" width="173" height="40"></li>
-             <li><img src="assets/images/spo4.png" alt="spot5" width="181" height="40"></li>
-             <li><img src="assets/images/spo5.jpg" alt="spot6" width="317" height="40"></li>
-             <li><img src="assets/images/spo6.png" alt="spot7" width="146" height="40"></li>
-             <li><img src="assets/images/spo7.jpg" alt="spot8" width="87" height="40"></li>
-             <li><img src="assets/images/spo8.jpg" alt="spot9" width="175" height="40"></li>
-             <li><img src="assets/images/spo9.png" alt="spot10" width="286" height="40"></li>
-             <li><img src="assets/images/spo10.jpg" alt="spot11" width="269" height="40"></li>
-             <li><img src="assets/images/spo11.jpg" alt="spot12" width="133" height="40"></li>
-             <li><img src="assets/images/spo12.jpg" alt="spot13" width="127" height="40"></li>
-             <li><img src="assets/images/spo13.jpg" alt="spot14" width="80" height="40"></li>
-             <li><img src="assets/images/spo14.jpg" alt="spot15" width="122" height="40"></li>
-             <li class="last"><img src="assets/images/spo15.jpg" alt="spot16" width="156" height="40"></li>
-          </ul>
-
-
-
-
-
-      </div>
     </div>
   </div>
 </section>
