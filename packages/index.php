@@ -1,5 +1,6 @@
 
 <?php
+die();
 ob_start();
 session_start();
 
@@ -30,7 +31,7 @@ if($url=='/'){
 
 // print_r($fileWithOutExt);
 // die();
-die();
+
 if (in_array($url,$fileWithOutExt)) {
     $filename = str_replace('/','',$url);
 
