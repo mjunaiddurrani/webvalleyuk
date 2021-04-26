@@ -1,9 +1,24 @@
-
 <script src="assets/js/mlib.js"></script> 
+<script>
 
+	  var check = true;
+$(window).scroll(function (event) {
+	    var scroll = $(window).scrollTop();
+      var headContent = `<link href="https://fonts.googleapis.com/css?family=Poppins:400,600,800,900&amp;display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+      
+      <script src="assets/js/functions.js"></script> 
+      `;
+      if (scroll>80) {
+        if(check == true){
+         $('head').append(headContent);
+        
+        }
+        check = false;
+	    }
+	});
+</script>
 
-
-<script src="assets/js/functions.js"></script> 
 
 <!--Start of Zendesk Chat Script-->
 <script>
@@ -29,15 +44,6 @@ debug: false,
 
 
 
-
-
-// if ($.cookie('ysExit') == 1)
-//      {
-
-//      }
-// else{
-//  ysExit(options);
-// }
 
 
 
@@ -154,22 +160,7 @@ if(window.location.pathname=="/"){
 
 
 </script>
-<script>
-//  $(document).on('scroll',function(){
-  // $('.pricingsec').html(pricingsec);
-//  })
-	  var check = true;
-$(window).scroll(function (event) {
-	    var scroll = $(window).scrollTop();
-      if (scroll>80) {
-        if(check == true){
-         $('head').append(`<link href="https://fonts.googleapis.com/css?family=Poppins:400,600,800,900&amp;display=swap" rel="stylesheet"><link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>`);
-        
-        }
-        check = false;
-	    }
-	});
-</script>
+
 
 <script type="application/ld+json">
     {
