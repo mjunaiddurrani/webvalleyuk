@@ -179,7 +179,7 @@ bottom: 10px;
       <div class="col-lg-6">
         <div class="txtwrap">
           <h2>All-Inclusive Platform that Your Business Need Right Now </h2>
-          <p>We are an all-in-one designing, developing, and branding platform thatyour business needs to engage your audience and generate more leads and income.You have got our full-fledged professional support on every stage of website andbranding development. Our professional services cater to every type of industry-specific client in the UK. We will ensure that our quick online developers anddesigners hold the expertise to bring effective results for you.</p>
+          <p>We are an all-in-one designing, developing, and branding platform that your business needs to engage your audience and generate more leads and income. You have got our full-fledged professional support on every stage of website and branding development. Our professional services cater to every type of industry-specific client in the UK. We will ensure that our quick online developers anddesigners hold the expertise to bring effective results for you.</p>
           <ul class="myticks">
             <li class="text-black">Top e-Commerce Solution </li>
             <li class="text-black">Web Application Development  </li>
