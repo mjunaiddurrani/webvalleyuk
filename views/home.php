@@ -32,6 +32,16 @@ bottom: 10px;
 }
 
 
+
+
+ svg {
+	 width: 100px;
+	 height: 100px;
+	 margin: 20px;
+	 display: inline-block;
+}
+
+ 
 </style>
 </head>
 <body class="hompg hdar-clr">
@@ -51,9 +61,9 @@ bottom: 10px;
 <div class="container">
 <div class="topformcontainer"  style="width: 700px;margin-right: -120px;margin-top:-40px">
 <div id="slideshow1" class="shownImage" >
-<img src="assets/images/2b.png" alt="fire protection partner"  style="width: 700px;">
-<img src="assets/images/3b.png" alt="explore the world of age"  style="width: 700px;">
-<img src="assets/images/1b.png" alt="masage to your workspace"  style="width: 700px;">
+<img src="assets/images/loading.svg" data-src="assets/images/2b.png" alt="fire protection partner" class="lazy"  style="width: 700px;">
+<img src="assets/images/loading.svg" data-src="assets/images/3b.png" alt="explore the world of age" class="lazy"  style="width: 700px;">
+<img src="assets/images/loading.svg" data-src="assets/images/1b.png" alt="masage to your workspace" class="lazy"  style="width: 700px;">
 
 
 </div>
@@ -90,13 +100,13 @@ bottom: 10px;
                 <div class="banner-bot">
                     <ul>
                       <li>
-                        <img src="assets/images/rateimg.png" alt="rateimg">
+                        <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/rateimg.png" alt="rateimg">
                       </li>
                       <li>
-                         <img src="assets/images/partner1.png" alt="partner1">
+                         <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/partner1.png" alt="partner1">
                       </li>
                       <li>
-                        <img src="assets/images/partner5.png" alt="partner5">
+                        <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/partner5.png" alt="partner5">
                       </li>
                     </ul>
                  </div>
@@ -1812,7 +1822,7 @@ Place purchasing requests.</li>
          <ul class="testwrap sldrtstmnl">
           <li>
             <div class="testbox">
-              <img src="assets/images/testimonials-icons/sarah-ramirez.png" alt="sarah-ramirez" class="rounded-circle">
+              <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/sarah-ramirez.png" alt="sarah-ramirez" class="rounded-circle lazy">
  
               <div class="usertest">
                 <p>They have a quick and highly efficient team of developers and designers in the UK. I'm delighted to opt for their services as they provided me with quality and fantastic web designing services. I couldn't have gotten such excellent services at an affordable price. I'd definitely recommend them and their benefits. </p>
@@ -1831,7 +1841,7 @@ Place purchasing requests.</li>
 
           <li>
             <div class="testbox">
-              <img src="assets/images/testimonials-icons/bhooshan-ramchurn.png" alt="bhooshan-ramchurn" class="rounded-circle">
+              <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/bhooshan-ramchurn.png" alt="bhooshan-ramchurn" class="rounded-circle lazy">
        
               <div class="usertest">
                 <p>So happy with this type of affordable website development services in the UK. They got me on the right track with their killer branding strategies. I'm glad to collaborate with them for my next big things. </p>
@@ -1849,7 +1859,7 @@ Place purchasing requests.</li>
 
           <li>
             <div class="testbox">
-              <img src="assets/images/testimonials-icons/michael-vanzille.png" alt="michael-vanzille" class="rounded-circle">
+              <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/michael-vanzille.png" alt="michael-vanzille" class="rounded-circle lazy">
     
               <div class="usertest">
                 <p>We had an initial discussion over the phone call regarding the project, and I got satisfied through the insightful discussion. I have worked with many services like these but could not say this for about any of them. They are a great team that knows their stuff well. I'll continue using their services. Thank you, Website Valley! </p>
@@ -3125,8 +3135,12 @@ setInterval(function() {
     .appendTo('#slideshow1');
 }, 5000);
 
-
-
+setInterval(function(){
+  $('.lazy').each(function(){
+    var datasrc = $(this).attr('data-src');
+    $(this).attr('src',datasrc);
+  })
+},1000)
 </script>
 
 
