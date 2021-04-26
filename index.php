@@ -7,6 +7,7 @@ session_start();
 $url = $_SERVER['REQUEST_URI'];
 
 if(strpos($url,'packages')){
+    var_dump($url);die;
     echo "pacakages";
     die();
 }
