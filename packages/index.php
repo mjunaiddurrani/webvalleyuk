@@ -3,7 +3,7 @@
 ob_start();
 session_start();
 
-die();
+
 $url = $_SERVER['REQUEST_URI'];
 
 $current_url = explode('?', $url);
