@@ -17,10 +17,9 @@ if (isset($_SERVER['HTTPS'])) {
 <link rel="icon" href="favicon.png" type="image/x-icon" />
 <link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
 <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-<link href="https://fonts.googleapis.com/css?family=Poppins:400,600,800,900&amp;display=swap" rel="stylesheet">
 
 
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+
 
 <style>
    #modalForDiscount p{
