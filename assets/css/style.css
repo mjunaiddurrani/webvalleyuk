@@ -5456,6 +5456,7 @@ footer .social-full {
     border-top: 1px solid #eeeeee;
     margin: 0;
     margin-bottom: 20px;
+    overflow-y:scroll;
 }
 
 .cta-left {
