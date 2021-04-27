@@ -6,9 +6,13 @@ session_start();
 
 $url = $_SERVER['REQUEST_URI'];
 
-if(strpos($url,'/packages')){
+// if(strpos($url,'/packages')){
+//     require_once('./packages/index.php');
+//     exit();
+// }
+if(strstr($url,'/packages',false)){
     require_once('./packages/index.php');
-    die();
+    exit();
 }
 
 $current_url = explode('?', $url);
