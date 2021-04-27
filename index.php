@@ -6,7 +6,7 @@ session_start();
 
 $url = $_SERVER['REQUEST_URI'];
 
-if(strpos($url,addslashes('/packages/'))){
+if(strpos($url,'/packages')){
     require_once('./packages/index.php');
     die();
 }
