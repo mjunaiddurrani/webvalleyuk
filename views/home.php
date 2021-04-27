@@ -3113,13 +3113,21 @@ var pricingsec = `
 //  $(document).on('scroll',function(){
   // $('.pricingsec').html(pricingsec);
 //  })
-$(window).scroll(function (event) {
-	    var scroll = $(window).scrollTop();
-	    if (scroll>80) {
-         $('.pricingsec').html(pricingsec);
+// $(window).scroll(function (event) {
+// 	    var scroll = $(window).scrollTop();
+// 	    if (scroll>80) {
+         
 	    
-	    }
-	});
+// 	    }
+// 	});
+
+// setTimeout(() => {
+  
+// }, 5000);
+$(document).ready(function(){
+  $('.pricingsec').html(pricingsec);
+
+})
 </script>
 
 <script>
@@ -3135,7 +3143,7 @@ setInterval(function() {
     .appendTo('#slideshow1');
 }, 5000);
 
-setInterval(function(){
+setTimeout(function(){
   $('.lazy').each(function(){
     var datasrc = $(this).attr('data-src');
     $(this).attr('src',datasrc);

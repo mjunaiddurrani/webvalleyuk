@@ -8,8 +8,6 @@ $url = $_SERVER['REQUEST_URI'];
 
 if(strpos($url,addslashes('/packages/'))){
     require_once('./packages/index.php');
-    // var_dump($url);die;
-    // echo "pacakages";
     die();
 }
 

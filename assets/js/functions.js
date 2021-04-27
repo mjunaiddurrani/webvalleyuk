@@ -622,21 +622,17 @@ let ip_value;
           },
        initialCountry: "auto",
        nationalMode: true,
-       separateDialCode: true,
-      // onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
-      // placeholderNumberType: "MOBILE",
-      // preferredCountries: ['cn', 'jp'],
-     // utilsScript: "<?php echo $basesurl;?>js/utils.js"
+       separateDialCode: true
     });
 
 
 
 setTimeout(function(){
-    console.log(ip);
+    
     
     $('input[name="pc"]').val($('.selected-dial-code').text());
    $('input[name="cip"]').val(ip);
-    console.log(ip);
+    
     $('input[name="ctry"]').val( $('.country-list .country.active .country-name').text());
 }, 3000);
 
