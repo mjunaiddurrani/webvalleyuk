@@ -15,6 +15,7 @@ if(strstr($url,'/packages',false)){
     exit();
 }
 
+
 $current_url = explode('?', $url);
 $url = $current_url[0];
 

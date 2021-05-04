@@ -1,0 +1,43 @@
+.bannerHeading{
+    color:#FF7A00;
+    font-size:50px;
+    font-weight:600;
+}
+.paragraph{
+    color:#9B9C9C;
+    font-size:23px;
+}
+.font-16{
+    font-size: 16px;
+}
+.colorGray{
+    color: #9B9C9C;
+}
+.colorGray.active{
+    color: #000;
+}
+.btnTheme{
+    background-color: #d6d6d6;
+    color:#fff;
+    border:none;
+    border-radius: 0;
+    width: 100%;
+    padding:15px 0;
+    box-shadow: 6px 9px 8px -3px #888888;
+}
+.btnTheme.active ,.btnTheme:hover{
+    background-color: #1e4763!important;
+}
+.btnTheme:focus{
+    box-shadow: none;
+
+}
+.font-weight-600{
+    font-weight:600;
+}
+.inlineLi{
+    padding-right: 30px ;
+}
+.bg-black{
+   background-color: #afafaf; 
+}

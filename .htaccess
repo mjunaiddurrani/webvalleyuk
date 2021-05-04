@@ -11,6 +11,9 @@ RewriteCond %{HTTP_HOST} !^www\. [NC]
 RewriteCond %{HTTPS}s ^on(s)|
 RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
+# Redirect old file path to new file path
+RewriteRule ^ourpackages/(.*)$ /packages/ [R=301,NC,L]
+
 
 # Force SSL: From http://stackoverflow.com/q/24322035/
 RewriteCond %{HTTPS} off

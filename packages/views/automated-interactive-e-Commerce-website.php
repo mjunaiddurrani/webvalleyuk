@@ -375,8 +375,9 @@
                         <div class="home-banner-content">
                             <div class="col-lg-8 offset-lg-2 inner-content text-left">
                                 <div class="form-box-main clearfix">
-                                    <h2>Let’s talk about your next Big thing!</h2>
+                                      <h2>Let’s talk about your next Big thing!</h2>
                                     <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
+ <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/form.php');?>
 
                                 </div>
 
