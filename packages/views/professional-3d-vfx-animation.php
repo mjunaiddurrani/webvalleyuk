@@ -19,7 +19,20 @@
 
     <!-- End of HubSpot Embed Code -->
 
-   <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?>
+   <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?><!-- seo  -->
+<meta property="og:locale" content="en_GB" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Professional 3D VFX Animation for unique brand identity" />
+  <meta property="og:description" content="We create professional 3D VFX animations and designs that are powerful to engage your customers online. We do unlimited revisions, 3d modeling, and more." />
+  <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
+  <meta property="og:site_name" content="websitevalley" />
+  <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
+  <meta property="og:image" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@websitevalleyuk" />
+  <meta name="twitter:site" content="@websitevalleyuk" />
+  <meta name="twitter:image:src" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png">
+
 
 
 

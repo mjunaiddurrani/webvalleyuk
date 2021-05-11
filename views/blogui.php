@@ -9,7 +9,23 @@
 
 
 
-<?php include_once('includes/head.php');?>
+<?php include_once('includes/head.php');?><!-- seo  -->
+<meta property="og:locale" content="en_GB" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Website Valley's Portfolio is Built with Love" />
+  <meta property="og:description" content="A portfolio is the heart of every company, so it is always built through dedication and handwork. See our portfolio to understand our unique capabilities." />
+  <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
+  <meta property="og:site_name" content="websitevalley" />
+  <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
+  <meta property="og:image" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@websitevalleyuk" />
+  <meta name="twitter:site" content="@websitevalleyuk" />
+  <meta name="twitter:image:src" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png">
+
+
+
+
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/duotone.css" integrity="sha384-R3QzTxyukP03CMqKFe0ssp5wUvBPEyy9ZspCB+Y01fEjhMwcXixTyeot+S40+AjZ" crossorigin="anonymous"/>
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/fontawesome.css" integrity="sha384-eHoocPgXsiuZh+Yy6+7DsKAerLXyJmu2Hadh4QYyt+8v86geixVYwFqUvMU8X90l" crossorigin="anonymous"/>
 

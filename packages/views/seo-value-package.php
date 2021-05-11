@@ -19,7 +19,20 @@
 
     <!-- End of HubSpot Embed Code -->
 
-   <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?>
+   <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?><!-- seo  -->
+<meta property="og:locale" content="en_GB" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Our value package builds your brand authority in market" />
+  <meta property="og:description" content="We conduct complete brand analysis to locate problem with your existing seo strategy. We create powerful backlinks, brand listing, optimization and more." />
+  <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
+  <meta property="og:site_name" content="websitevalley" />
+  <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
+  <meta property="og:image" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@websitevalleyuk" />
+  <meta name="twitter:site" content="@websitevalleyuk" />
+  <meta name="twitter:image:src" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png">
+
 
 
 

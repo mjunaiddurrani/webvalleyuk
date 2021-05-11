@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 <head>
-    <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?>
-    <title>404 Page</title>
+<title>404 Page</title>
+    <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?><!-- seo  -->
+<meta property="og:locale" content="en_GB" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="404 Page" />
+  <meta property="og:description" content="This url not found on server" />
+  <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
+  <meta property="og:site_name" content="websitevalley" />
+  <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
+  <meta property="og:image" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@websitevalleyuk" />
+  <meta name="twitter:site" content="@websitevalleyuk" />
+  <meta name="twitter:image:src" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png">
+
+
+
 <style>
     
 body {

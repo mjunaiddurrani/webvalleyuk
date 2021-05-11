@@ -10,7 +10,20 @@
 
 
 
-<?php include_once('includes/head.php');?>
+<?php include_once('includes/head.php');?><!-- seo  -->
+<meta property="og:locale" content="en_GB" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Video Animation Services In UK" />
+  <meta property="og:description" content="Animation that keeps you real benefits" />
+  <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
+  <meta property="og:site_name" content="websitevalley" />
+  <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
+  <meta property="og:image" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@websitevalleyuk" />
+  <meta name="twitter:site" content="@websitevalleyuk" />
+  <meta name="twitter:image:src" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png">
+
 
 
 
