@@ -56,7 +56,7 @@
           
 
 
-          <div id="" class="tab-pane active">
+          <div  class="tab-pane active">
             <div class="smallboxes packagesslider">
 
   <div class="smallbox">
