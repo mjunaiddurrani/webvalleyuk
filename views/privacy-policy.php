@@ -2,8 +2,8 @@
 <html class="no-js hover js--masthead-hidden" lang=en-gb data-js="toggled nav parent">
    
 <!-- Mirrored from websitevalley.co.uk/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:42 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
+<!-- Added by HTTrack --><head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
       <meta charset=utf-8>
       <meta content="IE=edge,chrome=1" http-equiv=X-UA-Compatible>
       <meta name=viewport content="width=device-width, initial-scale=1, minimal-ui">

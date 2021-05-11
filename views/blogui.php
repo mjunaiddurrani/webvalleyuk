@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-GB">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
+<head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <title>Website Valley's Portfolio is Built with Love </title>
 
 <meta name="description" content="A portfolio is the heart of every company, so it is always built through dedication and handwork. See our portfolio to understand our unique capabilities.">

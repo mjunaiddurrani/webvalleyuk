@@ -2,8 +2,8 @@
 <html lang="en-GB">
 
 <!-- Mirrored from websitevalley.co.uk/portfolio by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
+<!-- Added by HTTrack --><head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <title>Website Valley's Portfolio is Built with Love </title>
 
 <meta name="description" content="A portfolio is the heart of every company, so it is always built through dedication and handwork. See our portfolio to understand our unique capabilities.">

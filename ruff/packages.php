@@ -2,8 +2,8 @@
 <html lang="en-GB">
 
 <!-- Mirrored from websitevalley.co.uk/packages by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:06 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
+<!-- Added by HTTrack --><head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <title>Designing, Developing, Marketing, and Branding Packages </title>
 
 <meta name="description" content="We have a professional in-house team who is ready to work on your project at any time. Our Packages are designed to fulfill your budget needs with ease.">

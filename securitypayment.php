@@ -94,8 +94,8 @@ ini_set('display_errors', 1);
 
 <!doctype html>
 <html lang="en-GB">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<head>
+<head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
   <title>WebsiteValley</title>
     <meta name="description" content=""> 
    
