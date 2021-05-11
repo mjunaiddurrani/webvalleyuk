@@ -154,7 +154,7 @@ a:active{
 
 <section class="servicesec">
   <div class="container">
-      
+
     <div class="row">
       <div class="col-lg-12">
         <div class="centerwrap">
@@ -331,11 +331,13 @@ web design services. </h3>
 
 They are one heck of a professional website design company! We had a fantastic time working with Website Valley as a team. We weren't confident how much cheap website design services would do such a tremendous job. As an agency, we believe they are doing a great job satisfying the customers' needs and providing excellent services. We're lucky to have found them and will keep working with them. 
 
-Overall, it was a great experience working with Website Valley.<span id="dots">...</span><span id="more"> They had a Custom web design service online with affordable web design packages.They were highly cooperative and understood our brand needs first to deliver effective results. We've got our web developed by them, and we're happy to hire their cheap website design services. We got a great looking website, but they created everything within the budget and the given time. 
+Overall, it was a great experience working with Website Valley.
+<span id="dots">...</span>
+<span id="more"> They had a Custom web design service online with affordable web design packages.They were highly cooperative and understood our brand needs first to deliver effective results. We've got our web developed by them, and we're happy to hire their cheap website design services. We got a great looking website, but they created everything within the budget and the given time. 
 
 Website Valley was easy to work with, and we quickly understood our needs and were able to develop our new website on a short deadline. We'd continue working with them as they have been such a great help to us. We're happy to collaborate with them for our website project development and maintenance at a cheap website design services package. 
-</p>
 </span>
+</p>
 <button onclick="myFunction()" id="myBtn">Read more <i class="fas fa-arrow-right"></i></button>        
         </div>
       </div>
