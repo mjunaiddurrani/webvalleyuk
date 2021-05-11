@@ -111,7 +111,7 @@ a:active{
 
 
 
-<section class="mysatisfied">
+<div class="mysatisfied">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -149,12 +149,12 @@ a:active{
       </div>
     </div>
   </div>
-</section>
+</div>
 
 
 <section class="servicesec">
   <div class="container">
-    
+      
     <div class="row">
       <div class="col-lg-12">
         <div class="centerwrap">
@@ -166,12 +166,12 @@ a:active{
     
     <div>
   <br>
- <span id="text"><h3>We offer many Custom Web Design Services Online. </h3>
+ <div id="text"><h3>We offer many Custom Web Design Services Online. </h3>
     <p>Having a slow, cluttered, designed, or unresponsive website is akin to losing thousands of dollars worth of business with every passing minute. You must be aware of the changing needs of the times and bring your business online with a modern website design.</p>
     <span class="h3  font-18">Increase your ROI, and cultivate a loyal audience for your site </span>
     <p>With expert website designers' help, you can grow your business significantly, Our custom website design company offers unique websites that gain your visitors'  attention and help you make longer working relations with them.</p>
 
-  </span>
+  </div>
 </div>
 <div class="btn-container">
 <span id="toggle">Read More <i class="fas fa-arrow-right"></i></span>
