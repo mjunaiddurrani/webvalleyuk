@@ -81,7 +81,7 @@
 
 
 
-<section class="mysatisfied">
+<div class="mysatisfied">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -119,7 +119,7 @@
       </div>
     </div>
   </div>
-</section>
+</div>
 
 <section class="mprocess pbpx-0">
   <div class="container">
@@ -330,7 +330,7 @@
 </section>
 
 
-<section class="filterportfolio">
+<div class="filterportfolio">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -464,7 +464,7 @@
       </div>
     </div>
   </div>
-</section>
+</div>
 
 
 
@@ -474,28 +474,28 @@
 
 
 <section class="qwer">
-<div class="container">
-<div class="row">
-<div class="col-lg-6">
-<div>
-<h3 class="loou">
-Mob App Design and Development, SOUNDS GOOD?
-<br><br>
-Call our leading mobile apps development firm to get started.
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <div>
+          <h3 class="loou">
+          Mob App Design and Development, SOUNDS GOOD?
+          <br><br>
+          Call our leading mobile apps development firm to get started.
 
-</h3>
-</div>
-</div>
-<div class="col-lg-6">
-<div>
-<figure>
-<!-- <img src="assets/images/call.png" alt="imgae"> -->
-<a href="tel:+442038087061"><img src="assets/images/call.png" alt="mobile icon"></a>
-</figure>
-</div>
-</div>
-</div>
-</div>
+          </h3>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div>
+          <figure>
+          <!-- <img src="assets/images/call.png" alt="imgae"> -->
+          <a href="tel:+442038087061"><img src="assets/images/call.png" alt="mobile icon"></a>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 
@@ -506,15 +506,6 @@ Call our leading mobile apps development firm to get started.
 
 
 
-
-
- 
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     
 
 <section class="faqsSection my-5">
