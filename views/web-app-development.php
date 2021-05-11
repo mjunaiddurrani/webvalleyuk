@@ -81,7 +81,7 @@
 
 
 
-<section class="mysatisfied">
+<div class="mysatisfied">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -119,7 +119,7 @@
       </div>
     </div>
   </div>
-</section>
+</div>
 
 
 <section class="mprocess pbpx-0">
@@ -279,8 +279,8 @@
         </div>
 
         
-        <ul class="portfoliolist grid loadmorewebapp web-design-portfolio-slider d-none d-md-block">
-               <div>
+        <div class="portfoliolist grid loadmorewebapp web-design-portfolio-slider d-none d-md-block">
+               <ul>
                 <li class="border-box-effect logoportfo" data-category="transition">
                   <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.png">
                     <figure>
@@ -323,8 +323,8 @@
                     </figure>
                   </a>
                 </li>
-                </div>
-  <div>
+                </ul>
+  <ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/5.png">
       <figure>
@@ -367,8 +367,8 @@
       </figure>
     </a>
   </li>
-  </div>
-  <div>
+  </ul>
+  <ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/9.png">
       <figure>
@@ -411,8 +411,8 @@
       </figure>
     </a>
   </li>
-  </div>
-  <div>
+  </ul>
+  <ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/13.png">
       <figure>
@@ -456,10 +456,10 @@
     </a>
   </li>
 
-</div>            
-</ul>
-<ul class="portfoliolist grid loadmorewebapp web-design-portfolio-slider d-block d-md-none">
-               <div>
+</ul>            
+</div>
+<div class="portfoliolist grid loadmorewebapp web-design-portfolio-slider d-block d-md-none">
+               <ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.png">
       <figure>
@@ -467,8 +467,8 @@
       </figure>
     </a>
   </li>
-</div>
-<div>
+</ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/2.png">
       <figure>
@@ -476,8 +476,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/3.png">
       <figure>
@@ -485,8 +485,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/4.png">
       <figure>
@@ -494,8 +494,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
    <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/1.jpg">
       <figure>
@@ -503,8 +503,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
  <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/2.jpg">
       <figure>
@@ -512,10 +512,10 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
-  </div>
-  <div>
+  </ul>
+<ul>
+  </ul>
+  <ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/5.png">
       <figure>
@@ -523,8 +523,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/6.png">
       <figure>
@@ -532,8 +532,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/7.png">
       <figure>
@@ -541,8 +541,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/8.png">
       <figure>
@@ -550,8 +550,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/3.jpg">
       <figure>
@@ -559,8 +559,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/4.jpg">
       <figure>
@@ -568,10 +568,10 @@
       </figure>
     </a>
   </li>
-  </div>
-</ul>
-<ul class="portfoliolist grid loadmorewebapp web-design-portfolio-slider2 d-block d-md-none" dir="rtl">
-  <div>
+  </ul>
+</div>
+<div class="portfoliolist grid loadmorewebapp web-design-portfolio-slider2 d-block d-md-none" dir="rtl">
+  <ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/9.png">
       <figure>
@@ -579,8 +579,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/10.png">
       <figure>
@@ -588,8 +588,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/11.png">
       <figure>
@@ -597,8 +597,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/12.png">
       <figure>
@@ -606,8 +606,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
 <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/5.jpg">
       <figure>
@@ -615,8 +615,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
     <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/6.jpg">
       <figure>
@@ -624,8 +624,8 @@
       </figure>
     </a>
   </li>
-  </div>
-  <div>
+  </ul>
+  <ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/13.png">
       <figure>
@@ -633,8 +633,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/14.png">
       <figure>
@@ -642,8 +642,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/15.png">
       <figure>
@@ -651,8 +651,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/16.png">
       <figure>
@@ -660,8 +660,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
      <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/7.jpg">
       <figure>
@@ -669,8 +669,8 @@
       </figure>
     </a>
   </li>
-  </div>
-<div>
+  </ul>
+<ul>
      <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/webapp/8.jpg">
       <figure>
@@ -679,11 +679,11 @@
     </a>
   </li>
 
-</div>
+</ul>
     
 <!-- <li>
   <a href="javascript:;" class="btn-main" id="loadmorewebapp" style="font-size: 14px;margin-top: 20px;">View More</a>
-</li> -->            </ul>
+</li> -->            </div>
 
         
 
