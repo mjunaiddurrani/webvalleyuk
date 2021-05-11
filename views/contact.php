@@ -1,10 +1,9 @@
 <!doctype html>
-<html>
+<html lang="en-GB">
 
 <!-- Mirrored from websitevalley.co.uk/contact by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:07 GMT -->
 <!-- Added by HTTrack --><head>
 
-<meta charset="utf-8">
 <title>Our services are available 24/7 throughout the year </title>
 
 <meta name="description" content="You have a mind-changing idea for your business? You want to achieve all your marketing goals? No worries, you've got our full-fledged support. Contact now">
@@ -59,7 +58,7 @@
 </section>
 
 
-<section class="twoboxes">
+<div class="twoboxes">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -84,7 +83,7 @@
       </div>
     </div>
   </div>
-</section>
+</div>
 </div>
 
 <section class="belowform home-form">
@@ -120,7 +119,7 @@
         <div class="mapwrap">
 
           <div class="mappart">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.3272035050045!2d-0.08589268424327297!3d51.52555817963808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca5600c0aa5%3A0x3be7d5380a8e51a2!2s86%2C%2090%20Paul%20St%2C%20Shoreditch%2C%20London%20EC2A%204NE%2C%20UK!5e0!3m2!1sen!2sus!4v1612398314554!5m2!1sen!2sus" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.3272035050045!2d-0.08589268424327297!3d51.52555817963808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca5600c0aa5%3A0x3be7d5380a8e51a2!2s86%2C%2090%20Paul%20St%2C%20Shoreditch%2C%20London%20EC2A%204NE%2C%20UK!5e0!3m2!1sen!2sus!4v1612398314554!5m2!1sen!2sus"  style="border:0" allowfullscreen></iframe>
             
           </div>
           <div class="infopart">
