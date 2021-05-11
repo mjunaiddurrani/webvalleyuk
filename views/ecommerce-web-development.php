@@ -2,7 +2,7 @@
 <html lang="en-GB">
 
 <!-- Mirrored from websitevalley.co.uk/ecommerce-website-design by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:46 GMT -->
-<!-- Added by HTTrack --><head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<!-- Added by HTTrack --><head>
 
 <title>Custom Ecommerce Website Design & Development Agency in UK</title>
 <meta name="description" content="Website Valley is a UK based ecommerce web design & development company, that offers custom ecommerce website design services to meet your business needs.">

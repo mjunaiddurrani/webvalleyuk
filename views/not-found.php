@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en-GB">
-<head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
 
 <title>Not Found </title>
 <meta name="description" content="Oops! Page Not Found">

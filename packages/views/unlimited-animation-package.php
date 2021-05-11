@@ -3,7 +3,7 @@
 
 <!-- Mirrored from websitevalley.co.uk/packages/unlimited-animation-package by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:25 GMT -->
 <!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 
 <head>
     <title>Unlimited Animation Package to make brand memorable </title>

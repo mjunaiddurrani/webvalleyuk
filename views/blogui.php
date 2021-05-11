@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en-GB">
-<head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
 
 <title>Website Valley's Portfolio is Built with Love </title>
 

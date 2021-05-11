@@ -3,7 +3,7 @@
 
 <!-- Mirrored from websitevalley.co.uk/packages/infographic-package by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:20 GMT -->
 <!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 
 <head>
     <title>Avail the iconic infographic package for maximum growth</title>

@@ -2,7 +2,7 @@
 <html>
 
 <!-- Mirrored from websitevalley.co.uk/contact by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:07 GMT -->
-<!-- Added by HTTrack --><head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<!-- Added by HTTrack --><head>
 
 <meta charset="utf-8">
 <title>Our services are available 24/7 throughout the year </title>

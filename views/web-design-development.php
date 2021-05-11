@@ -2,7 +2,7 @@
 <html lang="en-GB">
 
 <!-- Mirrored from websitevalley.co.uk/web-design by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:32 GMT -->
-<!-- Added by HTTrack --><head><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<!-- Added by HTTrack --><head>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <title>Website Development Company #1 in UK Website Design Service</title>
