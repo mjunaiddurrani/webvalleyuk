@@ -95,7 +95,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
              
               
               
-              <!-- <li class="web"><a href="/blog/">Blog</a></li> -->
+              <li class="web"><a href="/blog/">Blog</a></li>
                    
                     <li class="combo"><a href="/combo-packages/">Combo Packages</a></li>
               <li class="packages"><a href="/packages/">Packages</a></li>
