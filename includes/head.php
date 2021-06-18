@@ -17,7 +17,7 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 <base href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].'/' ?>">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="google-site-verification" content="u2Hu5XSG3LkMhd_Zpz2yXQYspUbPr7mhqNDdt3zF3NA" />
+<meta name="google-site-verification" content="gy6PSMlqKV0kfPcqYFhdqUXgfpeXsasVfzn_EToaZK0" />
 <link rel="icon" href="favicon.png" type="image/x-icon" />
 <link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
 <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
