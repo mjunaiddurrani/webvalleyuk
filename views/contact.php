@@ -119,15 +119,14 @@
         <div class="mapwrap">
 
           <div class="mappart">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.3272035050045!2d-0.08589268424327297!3d51.52555817963808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca5600c0aa5%3A0x3be7d5380a8e51a2!2s86%2C%2090%20Paul%20St%2C%20Shoreditch%2C%20London%20EC2A%204NE%2C%20UK!5e0!3m2!1sen!2sus!4v1612398314554!5m2!1sen!2sus"  style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2481.3748281106546!2d0.0807980155851441!3d51.543025515919055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a671db33c445%3A0x93498b5101f61825!2s54%20Park%20Ave%2C%20Barking%20IG11%208QU%2C%20UK!5e0!3m2!1sen!2s!4v1624544383327!5m2!1sen!2s"  style="border:0" allowfullscreen></iframe>
             
           </div>
           <div class="infopart">
             <div class="chunk">
               <h3>Headquarters</h3>
-              <p> 86-90 Paul Street, London <br>EC2A 4NE, UK</p>
-              <br>
-              <p> 104 Meads Lane, Ilford IG3<br> 8PE, UK</p>
+              <p> 54 park avenue barking, Essex, IG11 8QU,  UK</p>
+
             </div>
             <div class="chunk">
               <h3>Phone</h3>
