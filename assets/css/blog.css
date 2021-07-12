@@ -74497,3 +74497,12 @@
         padding: 1px 0;
         width: 100% ;
     }
+    div#comments{
+        width:60%;
+    }
+
+    @media (max-width:767px){
+        div#comments{
+            width:100%;
+        }
+    }
