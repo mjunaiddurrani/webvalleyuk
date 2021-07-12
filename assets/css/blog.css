@@ -74488,3 +74488,12 @@
  .plyr [hidden] {
      display: none !important
  }
+
+ .entry-content p
+    {
+        margin-left: auto;
+        margin-right: auto;
+        margin: 5px auto;
+        padding: 1px 0;
+        width: 65%;
+    }
