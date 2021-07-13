@@ -74506,3 +74506,7 @@
             width:100%;
         }
     }
+
+    .widget_sh_mailChimp_style2.style3 .mc4wp-form input[type=email]{
+        outline:none;
+    }
