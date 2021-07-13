@@ -74529,7 +74529,7 @@
         border: 1px solid #e3e3e3;
         border-radius: 100px;
     }
-    input{
+    input,textarea,a{
         outline:none !important;
     }
 
