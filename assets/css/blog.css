@@ -74510,3 +74510,9 @@
     .widget_sh_mailChimp_style2.style3 .mc4wp-form input[type=email]{
         outline:none;
     }
+
+    .signUpButton{
+        position: absolute;
+        top: 0;
+        height: 43px;  
+    }
