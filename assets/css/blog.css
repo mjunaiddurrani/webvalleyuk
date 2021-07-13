@@ -74516,3 +74516,16 @@
         top: 0;
         height: 43px;  
     }
+
+    .customSearchField{
+        border-radius: 100px;
+        border: 1px solid #e3e3e3;
+        outline: none;
+        color: #8d8d8d;
+    }
+    .customSearchButton {
+        background-color: transparent !important;
+        color: #000 !important;
+        border: 1px solid #e3e3e3;
+        border-radius: 100px;
+    }
