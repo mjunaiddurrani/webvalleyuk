@@ -74518,8 +74518,8 @@
     }
 
     .customSearchField{
-        border-radius: 100px;
-        border: 1px solid #e3e3e3;
+        border-radius: 100px !important;
+        border: 1px solid #e3e3e3 !important;
         outline: none;
         color: #8d8d8d;
     }
