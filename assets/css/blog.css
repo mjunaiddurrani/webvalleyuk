@@ -74537,3 +74537,7 @@
         border: 1px solid #e3e3e3;
         color: #000;
     }
+    .has-background-white .site a:focus:not(.wp-block-button__link):not(.wp-block-file__button) {
+        background: transparent !important;
+        /* color: var(--wp--style--color--link, var(--global--color-white)); */
+    }
