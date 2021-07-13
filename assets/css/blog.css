@@ -21070,7 +21070,7 @@
      font-style: normal
  }
  
- .fab {
+ .fa {
      display: inline-block;
      font: normal normal normal 14px/1 FontAwesome;
      font-size: inherit;
@@ -74549,6 +74549,13 @@
     .search-form-1{
         display:none;
     }
-    footer .fab {
-        font-size:18px;
+
+    footer .fab{
+        display: inline-block;
+     font: normal normal normal 14px/1 FontAwesome;
+     font-size: inherit;
+     text-rendering: auto;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+     font-size:25px;
     }
