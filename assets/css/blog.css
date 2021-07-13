@@ -66078,7 +66078,8 @@
  .widget_sh_mailChimp .widget-quote-description {
      font-size: 12px;
      font-style: italic;
-     line-height: 1.5
+     line-height: 1.5;
+     padding:0 !important;
  }
  
  #sidebar .widget-quote-description,
@@ -74540,4 +74541,7 @@
     .has-background-white .site a:focus:not(.wp-block-button__link):not(.wp-block-file__button) {
         background: transparent !important;
         /* color: var(--wp--style--color--link, var(--global--color-white)); */
+    }
+    form#mc4wp-form-2 {
+        height: 65px;
     }
