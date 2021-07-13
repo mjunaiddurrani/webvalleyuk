@@ -74532,3 +74532,8 @@
     input{
         outline:none !important;
     }
+
+    #comment, .comment-form-url input{
+        border: 1px solid #e3e3e3;
+        color: #000;
+    }
