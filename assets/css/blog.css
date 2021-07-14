@@ -74559,3 +74559,7 @@
      -moz-osx-font-smoothing: grayscale;
      font-size:25px;
     }
+
+    ul, li {
+        list-style-type: disc ;
+    }
