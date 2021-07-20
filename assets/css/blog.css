@@ -20,6 +20,9 @@
     
     color: #2a4b67;
 }
+.top-info-list li{
+    list-style-type:none;
+}
 .site-main > * {
     margin-top: calc(2 * var(--global--spacing-vertical)-7px);
 }
