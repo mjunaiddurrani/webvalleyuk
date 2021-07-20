@@ -74499,6 +74499,9 @@
  .plyr [hidden] {
      display: none !important
  }
+ .forpgactive li{
+     list-style-type:none;
+ }
 
  .entry-content p
     {
