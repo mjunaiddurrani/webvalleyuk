@@ -16,7 +16,10 @@
 .colorGray.active{
     color: #000;
 }
-
+::marker {
+    
+    color: #2a4b67;
+}
 .site-main > * {
     margin-top: calc(2 * var(--global--spacing-vertical)-7px);
 }
