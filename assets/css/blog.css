@@ -58404,7 +58404,7 @@
  body,
  #lightcase-case {
      font-family: 'Open Sans', 'Arial', sans-serif;
-     font-size: 14px;
+     font-size: 15px;
      color: #616161;
      line-height: 1.7;
      font-weight: 400
@@ -58519,9 +58519,9 @@
      margin: 0
  }
  
- h2 {
+ /* h2 {
      font-size: 20px
- }
+ } */
  
  .sh-team-role,
  .sh-iconbox-title,
