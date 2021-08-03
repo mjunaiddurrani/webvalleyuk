@@ -3,7 +3,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-
+$domain = "www.thewebfounders.co.uk";
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
@@ -23,7 +23,8 @@ $data=array(
 'route'=>$route,
 'brand'=>$brand,
 'tag' => $tag,
-'price'=> $price
+'price'=> $price,
+'domain'=> $domain
 );
 $payload=json_encode($data);
 $curl = curl_init();
