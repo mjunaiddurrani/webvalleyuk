@@ -536,7 +536,7 @@ ul, li {
 								<div class="col-md-6">
 									<input required type="text" name="name" class="form-control" placeholder="Write your full name">
 									<input required type="email" name="email" class="form-control" placeholder="Write your email address">
-									<input required type="tel" name="phone"  class="form-control" placeholder="Write your phone number">
+									<input required type="tel" name="phone"  class="form-control phone" placeholder="Write your phone number">
                     <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
                     <input type="hidden" name="brand" value="webvalleyuk">   
                     <input type="hidden" name="tag" value="modal-auto">
@@ -544,7 +544,7 @@ ul, li {
                     <input type="hidden" name="news" value="1">
 								</div>
 							<div class="col-md-6 ">
-								<textarea name="brief" class="form-control"  style="" placeholder="Write your project description"></textarea>
+								<textarea name="brief" required class="form-control"  style="" placeholder="Write your project description"></textarea>
 							</div>
 							</div>
 							
@@ -691,8 +691,8 @@ ul, li {
                                                 class=wpforms-required-label>*</span></label>
                                         <div class="wpforms-field-row wpforms-field-large">
                                             <div class="wpforms-field-row-block wpforms-first "><input
-                                                    type=text id=wpforms-171-field_0
-                                                    class="wpforms-field-name-first wpforms-field-required"
+                                                    type="tel" id=wpforms-171-field_0
+                                                    class="wpforms-field-name-first wpforms-field-required phone"
                                                     name="phone" placeholder="Phone number "
                                                     required><label for=wpforms-171-field_0
                                                     class="wpforms-field-sublabel after wpforms-sublabel-hide">Phone</label>
