@@ -16,14 +16,14 @@
      </div>
      <div class="col-md-6">
         <label class="field-txt">Phone Number<span>*</span></label>
-       <input id="phone-country" name="phone" type="number" placeholder="" required/>
+       <input id="phone-country" name="phone" class="phone" type="tel" placeholder="" required/>
      </div>
      
      
       
     <div class="col-md-12 pb-0">
         <label class="field-txt">Additional Comments <span>*</span></label>
-        <textarea name="brief" placeholder="" ></textarea>
+        <textarea name="brief" required placeholder="" ></textarea>
      </div>
      
  

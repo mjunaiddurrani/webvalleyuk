@@ -110,7 +110,8 @@ function isNumberKey(t){var e=t.which?t.which:event.keyCode;return!(e>31&&(e<48|
          
       }
       ?>
-      
+      <script src="https://rawgit.com/RobinHerbots/jquery.inputmask/3.x/dist/jquery.inputmask.bundle.js"></script>
+
  <script>
 setTimeout(function(){  
     // $("#modalForDiscount").modal("show");
@@ -157,6 +158,27 @@ if(window.location.pathname=="/"){
   $('.contact').addClass('active');
 }
 
+
+
+$(document).ready(function() {
+  $(".phone").keyup(function () {
+    $(this).attr("value", $(this).val());
+    if ($(this).val().length > 2) {
+      var twoNumbers = $(this).val().substr(0, 2);
+      if (twoNumbers == 33 || twoNumbers == 55 || twoNumbers == 81) {
+        console.log("First: " + twoNumbers);
+        $(".phone").inputmask({
+          mask: "99-9999-9999"
+        });
+      } else {
+        console.log("Second: " + twoNumbers);
+        $(".phone").inputmask({
+          mask: "999-999-9999"
+        });
+      }
+    }
+  });
+});
 
 
 </script>

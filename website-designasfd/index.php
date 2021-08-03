@@ -541,7 +541,7 @@ ul, li {
                     <input type="hidden" name="news" value="1">
 								</div>
 							<div class="col-md-6 ">
-								<textarea name="brief" class="form-control"  style="" placeholder="Write your project description"></textarea>
+								<textarea name="brief" required class="form-control"  style="" placeholder="Write your project description"></textarea>
 							</div>
 							</div>
 							
@@ -689,7 +689,7 @@ ul, li {
                                         <div class="wpforms-field-row wpforms-field-large">
                                             <div class="wpforms-field-row-block wpforms-first "><input
                                                     type=text id=wpforms-171-field_0
-                                                    class="wpforms-field-name-first wpforms-field-required"
+                                                    class="wpforms-field-name-first phone wpforms-field-required"
                                                     name="phone" placeholder="Phone number "
                                                     required><label for=wpforms-171-field_0
                                                     class="wpforms-field-sublabel after wpforms-sublabel-hide">Phone</label>
