@@ -179,12 +179,12 @@
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input  name="phone" type="number" placeholder="Phone Number" required />
+                          <input  name="phone" class="phone" type="tel" placeholder="Phone Number" required />
                         </div>
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <textarea name="brief"  rows="7" placeholder="Talk About Your Project"></textarea>
+                          <textarea name="brief" required  rows="7" placeholder="Talk About Your Project"></textarea>
                           <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
                         </div>
                       </div>
@@ -240,7 +240,7 @@
               </div>
                <div class="fldst">
                 <p>Send us your number to speak with an actual human.</p>
-                 <input  name="phone" required="" type="text" onkeypress="return isNumberKey(event);"  placeholder="Enter phone here">
+                 <input  name="phone" required="" type="tel"   placeholder="Enter phone here">
                  <button class="newbtn" type="submit">Submit</button>
                  <script>
                 

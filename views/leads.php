@@ -13,6 +13,8 @@ $route = $_REQUEST['route'];
 $brand = $_REQUEST['brand'];
 $tag = $_REQUEST['tag'];
 $price = $_REQUEST['price'];
+$domain = "www.websitevalley.co.uk";
+
 
 $data=array(
 'name'=> $name,
@@ -47,6 +49,7 @@ $response = curl_exec($curl);
 curl_close($curl);
 
 $decodeResponse = json_decode($response);
+
 $msg = $decodeResponse[1];
 
 

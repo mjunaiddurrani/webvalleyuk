@@ -58505,11 +58505,13 @@
      
      color: #3f3f3f;
      font-weight: 700;
-     margin: 0 0 20px;
+     /* margin: 0 0 20px; */
      padding: 0;
      line-height: normal !important
  }
- 
+ .author-details span{
+     font-size:18px;
+ }
  h1 a,
  h2 a,
  h3 a,

@@ -609,7 +609,7 @@ body {background: #eee;}
 								<div class="col-md-6">
 									<input required type="text" name="name" class="form-control" placeholder="Write your full name">
 									<input required type="email" name="email" class="form-control" placeholder="Write your email address">
-									<input required type="tel" name="phone"  class="form-control" placeholder="Write your phone number">
+									<input required type="tel" name="phone"  class="form-control phone" placeholder="Write your phone number">
                     <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
                     <input type="hidden" name="brand" value="webvalleyuk">   
                     <input type="hidden" name="tag" value="modal-auto">
@@ -617,7 +617,7 @@ body {background: #eee;}
                     <input type="hidden" name="news" value="1">
 								</div>
 							<div class="col-md-6 ">
-								<textarea name="brief" class="form-control"  style="" placeholder="Write your project description"></textarea>
+								<textarea name="brief" requried class="form-control"  style="" placeholder="Write your project description"></textarea>
 							</div>
 							</div>
 							
@@ -3245,7 +3245,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <textarea name="brief" id="" rows="7" placeholder="Talk About Your Project"></textarea>
+                          <textarea name="brief" required id="" rows="7" placeholder="Talk About Your Project"></textarea>
                           <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
                         </div>
                       </div>

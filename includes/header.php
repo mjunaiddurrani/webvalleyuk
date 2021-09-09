@@ -141,7 +141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="col-md-6">
 									<input required type="text" name="name" class="form-control" placeholder="Write your full name">
 									<input required type="email" name="email" class="form-control" placeholder="Write your email address">
-									<input required type="tel" name="phone"  class="form-control" placeholder="Write your phone number">
+									<input required type="tel" name="phone"  class="form-control phone" placeholder="Write your phone number">
                     <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
                     <input type="hidden" name="brand" value="webvalleyuk">   
                     <input type="hidden" name="tag" value="modal-auto">
@@ -149,7 +149,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <input type="hidden" name="news" value="1">
 								</div>
 							<div class="col-md-6 ">
-								<textarea name="brief" class="form-control"  style="" placeholder="Write your project description"></textarea>
+								<textarea name="brief" required class="form-control"  style="" placeholder="Write your project description"></textarea>
 							</div>
 							</div>
 							
