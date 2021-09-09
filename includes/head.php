@@ -1,7 +1,7 @@
 
 
 <?php 
-
+require_once('nitro.start.php');
 if (isset($_SERVER['HTTPS'])) {
 	$requesMet = "https";
 }else{
