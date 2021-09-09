@@ -18,73 +18,73 @@
     <meta name="twitter:creator" content="@websitevalleyuk" />
     <meta name="twitter:site" content="@websitevalleyuk" />
     <meta name="twitter:image:src" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST']; ?>/assets/images/logo.png">
-    <?php require_once('nitro.start.php'); ?>
-
-
+    
+    
 <style>
-
-
-.css-overlay {
+  
+  
+  .css-overlay {
     background-color: rgb(5 255 227 / 76%) !important;
-}
-
-.shownImage {
-
-position: relative;
-
-
-}
-.shownImage > img {
-position: absolute;
-top: 10px;
-left: 10px;
-right: 10px;
-bottom: 10px;
-
-}
-
-
-.lazy{
-  width:100px!important;
-  margin: 0 auto;
-}
-
- 
+  }
+  
+  .shownImage {
+    
+    position: relative;
+    
+    
+  }
+  .shownImage > img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    
+  }
+  
+  
+  .lazy{
+    width:100px!important;
+    margin: 0 auto;
+  }
+  
+  
 </style>
 </head>
 <body class="hompg hdar-clr">
-
-
-<!-- Mobile Navigation Button End-->
-
-
-
-
-<?php include_once('includes/header.php');?>
-
-
-
-
-<div class="slider-wrapper">
-<div class="container">
-<div class="topformcontainer"  style="width: 700px;margin-right: -120px;margin-top:-40px">
-<div id="slideshow1" class="shownImage" >
-<img src="assets/images/loading.svg" data-src="assets/images/2b.png" alt="fire protection partner" class="lazy"  style="width: 700px;">
-<img src="assets/images/loading.svg" data-src="assets/images/3b.png" alt="explore the world of age" class="lazy"  style="width: 700px;">
-<img src="assets/images/loading.svg" data-src="assets/images/1b.png" alt="masage to your workspace" class="lazy"  style="width: 700px;">
-
-
-</div>
-
-
-
-  </div> 
-</div>
-
-
-
-
-  <section class="banslidee"><!-- banslidee -->
+  
+  
+  <!-- Mobile Navigation Button End-->
+  
+  
+  
+  
+  <?php include_once('includes/header.php');?>
+  <?php include_once('nitro.start.php'); ?>
+  
+  
+  
+  
+  <div class="slider-wrapper">
+    <div class="container">
+      <div class="topformcontainer"  style="width: 700px;margin-right: -120px;margin-top:-40px">
+        <div id="slideshow1" class="shownImage" >
+          <img src="assets/images/loading.svg" data-src="assets/images/2b.png" alt="fire protection partner" class="lazy"  style="width: 700px;">
+          <img src="assets/images/loading.svg" data-src="assets/images/3b.png" alt="explore the world of age" class="lazy"  style="width: 700px;">
+          <img src="assets/images/loading.svg" data-src="assets/images/1b.png" alt="masage to your workspace" class="lazy"  style="width: 700px;">
+          
+          
+        </div>
+        
+        
+        
+      </div> 
+    </div>
+    
+    
+    
+    
+    <section class="banslidee"><!-- banslidee -->
     
     <div class="item">
       <div class="home-banner d-flex overl" >
