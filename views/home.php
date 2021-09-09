@@ -60,7 +60,7 @@
   
   
   <?php include_once('includes/header.php');?>
-  <?php include_once('nitro.start.php'); ?>
+  <?php require_once('nitro.start.php'); ?>
   
   
   
