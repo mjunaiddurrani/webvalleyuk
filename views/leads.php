@@ -3,7 +3,6 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$domain = "www.thewebfounders.co.uk";
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
