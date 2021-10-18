@@ -13,7 +13,7 @@ if(!isset($_REQUEST['TOKEN'])){
 $token=$_REQUEST['TOKEN'];
 $curl = curl_init();
 curl_setopt_array($curl, array(
-	CURLOPT_URL => "https://dashboard.ghostwritingfounder.com/api/leads/$token",
+	CURLOPT_URL => "https://dashboard.ourbase.camp/api/leads/$token",
 	CURLOPT_RETURNTRANSFER => true,
 	CURLOPT_ENCODING => "",
 	CURLOPT_MAXREDIRS => 10,
@@ -90,6 +90,32 @@ if (isset($_SERVER['HTTPS'])) {
 
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
+$brandurl = array(
+	'brandurl'=> $dataLeads->brand
+);
+$brandurl = json_encode($brandurl);
+$curl = curl_init();
+curl_setopt_array($curl, array(
+	CURLOPT_URL => "https://dashboard.ourbase.camp/api/accountkey",
+	CURLOPT_RETURNTRANSFER => true,
+	CURLOPT_ENCODING => "",
+	CURLOPT_MAXREDIRS => 10,
+	CURLOPT_TIMEOUT => 30,
+	CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+	CURLOPT_CUSTOMREQUEST => "GET",
+	CURLOPT_POSTFIELDS => $brandurl,
+	CURLOPT_HTTPHEADER => array(
+		'Content-Type: application/json',
+
+	),
+	));
+	$response = curl_exec($curl);
+	$err = curl_error($curl);
+	curl_close($curl);
+	$keys=json_decode($response);
+	// echo "<pre>";
+	// var_dump($keys[0]->account_type);die;
+	$account_type = $keys[0]->account_type;
  ?>
 
 <!doctype html>
@@ -316,6 +342,61 @@ body{
 										<input type="hidden" name="lead_id" value="<?php echo $dataLeads->id; ?>">
 										<input type="hidden" name="address" value="<?php echo $dataLeads->address; ?>" >
 										<input type="hidden" name="description" value="<?php echo $dataLeads->description; ?>" >
+										<input type="hidden" name="account_type" value="<?php echo $account_type; ?>" >
+										<?php if($account_type == 'nmi'):?>	
+										<div class="row">
+											<div class="col-md-6">
+												<div class="form-group">
+													<label class="text-black">CARD NUMBER</label>
+													<input class="form-control" type="text" name="card_number" placeholder="1234 1234 1234 1234" autocomplete="off" requir	ed="">
+												</div>
+											</div>
+											<div class="col-md-6">
+												<div class="form-group">
+													<label class="text-black">Zip Code</label>
+													<input class="form-control" type="text" name="zipcode" placeholder="123" autocomplete="off" required="">
+												</div>
+											</div>
+										</div>
+											<div class="row">
+												<div class="col-md-3">
+													<div class="form-group">
+														
+														<div>
+															<label class="text-black" for="EXPIRY">EXPIRY MONTH</label>
+														</div>
+														<!-- <input type="month" id="EXPIRY" name="start"
+																	min="2018-03" value="2023-05" class="form-control"> -->
+														<div class="">
+															<input class="form-control " type="text" name="card_exp_month" placeholder="MM" minlength="2" maxlength="2" required="">
+														</div>
+														
+													</div>
+													</div>
+													<div class="col-md-3">
+													<div class="form-group">
+														<div>
+															<label class="text-black" for="EXPIRY">EXPIRY YEAR</label>
+														</div>
+														<div class="">
+															<input class="form-control " type="text" name="card_exp_year" placeholder="YY" minlength="2" maxlength="2" required="">
+														</div>
+														
+													</div>
+												</div>
+												<div class="col-md-6">
+														<div class="form-group">
+														<label class="text-black">CVC CODE</label>
+														<input class="form-control" type="text" name="card_cvc" placeholder="CVC" autocomplete="off" required="">
+													</div>
+												</div>
+												<div class="col-md-3"></div>
+											</div>
+											<div class="text-center">
+												<button type="submit" class="btn btn-success submitPay">Submit Payment</button>
+											</div>
+										<?php else:
+										?>
 										<div class="form-row">
 										
 										<div id="card-element" class="form-control">
@@ -330,6 +411,7 @@ body{
 										<br>
 										<button class="btn btn-success submitPay">Finish and Pay</button>
 										</div>
+										<?php endif ?>
 									</form>
 								</div>
 							</div>
