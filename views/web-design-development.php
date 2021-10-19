@@ -5,7 +5,7 @@
 <!-- Added by HTTrack --><head>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<title>Website Development Company #1 in UK Website Design Service</title>
+<title>#1 Custom Website Design Services in UK | Website Valley</title>
 <meta name="description" content="Get affordable web design services by our professional website designers in your timeline! Also, hire our expert web developers for custom web development.">
 
 
