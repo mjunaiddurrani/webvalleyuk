@@ -1,6 +1,8 @@
+<?php include_once("token.php");?>
 <form class="cmxform" id="contactForm"  method="POST" action="/leads/"  enctype="multipart/form-data">
 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
 <input type="hidden" name="brand" value="webvalleyuk">   
+                    <input type="hidden" name="token" value="<?= $token;?>">   
 <input type="hidden" name="tag" value="modal-auto">
 <input type="hidden" name="price" value="null">
 <input type="hidden" name="news" value="1">

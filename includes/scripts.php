@@ -73,23 +73,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             });
           });
 
-      </script>
+          <\/script>
   `);
-  alert('helo')
 }, 10000);
-
-</script>
-
-
-<!--Start of Zendesk Chat Script-->
-<script>
-
-
 
 function setButtonURL(){
   javascript:$zopim.livechat.window.show();
   }
-
 </script>
 <!--End of Zendesk Chat Script-->
 
@@ -100,14 +90,6 @@ function setButtonURL(){
 var options = {
 debug: false,
 }
-
-
-
-
-
-
-
-
 $(document).on("click",".ys-container",function(){
   // var element=$(".ys-box");
  if($(event.target).closest(".ys-popup-content").length != 1){
@@ -115,10 +97,7 @@ $(document).on("click",".ys-container",function(){
          $('.ys-container').removeClass("visible");
          $('.ys-container').removeClass("finished");
     // alert('element is a child of the custom controller');
- }
-
-
-  
+ } 
 });
 
 
