@@ -1,7 +1,7 @@
 
 
 <?php 
-
+include_once("token.php");
 if (isset($_SERVER['HTTPS'])) {
 	$requesMet = "https";
 }else{

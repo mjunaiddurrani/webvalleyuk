@@ -536,6 +536,7 @@ ul, li {
 									<input required type="tel" name="phone"  class="form-control" placeholder="Write your phone number">
                     <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
                     <input type="hidden" name="brand" value="webvalleyuk">   
+                    <input type="hidden" name="token" value="<?= $token;?>">   
                     <input type="hidden" name="tag" value="modal-auto">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
@@ -656,6 +657,7 @@ ul, li {
                                 action="/leads/">
                                 <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
                                 <input type="hidden" name="brand" value="webvalleyuk">   
+                    <input type="hidden" name="token" value="<?= $token;?>">   
                                 <input type="hidden" name="tag" value="modal-auto">
                                 <input type="hidden" name="price" value="null">
                                 <input type="hidden" name="news" value="1">

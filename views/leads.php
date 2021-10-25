@@ -27,6 +27,11 @@ $data=array(
 'price'=> $price,
 'domain'=> $domain
 );
+
+if($_REQUEST['phone'] == '5556660606' || $_REQUEST['phone'] == '555-666-0606'){
+    exit(header("location:/"));
+}
+if ($_POST['token'] == $_SESSION['token']) {
 $payload=json_encode($data);
 $curl = curl_init();
 curl_setopt_array($curl, array(
@@ -62,4 +67,9 @@ if (headers_sent()) {
 }
 else{
     exit(header("location:/thank-you/?thanksMsg=$msg"));
+}
+
+}
+else{
+    exit(header("location:/"));
 }
