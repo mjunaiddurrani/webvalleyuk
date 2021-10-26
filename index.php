@@ -57,7 +57,7 @@ else{
     require $dir.'/404.php';
 }
 
-ob_end_clean();
+ob_flush();
 
 
 ?>
