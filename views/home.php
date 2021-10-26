@@ -52,10 +52,7 @@
 </style>
 </head>
 <body class="hompg hdar-clr">
-  
-  <?php
-  var_dump($_SESSION);die;
-  ?>
+
   <!-- Mobile Navigation Button End-->
   
   
