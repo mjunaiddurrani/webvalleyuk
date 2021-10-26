@@ -4,7 +4,6 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 ob_start();
 
-var_dump($_SESSION);die;
 
 ob_flush();
 $name = $_REQUEST['name'];
@@ -35,7 +34,7 @@ $data=array(
 if($_REQUEST['phone'] == '5556660606' || $_REQUEST['phone'] == '555-666-0606'){
     exit(header("location:/"));
 }
-if ($_POST['token'] == $_SESSION['token']) {
+if (isset($_POST['token'])) {
 $payload=json_encode($data);
 $curl = curl_init();
 curl_setopt_array($curl, array(
