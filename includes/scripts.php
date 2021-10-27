@@ -1,5 +1,13 @@
 <script src="assets/js/mlib.js"></script> 
 <script>
+    $('form').submit(function(){
+        $(this).find('button').attr("disabled",true);
+        $(this).find('input[type="submit"]').attr("disabled",true);
+        $(this).find('button[type="submit"]').attr("disabled",true);
+        $(this).submit();
+    });
+</script>
+<script>
 
 	  var check = true;
 $(window).scroll(function (event) {
