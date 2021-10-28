@@ -38,7 +38,7 @@ if($url=="/"){
     require $dir.'/home.php';
     die();
 }
-if($url=="/test"){
+if($url==addslashes("/test/")){
     require $dir.'/test.php';
     die();
 }
