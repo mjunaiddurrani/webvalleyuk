@@ -38,10 +38,6 @@ if($url=="/"){
     require $dir.'/home.php';
     die();
 }
-if($url==addslashes("/test/")){
-    require $dir.'/test.php';
-    die();
-}
 
 // print_r($fileWithOutExt);
 // die();
