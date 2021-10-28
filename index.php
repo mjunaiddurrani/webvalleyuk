@@ -38,6 +38,10 @@ if($url=="/"){
     require $dir.'/home.php';
     die();
 }
+if($url=="/test"){
+    require $dir.'/test.php';
+    die();
+}
 
 // print_r($fileWithOutExt);
 // die();
