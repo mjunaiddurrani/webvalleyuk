@@ -3,7 +3,7 @@
   
   <head>
     
-    <title>page 1 test page. </title>
+    <title>page 2  test page. </title>
     <meta name="description" content="Website Valley is a professional web design, app development, and branding agency in the UK. Get our services on your budget, timeline, and specifications.">
     <?php  include_once('includes/head.php');?><!-- seo  -->
     <meta property="og:locale" content="en_GB" />
