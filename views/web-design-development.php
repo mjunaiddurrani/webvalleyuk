@@ -574,335 +574,54 @@ Website Valley was easy to work with, and we quickly understood our needs and we
 
           <div class="tab-pane active">
             <div class="smallboxes packagesslider">
+                    <?php 
+                    $pacakgesOf = "web-design";
+                    foreach($pacakges->$pacakgesOf->packages as $package):?>
+                      <!-- bst-selr    use this class to make it best seller -->
+                      <div class="smallbox ">
+                        <div class="package_inner">
+                          <p class="h4 h4Heading"><?=$package->heading;?></p>
+                          <p class="h2 h2Heading"><span class="currency_symbol">£</span><?=$package->amount?> <span><s>£<?=$package->amount*2?></s></span> </p>
+                          
+                          <ul class="ticklist2 list-scroll">
+                            <?php foreach($package->details as $detail):?>
+                              <li><?=$detail->detail?></li>
+                            <?php endforeach;?>
+                          </ul>
+                          <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+                          <div class="actions">
+                            <div class="row">
+                              <div class="col-md-6 col-xs-6">
+                                <div class="act-box1">
+                                  <a class="spek-us" tabindex="0" href="tel:+442038087061">
+                                    <span><small>Speak with us</small>+442038087061</span>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-md-6 col-xs-6">
+                                <div class="act-box2">
+                                  <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
+                                    <span><small>Want to discuss?</small> Live Chat Now</span>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div></div>
+                          <div class="price-btnwrap">
+                            <a href="/package/<?= $pacakgesOf.'/'.$package->slug?>">View Details</a> 
+                            <div class="row">
+                              
+                              <div class="col-md-12">
+                                <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
-  <div class="smallbox">
-  <div class="package_inner">
-    <h4>Startup Website  <br> Package</h4>
-    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>230.00 <span><s>£460.00</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-      <li>5 Stock Photos</li>
-      <li>5 Page Website</li>
-      <li>3 Banner Design</li>
-      <li>1 jQuery Slider Banner</li>
-      <li>FREE Google Friendly Sitemap</li>
-      <li>Complete W3C Certified HTML</li>
-      <li>Facebook Page Design</li>
-      <li>Twitter Page Design</li>
-      <li>YouTube Page Design</li>
-      <li>100% Satisfaction Guarantee</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
-      <li>Mobile Responsive will be Additional £99*</li>
-      <li>CMS will be Additional £149*</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+            
+                    <?php endforeach;?>
+            </div>
           </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div></div>
-    <div class="price-btnwrap">
-      <a href="/packages/startup-website-package/">View Details</a> 
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-
-  <div class="smallbox bst-selr">
-  <div class="package_inner">
-    <h4>Professional Website  <br> Package</h4>
-    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>409.99 <span><s>£819.98</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-      <li>10 Unique Pages Website</li>
-      <li>CMS / Admin Panel Support</li>
-      <li>8 Stock images</li>
-      <li>5 Banner Designs</li>
-      <li>1 jQuery Slider Banner</li>
-      <li>FREE Google Friendly Sitemap</li>
-      <li>Complete W3C Certified HTML</li>
-      <li>Facebook Page Design</li>
-      <li>Twitter Page Design</li>
-      <li>YouTube Page Design</li>
-      <li>Complete Deployment</li>
-      <li>100% Satisfaction Guarantee</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
-      <li>Mobile Responsive will be Additional £99*</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    
-    
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-      <div class="price-btnwrap">
-      <a href="/packages/professional-website-package/">View Details</a>
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="smallbox">
-  <div class="package_inner">
-    <h4>Elite Website <br> Package</h4>
-    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>709.99 <span><s> £1419.98</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-      <li>Upto 15 Unique Pages Website</li>
-        <li>Conceptual and Dynamic Website</li>
-        <li>Mobile Responsive</li>
-        <li>Online Reservation/Appointment Tool (Optional)</li>
-        <li>Online Payment Integration (Optional)</li>
-        <li>Custom Forms</li>
-        <li>Lead Capturing Forms (Optional)</li>
-        <li>Striking Hover Effects</li>
-        <li>Newsletter Subscription (Optional)</li>
-        <li>Newsfeed Integration</li>
-        <li>Social Media Integration</li>
-        <li>Search Engine Submission</li>
-        <li>5 Stock Photos</li>
-        <li>3 Unique Banner Design</li>
-        <li>1 jQuery Slider Banner</li>
-        <li> Complete W3C Certified HTML</li>
-        <li>Facebook Page Design</li>
-        <li>Twitter Page Design</li>
-        <li>YouTube Page Design</li>
-        <li>Complete Deployment</li>
-        <li>100% Satisfaction Guarantee</li>
-        <li>100% Unique Design Guarantee</li>
-        <li>100% Money Back Guarantee *</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    
-    
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-      <div class="price-btnwrap">
-      <a href="/packages/elite-website-package/">View Details</a>
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="smallbox bst-selr">
-  <div class="package_inner">
-    <h4>E-Commerce Website  <br> Package</h4>
-    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>1004.99 <span><s>£2009.98</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-      <li>Upto 15 Unique Pages Website</li>
-        <li>Conceptual and Dynamic Website</li>
-        <li>Content Management System (CMS)</li>
-        <li>Mobile Responsive</li>
-        <li>Easy Product Search</li>
-        <li>Product Reviews</li>
-        <li>Unlimited Products</li>
-        <li>Unlimited Categories</li>
-        <li>Promotional Product Showcase</li>
-        <li>New Product Showcase</li>
-        <li>Full Shopping Cart Integration</li>
-        <li>Payment Module Integration</li>
-        <li>Sales & Inventory Management</li>
-        <li>JQuery Slider</li>
-        <li>Social Media Page Designs (Facebook, Twitter, Instagram)</li>
-        <li>Free Google Friendly Sitemap</li>
-        <li>Custom Email Addresses</li>
-        <li>Complete W3C Certified HTML</li>
-        
-        <li>Facebook Page Design</li>
-        <li>Twitter Page Design</li>
-        <li>YouTube Page Design</li>
-        <li>Complete Deployment</li>
-        <li>Dedicated Accounts Manager</li>
-        <li>100% Ownership Rights</li>
-        <li>100% Satisfaction Guarantee</li>
-        <li>100% Unique Design Guarantee</li>
-        <li>100% Money Back Guarantee *</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="price-btnwrap">
-      <a href="/packages/e-commerce-website-package/">View Details</a>
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="smallbox">
-  <div class="package_inner">
-    <h4>Silver Website  <br> Package</h4>
-    <p class="h2 h2Heading"><span class="currency_symbol ">£</span>1609.99 <span><s> £3219.98</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-      <li>15 to 20 Pages Website</li>
-        <li>Custom Made, Interactive, Dynamic & High End Design</li>
-        <li>Custom WP (or) Custom PHP Development</li>
-        <li>1 jQuery Slider Banner</li>
-        <li>Up to 10 Custom Made Banner Designs</li>
-        <li>10 Stock Images</li>
-        <li>Unlimited Revisions</li>
-        <li>Special Hoover Effects</li>
-        <li>Content Management System (CMS)</li>
-        <li>Online Appointment/Scheduling/Online Ordering Integration (Optional)</li>
-        <li>Online Payment Integration (Optional)</li>
-        <li>Multi Lingual (Optional)</li>
-        <li>Custom Dynamic Forms (Optional)</li>
-        <li>Signup Area (For Newsletters, Offers etc.)</li>
-        <li>Search Bar</li>
-        <li>Live Feeds of Social Networks integration (Optional)</li>
-        <li>Mobile Responsive</li>
-        <li>FREE 5 Years Domain Name</li>
-        <li>Free Google Friendly Sitemap</li>
-        <li>Search Engine Submission</li>
-        <li>Complete W3C Certified HTML</li>
-        <li>Industry Specified Team of Expert Designers and Developers</li>
-        <li>Complete Deployment</li>
-        <li>Dedicated Accounts Manager</li>
-        <li>Facebook Page Design</li>
-        <li>Twitter Page Design</li>
-        <li>YouTube Page Design</li>
-        <li>100% Ownership Rights</li>
-        <li>100% Satisfaction Guarantee</li>
-        <li>100% Unique Design Guarantee</li>
-        <li>100% Money Back Guarantee *</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="price-btnwrap">
-      <a href="/packages/silver-website-package/">View Details</a>
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  
-
-  
-  
-</div>          </div>
 
           
 

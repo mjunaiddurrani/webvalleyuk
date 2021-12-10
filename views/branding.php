@@ -588,173 +588,56 @@
           
 
 
-          <div id="logodesign" class="tab-pane active">
+        <div class="tab-pane active">
             <div class="smallboxes packagesslider">
-  
-    <div class="smallbox">
-    <div class="package_inner">
-    <h4>Stationery <br> Package</h4>
-    <p class="h2"><span class="currency_symbol">£</span>74.99 <span><s>£149.98</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-      <li>1 Business Card Design</li>
-      <li>1 Letterhead Design</li>
-      <li>1 Envelope Design</li>
-      <li>Dedicated Designer</li>
-      <li>3 Design Revisions</li>
-      <li>Turnaround Time 24 - 48 Hours</li>
-      
-      <li class="heading">Features</li>
-      <li>100% Satisfaction Guaranteed</li>
-      <li>100% Ownership rights</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee</li>
-      <li>All Final File Formats</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
+                    <?php 
+                    $pacakgesOf = "branding";
+                    foreach($pacakges->$pacakgesOf->packages as $package):?>
+                      <!-- bst-selr    use this class to make it best seller -->
+                      <div class="smallbox ">
+                        <div class="package_inner">
+                          <p class="h4 h4Heading"><?=$package->heading;?></p>
+                          <p class="h2 h2Heading"><span class="currency_symbol">£</span><?=$package->amount?> <span><s>£<?=$package->amount*2?></s></span> </p>
+                          
+                          <ul class="ticklist2 list-scroll">
+                            <?php foreach($package->details as $detail):?>
+                              <li><?=$detail->detail?></li>
+                            <?php endforeach;?>
+                          </ul>
+                          <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+                          <div class="actions">
+                            <div class="row">
+                              <div class="col-md-6 col-xs-6">
+                                <div class="act-box1">
+                                  <a class="spek-us" tabindex="0" href="tel:+442038087061">
+                                    <span><small>Speak with us</small>+442038087061</span>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-md-6 col-xs-6">
+                                <div class="act-box2">
+                                  <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
+                                    <span><small>Want to discuss?</small> Live Chat Now</span>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div></div>
+                          <div class="price-btnwrap">
+                            <a href="/package/<?= $pacakgesOf.'/'.$package->slug?>">View Details</a> 
+                            <div class="row">
+                              
+                              <div class="col-md-12">
+                                <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+            
+                    <?php endforeach;?>
+            </div>
           </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-    <div class="price-btnwrap">
-      <a href="/packages/stationery-package/">View Details</a>
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-
-  </div>
-
-  <div class="smallbox bst-selr">
-  <div class="package_inner">
-    <h4>Infographic <br> Package</h4>
-    <p class="h2"><span class="currency_symbol">£</span>139.99 <span><s>£279.98</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    <ul class="ticklist2 list-scroll">
-      <li>1 Unique Design</li>
-      <li>6 Design concepts</li>
-      <li>Dedicated Designer</li>
-      <li>Dedicated Account Manager</li>
-      <li>Unlimited Revisions</li>
-      <li>Turnaround Time - 48 - 72 Hours</li>
-      <li class="heading">Features</li>
-      <li>100% Satisfaction Guaranteed</li>
-      <li>100% Ownership rights</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee</li>
-      <li>All Final File Formats</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="price-btnwrap">
-      <a href="/packages/infographic-package/">View Details</a> 
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="smallbox">
-  <div class="package_inner">
-    <h4>Brochure/Flyer <br> Package</h4>
-    <p class="h2"><span class="currency_symbol">£</span>134.99 <span><s>£269.98</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    <ul class="ticklist2 list-scroll">
-      <li>1 Unique Design</li>
-      <li>4 Design concepts (Trifold / Bi-fold)</li>
-      <li>Dedicated Designer</li>
-      <li>Dedicated Account Manager</li>
-      <li>Unlimited Revisions</li>
-      <li>Turnaround Time - 48 - 72 Hours</li>
-      <li class="heading">Features</li>
-      <li>100% Satisfaction Guaranteed</li>
-      <li>100% Ownership rights</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee</li>
-      <li>All Final File Formats</li>
-    
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="price-btnwrap">
-      <a href="/packages/brochure-flyer-package/">View Details</a> 
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
- 
-
-</div>          </div>
 
           
 
