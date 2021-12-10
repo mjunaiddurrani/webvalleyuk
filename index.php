@@ -10,15 +10,20 @@ $url = $_SERVER['REQUEST_URI'];
 //     require_once('./packages/index.php');
 //     exit();
 // }
-if(strstr($url,'/packages',false)){
-    require_once('./packages/index.php');
-    exit();
-}
+
+// if(strstr($url,'/packages',false)){
+//     require_once('./packages/index.php');
+//     exit();
+// }
 
 
 $current_url = explode('?', $url);
 $url = $current_url[0];
 
+if(strpos($url,"package/")){
+    require('/package/index.php');
+    exit();
+}
 
 
 $dir    = __DIR__.'/views';

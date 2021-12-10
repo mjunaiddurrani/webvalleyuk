@@ -719,309 +719,62 @@
 
 
           
-          <div id="web-portal" class="tab-pane active">
+        <div class="tab-pane active">
             <div class="smallboxes packagesslider">
+                    <?php 
+                    $pacakgesOf = "combo-packages";
+                    foreach($pacakges->$pacakgesOf->packages as $package):
+                    
+                    if($package->amount < 1000){
+                      continue;
+                    }
+                    
+                    ?>
+                      <!-- bst-selr    use this class to make it best seller -->
+                      <div class="smallbox ">
+                        <div class="package_inner">
+                          <p class="h4 h4Heading"><?=$package->heading;?></p>
+                          <p class="h2 h2Heading"><span class="currency_symbol">£</span><?=$package->amount?> <span><s>£<?=$package->amount*2?></s></span> </p>
+                          
+                          <ul class="ticklist2 list-scroll">
+                            <?php foreach($package->details as $detail):?>
+                              <li><?=$detail->detail?></li>
+                            <?php endforeach;?>
+                          </ul>
+                          <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+                          <div class="actions">
+                            <div class="row">
+                              <div class="col-md-6 col-xs-6">
+                                <div class="act-box1">
+                                  <a class="spek-us" tabindex="0" href="tel:+442038087061">
+                                    <span><small>Speak with us</small>+442038087061</span>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-md-6 col-xs-6">
+                                <div class="act-box2">
+                                  <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
+                                    <span><small>Want to discuss?</small> Live Chat Now</span>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div></div>
+                          <div class="price-btnwrap">
+                            <a href="/package/<?= $pacakgesOf.'/'.$package->slug?>">View Details</a> 
+                            <div class="row">
+                              
+                              <div class="col-md-12">
+                                <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
-  <div class="smallbox">
-  <div class="package_inner">
-    <h4>Business Website  <br> Package</h4>
-    <p class="h2"><span class="currency_symbol">£</span>1999.00 <span><s>£3998.00</s></span> </p>
-
-    <ul class="ticklist2 list-scroll">
-      <li class="heading">Website </li>
-      <li>15 to 20 Pages Website</li>
-      <li>Custom Made, Interactive, Dynamic &amp; High End Design</li>
-      <li>Custom WP (or) Custom PHP Development</li>
-      <li>1 jQuery Slider Banner</li>
-      <li>Up to 10 Custom Made Banner Designs</li>
-      <li>10 Stock Images</li>
-      <li>Unlimited Revisions</li>
-      <li>Special Hoover Effects</li>
-      <li>Content Management System (CMS)</li>
-      <li>Online Appointment/Scheduling/Online Ordering Integration (Optional)</li>
-      <li>Online Payment Integration (Optional)</li>
-      <li>Multi Lingual (Optional)</li>
-      <li>Custom Dynamic Forms (Optional)</li>
-      <li>Signup Area (For Newsletters, Offers etc.)</li>
-      <li>Search Bar</li>
-      <li>SEO Meta Tags</li>
-      <li>Live Feeds of Social Networks integration (Optional)</li>
-      <li>Mobile Responsive</li>
-      <li>Free Google Friendly Sitemap</li>
-      <li>Search Engine Submission</li>
-      <li>Complete W3C Certified HTML</li>
-      <li>Industry Specified Team of Expert Designers and Developers</li>
-      <li>Complete Deployment</li>
-      <li>Dedicated Accounts Manager</li>
-      <li class="heading">Video </li>
-      <li>15 Seconds 2D Explainer Video</li>
-      <li>Voice - Over &amp; Sound Effects</li>
-      <li>Professional Script Writing</li>
-      <li>Storyboard</li>
-      <li>100% Ownership Rights</li>
-      <li>100% Satisfaction Guarantee</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+            
+                    <?php endforeach;?>
+            </div>
           </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div></div>
-    <div class="price-btnwrap">
-      <a href="/packages/business-website-package/">View Details</a> 
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-
-  <div class="smallbox bst-selr">
-  <div class="package_inner">
-    <h4>Automated/Interactive <br>Conferencing Portal</h4>
-    <p class="h2"><span class="currency_symbol">£</span>3999.00 <span><s>£7998.00</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-    <li class="heading">Website </li>
-      <li>Unlimited Page Website</li>
-      <li>Custom Content Management System (CMS)</li>
-      <li>Unique Pages and UI Design</li>
-      <li>Complete Custom Development</li>
-      <li>Process Automation Tools</li>
-      <li>Newsfeed Integration</li>
-      <li>Social Media Plugins Integration</li>
-      <li>Upto 40 Stock images</li>
-      <li>10 Unique Banner Designs</li>
-      <li>JQuery Slider</li>
-      <li>Search Engine Submission</li>
-      <li>Free Google Friendly Sitemap</li>
-      <li>Custom Email Addresses</li>
-      <li>Social Media Page Designs (Facebook, Twitter, Instagram)</li>
-      <li>Complete W3C Certified HTML</li>
-      <li>Complete Deployment</li>
-      <li>100% Satisfaction Guarantee</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>Money Back Guarantee</li>
-      <li><strong>Key features</strong></li>
-      <li>Automated Course Creation</li>
-      <li>Video Conferencing</li>
-      <li>Skills/Certification Tracking</li>
-      <li>Mobile Learning</li>
-      <li>Asynchronous Learning</li>
-      <li>CRM Features</li>
-      <li>Gamification</li>
-      <li>Social Learning/Message Boards</li>
-      <li>Motivational Triggers</li>
-      <li>Forums And Webinars</li>
-      <li>E-commerce And Subscriptions</li>
-      <li>Online Course Booking</li>
-      <li>Excellent Reporting</li>
-      <li>Invoicing Integration</li>
-      <li>Financial Integrations</li>
-      <li>Student Information management</li>
-      <li>Automated communications</li>
-      <li>Learning Management System</li>
-      <li>Quick And Easy Course Scheduling</li>
-      <li>Reporting And Data Analysis</li>
-      <li>Assessment Management &amp; Live Feedback</li>
-      <li>Gradebooks</li>
-      <li>Quick User Integration</li>
-      <li>Easy Payment Methods</li>
-      <li>Online Communities &amp; Social Engagement</li>
-      <li>Curation of Resources And Adding Own Resources</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    
-    
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-      <div class="price-btnwrap">
-      <a href="/packages/automated-Interactive-conferencing-portal/">View Details</a>
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="smallbox">
-  <div class="package_inner">
-    <h4>Automated/Interactive <br> E-Commerce Website</h4>
-    <p class="h2"><span class="currency_symbol">£</span>4999.00 <span><s> £9998.00</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-        <li class="heading">Website </li>
-        <li>Unlimited Page Website</li>
-        <li>Custom Content Management System (CMS)</li>
-        <li>Unique Pages and UI Design</li>
-        <li>Complete Custom Development</li>
-        <li>Process Automation Tools</li>
-        <li>Newsfeed Integration</li>
-        <li>Social Media Plugins Integration</li>
-        <li>Upto 40 Stock images</li>
-        <li>10 Unique Banner Designs</li>
-        <li>JQuery Slider</li>
-        <li>Search Engine Submission</li>
-        <li>Free Google Friendly Sitemap</li>
-        <li>Custom Email Addresses</li>
-        <li>Social Media Page Designs (Facebook, Twitter, Instagram)</li>
-        <li>Complete W3C Certified HTML</li>
-        <li>Complete Deployment</li>
-        <li>100% Satisfaction Guarantee</li>
-        <li>100% Unique Design Guarantee</li>
-        <li>Money Back Guarantee</li>
-        <li><strong>Automated Inventory/Shipping/Supplier Module:</strong></li>
-        <li>Manage thousands to millions of inventory with ease and check stock levels in real-time. Receive low inventory notifications and generate purchase orders to replenish your stock.</li>
-        
-        <li>Suppliers Integration (API NEEDED)</li>
-        <li>Shipper Integration (API NEEDED)</li>
-        <li>Order management</li>
-        <li>LOT numbers and expire date tracking</li>
-        <li>Transfer stock between warehouses (If Warehouse - API NEEDED)</li>
-        <li>Receive stock into a specific warehouse (If Warehouse - API NEEDED)</li>
-        <li>Fulfill orders from a particular warehouse (If Warehouse - API NEEDED)</li>
-        <li>Stock Management</li>
-        <li>Actionable Insights</li>
-        <li>Real- Time Visibility</li>
-        <li>Inventory Opportunities</li>
-        
-        <li><strong>Advanced Features: (API Needed For Suppliers/Warehouse)</strong></li>
-        
-        <li>Speak to suppliers during trivial conversations.</li>
-        <li>Set and send actions to suppliers regarding governance and compliance materials.
-Place purchasing requests.</li>
-        <li>Research and answer internal questions regarding procurement functionalities or a supplier/supplier set.</li>
-        <li>Receiving/filing/documentation of invoices and payments/order requests</li>
-        <li>Machine Learning (ML) for Supply Chain Planning (SCP)</li>
-        <li>Machine Learning for Warehouse Management</li>
-        <li>Natural Language Processing (NLP) for Data Cleansing and Building Data Robustness</li>
-       
-       <li><strong>Automated Invoices &amp; Estimates</strong></li> 
-        
-        <li>Create beautiful, professional invoices &amp; estimates in just a few seconds and then instantly email them as PDF's directly to your customers or prospects.</li>
-        <li>Automated Split invoicing</li>
-        <li>Automated Combine invoices</li>
-        <li>Invoice templates</li>
-        
-        <li><strong>Automated Barcode Scanning</strong></li>
-        <li>Scan inventory into your orders, generate barcodes for your documents, and search for inventory or documents by scanning barcodes.
-</li>
-
-        <li><strong>Locations and Zones</strong></li>
-        <li>Have multiple warehouses, offices, or retail stores? No problem. Easily track where all your inventory is by organizing everything into locations and zones. Organize inventory items using custom attributes such as size, color, and location. View how many you have globally or at each location.</li>
-        
-        <li><strong>Customer Accounts</strong></li>
-        
-        <li>Performance and analytics</li>
-        <li>Customization of Personal Details</li>
-        <li>Process management</li>
-        <li>Sales Automation</li>
-        <li>Team Collaboration</li>
-        <li>Marketing Automation</li>
-        <li> Security</li>
-        <li>Integrations</li>
-        <li>Mobile Notifications</li>
-        <li>Sales Reports</li>
-        <li>Trend Analytics</li>
-        <li>Forecasting</li>
-        <li>Territory Management</li>
-        <li>Account Management</li>
-        <li>Event Integration</li>
-        <li>Advanced Data Security</li>
-        <li><strong>Purchase Orders</strong></li>
-        
-        <li>With integrated purchase orders, you can easily replenish your inventory levels by ordering more stock and even track when those new items will arrive.</li>
-        <li>Partial orders fulfill</li>
-        <li>Backordering</li>
-        
-        
-         <li><strong>Financial Reports</strong></li>
-        
-        <li>Generate extremely detailed reports for your inventory, sales and services. Filter your reports by date-range and category to see what's making you the most money.</li>
-                
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    
-    
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-      <div class="price-btnwrap">
-      <a href="/packages/automated-interactive-e-Commerce-website/">View Details</a>
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  
-  
-  
-</div>          </div>
 
           
 

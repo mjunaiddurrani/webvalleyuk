@@ -575,200 +575,56 @@
           
 
 
-          <div class="tab-pane active">
+        <div class="tab-pane active">
             <div class="smallboxes packagesslider">
+                    <?php 
+                    $pacakgesOf = "ecommerce";
+                    foreach($pacakges->$pacakgesOf->packages as $package):?>
+                      <!-- bst-selr    use this class to make it best seller -->
+                      <div class="smallbox ">
+                        <div class="package_inner">
+                          <p class="h4 h4Heading"><?=$package->heading;?></p>
+                          <p class="h2 h2Heading"><span class="currency_symbol">£</span><?=$package->amount?> <span><s>£<?=$package->amount*2?></s></span> </p>
+                          
+                          <ul class="ticklist2 list-scroll">
+                            <?php foreach($package->details as $detail):?>
+                              <li><?=$detail->detail?></li>
+                            <?php endforeach;?>
+                          </ul>
+                          <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
+                          <div class="actions">
+                            <div class="row">
+                              <div class="col-md-6 col-xs-6">
+                                <div class="act-box1">
+                                  <a class="spek-us" tabindex="0" href="tel:+442038087061">
+                                    <span><small>Speak with us</small>+442038087061</span>
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-md-6 col-xs-6">
+                                <div class="act-box2">
+                                  <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
+                                    <span><small>Want to discuss?</small> Live Chat Now</span>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div></div>
+                          <div class="price-btnwrap">
+                            <a href="/package/<?= $pacakgesOf.'/'.$package->slug?>">View Details</a> 
+                            <div class="row">
+                              
+                              <div class="col-md-12">
+                                <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
 
-  <div class="smallbox">
-  <div class="package_inner">
-    <h4>E-Commerce   <br> Startup</h4>
-    <p class="h2 h2Heading"><span class="currency_symbol">£</span>600.00 <span><s>£1,200.00</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-      <li>Up-to 100 Products</li>
-      <li>Content Management System (CMS)</li>
-      <li>Mini Shopping Cart Integration</li>
-      <li>Payment Module Integration</li>
-      <li>Easy Product Search</li>
-      <li>Dedicated designer &amp; developer</li>
-      <li>Unlimited Revisions</li>
-      <li>100% Satisfaction Guarantee</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+            
+                    <?php endforeach;?>
+            </div>
           </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="price-btnwrap">
-      <a href="/packages/e-commerce-startup-package/">View Details</a> 
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="smallbox bst-selr">
-  <div class="package_inner">
-    <h4>E-Commerce  <br> Professional</h4>
-    <p class="h2 h2Heading"><span class="currency_symbol">£</span>1,394.00 <span><s>£2,788.00</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-      <li>Customized Design</li>
-      <li>Up-to 500 Products</li>
-      <li>Content Management System (CMS)</li>
-      <li>Full Shopping Cart Integration</li>
-      <li>Payment Module Integration</li>
-      <li>Easy Product Search</li>
-      <li>Product Reviews</li>
-      <li>5 Promotional Banners</li>
-      <li>Team of Expert Designers &amp; Developers</li>
-      <li>Unlimited Revisions</li>
-      <li>100% Satisfaction Guarantee</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="price-btnwrap">
-      <a href="/packages/e-commerce-professional-package/">View Details</a>
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div> 
-    </div>
-  </div>
-
-  <div class="smallbox">
-  <div class="package_inner">
-    <h4>E-Commerce  <br> Elite</h4>
-    <p class="h2 h2Heading"><span class="currency_symbol">£</span>3,694.00 <span><s> £7,388.00</s></span> </p>
-    <!-- <p>Suitable for potential super-startups and brand revamps for companies.</p> -->
-    <!-- <div class="hrline"></div> -->
-    
-    <ul class="ticklist2 list-scroll">
-      <li>UNLIMITED Logo Design Concepts</li>
-      <li>By 6 Award Winning Designers</li>
-      <li>Icon Design</li>
-      <li>UNLIMITED Revisions</li>
-      <li>Print Media</li>
-      <li>Stationary Design (BusinessCard,Letterhead &amp; Envelope)</li>
-      <li>Invoice Design, Email Signature</li>
-      <li>Bi-Fold Brochure (OR) 2 Sided Flyer Design</li>
-      <li>Product Catalog Design</li>
-      <li>Sign age Design (OR) Label Design</li>
-      <li>T-Shirt Design (OR) Car Wrap Design</li>
-      <li>Website</li>
-      <li>E-Commerce Store Design</li>
-      <li>Product Detail Page Design</li>
-      <li>Unique Banner Slider</li>
-      <li>Featured Products Showcase</li>
-      <li>Full Shopping Cart Integration</li>
-      <li>Unlimited Products</li>
-      <li>Unlimited Categories</li>
-      <li>Product Rating &amp; Reviews</li>
-      <li>Easy Product Search</li>
-      <li>Payment Gateway Integration</li>
-      <li>Multi-currency Support</li>
-      <li>Content Management System</li>
-      <li>Cutomer Log-in Area</li>
-      <li>Mobile Responsive</li>
-      <li>Social Media Plugins Integration</li>
-      <li>Tell a Friend Feature</li>
-      <li>Social Media Pages</li>
-      <li>Facebook , Twitter, YouTube, Google+ &amp; Pinterest Page Designs</li>
-      <li>Value Added Services</li>
-      <li>Dedicated Account Manager</li>
-      <li>Unlimited Revisions</li>
-      <li>All Final File Formats</li>
-      <li>100% Ownership Rights</li>
-      <li>100% Satisfaction Guarantee</li>
-      <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
-    </ul>
-    <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
-    <div class="actions">
-      <div class="row">
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+442038087061">
-              <span><small>Speak with us</small>+442038087061</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 col-xs-6">
-          <div class="act-box2">
-            <a class="wnt-disx" tabindex="0" href="javascript:;" onclick="setButtonURL();" target="_self">
-              <span><small>Want to discuss?</small> Live Chat Now</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="price-btnwrap">
-      <a href="/packages/e-commerce-elite-package/">View Details</a>
-      <div class="row">
-         
-         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  
-
-  
-
-  
-  
-</div>          </div>
 
           
 

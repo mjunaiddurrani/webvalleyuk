@@ -7,6 +7,25 @@ if (isset($_SERVER['HTTPS'])) {
 }else{
 	$requesMet = "http";
 }
+$pageUri =  $_SERVER['REQUEST_URI'];
+$csrf = bin2hex(random_bytes(35));
+$_SESSION['csrf'] = $csrf;
+
+$metaData = json_decode(file_get_contents($_SERVER['DOCUMENT_ROOT'].'/json/metaData.json'),true);
+$pacakges = json_decode(file_get_contents($_SERVER['DOCUMENT_ROOT'].'/json/packages.json'));
+$curruntPage = "https://www.websitevalley.co.uk".$pageUri;
+
+if(array_key_exists($curruntPage,$metaData)){
+  $metaTitle = $metaData[$curruntPage]['meta_data']['metaTitle'];
+  $metaDescription = $metaData[$curruntPage]['meta_data']['metaDescription'];
+
+}else{
+  $metaTitle = "";
+  $metaDescription ="";
+}
+
+$headFileContent  = json_decode(file_get_contents($_SERVER['DOCUMENT_ROOT'].'/json/headFile.json'))->headContent;
+
 
 
 // define dashboard url
@@ -21,6 +40,8 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 <link rel="icon" href="favicon.png" type="image/x-icon" />
 <link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
 <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+
+
 
 
 
@@ -55,3 +76,13 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 
   gtag('config', 'UA-194982789-1');
 </script>
+
+
+<?php if($metaTitle!=""):?>
+  <title><?= $metaTitle; ?></title>
+<?php endif;?>
+<?php if($metaDescription!=""):?>
+  <meta name="description" content="<?= $metaDescription;?>">
+<?php endif;?>
+
+<?=$headFileContent;?>
