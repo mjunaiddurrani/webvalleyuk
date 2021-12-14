@@ -20,6 +20,8 @@ $url = $_SERVER['REQUEST_URI'];
 $current_url = explode('?', $url);
 $url = $current_url[0];
 
+echo "from index";
+
 if(strpos($url,"package/")){
     require('/package/index.php');
     exit();
