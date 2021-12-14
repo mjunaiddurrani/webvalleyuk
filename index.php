@@ -21,8 +21,8 @@ $current_url = explode('?', $url);
 $url = $current_url[0];
 
 
-if(strpos($url,addslashes("/package/"))){
-    require('/package/index.php');
+if(strpos($url,"/package/") !== false){
+    require(__DIR__.'/package/index.php');
     exit();
 }
 
