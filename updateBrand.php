@@ -2,7 +2,7 @@
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
-echo "hello";
+ob_start();
 
 require('class/Api.class.php');
 require('config.php');
@@ -93,3 +93,4 @@ if(strpos($backUrl,'?')){
 }
 
 header("location: ".$backUrl.$querySymbol."message=data updated successfully");
+ob_end();
