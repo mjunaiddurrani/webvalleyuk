@@ -807,7 +807,7 @@
               </div>
               <div class="usertest">
                 <p class="h4">Extremely Satisfied with the services!</p>
-                <p>Website Valley has been indeed a magical service provider for my brand development strategy. I must say they are the top brand agency in the London. They listened to my requirements and asked me questions that made me aware that they are deeply interested in my brand identity design and custom stationery design. I love their back to back sessions while working on the brand development strategy with our team. They have completely revamped my corporate brand identity. Honestly, it's a highly recommend branding company in the London</p>
+                <p>Website Valley has been indeed a magical service provider for my brand development strategy. I must say they are the top branding agency in the London. They listened to my requirements and asked me questions that made me aware that they are deeply interested in my brand identity design and custom stationery design. I love their back to back sessions while working on the brand development strategy with our team. They have completely revamped my corporate brand identity. Honestly, it's a highly recommend branding company in the London</p>
                 <h6>— Sarah Ramirez, Brand Owner</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
