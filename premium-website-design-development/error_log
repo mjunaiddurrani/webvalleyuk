@@ -1,0 +1,12 @@
+[10-Dec-2021 18:45:11 UTC] PHP Warning:  file_get_contents(/home/websitevalleyco/public_html/json/metaData.json): failed to open stream: No such file or directory in /home/websitevalleyco/public_html/includes/head.php on line 14
+[10-Dec-2021 18:45:11 UTC] PHP Warning:  file_get_contents(/home/websitevalleyco/public_html/json/packages.json): failed to open stream: No such file or directory in /home/websitevalleyco/public_html/includes/head.php on line 15
+[10-Dec-2021 18:45:11 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/websitevalleyco/public_html/includes/head.php on line 18
+[10-Dec-2021 18:45:11 UTC] PHP Warning:  file_get_contents(/home/websitevalleyco/public_html/json/headFile.json): failed to open stream: No such file or directory in /home/websitevalleyco/public_html/includes/head.php on line 27
+[10-Dec-2021 18:45:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/websitevalleyco/public_html/premium-website-design-development/index.php on line 523
+[10-Dec-2021 18:45:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/websitevalleyco/public_html/premium-website-design-development/index.php on line 534
+[10-Dec-2021 18:45:30 UTC] PHP Warning:  file_get_contents(/home/websitevalleyco/public_html/json/metaData.json): failed to open stream: No such file or directory in /home/websitevalleyco/public_html/includes/head.php on line 14
+[10-Dec-2021 18:45:30 UTC] PHP Warning:  file_get_contents(/home/websitevalleyco/public_html/json/packages.json): failed to open stream: No such file or directory in /home/websitevalleyco/public_html/includes/head.php on line 15
+[10-Dec-2021 18:45:30 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/websitevalleyco/public_html/includes/head.php on line 18
+[10-Dec-2021 18:45:30 UTC] PHP Warning:  file_get_contents(/home/websitevalleyco/public_html/json/headFile.json): failed to open stream: No such file or directory in /home/websitevalleyco/public_html/includes/head.php on line 27
+[10-Dec-2021 18:45:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/websitevalleyco/public_html/premium-website-design-development/index.php on line 523
+[10-Dec-2021 18:45:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/websitevalleyco/public_html/premium-website-design-development/index.php on line 534
