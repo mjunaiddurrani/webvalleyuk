@@ -1,4 +1,6 @@
 <?php
+
+include_once($_SERVER['DOCUMENT_ROOT']."/includes/get-dashboard.php");
 ob_start();
 session_start();
 
@@ -13,7 +15,7 @@ if(!isset($_REQUEST['TOKEN'])){
 $token=$_REQUEST['TOKEN'];
 $curl = curl_init();
 curl_setopt_array($curl, array(
-	CURLOPT_URL => "https://dashboard.ourbase.camp/api/leads/$token",
+	CURLOPT_URL => "$dashboardUrl/leads/$token",
 	CURLOPT_RETURNTRANSFER => true,
 	CURLOPT_ENCODING => "",
 	CURLOPT_MAXREDIRS => 10,

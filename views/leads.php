@@ -1,4 +1,6 @@
 <?php
+
+include_once($_SERVER['DOCUMENT_ROOT']."/includes/get-dashboard.php");
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
@@ -38,7 +40,7 @@ if (isset($_POST['token'])) {
 $payload=json_encode($data);
 $curl = curl_init();
 curl_setopt_array($curl, array(
-CURLOPT_URL => "https://dashboard.ourbase.camp/api/customer",
+CURLOPT_URL => "$dashboardUrl/customer",
 CURLOPT_RETURNTRANSFER => true,
 CURLOPT_ENCODING => "",
 CURLOPT_MAXREDIRS => 10,

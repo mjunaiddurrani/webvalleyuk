@@ -1,4 +1,5 @@
 <?php
+include_once($_SERVER['DOCUMENT_ROOT']."/includes/get-dashboard.php");
 ob_start();
 session_start();
 
@@ -48,7 +49,7 @@ if($_POST['account_type'] == 'nmi'){
 $d = json_encode($data);
 $curl = curl_init();
 curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://dashboard.ourbase.camp/api/chargepayments",
+    CURLOPT_URL => "$dashboardUrl/chargepayments",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
@@ -124,7 +125,7 @@ elseif($_POST['account_type'] == 'stripe'){
         $d = json_encode($data);
         $curl = curl_init();
         curl_setopt_array($curl, array(
-            CURLOPT_URL => "https://dashboard.ourbase.camp/api/stripepayments",
+            CURLOPT_URL => "$dashboardUrl/stripepayments",
             CURLOPT_RETURNTRANSFER => true,
             CURLOPT_ENCODING => "",
             CURLOPT_MAXREDIRS => 10,
