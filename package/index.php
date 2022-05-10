@@ -16,7 +16,7 @@ $package = $packageArray[$packageSlug];
 
 ?>
 
-<title><?= $package->heading ?>| The Web Founders</title>
+<title><?= $package->heading ?>| Website Valley </title>
 <meta name="description" content="<?= $package->heading ?> package allows live conferencing features and tailored client/user dashboards with a strong semi-automated admin panel.">
 
 <meta charset="utf-8">

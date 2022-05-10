@@ -34,7 +34,7 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: 1rem;
-    border-bottom: 1px solid #e9ecef;
+    /* border-bottom: 1px solid #e9ecef; */
     border-top-left-radius: 0.3rem;
     border-top-right-radius: 0.3rem;
 }
@@ -69,7 +69,7 @@ button.close {
     -webkit-box-flex: 1;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
-    padding: 1rem;
+    padding: 2rem;
 }
 .logoweb {
     margin-top: -70px;
@@ -158,7 +158,7 @@ border-radius: 6px 6px 0 0;
 
 
 .sw-theme-default {
-    border: 0px solid #EED !important;
+    border: 20px solid #EED !important;
 }
 
 
@@ -172,16 +172,16 @@ border-radius: 6px 6px 0 0;
 
  .sw-btn-prev{
   color: #fff;
-  background-color:#263055 !important;
-  border: 1px solid#263055 !important;
+  background-color:#1e4662 !important;
+  border: 1px solid#1e4662 !important;
   padding: 0.375rem 0.75rem;
   border-radius: 0.25rem;
   font-weight: 400;
 }
 .sw-btn-next{
   color: #fff;
-  background-color:#263055 !important;
-  border: 1px solid#263055 !important;
+  background-color:#1e4662 !important;
+  border: 1px solid#1e4662 !important;
   padding: 0.375rem 0.75rem;
   border-radius: 0.25rem;
   font-weight: 400;

@@ -180,7 +180,7 @@
                       </div>
                       <div class="col-lg-12">
                         <div class="fldset">
-                          <input  name="phone" class="phone" type="tel" placeholder="Phone Number" required />
+                          <input  name="phone" class="phone" type="number" placeholder="Phone Number" required />
                         </div>
                       </div>
                       <div class="col-lg-12">
@@ -241,7 +241,7 @@
               </div>
                <div class="fldst">
                 <p>Send us your number to speak with an actual human.</p>
-                 <input  name="phone" required="" type="tel"   placeholder="Enter phone here">
+                 <input  name="phone" required="" type="number"   placeholder="Enter phone here">
                  <button class="newbtn" type="submit">Submit</button>
                  <script>
                 

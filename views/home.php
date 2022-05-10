@@ -643,7 +643,7 @@ input#other {
           </button>
         </div>
         <div class="modal-body">
-          <img class="logoweb" src="img/logo.png" alt="logo">
+          <img class="logoweb" src="img/logo.png" alt="logo" style="    margin-bottom: 22px;margin-top: -71px;">
           <div id="stepwizard">
             <ul class="nav">
               <li class="nav-item"><a href="#step1" class="nav-link"></a></li>
@@ -664,7 +664,7 @@ input#other {
                   <input type="hidden" name="steperForm" value="true">
                   <input type="hidden" name="price" value="null">
                   <input type="hidden" name="news" value="1">
-                  <h3>What is your web design requirement?</h3>
+                  <h3 style ="margin-top: 29px;margin-bottom: 10px;">What is your web design requirement?</h3>
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
                       <input type="radio" name="step1" id="create-website" value="Create a new website">
@@ -685,17 +685,17 @@ input#other {
                   </div>
                   <div class="row">
                     <div class="col-md-12 " >
-                      <input type="radio" name="step1" id="others-req" style="margin-left: -5px;">
+                      <input type="radio" name="step1" id="others-req" style="margin-left: -1px;">
                       <label class="labels" for="others-req">
                         <input class="other" type="text" id="otherSelectionBox" id="" placeholder="Other" style="
-    margin-left: 5px;">
+    margin-left: 0px;">
                       </label>
                     </div>
                   </div>
 
                 </div>
                 <div id="step2" class="tab-pane" role="tabpanel" aria-labelledby="step-2">
-                  <h3>What are your website needs?</h3>
+                  <h3 style ="margin-top: 29px;margin-bottom: 10px;">What are your website needs?</h3>
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
                       <input type="radio" name="step2" id="to-advertise" value="To advertise my business/services">
@@ -719,16 +719,16 @@ input#other {
                   </div>
                   <div class="row">
                     <div class="col-md-12 " >
-                      <input type="radio" name="step2" id="other-step2" style="margin-left: -5px;">
+                      <input type="radio" name="step2" id="other-step2" style="margin-left: -1px;">
                       <label class="labels" for="other-step2">
                         <input class="other" type="text" id="other-step2-input" placeholder="Other" style="
-    margin-left: 5px;">
+    margin-left: 0px;">
                       </label>
                     </div>
                   </div>
                 </div>
                 <div id="step3" class="tab-pane" role="tabpanel" aria-labelledby="step-3">
-                  <h3>What type of business is this for?</h3>
+                  <h3 style ="margin-top: 29px;margin-bottom: 10px;">What type of business is this for?</h3>
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
                       <input type="radio" name="step3" id="personal-project" value="Personal project">
@@ -775,16 +775,16 @@ input#other {
                   </div>
                   <div class="row">
                     <div class="col-md-12 " >
-                      <input type="radio" name="step3" id="step3-radio" style="margin-left: -5px;">
+                      <input type="radio" name="step3" id="step3-radio" style="margin-left: -1px;">
                       <label class="labels" for="step3-radio">
                         <input class="other" type="text" id="step3-input" placeholder="Other" style="
-    margin-left: 5px;">
+    margin-left: 0px;">
                       </label>
                     </div>
                   </div>
                 </div>
                 <div id="step4" class="tab-pane" role="tabpanel" aria-labelledby="step-4">
-                  <h3>What industry do you operate in?</h3>
+                  <h3 style ="margin-top: 29px;margin-bottom: 10px;">What industry do you operate in?</h3>
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
                       <input type="radio" name="step4" id="business-services" value="Business services">
@@ -841,16 +841,16 @@ input#other {
                   </div>
                   <div class="row">
                     <div class="col-md-12 " >
-                      <input type="radio" name="step4" id="step4-radio" style="margin-left: -5px;">
+                      <input type="radio" name="step4" id="step4-radio" style="margin-left: -1px;">
                       <label class="labels" for="step4-radio">
                         <input class="other" type="text" id="step4-input" placeholder="Other" style="
-    margin-left: 5px;">
+    margin-left: 0px;">
                       </label>
                     </div>
                   </div>
                 </div>
                 <div id="step5" class="tab-pane" role="tabpanel" aria-labelledby="step-5">
-                  <h3>What is your estimated budget for this project?</h3>
+                  <h3 style ="margin-top: 29px;margin-bottom: 10px;">What is your estimated budget for this project?</h3>
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
                       <input type="radio" name="step5" id="less-than-500" value="Less than $500">
@@ -889,7 +889,7 @@ input#other {
                   </div>
                 </div>
                 <div id="step6" class="tab-pane" role="tabpanel" aria-labelledby="step-6">
-                  <h3>Get a free quote now</h3>
+                  <h3 style ="margin-top: 29px;margin-bottom: 10px;">Get a free quote now</h3>
                   <div class="row">
                     <div class="col-md-12">
                       <label for="enter_name">Name</label>

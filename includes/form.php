@@ -18,7 +18,7 @@
      </div>
      <div class="col-md-6">
         <label class="field-txt">Phone Number<span>*</span></label>
-       <input id="phone-country" name="phone" class="phone" type="tel" placeholder="" required/>
+       <input id="phone-country" name="phone" class="phone" type="number" placeholder="" required/>
      </div>
      
      
