@@ -96,7 +96,7 @@
                             <div class="row">
                               
                               <div class="col-md-12">
-                                <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+                                <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
                               </div>
                             </div>
