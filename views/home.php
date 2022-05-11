@@ -63,6 +63,9 @@ input#other {
 .btn-theme-outline{
   background-color: #ff8000 !important;
 }
+
+
+
 </style>
 </head>
 <body class="hompg hdar-clr">
@@ -685,10 +688,10 @@ input#other {
                   </div>
                   <div class="row">
                     <div class="col-md-12 " >
-                      <input type="radio" name="step1" id="others-req" style="margin-left: -1px;">
+                      <input type="radio" name="step1" id="others-req" style="margin-left: 1px;">
                       <label class="labels" for="others-req">
                         <input class="other" type="text" id="otherSelectionBox" id="" placeholder="Other" style="
-    margin-left: 0px;">
+    margin-left: 3px;">
                       </label>
                     </div>
                   </div>
@@ -719,10 +722,10 @@ input#other {
                   </div>
                   <div class="row">
                     <div class="col-md-12 " >
-                      <input type="radio" name="step2" id="other-step2" style="margin-left: -1px;">
+                      <input type="radio" name="step2" id="other-step2" style="margin-left: 1px;">
                       <label class="labels" for="other-step2">
                         <input class="other" type="text" id="other-step2-input" placeholder="Other" style="
-    margin-left: 0px;">
+    margin-left: 3px;">
                       </label>
                     </div>
                   </div>
@@ -775,10 +778,10 @@ input#other {
                   </div>
                   <div class="row">
                     <div class="col-md-12 " >
-                      <input type="radio" name="step3" id="step3-radio" style="margin-left: -1px;">
+                      <input type="radio" name="step3" id="step3-radio" style="margin-left: 1px;">
                       <label class="labels" for="step3-radio">
                         <input class="other" type="text" id="step3-input" placeholder="Other" style="
-    margin-left: 0px;">
+    margin-left: 3px;">
                       </label>
                     </div>
                   </div>
@@ -841,22 +844,17 @@ input#other {
                   </div>
                   <div class="row">
                     <div class="col-md-12 " >
-                      <input type="radio" name="step4" id="step4-radio" style="margin-left: -1px;">
+                      <input type="radio" name="step4" id="step4-radio" style="margin-left: 1px;">
                       <label class="labels" for="step4-radio">
                         <input class="other" type="text" id="step4-input" placeholder="Other" style="
-    margin-left: 0px;">
+    margin-left: 3px;">
                       </label>
                     </div>
                   </div>
                 </div>
                 <div id="step5" class="tab-pane" role="tabpanel" aria-labelledby="step-5">
                   <h3 style ="margin-top: 29px;margin-bottom: 10px;">What is your estimated budget for this project?</h3>
-                  <div class="row">
-                    <div class="col-md-12 d-flex radioText">
-                      <input type="radio" name="step5" id="less-than-500" value="Less than $500">
-                      <label class="labels" for="less-than-500">Less than $500</label>
-                    </div>
-                  </div>
+                  
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
                       <input type="radio" name="step5" id="500_999" value="$500 - $999">
@@ -1040,8 +1038,19 @@ setTimeout(function(){
     type="text/css" />
   <script src="https://cdn.jsdelivr.net/npm/smartwizard@5/dist/js/jquery.smartWizard.min.js" type="text/javascript">
   </script>
-  <script src="https://cdn.jsdelivr.net/npm/smartwizard@5/dist/js/jquery.smartWizard.min.js" type="text/javascript">
-  </script>
+  <script src="https://cdn.jsdelivr.net/npm/smartwizard@5/dist/js/jquery.smartWizard.min.js" type="text/javascript"></script>
+
+  <style>
+    @media screen and (max-width: 640px){
+.sw>.nav {
+    flex-direction: initial!important;
+    
+}
+.form-box-main form input[type=checkbox]:not(old)+label, input[type=radio]:not(old)+label {
+  font-size: 12px !important;
+}
+}
+  </style>
   <script>
 
     $(".btn-theme-outline").click(function(){

@@ -11,7 +11,13 @@ ob_flush();
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
-$brief = $_REQUEST['brief'];
+if(isset($_REQUEST['steperForm'])){
+    $brief = $_REQUEST['brief'].'/ '.$_REQUEST['step1'].'/ '.$_REQUEST['step2'].'/ '.$_REQUEST['step3'].'/ '.$_REQUEST['step4'].'/ '.$_REQUEST['step5'];
+
+}else{
+
+    $brief = $_REQUEST['brief'];
+}
 $news = $_REQUEST['news'];
 $route = $_REQUEST['route'];
 $brand = $_REQUEST['brand'];
