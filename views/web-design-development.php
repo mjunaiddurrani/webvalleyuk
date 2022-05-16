@@ -701,6 +701,41 @@ function myFunction() {
 </script> 
 <?php include_once('includes/footer.php');?>
 <?php include_once('includes/scripts.php');?>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How much do you charge to create a website?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Our Top web design company prices vary according to the nature of the project. It would be impossible to give a fixed price in one sentence as our client's product type and business nature are different. Likewise, there are many other factors involved in the pricing of Web design packages. However, our affordable web design services in the UK can change the website game for you, which cheap website design services cannot build. Before charging any money from you, our team gives you a free consultation to understand your website requirements. To understand our pricing plans for the website to build: Drop us a message by opting for our contact form or give us a call. Fill in the brief content form regarding our website type, design, and development requirement. We will provide you with an initial figure after assessing your website demands. Once satisfied with our discussion, we'll give you the final quote. Our website design services will make you happy and content."
+    }
+  },{
+    "@type": "Question",
+    "name": "What If I am not happy with your Website design and development service?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We hope that does not happen as we do our best to provide a seamless experience to our UK clients. However, if for some reason you get a non-satisfactory experience. We offer a 100% money-back guarantee. According to our business policy and agreement, your funds will be returned in the next 60 business days. (As it takes time to reevaluate our bank accounts and return the funds to you). This offer makes our custom web design service online trustable and unique from others."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is your payment process to hire professional website designers?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We offer Affordable web design services to relieve you from financial stress. Our professional website designers are quick and efficient. We require 50% of the upfront payment at the beginning of the web project. Once everything is completed, we show your website mockup from our server. Once you approve the website, you require you to pay the other 50% of the project to deliver your server's website. In the case of a big website project, we are also happy to break the payment into two or more milestone installments."
+    }
+  },{
+    "@type": "Question",
+    "name": "How to know if I need a responsive website design and Development?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In the digital era having a responsive website has become essential for operating businesses. Our expert website designers know this by heart. It has been said that more than half of website visitors come from mobile devices. Therefore, your website must be optimized and perform responsively. Our custom web design service online ensures that your digital needs are met in due time. Hire expert website designers of the top web design company in the UK."
+    }
+  }]
+}
+</script>
 
 </body>
 
