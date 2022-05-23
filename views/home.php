@@ -1104,13 +1104,13 @@ setTimeout(function(){
         $('#modalSteper').modal('hide');
       })
 
-      setTimeout(() => {
-        $('#modalSteper').modal('show');
-        $('#stepwizard').smartWizard({
-          hiddenSteps: []
-        });
+      // setTimeout(() => {
+      //   $('#modalSteper').modal('show');
+      //   $('#stepwizard').smartWizard({
+      //     hiddenSteps: []
+      //   });
 
-      }, 10000);
+      // }, 10000);
       
       $("#stepwizard").on("stepContent", function (e, anchorObject, currentStepIndex, nextStepIndex,
       stepDirection) {
