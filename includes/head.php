@@ -57,7 +57,11 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 		font-size:25px;
 		font-weight:bold;
 	}
-
+  .jun {
+    visibility: hidden !important;
+    position: absolute;
+    max-width: 1px;
+}
 </style>
 
 

@@ -164,6 +164,7 @@
                     <input type="hidden" name="tag" value="modal-auto">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
                     <div class="row">
                       <div class="col-lg-12">
                         <div class="fldset">

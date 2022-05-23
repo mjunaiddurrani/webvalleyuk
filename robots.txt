@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /leads/
+Disallow: /blog/author/
+Disallow: /blog/?p=*
+Disallow: /blog/category/
+Disallow: /blog-details/
+Disallow: /blog/tags/
+Disallow: /thank-you/
+Disallow: /thank-you/
+
+Disallow: /blog/2021/*/
+
+Disallow: /blog/2021/*/*/
+
+
+
+User-agent: SemrushBot
+Allow: /
+Disallow: /leads/
+Disallow: /blog/author/admin/
+Disallow: /blog/category/*/
+
+
+sitemap: https://www.websitevalley.co.uk/sitemap.xml

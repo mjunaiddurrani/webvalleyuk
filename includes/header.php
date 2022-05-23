@@ -148,6 +148,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <input type="hidden" name="tag" value="modal-auto">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
 								</div>
 							<div class="col-md-6 ">
 								<textarea name="brief" required class="form-control"  style="" placeholder="Write your project description"></textarea>

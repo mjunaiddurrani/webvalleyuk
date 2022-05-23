@@ -346,6 +346,7 @@ button.play.rounded-box.state-playing {
                     <input type="hidden" name="tag" value="footer-form">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
               <div class="row">
                 <h4>Get an Experts Consultation</h4>
                 <p>or Call Now <b>+44-203-883-4810</b></p>
@@ -620,6 +621,7 @@ button.play.rounded-box.state-playing {
                   <input type="hidden" name="tag" value="modal-auto">
                   <input type="hidden" name="price" value="null">
                   <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
             <div class="row">
             <div class="col-md-12 col-xs-12 margin-bottom-10">
               <input type="text" autocomplete="off" class="form-control" placeholder="Full Name" name="name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'" required="required" pattern="^[A-Za-z ]+$" maxlength="45">

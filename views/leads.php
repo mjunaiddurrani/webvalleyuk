@@ -25,7 +25,10 @@ $tag = $_REQUEST['tag'];
 $price = $_REQUEST['price'];
 $domain = "www.websitevalley.co.uk";
 
-
+if($_REQUEST["gender"] != ""){
+    header("location: /");
+    exit();
+ }
 $data=array(
 'name'=> $name,
 'email'=>$email,
