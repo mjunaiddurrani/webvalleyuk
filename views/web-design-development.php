@@ -14,7 +14,7 @@
 <?php include_once('includes/head.php');?><!-- seo  -->
 <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Website Development Company #1 in UK Website Design Service" />
+  <meta property="og:title" content="Custom Website Design and Development Services in UK | Website Valle" />
   <meta property="og:description" content="Get affordable web design services by our professional website designers in your timeline! Also, hire our expert web developers for custom web development." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
   <meta property="og:site_name" content="websitevalley" />
@@ -440,6 +440,36 @@ Website Valley was easy to work with, and we quickly understood our needs and we
         In the digital era having a responsive website has become essential for operating businesses. Our expert website designers know this by heart. It has been said that more than half of website visitors come from mobile devices. Therefore, your website must be optimized and perform responsively. Our custom web design service online ensures that your digital needs are met in due time. Hire expert website designers of the top web design company in the UK. 
 
 
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingFive">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          5. Can I create a landing page with Website Valley? How much time do your developers take?
+
+        </a>
+      </h4>
+      </div>
+      <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+        <div class="panel-body">
+        The Website Valley is a bespoke web design Agency that employs web design experts with a minimum of 5 years of industry experience. The work that needs to be done on projects is finished on time by our professionals. Nevertheless, every task requires a different deadline. We have earned a reputation as a bespoke web design agency thanks to the high quality of our services and the competitive prices we offer. We are a preferred web design company, and we cater to all our customers’ needs, regardless of the size of their business. Even if you are looking for a web design for small business in UK, our experts will assist you in making it a reality.
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="headingFive">
+        <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          6. What is website development, and how will it benefit my business?
+
+        </a>
+      </h4>
+      </div>
+      <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+        <div class="panel-body">
+        Website development is described as creating websites for intranet or internet hosting falls. In addition to web design, content development, server-side scripting, and network security settings, the web development process comprises a variety of other responsibilities. The Website Valley is a bespoke web design agency that offers the best web design for small business in UK. Visitors are more likely to return to your site after seeing one that has been expertly developed.  Visitors will attract to a well-designed website, which will increase revenue. Your website's search engine rankings will suffer as a result of a badly designed and outdated website. Thus it's essential to hire a bespoke web design agency to keep your website at the top of search engine results. If you want to create a web design for small business in UK, get in touch with us today. Our experts will lay the groundwork to make it simple for you.
         </div>
       </div>
     </div>
