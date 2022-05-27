@@ -9,7 +9,7 @@ if (isset($_SERVER['HTTPS'])) {
 if(!isset($_SESSION['url'])){
   $_SESSION['url'] = "$_SERVER[REQUEST_URI]";
  }
- echo $_SESSION['url'];
+//  echo $_SESSION['url'];
 //  session_destroy();
 // die;
 
