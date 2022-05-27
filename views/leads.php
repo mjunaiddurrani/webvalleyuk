@@ -16,6 +16,8 @@ if(isset($_REQUEST['steperForm'])){
 
     $brief = $_REQUEST['brief'].' | '.$_SESSION['url'];
 }
+echo $_SESSION['url'];
+die;
 $news = $_REQUEST['news'];
 $route = $_REQUEST['route'];
 $brand = $_REQUEST['brand'];
