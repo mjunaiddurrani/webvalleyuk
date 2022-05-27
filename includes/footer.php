@@ -42,10 +42,10 @@
             <!-- <li><a class="address"> 104 Meads Lane, Ilford IG3<br> 8PE, UK</a></li> -->
           </ul>
           <!-- <ul class="scalmdia">
-              <li><a href="https://www.facebook.com/websitevalleyUK/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="https://twitter.com/websitevalleyuk"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.instagram.com/websitevalleyuk/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.linkedin.com/company/websitevalley"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.facebook.com/websitevalleyUK/" rel="nofollow"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/websitevalleyuk" rel="nofollow"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.instagram.com/websitevalleyuk/" rel="nofollow"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/websitevalley" rel="nofollow"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
           </ul> -->
         </div>  
       </div>
@@ -87,8 +87,8 @@
               </figure>
             </div>
             <div class="social">
-              <a href="https://www.facebook.com/websitevalleyuk"><i class="fab fa-facebook-f"></i></a>
-              <a href="https://www.instagram.com/websitevalley/"><i class="fab fa-instagram"></i></a>
+              <a href="https://www.facebook.com/websitevalleyuk" rel="nofollow"><i class="fab fa-facebook-f"></i></a>
+              <a href="https://www.instagram.com/websitevalley/" rel="nofollow"><i class="fab fa-instagram"></i></a>
             </div>
           </div>
         </div>
