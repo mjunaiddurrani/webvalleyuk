@@ -1288,7 +1288,7 @@ if (isset($_SERVER['HTTPS'])) {
       <div class="row">
         <div class="col-sm-6">
           <div class="fologo">
-            <img src="images/logo.png">
+            <img src="assets/images/logo.png">
           </div>
           <p class="copyright">&copy;  thewebfounders <span id="year"></span>. All rights reserved.</p>
         </div>
@@ -1302,7 +1302,7 @@ if (isset($_SERVER['HTTPS'])) {
       </div>
     </div>
   </div>
-  <a href="https://api.whatsapp.com/send?phone=+442030484363&text=" class="float" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=442030484363&text=" class="float" target="_blank">
     <i class="fa fa-whatsapp my-float"></i>
   </a>
 </footer>
