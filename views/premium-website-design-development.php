@@ -595,9 +595,9 @@ button.play.rounded-box.state-playing {
       <i class="fa fa-comment pur-bg"></i>
       <span class="pur">Chat With Us</span>
     </a>
-    <a href="tel:+442038834810" class="call_wrap">
+    <a href="tel:+442038087061" class="call_wrap">
       <i class="fa fa-phone pur-bg"></i>
-      <span class="pur">+44 2038 834810</span>
+      <span class="pur">+44 2038 087061</span>
     </a>
   </div>
 
@@ -709,7 +709,7 @@ button.play.rounded-box.state-playing {
       if(window.innerWidth > 600){
         $("#modalForDiscount").modal('show');
       }else{
-        window.open('tel:+442038834810','_self');
+        window.open('tel:+442038087061','_self');
       }
       
 
