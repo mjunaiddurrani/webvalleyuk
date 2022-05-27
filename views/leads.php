@@ -5,19 +5,18 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 ob_start();
+session_start();
 
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
 if(isset($_REQUEST['steperForm'])){
-    $brief = $_REQUEST['brief'].'/ '.$_REQUEST['step1'].'/ '.$_REQUEST['step2'].'/ '.$_REQUEST['step3'].'/ '.$_REQUEST['step4'].'/ '.$_REQUEST['step5'].' | '.$_SESSION['url'];
+    $brief = $_REQUEST['brief'].'/ '.$_REQUEST['step1'].'/ '.$_REQUEST['step2'].'/ '.$_REQUEST['step3'].'/ '.$_REQUEST['step4'].'/ '.$_REQUEST['step5'];
 
 }else{
 
-    $brief = $_REQUEST['brief'].' | '.$_SESSION['url'];
+    $brief = $_REQUEST['brief'];
 }
-echo $_SESSION['url'];
-die;
 $news = $_REQUEST['news'];
 $route = $_REQUEST['route'];
 $brand = $_REQUEST['brand'];
