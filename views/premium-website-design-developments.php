@@ -6,6 +6,13 @@ if (isset($_SERVER['HTTPS'])) {
 	$requesMet = "http";
 }
 
+if(!isset($_SESSION['url'])){
+  $_SESSION['url'] = "$_SERVER[REQUEST_URI]";
+ }
+ echo $_SESSION['url'];
+//  session_destroy();
+// die;
+
 ?>
 
 <!doctype html>

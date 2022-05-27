@@ -11,7 +11,9 @@ if (isset($_SERVER['HTTPS'])) {
 if(!isset($_SESSION['url'])){
   $_SESSION['url'] = "$_SERVER[REQUEST_URI]";
  }
- 
+
+ echo $_SESSION['url'];
+ die;
 $pageUri =  $_SERVER['REQUEST_URI'];
 $csrf = bin2hex(random_bytes(35));
 $_SESSION['csrf'] = $csrf;
