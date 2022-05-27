@@ -60,7 +60,7 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
   .jun {
     visibility: hidden !important;
     position: absolute;
-    max-width: 1px;
+    max-width: 1px !important;
 }
 </style>
 
