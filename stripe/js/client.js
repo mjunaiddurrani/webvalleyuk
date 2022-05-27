@@ -1,5 +1,5 @@
 var domainName = 'https://www.websitevalley.co.uk/';
-var stripe = Stripe("pk_live_51KOV7ZIWAWD6Rl50hMBF5jzDaCRDLVTkpNEjJpbHQ7YCLEUu92A8m5iKarHTaoaW8LrtRfVF7EWwWxVN6hnlYIZ200UzyOc1ay");
+var stripe = Stripe("pk_live_51L0rlaHOuu1ctvQkuahA5xOQCPEpdULILKW9i7I9dIutnDgo0EtBMBBgdpjCJ5pqz5uXZ1pzhfr2tjkpdzMfpgjJ00yYDc1IIv");
 var elements = stripe.elements();
 var style = { base: { fontSize: "16px", color: "#000" } };
 var card = elements.create("card", { style: style });
