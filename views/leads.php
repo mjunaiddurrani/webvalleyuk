@@ -12,11 +12,11 @@ $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
 if(isset($_REQUEST['steperForm'])){
-    $brief = $_REQUEST['brief'].'/ '.$_REQUEST['step1'].'/ '.$_REQUEST['step2'].'/ '.$_REQUEST['step3'].'/ '.$_REQUEST['step4'].'/ '.$_REQUEST['step5'];
+    $brief = $_REQUEST['brief'].'/ '.$_REQUEST['step1'].'/ '.$_REQUEST['step2'].'/ '.$_REQUEST['step3'].'/ '.$_REQUEST['step4'].'/ '.$_REQUEST['step5'].' | '.$_SESSION['url'];
 
 }else{
 
-    $brief = $_REQUEST['brief'];
+    $brief = $_REQUEST['brief'].' | '.$_SESSION['url'];
 }
 $news = $_REQUEST['news'];
 $route = $_REQUEST['route'];
