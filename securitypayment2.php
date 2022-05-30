@@ -1,12 +1,11 @@
 <?php
-
 include_once($_SERVER['DOCUMENT_ROOT']."/includes/get-dashboard.php");
 ob_start();
 session_start();
 
 date_default_timezone_set("Asia/Karachi");  
 $phpSelf = filter_input(INPUT_SERVER, 'PHP_SELF', FILTER_SANITIZE_URL);
-
+include_once("includes/visitors.php");
 // if(isset/)
 if(!isset($_REQUEST['TOKEN'])){
 	header('location:/');
@@ -77,7 +76,6 @@ if ($response=="") {
 // die();
 ?>
 <!DOCTYPE html>
-<html lang="en-GB">
 <head>
 <?php 
 if (isset($_SERVER['HTTPS'])) {
@@ -100,14 +98,16 @@ $brandurl = json_encode($brandurl);
  ?>
 
 <!doctype html>
-<html lang="en-GB">
-<head>
+<html lang="en">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
-  <title>WebsiteValley</title>
+
+<head>
+  <title>Website Valley | Secure Payment</title>
     <meta name="description" content=""> 
    
  
-   <?php include_once('includes/styles.php');?>
+   <?php include_once('includes/head.php');?>
    
 <style>
 	.inner_bg{
@@ -122,12 +122,12 @@ $brandurl = json_encode($brandurl);
     z-index: 999;
     width: 100%;
     top: 0;
-    background-color: #f8f9fa8a;
+    background-color: #0000004f;
     padding: 15px 0;
 }
 
-body{
-		font-family: "Nunito";
+	body{
+		font-family: "poppins";
 	}
 	.containerCheckBox span{
 		font-size:14px;
@@ -148,7 +148,7 @@ body{
 	}
 	.paymentHeading{
 		color: green;
-		font-family: "Nunito";
+		font-family: "poppins";
 		font-weight: 600;
 	}
 	.paymentTabs{
@@ -186,7 +186,7 @@ body{
 	.paymentDescription{
 		font-size: 18px;
 		font-weight: 800;
-		font-family: "Nunito";
+		font-family: "poppins";
 		color: #b0aeae;
 		transition: .4s ease-in-out;
 	}
@@ -204,18 +204,18 @@ body{
 	}
 	.card-heading{
 		text-align: center;
-		font-family: "Nunito";
+		font-family: "poppins";
 		font-weight: 800;
 		font-size: 23px;
 	}
 	.submitPay{
 		font-size: 20px;
 		font-weight: 700;
-		font-family: "Nunito";
+		font-family: "poppins";
 		padding:18px 50px;
 	}
 	.authorizeForm *{
-		font-family: "Nunito";
+		font-family: "poppins";
 	}
 	label{
 		float:left !important;
@@ -238,6 +238,7 @@ body{
 
 
 	}
+	
 </style>
 </head>
 <body>
@@ -247,18 +248,18 @@ body{
    <div class="main_nav">
         <div class="container">   
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand logo" href="index.php" data-aos="fade-down" data-aos-duration="1000"> <img class="" style="max-width: 75%;" src="assets/images/logo.png" alt="imgae"> </a>
+                <a class="navbar-brand logo" href="index.php" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="assets/images/logo-white.png" alt=""> </a>
                     
             </nav>        
         </div>
     </div>
 </header> 
 
-    <div class="about_area inner_bg" style="background-image:url('payment-service-providers-1-1024x512.png')">
+    <div class="about_area inner_bg" style="background-image:url('https://www.wiki-pros.com/images/about_bg.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000" style="color:#ffff">Complete Your Payment</h2>
+                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000" style="color:#fff">Complete Your Payment</h2>
                 </div>
             </div>
         </div>
@@ -275,11 +276,11 @@ body{
 				<div class="cardInfo">
 					<div class="card myCardPay" >
 						<div class="card-header text-center text-black">
-							<h2 class="card-heading">Invoice from WebsiteValley</h2>
-							<p>Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
+							<h2 class="card-heading" style="color:black;">Invoice from Website Valley</h2>
+							<p style="color:black;">Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
 						</div>
-					
-						<div class="card-body text-center" style="padding-left:200px;padding-right:200px">
+						<!-- style="padding-left:200px;padding-right:200px" -->
+						<div class="card-body text-center" >
 							<img style="max-width:300px !important" src="https://www.ghostwritingfounder.com/img/icons/visa_mastercard.png" alt="stripe payment icon">
 							<form action="stripecharge.php" method="post" id="payment-form">
 							<input type="hidden" name="id" id="lead_id" value="<?php echo $dataLeads->id; ?>" class="form-control">
@@ -322,7 +323,7 @@ body{
 										<input type="hidden" name="user_id" value="<?php echo $dataLeads->user_id; ?>">
 										<input type="hidden" name="lead_id" value="<?php echo $dataLeads->id; ?>">
 										<input type="hidden" name="address" value="<?php echo $dataLeads->address; ?>" >
-										<input type="hidden" name="description" value="<?php echo $dataLeads->description; ?>" >
+										<input type="hidden" name="description" value="<?php echo $dataLeads->description; ?>" >										
 										<input type="hidden" name="account_type" value="stripe" >
 									
 										<div class="form-row">
@@ -339,7 +340,7 @@ body{
 										<br>
 										<button class="btn btn-success submitPay">Finish and Pay</button>
 										</div>
-						
+								
 									</form>
 								</div>
 							</div>
@@ -381,7 +382,6 @@ body{
 	</div>
 </section>
 <!-- ./Tabs -->
-
 
 <!-- <script src="js/jquery.min.js"></script> -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -439,7 +439,7 @@ $(document).ready(function(){
 	$("#payment-form").submit(function (e) {
 	$('.submitPay').prop('disabled',true);
 });
-})
+});
 </script>
 
 <?php
@@ -453,8 +453,9 @@ $(document).ready(function(){
 ?>
 
 
-<!-- <script src="https://js.stripe.com/v3/"></script>
-<script src="stripe/js/client.js"></script> -->
-<script id="client-js-cdn" data-dashboard="<?=$dashboardUrl?>" src="<?=str_replace("/api",'/js/client.js',$dashboardUrl)?>"></script>
+<script src="https://js.stripe.com/v3/"></script>
+
+<script src="stripe/js/client2.js"></script>
+
 </body>
 </html>

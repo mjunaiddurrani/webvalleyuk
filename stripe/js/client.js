@@ -1,4 +1,4 @@
-var domainName = 'https://www.websitevalley.co.uk/';
+
 var stripe = Stripe("pk_live_51L4AQwEi006uq5iJsgYmNsI6k40Azjo8Opy93EbinaRLBnkJDfWzWsfVo7bZG5FNCuB1notPDAEfx9RqOJTt3ghv00QKDWb8tx");
 var elements = stripe.elements();
 var style = { base: { fontSize: "16px", color: "#000" } };

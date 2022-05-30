@@ -1,5 +1,6 @@
-<?php
 
+
+<?php
 include_once($_SERVER['DOCUMENT_ROOT']."/includes/get-dashboard.php");
 ob_start();
 session_start();
@@ -77,7 +78,7 @@ if ($response=="") {
 // die();
 ?>
 <!DOCTYPE html>
-<html lang="en-GB">
+<html lang="en-US">
 <head>
 <?php 
 if (isset($_SERVER['HTTPS'])) {
@@ -100,14 +101,14 @@ $brandurl = json_encode($brandurl);
  ?>
 
 <!doctype html>
-<html lang="en-GB">
+<html lang="en">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-
-  <title>WebsiteValley</title>
+  <title>Website Valley</title>
     <meta name="description" content=""> 
    
  
-   <?php include_once('includes/styles.php');?>
+   <?php include_once('includes/head.php');?>
    
 <style>
 	.inner_bg{
@@ -122,11 +123,11 @@ $brandurl = json_encode($brandurl);
     z-index: 999;
     width: 100%;
     top: 0;
-    background-color: #f8f9fa8a;
+    background-color: #0000004f;
     padding: 15px 0;
 }
 
-body{
+	body{
 		font-family: "Nunito";
 	}
 	.containerCheckBox span{
@@ -238,6 +239,7 @@ body{
 
 
 	}
+	
 </style>
 </head>
 <body>
@@ -247,18 +249,18 @@ body{
    <div class="main_nav">
         <div class="container">   
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand logo" href="index.php" data-aos="fade-down" data-aos-duration="1000"> <img class="" style="max-width: 75%;" src="assets/images/logo.png" alt="imgae"> </a>
+                <a class="navbar-brand logo" href="/" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="assets/images/logo-white.png" alt="" style="width:20%;"> </a>
                     
             </nav>        
         </div>
     </div>
 </header> 
 
-    <div class="about_area inner_bg" style="background-image:url('payment-service-providers-1-1024x512.png')">
+    <div class="about_area inner_bg" style="background-image:url('assets/images/payment_banner.png')">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000" style="color:#ffff">Complete Your Payment</h2>
+                    <h2 class="inner_title" data-aos="fade-up" data-aos-duration="1000" style="color:white;">Complete Your Payment</h2>
                 </div>
             </div>
         </div>
@@ -275,30 +277,28 @@ body{
 				<div class="cardInfo">
 					<div class="card myCardPay" >
 						<div class="card-header text-center text-black">
-							<h2 class="card-heading">Invoice from WebsiteValley</h2>
-							<p>Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
+							<h2 class="card-heading" style="color:black;">Invoice from Website Valley</h2>
+							<p style="color:black;">Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
 						</div>
 					
 						<div class="card-body text-center" style="padding-left:200px;padding-right:200px">
 							<img style="max-width:300px !important" src="https://www.ghostwritingfounder.com/img/icons/visa_mastercard.png" alt="stripe payment icon">
-							<form action="stripecharge.php" method="post" id="payment-form">
-							<input type="hidden" name="id" id="lead_id" value="<?php echo $dataLeads->id; ?>" class="form-control">
-							<input type="hidden" name="currency" id="currency" value="<?php echo $currency; ?>" class="form-control">
-							<input type="hidden" name="TOKEN" id="TOKEN" value="<?php echo $_REQUEST['TOKEN']; ?>" class="form-control">
-							<input type="hidden" name="brand" value="<?php echo $dataLeads->brand; ?>" class="form-control">
+							
+							
+                            
 							
 							<h2 class="card-heading">Credit Or Debit Card </h2>
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">
 										<label for="fname">First Name</label>
-										<input type="text" name="fname" id="fname" value="<?php echo $dataLeads->fname; ?>" class="form-control">
+										<input readonly type="text" name="fname" id="fname" value="<?php echo $dataLeads->fname; ?>" class="form-control">
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
 										<label for="fname">Last Name</label>
-										<input type="text" name="lname" id="lname" value="<?php echo $dataLeads->lname; ?>" class="form-control">
+										<input readonly type="text" name="lname" id="lname" value="<?php echo $dataLeads->lname; ?>" class="form-control">
 									</div>
 								</div>
 							</div>
@@ -306,41 +306,28 @@ body{
 								<div class="col-md-6">
 									<div class="form-group">
 										<label for="fname">Email</label>
-										<input type="text" name="email" id="email" value="<?php echo $dataLeads->email; ?>" class="form-control">
+										<input readonly type="text" name="email" id="email" value="<?php echo $dataLeads->email; ?>" class="form-control">
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="form-group">
 										<label for="fname">Phone Number</label>
-										<input type="text" name="phonenumber" id="phonenumber" value="<?php echo $dataLeads->phonenumber; ?>" class="form-control">
+										<input readonly type="text" name="phonenumber" id="phonenumber" value="<?php echo $dataLeads->phonenumber; ?>" class="form-control">
 									</div>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-12">
-									<input type="hidden" id="amount" name="setprice" value="<?php echo $dataLeads->amount; ?>">
-										<input type="hidden" name="user_id" value="<?php echo $dataLeads->user_id; ?>">
-										<input type="hidden" name="lead_id" value="<?php echo $dataLeads->id; ?>">
-										<input type="hidden" name="address" value="<?php echo $dataLeads->address; ?>" >
-										<input type="hidden" name="description" value="<?php echo $dataLeads->description; ?>" >
-										<input type="hidden" name="account_type" value="stripe" >
-									
-										<div class="form-row">
+                                    
 										
-										<div id="card-element" class="form-control">
-										<!-- A Stripe Element will be inserted here. -->
-										</div>
-
-										<!-- Used to display Element errors. -->
-										<div id="card-errors" role="alert"></div>
-										</div>
+                                
 
 										<div class="text-center">
 										<br>
-										<button class="btn btn-success submitPay">Finish and Pay</button>
+										<button class="btn btn-success submitPay" onclick="window.location.href='<?=$dataLeads->direct_charge_url?>'">Finish and Pay</button>
 										</div>
-						
-									</form>
+									
+                                        
 								</div>
 							</div>
 						</div>
@@ -381,7 +368,6 @@ body{
 	</div>
 </section>
 <!-- ./Tabs -->
-
 
 <!-- <script src="js/jquery.min.js"></script> -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -439,7 +425,7 @@ $(document).ready(function(){
 	$("#payment-form").submit(function (e) {
 	$('.submitPay').prop('disabled',true);
 });
-})
+});
 </script>
 
 <?php
@@ -453,8 +439,5 @@ $(document).ready(function(){
 ?>
 
 
-<!-- <script src="https://js.stripe.com/v3/"></script>
-<script src="stripe/js/client.js"></script> -->
-<script id="client-js-cdn" data-dashboard="<?=$dashboardUrl?>" src="<?=str_replace("/api",'/js/client.js',$dashboardUrl)?>"></script>
 </body>
 </html>
