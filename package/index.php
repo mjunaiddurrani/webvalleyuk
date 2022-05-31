@@ -130,7 +130,7 @@ $package = $packageArray[$packageSlug];
                                         <span class="icon-location"></span>
                                     </div>
                                     <div class="textpart">
-                                        <p> 86-90 Paul Street, London <br>EC2A 4NE, UK</p>
+                                        <p> 54 park avenue barking, Essex, IG11 8QU,  UK</p>
                                     </div>
                                 </div>
                             </li>

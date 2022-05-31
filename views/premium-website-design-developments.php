@@ -18,7 +18,7 @@ if(!isset($_SESSION['url'])){
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Website Design And Development | The Website Founders</title>
+    <title>Website Design And Development | Website Valley</title>
 
 
     <style>
@@ -168,8 +168,7 @@ if (isset($_SERVER['HTTPS'])) {
         <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<link rel="icon" href="favicon.png" type="image/x-icon" />
 <link rel="manifest" href="images/site.webmanifest">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
@@ -208,7 +207,7 @@ if (isset($_SERVER['HTTPS'])) {
               <input name="email" type="email" class="form-control txt-sub text-left emailBootom jun email" placeholder="your email address">
               <input type="hidden" name="token" value="<?= $token;?>">
             <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
-            <input type="hidden" name="brand" value="thewebfoundersuk">   
+            <input type="hidden" name="brand" value="websitevalley">   
             <input type="hidden" name="tag" value="footer-form in landingpage">
             <input type="hidden" name="price" value="null">
             <input type="hidden" name="news" value="1">
@@ -352,7 +351,7 @@ if (isset($_SERVER['HTTPS'])) {
       <div class="row">
         <div class="col-lg-2 logo-area">
           <div class="logo">
-            <a href="https://thewebfounders.co.uk/">
+            <a href="https://websitevalley.co.uk/">
               <img class="img-fluid" src="images/home/logo.png" alt="*">
             </a>
           </div>
@@ -393,7 +392,7 @@ if (isset($_SERVER['HTTPS'])) {
         <h4 style="text-align:center;color:#D93954;font-weight:600;">Get an Experts Consultation</h4>
         <p style="text-align:center;color:#333;">or Call Now <b>+44 2038 087061</b></p>
            <input type="hidden" name="route" value="/premium-website-design-development/">   
-           <input type="hidden" name="brand" value="thewebfoundersuk">   
+           <input type="hidden" name="brand" value="websitevalley">   
            <input type="hidden" name="tag" value="footer-form in landingpage">
            <input type="hidden" name="price" value="null">
            <input type="hidden" name="news" value="1">
@@ -454,7 +453,7 @@ if (isset($_SERVER['HTTPS'])) {
         <h4 style="text-align:center;color:#D93954;font-weight:600;">Get an Experts Consultation</h4>
         <p style="text-align:center;color:#333;">or Call Now <b>+44 2038 087061</b></p>
            <input type="hidden" name="route" value="/premium-website-design-development/">   
-           <input type="hidden" name="brand" value="thewebfoundersuk">   
+           <input type="hidden" name="brand" value="websitevalley">   
            <input type="hidden" name="tag" value="footer-form in landingpage">
            <input type="hidden" name="price" value="null">
            <input type="hidden" name="news" value="1">
@@ -703,7 +702,7 @@ if (isset($_SERVER['HTTPS'])) {
       </div>
       <div class="ftter">
       <a href="javascript:void" class="formBtn btn-primary">Get Started</a>
-      <!-- <a href="https://thewebfounders.co.uk/pricing/basic-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
+      <!-- <a href="https://websitevalley.co.uk/pricing/basic-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
       </div>
     </li>
     <li class="mypack popular">
@@ -734,7 +733,7 @@ if (isset($_SERVER['HTTPS'])) {
       </div>
       <div class="ftter">
       <a href="javascript:void" class="formBtn btn-primary">Get Started</a>
-      <!-- <a href="https://thewebfounders.co.uk/pricing/startup-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
+      <!-- <a href="https://websitevalley.co.uk/pricing/startup-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
       </div>
     </li>
     <li class="mypack ">
@@ -771,7 +770,7 @@ if (isset($_SERVER['HTTPS'])) {
       </div>
       <div class="ftter">
       <a href="javascript:void" class="formBtn btn-primary">Get Started</a>
-      <!-- <a href="https://thewebfounders.co.uk/pricing/professional-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
+      <!-- <a href="https://websitevalley.co.uk/pricing/professional-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
       </div>
     </li>
     <li class="mypack popular">
@@ -813,7 +812,7 @@ if (isset($_SERVER['HTTPS'])) {
       </div>
       <div class="ftter">
       <a href="javascript:void" class="formBtn btn-primary">Get Started</a>
-      <!-- <a href="https://thewebfounders.co.uk/pricing/elite-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
+      <!-- <a href="https://websitevalley.co.uk/pricing/elite-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
       </div>
     </li>
     <li class="mypack ">
@@ -856,7 +855,7 @@ if (isset($_SERVER['HTTPS'])) {
       </div>
       <div class="ftter">
       <a href="javascript:void" class="formBtn btn-primary">Get Started</a>
-      <!-- <a href="https://thewebfounders.co.uk/pricing/business-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
+      <!-- <a href="https://websitevalley.co.uk/pricing/business-website-package" class="viewdetails"><span class="icon-magnifying-glass2"></span> See Details</a> -->
       </div>
     </li>
              </ul>
@@ -985,7 +984,7 @@ if (isset($_SERVER['HTTPS'])) {
           <div class="textwrap">
             <h4 class="subheading">WEBSITE DESIGN & DEVELOPMENT</h4>
             <h2>Designing and building user interfaces</h2>
-            <p>The Website Founders specializes in website design and development services. Our web experiences are high-performing, designed to be user-friendly, fully functional, very secure and able to scale as your enterprise grows. </p>
+            <p>The Website valley specializes in website design and development services. Our web experiences are high-performing, designed to be user-friendly, fully functional, very secure and able to scale as your enterprise grows. </p>
             <ul class="solutionslist">
               <li><i class="fa fa-check" style="color: #dd3854;margin-right: 5px;"></i>HTML5 </li>
               <li><i class="fa fa-check" style="color: #dd3854;margin-right: 5px;"></i>CSS3</li>
@@ -1030,7 +1029,7 @@ if (isset($_SERVER['HTTPS'])) {
                   <i class="icon-star"></i>
                   <i class="icon-star"></i>
                 </div>
-                <p>The website received positive feedback and drove an increase in sales. Flexible and efficient, the team produced high-quality content within a short period. The Website Founders innovative ideas and hands-on approach made for a fruitful partnership. They produced landing pages of varying lengths to be used on a website and for marketing campaigns.</p>
+                <p>The website received positive feedback and drove an increase in sales. Flexible and efficient, the team produced high-quality content within a short period. The Website valley innovative ideas and hands-on approach made for a fruitful partnership. They produced landing pages of varying lengths to be used on a website and for marketing campaigns.</p>
               </div>
               <div class="icli">
                 <div class="round">
@@ -1052,7 +1051,7 @@ if (isset($_SERVER['HTTPS'])) {
                   <i class="icon-star"></i>
                   <i class="icon-star"></i>
                 </div>
-                <p>We are excited to be working with The Website Founders and building on their Chain of Custody solution. It has helped set the foundation for the Responsible Gold Supply Chain and Emergent Technology'sability to track gold from mine to vault.</p>
+                <p>We are excited to be working with The Website valley and building on their Chain of Custody solution. It has helped set the foundation for the Responsible Gold Supply Chain and Emergent Technology'sability to track gold from mine to vault.</p>
               </div>
               <div class="icli">
                 <div class="round">
@@ -1074,7 +1073,7 @@ if (isset($_SERVER['HTTPS'])) {
                   <i class="icon-star"></i>
                   <i class="icon-star"></i>
                 </div>
-                <p>Our online ordering has increased about 4x in the past 3–4 years and Thewebfounders has made it easier and more efficient to get orders through. It fits right into the operational flow.</p>
+                <p>Our online ordering has increased about 4x in the past 3–4 years and websitevalley has made it easier and more efficient to get orders through. It fits right into the operational flow.</p>
               </div>
               <div class="icli">
                 <div class="round">
@@ -1097,7 +1096,7 @@ if (isset($_SERVER['HTTPS'])) {
                   <i class="icon-star"></i>
                   <i class="icon-star"></i>
                 </div>
-                <p>We’ve been using @THEWEBFOUNDERS  here at A Better Lemonade Stand for several years now. We've seen incredible growth - achieving a 532% growth one year. If you'd like to know more about them, read our review on the blog:</p>
+                <p>We’ve been using @websitevalley  here at A Better Lemonade Stand for several years now. We've seen incredible growth - achieving a 532% growth one year. If you'd like to know more about them, read our review on the blog:</p>
               </div>
               <div class="icli">
                 <div class="round">
@@ -1120,7 +1119,7 @@ if (isset($_SERVER['HTTPS'])) {
                   <i class="icon-star"></i>
                   <i class="icon-star"></i>
                 </div>
-                <p>The Website Founders specializing in both 2D & 3D animation including production of explainer videos, product demos, mobile app demos, corporate animated videos as well as character design. We work for both Fortune 500 companies and emerging new brands. Some of our clients include: Miami Air International, CanTrack Global, Universal ID and Photobox Group.</p>
+                <p>The Website valley specializing in both 2D & 3D animation including production of explainer videos, product demos, mobile app demos, corporate animated videos as well as character design. We work for both Fortune 500 companies and emerging new brands. Some of our clients include: Miami Air International, CanTrack Global, Universal ID and Photobox Group.</p>
               </div>
               <div class="icli">
                 <div class="round">
@@ -1143,7 +1142,7 @@ if (isset($_SERVER['HTTPS'])) {
                   <i class="icon-star"></i>
                   <i class="icon-star"></i>
                 </div>
-                <p>Thewebfounders takes a modern approach to event software, thinking outside the box. Its everything you need with one platform, including marketing tools.</p>
+                <p>websitevalley takes a modern approach to event software, thinking outside the box. Its everything you need with one platform, including marketing tools.</p>
               </div>
               <div class="icli">
                 <div class="round">
@@ -1181,7 +1180,7 @@ if (isset($_SERVER['HTTPS'])) {
               <input name="email" type="email" class="form-control txt-sub text-left emailBootom jun email" placeholder="your email address">
               <input type="hidden" name="token" value="<?= $token;?>">
             <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
-            <input type="hidden" name="brand" value="thewebfoundersuk">   
+            <input type="hidden" name="brand" value="websitevalley">   
             <input type="hidden" name="tag" value="footer form">
             <input type="hidden" name="price" value="null">
             <input type="hidden" name="news" value="1">
@@ -1262,9 +1261,9 @@ if (isset($_SERVER['HTTPS'])) {
         <div class="col-lg-3 col-md-3 col-sm-12">
           <h3 class="xsmtpx-30">About</h3>
           <ul class="linkinglist">
-            <li><a href="mailto:query@thewebfounders.co.uk">query@thewebfounders.co.uk</a></li>
+            <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
             <li><a href="tel:+442038087061">+44 2038 087061</a></li>
-            <li><a class="address">Address: 86-90 Paul Street, London EC2A 4NE, UK</a></li>
+            <li><a class="address">Address: 54 park avenue barking, Essex, IG11 8QU, UK</a></li>
             
             <div class="dmca">
             <a href="//www.dmca.com/Protection/Status.aspx?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"  alt="DMCA.com Protection Status" /></a> 
@@ -1297,7 +1296,7 @@ if (isset($_SERVER['HTTPS'])) {
           <div class="fologo">
             <img src="assets/images/logo.png">
           </div>
-          <p class="copyright">&copy;  thewebfounders <span id="year"></span>. All rights reserved.</p>
+          <p class="copyright">&copy;  websitevalley <span id="year"></span>. All rights reserved.</p>
         </div>
         
         <div class="col-sm-6">
@@ -1341,7 +1340,7 @@ if (isset($_SERVER['HTTPS'])) {
               <input name="email" type="email" class="form-control txt-sub text-left emailBootom jun email" placeholder="your email address">
               <input type="hidden" name="token" value="<?= $token;?>">
                   <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
-                  <input type="hidden" name="brand" value="thewebfoundersuk">   
+                  <input type="hidden" name="brand" value="websitevalley">   
                   <input type="hidden" name="tag" value="sidepanel form in landing-page">
                   <input type="hidden" name="price" value="null">
                   <input type="hidden" name="news" value="1">
@@ -1377,7 +1376,7 @@ if (isset($_SERVER['HTTPS'])) {
                   <input type="hidden" name="ctry" value="">
                   <input type="hidden" name="pc" value="">
                   <input type="hidden" name="cip" >
-                  <input type="hidden" id="location" name="locationURL" value="http://thewebfounders.co.uk/website-design-development" />
+                  <input type="hidden" id="location" name="locationURL" value="http://websitevalley.co.uk/website-design-development" />
                   </div>
                 </div>
               </div>
