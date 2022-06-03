@@ -5,8 +5,8 @@
 <!-- Added by HTTrack --><head>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<title>Custom Website Design and Development Services in UK | Website Valley</title>
-<meta name="description" content="Get affordable web design services by our professional website designers in your timeline! Also, hire our expert web developers for custom web development.">
+<title>Custom Web Design and Development Services in UK</title>
+<meta name="description" content="Get affordable web design services by our professional web designers in your timeline! Also, hire our expert web developers for custom web development services.">
 
 
 
@@ -14,8 +14,8 @@
 <?php include_once('includes/head.php');?><!-- seo  -->
 <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Custom Website Design and Development Services in UK | Website Valle" />
-  <meta property="og:description" content="Get affordable web design services by our professional website designers in your timeline! Also, hire our expert web developers for custom web development." />
+  <meta property="og:title" content="Custom Web Design and Development Services in UK" />
+  <meta property="og:description" content="Get affordable web design services by our professional web designers in your timeline! Also, hire our expert web developers for custom web development services." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
   <meta property="og:site_name" content="websitevalley" />
   <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
@@ -91,7 +91,7 @@ a:active{
             <div class=" col-lg-5">
               <div class="home-banner-content">
                 <h1>Our Professional Website Design Company Provides Custom Web Design Service Online </h1>
-                <p class="subtitle">Websites have become a necessity for operating businesses in the digital world. Your business deserves professional website development that is memorable, uniquely your own—and that gives you exposure all year long.</p>
+                <p class="subtitle">Websites have become a necessity for operating businesses in the digital world. Your business deserves professional web development services that is memorable, uniquely your own—and that gives you exposure all year long.</p>
                 <ul class="myticks">
                   <li>Customized Designs</li>
                   <li>Highly Responsive</li>
@@ -162,7 +162,7 @@ a:active{
             <div class=" webdesign myservices current" role="toolbar">
               <div class="left">
     <h2>Professional Website Design Company for Stellar Web Designs </h2>
-    <p>To grow your business quickly, you must have a responsive website in these digital times. Professional website development helps your business be registered among the audience and enables you to achieve your marketing goals. Therefore, our professional website design company provides you with the  required exposure for operating your business and grows it significantly.</p>
+    <p>To grow your business quickly, you must have a responsive website in these digital times. Professional web development helps your business be registered among the audience and enables you to achieve your marketing goals. Therefore, our professional website design company provides you with the  required exposure for operating your business and grows it significantly.</p>
     
     <div>
   <br>
@@ -209,7 +209,7 @@ a:active{
       <div class="col-lg-6 my-auto">
         <div class="txtwrap">
           <h2>Creative Innovative Brands with Professional Website Designers </h2>
-          <p>Making your unique brand identity online in these ultra-modern digital times is not easy. A lot more is required from you as a brand. Website Valley's professional website development team upholds the highest regard for your business, and this is shown in the type of website design services we deliver to you. Our quick website design company will ensure that your brand remains media-worthy and highlights your unique business value proposition. </p>
+          <p>Making your unique brand identity online in these ultra-modern digital times is not easy. A lot more is required from you as a brand. Website Valley's professional web development team upholds the highest regard for your business, and this is shown in the type of website design services we deliver to you. Our quick website design company will ensure that your brand remains media-worthy and highlights your unique business value proposition. </p>
      
         </div>
       </div>
@@ -261,10 +261,10 @@ a:active{
       </div>
       <div class="col-lg-6 mt-3">
         <div class="txtwrap ">
-          <h2 class="text-left">Your Professional Website Development is the Key to Enter into the Business World.</h2>
+          <h2 class="text-left">Your Professional Web Development is the Key to Enter into the Business World.</h2>
           <p class="text-left">Creating a website is not enough for your business. Your modern website design requires continuous changes that provide web security and bring innovative ideas to remain relevant for your audience. If you seek to gain your audience's attention through modern website design, you need to change according to the technology.</p>
           <h5 class="text-left">Professional Developers </h5>
-          <p class="text-left">Then you must hire professional website development services for custom web design services online. Your modern website design is the face of your business. Therefore, our Professional Website Design Company will help you tell everyone who you are, what you do, and that you're a serious business. </p>
+          <p class="text-left">Then you must hire professional web development services for custom web design services online. Your modern website design is the face of your business. Therefore, our Professional Website Design Company will help you tell everyone who you are, what you do, and that you're a serious business. </p>
         </div>
       </div>
      
@@ -293,14 +293,14 @@ a:active{
           <span class="text-left h2 font-29">Website Made to Fit Every Screen </span>
           <p class="text-left">No matter if your user is coming from a mobile, tablet, or regular desktop, your professional website development is necessary. Our Modern web designs are tailored to meet the criteria of every screen. Get the modern website designs that make your website look as sharp as on the desktop screen. </p>
           <h5 class="text-left">Professional Website Designers are within your reach—no need to search more about the top web design company near me.  </h5>
-          <p class="text-left">We are affordable web design services. Our custom web design service online has designed reasonable web design Packages to satisfy your digital needs within your budget. Now you don't have to look for cheap website design services when you can have the best results at an affordable web design services price.  </p>        </div>
+          <p class="text-left">We are affordable design services. Our custom design service online has designed reasonable web design Packages to satisfy your digital needs within your budget. Now you don't have to look for cheap design services when you can have the best results at an affordable web design services price.  </p>        </div>
       </div>
       <div class="col-lg-6 mt-2">
         <div class="txtwrap">
           <h2>Affordable Web Design Packages </h2>
           <p>Every package is designed with thoughtful considerations to guarantee the best user experience. Showcase your business with web security and great web designs at a reasonable price. Below mentioned are our Web Design Packages. You can also connect with us for any customized package that fits your budget needs when it comes to cheap website design services.</p>
           <h5>SEO Optimized Website to Reach More Audience   </h5>
-          <p>The online business world has some prerequisites that you need to be aware of, such as website SEO and top website design services. SEO optimization has become crucial for getting your website ranked in search engines. Thereby, your content should be SEO optimized according to the current trends to increase your domain authority. No matter which target market you opt to choose, you will always have the upper hand with our affordable web design services. </p>
+          <p>The online business world has some prerequisites that you need to be aware of, such as website SEO and top website design services. SEO optimization has become crucial for getting your website ranked in search engines. Thereby, your content should be SEO optimized according to the current trends to increase your domain authority. No matter which target market you opt to choose, you will always have the upper hand with our affordable services. </p>
         </div>
       </div>
       <div class="col-lg-6 mt-5">
@@ -386,7 +386,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       <div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
         Our Top web design company prices vary according to the nature of the project. It would be impossible to give a fixed price in one sentence as our client's product type and business nature are different. Likewise, there are many other factors involved in the pricing of Web design packages. However, our affordable web design services in the UK can change the website game for you, which cheap website design services cannot build. Before charging any money from you, our team gives you a free consultation to understand your website requirements. To understand our pricing plans for the website to build: 
-          Drop us a message by opting for our contact form or give us a call.  Fill in the brief content form regarding our website type, design, and development requirement. We will provide you with an initial figure after assessing your website demands. Once satisfied with our discussion, we'll give you the final quote. Our website design services will make you happy and content.  
+          Drop us a message by opting for our contact form or give us a call.  Fill in the brief content form regarding our website type, design, and development requirement. We will provide you with an initial figure after assessing your website demands. Once satisfied with our discussion, we'll give you the final quote. Our professional services will make you happy and content.  
 
 
         </div>
@@ -396,14 +396,14 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       <div class="panel-heading" role="tab" id="headingTwo">
         <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          2. What If I am not happy with your Website design and development service?
+          2. What If I am not happy with your Website design and web development services?
 
         </a>
       </h4>
       </div>
       <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
         <div class="panel-body">
-        We hope that does not happen as we do our best to provide a seamless experience to our UK clients. However, if for some reason you get a non-satisfactory experience. We offer a 100% money-back guarantee. According to our business policy and agreement, your funds will be returned in the next 60 business days. (As it takes time to reevaluate our bank accounts and return the funds to you). This offer makes our custom web design service online trustable and unique from others. 
+        We hope that does not happen as we do our best to provide a seamless experience to our UK clients. However, if for some reason you get a non-satisfactory experience. We offer a 100% money-back guarantee. According to our business policy and agreement, your funds will be returned in the next 60 business days. (As it takes time to reevaluate our bank accounts and return the funds to you). This offer makes our services trustable and unique from others. 
 
         </div>
       </div>
@@ -419,7 +419,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       </div>
       <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
         <div class="panel-body">
-        We offer Affordable web design services to relieve you from financial stress. Our professional website designers are quick and efficient. We require 50% of the upfront payment at the beginning of the web project. Once everything is completed, we show your website mockup from our server. Once you approve the website, you require you to pay the other 50% of the project to deliver your server's website. In the case of a big website project, we are also happy to break the payment into two or more milestone installments. 
+        We offer Affordable services to relieve you from financial stress. Our professional website designers are quick and efficient. We require 50% of the upfront payment at the beginning of the web project. Once everything is completed, we show your website mockup from our server. Once you approve the website, you require you to pay the other 50% of the project to deliver your server's website. In the case of a big website project, we are also happy to break the payment into two or more milestone installments. 
 
 
         </div>
@@ -437,7 +437,7 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       </div>
       <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
         <div class="panel-body">
-        In the digital era having a responsive website has become essential for operating businesses. Our expert website designers know this by heart. It has been said that more than half of website visitors come from mobile devices. Therefore, your website must be optimized and perform responsively. Our custom web design service online ensures that your digital needs are met in due time. Hire expert website designers of the top web design company in the UK. 
+        In the digital era having a responsive website has become essential for operating businesses. Our expert website designers know this by heart. It has been said that more than half of website visitors come from mobile devices. Therefore, your website must be optimized and perform responsively. Our custom design service online ensures that your digital needs are met in due time. Hire expert website designers of the top web design company in the UK. 
 
 
         </div>
@@ -459,15 +459,15 @@ Website Valley was easy to work with, and we quickly understood our needs and we
       </div>
     </div>
     <div class="panel panel-default">
-      <div class="panel-heading" role="tab" id="headingFive">
+      <div class="panel-heading" role="tab" id="headingSix">
         <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
           6. What is website development, and how will it benefit my business?
 
         </a>
       </h4>
       </div>
-      <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+      <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
         <div class="panel-body">
         Website development is described as creating websites for intranet or internet hosting falls. In addition to web design, content development, server-side scripting, and network security settings, the web development process comprises a variety of other responsibilities. The Website Valley is a bespoke web design agency that offers the best web design for small business in UK. Visitors are more likely to return to your site after seeing one that has been expertly developed.  Visitors will attract to a well-designed website, which will increase revenue. Your website's search engine rankings will suffer as a result of a badly designed and outdated website. Thus it's essential to hire a bespoke web design agency to keep your website at the top of search engine results. If you want to create a web design for small business in UK, get in touch with us today. Our experts will lay the groundwork to make it simple for you.
         </div>
@@ -762,8 +762,21 @@ function myFunction() {
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "In the digital era having a responsive website has become essential for operating businesses. Our expert website designers know this by heart. It has been said that more than half of website visitors come from mobile devices. Therefore, your website must be optimized and perform responsively. Our custom web design service online ensures that your digital needs are met in due time. Hire expert website designers of the top web design company in the UK."
-    }
-  }]
+    },{
+    "@type": "Question",
+    "name": "Can I create a landing page with Website Valley? How much time do your developers take?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The Website Valley is a bespoke web design Agency that employs web design experts with a minimum of 5 years of industry experience. The work that needs to be done on projects is finished on time by our professionals. Nevertheless, every task requires a different deadline. We have earned a reputation as a bespoke web design agency thanks to the high quality of our services and the competitive prices we offer. We are a preferred web design company, and we cater to all our customers’ needs, regardless of the size of their business. Even if you are looking for a web design for small business in UK, our experts will assist you in making it a reality."
+    },{
+    "@type": "Question",
+    "name": "What is website development, and how will it benefit my business?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Website development is described as creating websites for intranet or internet hosting falls. In addition to web design, content development, server-side scripting, and network security settings, the web development process comprises a variety of other responsibilities. The Website Valley is a bespoke web design agency that offers the best web design for small business in UK. Visitors are more likely to return to your site after seeing one that has been expertly developed.  Visitors will attract to a well-designed website, which will increase revenue. Your website's search engine rankings will suffer as a result of a badly designed and outdated website. Thus it's essential to hire a bespoke web design agency to keep your website at the top of search engine results. If you want to create a web design for small business in UK, get in touch with us today. Our experts will lay the groundwork to make it simple for you."
+    }  
+    }]
+
 }
 </script>
 
