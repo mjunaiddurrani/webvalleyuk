@@ -840,7 +840,8 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
             <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
             <form method="POST" action="/leads/">
                             <button type="submit" class="theme-btn pink-bd-btn text-center open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Startup Plan - £350.00">Order Now</button>
-               <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+               
+                            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
                     <input type="hidden" name="brand" value="webvalleyuk">   
                     <input type="hidden" name="token" value="<?= $token;?>">   
                     <input type="hidden" name="tag" value="modal-auto">
@@ -938,14 +939,14 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
               
             <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
             <form method="POST" action="/leads/">
-
-                            <button type="subm <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+            <button type="submit" class="theme-btn pink-bd-btn text-center open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Venture Plan - £1200.00">Order Now</button>
+                            <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
                     <input type="hidden" name="brand" value="webvalleyuk">   
                     <input type="hidden" name="token" value="<?= $token;?>">   
                     <input type="hidden" name="tag" value="modal-auto">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
-<input type="text" class="jun"  name="gender">it" class="theme-btn pink-bd-btn text-center open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Venture Plan - £1200.00">Order Now</button>
+<input type="text" class="jun"  name="gender">
               >
             </form>
           </div>
