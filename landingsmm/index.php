@@ -179,12 +179,13 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 
                   
                 
-                  <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+                <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
                     <input type="hidden" name="brand" value="webvalleyuk">   
                     <input type="hidden" name="token" value="<?= $token;?>">   
                     <input type="hidden" name="tag" value="modal-auto">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
                   <div class="row">
                     <div class="col-md-12">
                       <div class="banner_form_head">
@@ -837,11 +838,15 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
           <div class="text-center">
               
             <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
-            <form method="POST" action="https://professionalwebdesigns.co.uk/include/sendmail.php">
+            <form method="POST" action="/leads/">
                             <button type="submit" class="theme-btn pink-bd-btn text-center open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Startup Plan - £350.00">Order Now</button>
-              <input type="hidden" name="website_design" value="Social Media Marketing Packages">
-              <input type="hidden" name="starter" value="Startup Plan Packages">
-              <input type="hidden" name="price" value="$350">
+               <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+                    <input type="hidden" name="brand" value="webvalleyuk">   
+                    <input type="hidden" name="token" value="<?= $token;?>">   
+                    <input type="hidden" name="tag" value="modal-auto">
+                    <input type="hidden" name="price" value="null">
+                    <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
             </form>
           </div>
         </div>
@@ -883,11 +888,15 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
           <div class="text-center">
               
             <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
-            <form method="POST" action="https://professionalwebdesigns.co.uk/include/sendmail.php">
+            <form method="POST" action="/leads/">
                             <button type="submit" class="theme-btn pink-bd-btn text-center open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Scaling Plan - £700.00">Order Now</button>
-              <input type="hidden" name="website_design" value="Social Media Marketing Packages">
-              <input type="hidden" name="starter" value="Scaling Plan Packages">
-              <input type="hidden" name="price" value="$700">
+               <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+                    <input type="hidden" name="brand" value="webvalleyuk">   
+                    <input type="hidden" name="token" value="<?= $token;?>">   
+                    <input type="hidden" name="tag" value="modal-auto">
+                    <input type="hidden" name="price" value="null">
+                    <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
             </form>
           </div>
         </div>
@@ -928,12 +937,16 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
           <div class="text-center">
               
             <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
-            <form method="POST" action="https://professionalwebdesigns.co.uk/include/sendmail.php">
+            <form method="POST" action="/leads/">
 
-                            <button type="submit" class="theme-btn pink-bd-btn text-center open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Venture Plan - £1200.00">Order Now</button>
-              <input type="hidden" name="website_design" value="Social Media Marketing Packages">
-              <input type="hidden" name="starter" value="Venture Plan Packages">
-              <input type="hidden" name="price" value="$1200">
+                            <button type="subm <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
+                    <input type="hidden" name="brand" value="webvalleyuk">   
+                    <input type="hidden" name="token" value="<?= $token;?>">   
+                    <input type="hidden" name="tag" value="modal-auto">
+                    <input type="hidden" name="price" value="null">
+                    <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">it" class="theme-btn pink-bd-btn text-center open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Venture Plan - £1200.00">Order Now</button>
+              >
             </form>
           </div>
         </div>
