@@ -15,6 +15,9 @@
 
 
 <?php 
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 include_once($_SERVER['DOCUMENT_ROOT']."/includes/token.php");
 if (isset($_SERVER['HTTPS'])) {
 	$requesMet = "https";
@@ -51,6 +54,7 @@ $headFileContent  = json_decode(file_get_contents($_SERVER['DOCUMENT_ROOT'].'/js
 
 // define dashboard url
 $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
+
 
 ?>
 
@@ -109,14 +113,6 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 </script>
 
 
-<?php if($metaTitle!=""):?>
-  <title><?= $metaTitle; ?></title>
-<?php endif;?>
-<?php if($metaDescription!=""):?>
-  <meta name="description" content="<?= $metaDescription;?>">
-<?php endif;?>
-
-<?=$headFileContent;?>
 <!-- head end -->
 
 
