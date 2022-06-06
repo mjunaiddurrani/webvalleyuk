@@ -88,12 +88,15 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
   gtag('config', 'UA-194982789-1');
 </script>
 
+<?php if(false):?>
+  
+  <?php if($metaTitle!=""):?>
+    <title><?= $metaTitle; ?></title>
+  <?php endif;?>
+  <?php if($metaDescription!=""):?>
+    <meta name="description" content="<?= $metaDescription;?>">
+  <?php endif;?>
+  
+  <?=$headFileContent;?>
 
-<?php if($metaTitle!=""):?>
-  <title><?= $metaTitle; ?></title>
 <?php endif;?>
-<?php if($metaDescription!=""):?>
-  <meta name="description" content="<?= $metaDescription;?>">
-<?php endif;?>
-
-<?=$headFileContent;?>
