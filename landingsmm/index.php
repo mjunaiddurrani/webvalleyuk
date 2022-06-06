@@ -136,7 +136,7 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 
   <!-- Header Section Begin -->
 
-  <?php include_once($_SERVER['DOCUMENT_ROOT'].'../includes/header.php');?>
+  <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/header.php');?>
 
   <!-- Header Section End -->
 
