@@ -835,9 +835,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
             </span>
           </div>
           <div class="text-center">
-              <div class="a-pack">
-                <a href="startup-plan-package/">View Details</a>
-              </div>
+              
             <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
             <form method="POST" action="https://professionalwebdesigns.co.uk/include/sendmail.php">
                             <button type="submit" class="theme-btn pink-bd-btn text-center open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Startup Plan - £350.00">Order Now</button>
@@ -883,9 +881,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
             </span>
           </div>
           <div class="text-center">
-              <div class="a-pack">
-                <a href="scaling-plan/">View Details</a>
-              </div>
+              
             <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
             <form method="POST" action="https://professionalwebdesigns.co.uk/include/sendmail.php">
                             <button type="submit" class="theme-btn pink-bd-btn text-center open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Scaling Plan - £700.00">Order Now</button>
@@ -930,9 +926,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
             </span>
           </div>
           <div class="text-center">
-              <div class="a-pack">
-                <a href="venture-plan/">View Details</a>
-              </div>
+              
             <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
             <form method="POST" action="https://professionalwebdesigns.co.uk/include/sendmail.php">
 
@@ -1016,9 +1010,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                <div class="a-pack">
-                <a href="startup-website-package/" >View Details</a>
-              </div>
+                
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Startup Website Package - £228.00">Order Now</button>
                 
@@ -1063,9 +1055,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="professional-website-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center open_modal"  name="299" data-src="#popupformWebsite" data-fancybox="" title="Starters Pack For Only $299"  data-pack_id="Professional Website Package - £408.99">Order Now</button>
                 
@@ -1118,9 +1108,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="elite-website-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" data-src="#popupformWebsite" title="Starters Pack For Only $299"  data-pack_id="Elite Website Package - £707.99">Order Now</button>
                 
@@ -1177,9 +1165,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="ecommerce-website-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="E-Commerce Website Package - £1001.99" data-src="#popupformWebsite" data-pack_id="E-Commerce Website Package - £1,001.99">Order Now</button>
                 
@@ -1240,9 +1226,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="silver-website-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Silver Website Package - £1,607.99">Order Now</button>
                 
@@ -1287,9 +1271,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="basic-logo-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite"  data-pack_id="Basic Logo Package - £20.00">Order Now</button>
                 
@@ -1331,9 +1313,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="startup-logo-package/" >View Details</a>
-              </div>
+                 
                   <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox=""  title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Start Up Logo Package - £74.00">Order Now</button>
                 
               </div>
@@ -1375,9 +1355,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="professional-logo-package/" >View Details</a>
-              </div>
+                 
                   <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal" name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Professional Logo Package - £124.00">Order Now</button>
                 
               </div>
@@ -1441,9 +1419,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="seo-booster-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Seo Booster Package - £200.00">Order Now</button>
                 
@@ -1505,9 +1481,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="seo-value-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Seo Value Package - £400.00">Order Now</button>
                 
@@ -1572,9 +1546,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="seo-pro-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Seo Pro Package - £600.00">Order Now</button>
                 
@@ -1615,9 +1587,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="startup-website-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" class="various grad-btn open_modal" data-pack_id="Basic Website Package - $244.00">Order Now</button>
                 
@@ -1653,9 +1623,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="startup-website-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" class="various grad-btn open_modal" data-pack_id="Basic Website Package - $244.00">Order Now</button>
                 
@@ -1691,9 +1659,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="startup-website-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" class="various grad-btn open_modal" data-pack_id="Basic Website Package - $244.00">Order Now</button>
                 
@@ -1739,9 +1705,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="ecommerce-startup/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="E-Commerce Startup - £595.00">Order Now</button>
                 
@@ -1785,9 +1749,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="ecommerce-professional/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite"  data-pack_id="E-Commerce Professional - £1397.00">Order Now</button>
                 
@@ -1856,9 +1818,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="ecommerce-elite/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="E-Commerce Elite - £3693.00">Order Now</button>
                 
@@ -1902,9 +1862,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="startup-video-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite"   data-pack_id="Startup Video Package - £207.99">Order Now</button>
                 
@@ -1941,9 +1899,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="classic-video-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Classic Video Package - £407.99">Order Now</button>
                 
@@ -1981,9 +1937,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="premium-video-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="buttton" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Premium Video Package - £806.99">Order Now</button>
                 
@@ -2020,9 +1974,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="unlimited-animation-package/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Unlimited Animation Package - £1408.99">Order Now</button>
 
@@ -2070,9 +2022,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="professional-3d-vfx-animation/" >View Details</a>
-              </div>
+                 
                 <!-- <a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a> -->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Professional 3D VFX Animation - £2005.99">Order Now</button>
 
@@ -2120,9 +2070,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                 </span>
               </div>
               <div class="text-center">
-                 <div class="a-pack">
-                <a href="elite-3d-vfx-animation/" >View Details</a>
-              </div>
+                 
                 <!--<a class="theme-btn pink-bd-btn text-center" href="#">Order Now</a>-->
                 <button type="button" class="theme-btn pink-bd-btn text-center various grad-btn open_modal"  name="299" data-fancybox="" title="Starters Pack For Only $299" data-src="#popupformWebsite" data-pack_id="Elite 3D VFX Animation - £2502.99">Order Now</button>
                 
