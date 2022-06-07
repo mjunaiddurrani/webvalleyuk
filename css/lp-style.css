@@ -279,10 +279,6 @@ button.play.rounded-box.state-playing {
     border: 1px solid #fff0;
 }
 
-.jun {
-    visibility: hidden !important;
-    position: absolute;
-}
 .lgos-sctn  {
   margin-top: 30px;
 }

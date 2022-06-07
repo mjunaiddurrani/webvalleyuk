@@ -2,6 +2,9 @@
 class Api {
     public function hit($url,$data=null,$method = "GET"){
 
+        if($method == "GET"){
+            $url.= "?".http_build_query($data);
+        }
         $payload=json_encode($data);
         $curl = curl_init();
         curl_setopt_array($curl, array(

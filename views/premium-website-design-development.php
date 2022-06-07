@@ -346,6 +346,7 @@ button.play.rounded-box.state-playing {
                     <input type="hidden" name="tag" value="footer-form">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
               <div class="row">
                 <h4>Get an Experts Consultation</h4>
                 <p>or Call Now <b>+44-203-883-4810</b></p>
@@ -558,7 +559,7 @@ button.play.rounded-box.state-playing {
                             <div class="row">
                               
                               <div class="col-md-12">
-                                <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+                                <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
                               </div>
                             </div>
@@ -594,9 +595,9 @@ button.play.rounded-box.state-playing {
       <i class="fa fa-comment pur-bg"></i>
       <span class="pur">Chat With Us</span>
     </a>
-    <a href="tel:+442038834810" class="call_wrap">
+    <a href="tel:+442038087061" class="call_wrap">
       <i class="fa fa-phone pur-bg"></i>
-      <span class="pur">+44 2038 834810</span>
+      <span class="pur">+44 2038 087061</span>
     </a>
   </div>
 
@@ -620,6 +621,7 @@ button.play.rounded-box.state-playing {
                   <input type="hidden" name="tag" value="modal-auto">
                   <input type="hidden" name="price" value="null">
                   <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
             <div class="row">
             <div class="col-md-12 col-xs-12 margin-bottom-10">
               <input type="text" autocomplete="off" class="form-control" placeholder="Full Name" name="name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'" required="required" pattern="^[A-Za-z ]+$" maxlength="45">
@@ -647,6 +649,9 @@ button.play.rounded-box.state-playing {
   </div>
 
 </section>
+
+
+
     <?php include_once('includes/footer.php');?>
     
     
@@ -707,7 +712,7 @@ button.play.rounded-box.state-playing {
       if(window.innerWidth > 600){
         $("#modalForDiscount").modal('show');
       }else{
-        window.open('tel:+442038834810','_self');
+        window.open('tel:+442038087061','_self');
       }
       
 
@@ -717,6 +722,7 @@ button.play.rounded-box.state-playing {
 
 
     </script>
+
 
 
 

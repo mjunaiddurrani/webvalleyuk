@@ -16,7 +16,7 @@ $package = $packageArray[$packageSlug];
 
 ?>
 
-<title><?= $package->heading ?>| The Web Founders</title>
+<title><?= $package->heading ?>| Website Valley </title>
 <meta name="description" content="<?= $package->heading ?> package allows live conferencing features and tailored client/user dashboards with a strong semi-automated admin panel.">
 
 <meta charset="utf-8">
@@ -130,7 +130,7 @@ $package = $packageArray[$packageSlug];
                                         <span class="icon-location"></span>
                                     </div>
                                     <div class="textpart">
-                                        <p> 86-90 Paul Street, London <br>EC2A 4NE, UK</p>
+                                        <p> 54 park avenue barking, Essex, IG11 8QU,  UK</p>
                                     </div>
                                 </div>
                             </li>

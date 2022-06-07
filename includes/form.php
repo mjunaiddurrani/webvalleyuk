@@ -6,6 +6,7 @@
 <input type="hidden" name="tag" value="modal-auto">
 <input type="hidden" name="price" value="null">
 <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
     <div class="row">
       <div class="col-md-12">
         <label class="field-txt">Name <span>*</span></label>
@@ -18,7 +19,7 @@
      </div>
      <div class="col-md-6">
         <label class="field-txt">Phone Number<span>*</span></label>
-       <input id="phone-country" name="phone" class="phone" type="tel" placeholder="" required/>
+       <input id="phone-country" name="phone" class="phone" type="number" placeholder="" required/>
      </div>
      
      

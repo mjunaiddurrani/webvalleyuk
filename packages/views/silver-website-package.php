@@ -226,7 +226,7 @@
                                         <span class="icon-location"></span>
                                     </div>
                                     <div class="textpart">
-                                        <p> 86-90 Paul Street, London <br>EC2A 4NE, UK</p>
+                                        <p> 54 park avenue barking, Essex, IG11 8QU,  UK</p>
                                     </div>
                                 </div>
                             </li>
@@ -315,13 +315,13 @@
                             <ul class="linkinglist">
                                 <li><a href="tel:+442038087061">+442038087061</a></li>
                                 <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
-                                <li><a class="address"> 86-90 Paul Street, London <br>EC2A 4NE, UK</a></li>
+                                <li><a class="address"> 54 park avenue barking, Essex, IG11 8QU,  UK</a></li>
                             </ul>
                             <ul class="scalmdia">
-                                <li><a href="https://www.facebook.com/websitevalleyUK/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="https://twitter.com/websitevalleyuk"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.instagram.com/websitevalleyuk/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.linkedin.com/company/websitevalley"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.facebook.com/websitevalleyUK/" rel="nofollow"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="https://twitter.com/websitevalleyuk" rel="nofollow"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.instagram.com/websitevalleyuk/" rel="nofollow"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/websitevalley" rel="nofollow"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>

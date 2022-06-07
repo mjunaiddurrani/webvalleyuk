@@ -609,13 +609,14 @@ body {background: #eee;}
 								<div class="col-md-6">
 									<input required type="text" name="name" class="form-control" placeholder="Write your full name">
 									<input required type="email" name="email" class="form-control" placeholder="Write your email address">
-									<input required type="tel" name="phone"  class="form-control phone" placeholder="Write your phone number">
+									<input required type="number" name="phone"  class="form-control phone" placeholder="Write your phone number">
                     <input type="hidden" name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">   
                     <input type="hidden" name="brand" value="webvalleyuk">   
                     <input type="hidden" name="token" value="<?= $token;?>">   
                     <input type="hidden" name="tag" value="modal-auto">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
 								</div>
 							<div class="col-md-6 ">
 								<textarea name="brief" requried class="form-control"  style="" placeholder="Write your project description"></textarea>
@@ -1173,7 +1174,7 @@ body {background: #eee;}
 
         </div>
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1233,7 +1234,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1299,7 +1300,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1369,7 +1370,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1442,7 +1443,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1503,7 +1504,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1557,7 +1558,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div> 
@@ -1636,7 +1637,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1722,7 +1723,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1814,7 +1815,7 @@ body {background: #eee;}
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -1946,7 +1947,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2010,7 +2011,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2063,7 +2064,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2116,7 +2117,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2172,7 +2173,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2219,7 +2220,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2266,7 +2267,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2312,7 +2313,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2369,7 +2370,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2426,7 +2427,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2501,7 +2502,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2576,7 +2577,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -2654,7 +2655,7 @@ Place purchasing requests.</li>
        <div class="row">
 
         <div class="col-md-12">
-          <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+          <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
         </div>
       </div>
@@ -3225,6 +3226,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <input type="hidden" name="tag" value="modal-auto">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
+<input type="text" class="jun"  name="gender">
                     <div class="row">
                       <div class="col-lg-12">
                         <div class="fldset">

@@ -3,12 +3,20 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 ob_start();
-ob_flush();
 session_start();
+
+include_once($_SERVER['DOCUMENT_ROOT']."/includes/get-dashboard.php");
+
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
-$brief = $_REQUEST['brief'];
+if(isset($_REQUEST['steperForm'])){
+    $brief = $_REQUEST['brief'].'/ '.$_REQUEST['step1'].'/ '.$_REQUEST['step2'].'/ '.$_REQUEST['step3'].'/ '.$_REQUEST['step4'].'/ '.$_REQUEST['step5'];
+
+}else{
+
+    $brief = $_REQUEST['brief'];
+}
 $news = $_REQUEST['news'];
 $route = $_REQUEST['route'];
 $brand = $_REQUEST['brand'];
@@ -16,7 +24,10 @@ $tag = $_REQUEST['tag'];
 $price = $_REQUEST['price'];
 $domain = "www.websitevalley.co.uk";
 
-
+if($_REQUEST["gender"] != ""){
+    header("location: /");
+    exit();
+ }
 $data=array(
 'name'=> $name,
 'email'=>$email,
@@ -37,7 +48,7 @@ if (isset($_POST['token'])) {
 $payload=json_encode($data);
 $curl = curl_init();
 curl_setopt_array($curl, array(
-CURLOPT_URL => "https://dashboard.ourbase.camp/api/customer",
+CURLOPT_URL => "$dashboardUrl/customer",
 CURLOPT_RETURNTRANSFER => true,
 CURLOPT_ENCODING => "",
 CURLOPT_MAXREDIRS => 10,

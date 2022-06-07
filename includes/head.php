@@ -34,6 +34,13 @@ if (isset($_SERVER['HTTPS'])) {
 }else{
 	$requesMet = "http";
 }
+
+if(!isset($_SESSION['url'])){
+  $_SESSION['url'] = "$_SERVER[REQUEST_URI]";
+ }
+
+//  echo $_SESSION['url'];
+//  die;
 $pageUri =  $_SERVER['REQUEST_URI'];
 $csrf = bin2hex(random_bytes(35));
 $_SESSION['csrf'] = $csrf;
@@ -84,7 +91,11 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 		font-size:25px;
 		font-weight:bold;
 	}
-
+  .jun {
+    visibility: hidden !important;
+    position: absolute;
+    max-width: 1px !important;
+}
 </style>
 
 
@@ -106,12 +117,15 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
   gtag('config', 'UA-194982789-1');
 </script>
 
+<?php if(false):?>
+  
+  <?php if($metaTitle!=""):?>
+    <title><?= $metaTitle; ?></title>
+  <?php endif;?>
+  <?php if($metaDescription!=""):?>
+    <meta name="description" content="<?= $metaDescription;?>">
+  <?php endif;?>
+  
+  <?=$headFileContent;?>
 
-<?php if($metaTitle!=""):?>
-  <title><?= $metaTitle; ?></title>
 <?php endif;?>
-<?php if($metaDescription!=""):?>
-  <meta name="description" content="<?= $metaDescription;?>">
-<?php endif;?>
-
-<?=$headFileContent;?>

@@ -1,19 +1,18 @@
 <!doctype html>
 <html lang="en-GB">
 
-<!-- Mirrored from websitevalley.co.uk/branding by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:41 GMT -->
-<!-- Added by HTTrack --><head>
+<head>
 
-<title>Avail Branding Services by Top Brand Identity Agency in UK</title>
-<meta name="description" content="Avail branding services including custom stationery design, brand identity design, business card design to upgrade your brand, and attract user's attention.">
+<title>Avail Branding Services by Top Branding Agency London, UK</title>
+<meta name="description" content="Avail branding services including custom stationery design, brand identity design, and business card design to upgrade your brand by UK Based branding agency.">
 
 
 
 <?php include_once('includes/head.php');?><!-- seo  -->
 <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Avail Branding Services by Top Brand Identity Agency in UK" />
-  <meta property="og:description" content="Avail branding services including custom stationery design, brand identity design, business card design to upgrade your brand, and attract user's attention." />
+  <meta property="og:title" content="Avail Branding Services by Top Branding Agency London, UK" />
+  <meta property="og:description" content="Avail branding services including custom stationery design, brand identity design, and business card design to upgrade your brand by UK Based branding agency." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
   <meta property="og:site_name" content="websitevalley" />
   <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
@@ -56,7 +55,7 @@
             <div class=" col-lg-5">
               <div class="home-banner-content">
                 <h1>Professional Branding Services to Build Everything You Wanted</h1>
-                <p class="subtitle">Explore the new ways to approach your customers and build your brand identity design with great care. Our top brand agency keeps your business soul alive in your ideology, brand image, and designing and branding strategies. Our top brand agency will help you dominate your competitors by creating your distinctive corporate brand identity.</p>
+                <p class="subtitle">Explore the new ways to approach your customers and build your brand identity design with great care. Our top branding agency keeps your business soul alive in your ideology, brand image, and designing and branding strategies. Our top branding agency will help you dominate your competitors by creating your distinctive corporate brand identity.</p>
                 <ul class="myticks">
 
                   <li>Unique Brand Identity design</li>
@@ -219,8 +218,8 @@
      
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>Top brand agency that creates brand identity design including corporate brand identity.</h2>
-          <p>One thing to consider is that our services are affordable and not cheap. Our top brand agency delivers you the perfect results for the business card design online, custom stationery design, or overall corporate brand identity. We guarantee you that your brand image will always be of superior quality, no matter your budget.</p>
+          <h2>Top branding agency that creates brand identity design including corporate brand identity.</h2>
+          <p>One thing to consider is that our services are affordable and not cheap. Our top branding agency delivers you the perfect results for the business card design online, custom stationery design, or overall corporate brand identity. We guarantee you that your brand image will always be of superior quality, no matter your budget.</p>
         </div>
       </div>
       <div class="col-lg-6">
@@ -628,7 +627,7 @@
                             <div class="row">
                               
                               <div class="col-md-12">
-                                <a href="javascript:void(0)" class="btn-packages btn-packages2 " data-toggle="modal" data-target="#modalForDiscount" tabindex="0">Order Now </a>
+                                <a href="javascript:void(0)" class="btn-packages btn-packages2 btn-theme-outline" tabindex="0">Order Now </a>
 
                               </div>
                             </div>
@@ -691,7 +690,7 @@
               </div>
               <div class="usertest">
                 <p class="h4">Extremely Satisfied with the services!</p>
-                <p>Website Valley has been indeed a magical service provider for my brand development strategy. I must say they are the top brand agency in the UK. They listened to my requirements and asked me questions that made me aware that they are deeply interested in my brand identity design and custom stationery design. I love their back to back sessions while working on the brand development strategy with our team. They have completely revamped my corporate brand identity. Honestly, it's a highly recommend branding company in the UK</p>
+                <p>Website Valley has been indeed a magical service provider for my brand development strategy. I must say they are the top branding agency in the London. They listened to my requirements and asked me questions that made me aware that they are deeply interested in my brand identity design and custom stationery design. I love their back to back sessions while working on the brand development strategy with our team. They have completely revamped my corporate brand identity. Honestly, it's a highly recommend branding company in the London</p>
                 <h6>— Sarah Ramirez, Brand Owner</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
