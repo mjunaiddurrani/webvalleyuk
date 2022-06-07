@@ -3,9 +3,8 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 ob_start();
-
-
 ob_flush();
+session_start();
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
@@ -22,7 +21,7 @@ $data=array(
 'name'=> $name,
 'email'=>$email,
 'phone'=>$phone,
-'brief'=>$brief,
+'brief'=>$brief.' /lead_type:'.$_SESSION['lead_type'],
 'news'=>$news,
 'route'=>$route,
 'brand'=>$brand,
@@ -76,3 +75,7 @@ else{
 else{
     exit(header("location:/"));
 }
+
+
+
+
