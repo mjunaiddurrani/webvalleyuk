@@ -762,14 +762,13 @@ function myFunction() {
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "In the digital era having a responsive website has become essential for operating businesses. Our expert website designers know this by heart. It has been said that more than half of website visitors come from mobile devices. Therefore, your website must be optimized and perform responsively. Our custom web design service online ensures that your digital needs are met in due time. Hire expert website designers of the top web design company in the UK."
-    }
     },{
     "@type": "Question",
     "name": "Can I create a landing page with Website Valley? How much time do your developers take?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "The Website Valley is a bespoke web design Agency that employs web design experts with a minimum of 5 years of industry experience. The work that needs to be done on projects is finished on time by our professionals. Nevertheless, every task requires a different deadline. We have earned a reputation as a bespoke web design agency thanks to the high quality of our services and the competitive prices we offer. We are a preferred web design company, and we cater to all our customers’ needs, regardless of the size of their business. Even if you are looking for a web design for small business in UK, our experts will assist you in making it a reality."
-    },{
+    }},{
     "@type": "Question",
     "name": "What is website development, and how will it benefit my business?",
     "acceptedAnswer": {
