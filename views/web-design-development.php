@@ -762,7 +762,7 @@ function myFunction() {
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "In the digital era having a responsive website has become essential for operating businesses. Our expert website designers know this by heart. It has been said that more than half of website visitors come from mobile devices. Therefore, your website must be optimized and perform responsively. Our custom web design service online ensures that your digital needs are met in due time. Hire expert website designers of the top web design company in the UK."
-    },{
+    }},{
     "@type": "Question",
     "name": "Can I create a landing page with Website Valley? How much time do your developers take?",
     "acceptedAnswer": {
