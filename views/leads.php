@@ -76,7 +76,6 @@ if (headers_sent()) {
 }
 else{
 
-    die($msg);
     exit(header("location:/thank-you/?thanksMsg=$msg"));
 }
 
