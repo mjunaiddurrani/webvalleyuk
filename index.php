@@ -5,9 +5,9 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-session_start();
-
-
+if( empty(session_id()) && !headers_sent()){
+    session_start();
+}
 $url = $_SERVER['REQUEST_URI'];
 
 // if(strpos($url,'/packages')){
