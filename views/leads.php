@@ -79,6 +79,8 @@ if (headers_sent()) {
     echo "Redirect failed. Please click on this link: <a href='/thank-you/?thanksMsg=$msg'>/thank-you/?thanksMsg=$msg</a>";
 }
 else{
+
+    die($msg);
     exit(header("location:/thank-you/?thanksMsg=$msg"));
 }
 
