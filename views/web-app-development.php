@@ -4,8 +4,8 @@
 <!-- Mirrored from websitevalley.co.uk/web-app-development by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:53 GMT -->
 <!-- Added by HTTrack --><head>
 
-<title>Top Web Application Development Services Company in UK</title>
-<meta name="description" content="We offer a wide range of custom web app development services at cheap price in the UK. Hire our expert web app developers for developing amazing web apps.">
+<title>Custom Web Application Development Services Company UK</title>
+<meta name="description" content="We offer a wide range of custom web application development services at cheap price. Hire our top web app developers for developing amazing web apps.">
 
 
 
@@ -13,8 +13,8 @@
 <?php include_once('includes/head.php');?><!-- seo  -->
 <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Top Web Application Development Services Company in UK" />
-  <meta property="og:description" content="We offer a wide range of custom web app development services at cheap price in the UK. Hire our expert web app developers for developing amazing web apps." />
+  <meta property="og:title" content="Custom Web Application Development Services Company UK" />
+  <meta property="og:description" content="We offer a wide range of custom web application development services at cheap price. Hire our top web app developers for developing amazing web apps." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
   <meta property="og:site_name" content="websitevalley" />
   <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
