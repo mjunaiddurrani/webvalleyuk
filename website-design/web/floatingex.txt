@@ -462,9 +462,7 @@ ul, li {
         href='../wp-content/themes/edigisol/assets/css/inner_page_style/webservices_style84e2.css?ver=1.00'
         type=text/css media>
     <link rel=https://api.w.org/ href=/wp-json/>
-    <link rel=alternate type=application/json href=/wp-json/wp/v2/pages/83> <link rel=EditURI
-        type=application/rsd+xml title=RSD href=/xmlrpc.php?rsd> <link rel=wlwmanifest
-        type=application/wlwmanifest+xml href=/wp-includes/wlwmanifest.xml> <meta name="generator"
+    <link rel=alternate type=application/json href=/wp-json/wp/v2/pages/83>   <meta name="generator"
         content="WordPress 5.5.3">
     <link rel=shortlink href='/?p=83'>
     <link rel=alternate type=application/json+oembed
