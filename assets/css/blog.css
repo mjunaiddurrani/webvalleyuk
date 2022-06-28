@@ -44649,8 +44649,8 @@
  
  @font-face {
      font-family: 'Glyphicons Halflings';
-     src: url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.eot);
-     src: url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.woff) format('woff'), url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
+     /* src: url(https://fonts.glyphicons-halflings-regular.eot);
+     src: url(https://fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.woff) format('woff'), url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(//gillion.shufflehound.com/journal/wp-content/themes/gillion/css/plugins/../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg') */
  }
  
  .glyphicon {

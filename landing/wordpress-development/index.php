@@ -124,7 +124,7 @@
         type=text/css media>
     <link rel=https://api.w.org/ href=https://logopoppin.com/wp-json/>
     <link rel=alternate type=application/json href=https://logopoppin.com/wp-json/wp/v2/pages/868> <link rel=EditURI
-        type=application/rsd+xml title=RSD href=https://logopoppin.com/xmlrpc.php?rsd> <link rel=wlwmanifest
+        type=application/rsd+xml title=RSD href=> <link rel=wlwmanifest
         type=application/wlwmanifest+xml href=https://logopoppin.com/wp-includes/wlwmanifest.xml> <meta name="generator"
         content="WordPress 5.5.3">
     <link rel=shortlink href='https://logopoppin.com/?p=868'>

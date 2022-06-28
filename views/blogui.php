@@ -173,7 +173,7 @@
                                             <div class="jssocials-share jssocials-share-facebook">
                                                 <a
                                                     target="_blank"
-                                                    href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgillion.shufflehound.com%2Fjournal%2F2020%2F01%2F20%2Fwebsite-that-you-should-check-out%2F"
+                                                    href=""
                                                     class="jssocials-share-link"
                                                 >
                                                     <i class="fa fa-facebook jssocials-share-logo"></i>
