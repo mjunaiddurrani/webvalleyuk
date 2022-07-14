@@ -64,7 +64,7 @@ else{
     require $dir.'/404.php';
 }
 
-ob_flush();
+// ob_flush();
 
 
 ?>
