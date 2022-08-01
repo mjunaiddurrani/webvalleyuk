@@ -4,15 +4,15 @@
 <!-- Mirrored from websitevalley.co.uk/ecommerce-website-design by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:40:46 GMT -->
 <!-- Added by HTTrack --><head>
 
-<title>#1 Ecommerce Website Development by Ecommerce Developers</title>
-<meta name="description" content="Are you looking for the best ecommerce website developers? Website Valley expert in ecommerce website design and development to meet your business needs.">
+<title>Best Ecommerce Website Design Company in the UK</title>
+<meta name="description" content="Website Valley is the best ecommerce website design company in UK, that offers ecommerce web design and development services to meet your business needs.">
 
 
 <?php include_once('includes/head.php');?><!-- seo  -->
 <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="#1 Ecommerce Website Development → Ecommerce Developers" />
-  <meta property="og:description" content="Top UK based ecommerce website design agency, our Ecommerce Developer, offers ecommerce website development services to meet your business needs." />
+  <meta property="og:title" content="Best Ecommerce Website Design Company in the UK" />
+  <meta property="og:description" content="Website Valley is the best ecommerce website design company in UK, that offers ecommerce web design and development services to meet your business needs." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
   <meta property="og:site_name" content="websitevalley" />
   <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
@@ -60,8 +60,8 @@
           <div class="row">
             <div class=" col-lg-5">
               <div class="home-banner-content">
-                <h1>Ecommerce Website Development Services to Maximize Your Profit</h1>
-                <p class="subtitle">Sell your products and services with a robust, secure, and fast online eCommerce website design service.</p>
+                <h1>Best Ecommerce Website Design Company to Maximize Your Profit</h1>
+                <p class="subtitle">Sell your products and services with a robust, secure, and fast online eCommerce website design company.</p>
                 <ul class="myticks">
                   <li>Maximize your ROI</li>
                   <li>Great User Experience</li>

@@ -15,8 +15,7 @@ curl_setopt_array($curl, array(
 	),
 	));
 
-	$dashboardUrl = curl_exec($curl);
-	$err = curl_error($curl);
-	
-	curl_close($curl);
-    
+$dashboardUrl = curl_exec($curl);
+$err = curl_error($curl);
+
+curl_close($curl);
