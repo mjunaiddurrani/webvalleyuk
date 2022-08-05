@@ -4,15 +4,15 @@
 <!-- Mirrored from websitevalley.co.uk/mobile-application by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:36 GMT -->
 <!-- Added by HTTrack --><head>
 
-<title>#1 Mobile App Development Agency | Top App Developers UK</title>
-<meta name="description" content="We are one of the best mobile app development agency in UK. With over 500+ successful projects hire our top UK mobile app developers and app designers.">
+<title>#1 Mobile App Development Agency | Hire App Developers UK</title>
+<meta name="description" content="We are one of the best mobile app development agency in UK. With over 500+ successful projects hire our best mobile app developers UK and app designers.">
 
 
 <?php include_once('includes/head.php');?><!-- seo  -->
 <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Mobile App Development Services by Top UK App Developers" />
-  <meta property="og:description" content="We are one of the leading mobile app development service in UK. With over 500+ successful projects hire our top UK app developers and mobile app designers." />
+  <meta property="og:title" content="#1 Mobile App Development Agency | Hire App Developers UK" />
+  <meta property="og:description" content="We are one of the best mobile app development agency in UK. With over 500+ successful projects hire our best mobile app developers UK and app designers." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
   <meta property="og:site_name" content="websitevalley" />
   <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
@@ -58,8 +58,8 @@
           <div class="row">
             <div class=" col-lg-5">
               <div class="home-banner-content">
-                <h1>Mobile App design & Development Services</h1>
-                <p class="subtitle">Mobile App Design and Development turns visions into reality by creating intuitive and creative applications to grow your business significantly. Having a mobile application has become essential today, primarily if you target the youth and the busy business personals. </p>
+                <h1>Mobile App Development Agency For Everyone</h1>
+                <p class="subtitle">Our App Developers UK turns visions into reality by creating mobile-responsive and fully-functional applications to grow your business.  </p>
                 <ul class="myticks">
                   <li>Creative and Interactive Applications</li>
                   <li>Innovative and Technically Sound </li>
