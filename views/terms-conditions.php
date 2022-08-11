@@ -83,6 +83,7 @@
          <li>  Money back guarantee is based on that the order is placed in good faith. Where a customer has placed design orders with more than one design agency for the same job with the intention to claim refund, we do not consider it a good faith. In such a case we reserve the right to decline a refund request. </li>
          <li>  All design jobs require customer feedback before finalizing the design therefore it is only fair that the customer gets involved and provides feedback in order to get the desired results. </li>
          <li>  100% unique design guarantee entitles you to a re-draw if our designed logo is to be found considerably similar to another logo design that may already exist. Any resemblance to an existing design will be merely a coincidence and Website Valleywill not accept any responsibility or claim of any compensation in such a case. It is the client's responsibility to get their art work copyrighted.</li>
+        <li> If a client is inactive for more then 01 Month then the refund is voided.</li>
         </ul> 
 <p><strong>How to claim your refund</strong></p>
          <p><strong>To assure your refund request is approved, please make sure you meet the following requirements</strong><p>
