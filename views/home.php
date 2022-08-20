@@ -3,13 +3,13 @@
   
   <head>
     
-    <title>Website Valley: Developing the Websites. Apps. Brands. </title>
-    <meta name="description" content="Website Valley is a professional web design, app development, and branding agency in the UK. Get our services on your budget, timeline, and specifications.">
+    <title>Best Digital Agency in London, UK - Website Valley</title>
+    <meta name="description" content="Website Valley is the best digital agency in London, UK. We specialize in build websites, apps, brands and digital solutions that get results. Hire us!">
     <?php  include_once('includes/head.php');?><!-- seo  -->
     <meta property="og:locale" content="en_GB" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Website Valley: Developing the Websites. Apps. Brands." />
-    <meta property="og:description" content="Website Valley is a professional web design, app development, and branding agency in the UK. Get our services on your budget, timeline, and specifications." />
+    <meta property="og:title" content="Website Valley: Best Digital Agency in London, UK" />
+    <meta property="og:description" content="Website Valley is the best digital agency in London, UK. We specialize in build websites, apps, brands and digital solutions that get results. Hire us!" />
     <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
     <meta property="og:site_name" content="websitevalley" />
     <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
@@ -108,8 +108,8 @@ input#other {
             <div class=" col-lg-7">
               <div class="home-banner-content ">
                 <div class="main">
-                  <h1>Professional Website and Brand builder to Level-up Your Business Online in the UK </h1>
-                <p class="subtitle">We offer 360° <a class="text-white" href="web-design-development/">website design</a> and development solutions for top business professionals and emerging startups in the UK.</p>
+                  <h1>Best Digital Agency to Level-Up Your Business Online in The UK</h1>
+                <p class="subtitle">We offer 360° digital solutions for top business professionals and emerging startups in the London, UK.</p>
                 <ul class="myticks">
                   <li>Bring Ideas into World Wide Web Reality</li>
                   <li>Highly Creative and Responsive Websites </li>
@@ -201,10 +201,10 @@ input#other {
     <div class="row">
       <div class="col-lg-6">
         <div class="txtwrap">
-          <h2>All-Inclusive Platform that Your Business Need Right Now </h2>
-          <p>We are an all-in-one designing, developing, and branding platform that your business needs to engage your audience and generate more leads and income. You have got our full-fledged professional support on every stage of website and branding development. Our professional services cater to every type of industry-specific client in the UK. We will ensure that our quick online developers anddesigners hold the expertise to bring effective results for you.</p>
+          <h2>All-Inclusive Platform that Your Business Need Right Now</h2>
+          <p>We are an all-in-one designing, developing, and branding platform that your business needs to engage your audience and generate more leads and income. You have got our full-fledged professional support on every stage of website and branding development. Our professional digital services cater to every type of industry-specific client in the London, UK. We will ensure that our quick online developers and designers hold the expertise to bring effective results for you.</p>
           <ul class="myticks">
-            <li class="text-black">Top e-Commerce Solution </li>
+            <li class="text-black">Top Ecommerce Solution </li>
             <li class="text-black">Web Application Development  </li>
             <li class="text-black">Affordable Website Maintenance  </li>
             <li class="text-black">Professional Branding </li>
@@ -247,8 +247,8 @@ input#other {
   <div class="container my-5">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
-        <h3 class="text-center" style="font-size: 30px; font-weight:600;">How Much Do We Charge For Our Services?</h3>
-        <p>Our quick, professional services may be affordable, but they are not cheap. We have a mission to create creative, authentic, and valuable designs. We aim to offer our services with a great passion for driving results for our costumes. Our top creative-led design and development agency enables your brand image to become the best, firm, marketable, media-worthy at an affordable price.</p>
+        <h3 class="text-center" style="font-size: 30px; font-weight:600;">How Much Do We Charge For Our Digital Services?</h3>
+        <p>Our quick, bespoke digital agency may be affordable, but they are not cheap. We have a mission to create creative, authentic, and valuable designs. We aim to offer our digital services with a great passion for driving results for our costumes. Our top digital agency London enables your brand image to become the best, firm, marketable, media-worthy at an affordable price.</p>
       </div>  
       <div class="col-lg-12"> 
           <ul class="nav nav-pills">
@@ -344,7 +344,7 @@ input#other {
 <section class="dptestimonials new-testi my-5">
  <div class="col-lg-6 offset-lg-3">
  <p>
-  We create websites and build brands that people will fall in love with. Our designers are here to help you exceed expectations! 
+  We create websites and build brands that people will fall in love with. Our professionals are here to help you exceed expectations! 
   </p>
   <h4 class="text-orange text-center mt-3 ">
   Listen to what our clients are saying about us.
@@ -379,7 +379,7 @@ input#other {
               <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/bhooshan-ramchurn.png" alt="bhooshan-ramchurn" class="rounded-circle lazy">
        
               <div class="usertest">
-                <p>So happy with this type of affordable website development services in the UK. They got me on the right track with their killer branding strategies. I'm glad to collaborate with them for my next big things. </p>
+                <p>So happy with this type of affordable digital services in the UK. They got me on the right track with their killer branding strategies. I'm glad to collaborate with them for my next big things. </p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -430,8 +430,8 @@ input#other {
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h4 class="text-center font-weight-bold h2">What makes us Different from Other</h4>
-        <p class="text-center">It goes without saying that you will not only get the benefit of a successful project when you collaborate with us, but you will build long-term relations with us.
+        <h4 class="text-center font-weight-bold h2">What makes us Different from Other Digital Service</h4>
+        <p class="text-center">It goes without saying that you will not only get the benefit of a successful project when you collaborate with us, but you will build long-term relations with birmingham digital agency.
         </p>
       </div>
     </div>
@@ -527,13 +527,17 @@ input#other {
       <div class="panel-heading" role="tab" id="headingOne">
         <h4 class="panel-title">
         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          1. How do I update websites? 
+          1. What kind of digital agency is Website Valley? 
         </a>
       </h4>
       </div>
       <div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
         <div class="panel-body">
-        Yes, we have complete website maintenance services that help you update your website and bring functional aspects to your website, updating the latest technology. If you want to revamp your current website design, we can also help you change it according to your designs' choice. If there are small changes within the website pages, we can also make the necessary changes cost-effectively in a quick manner. No matter from which part of the UK city you live, we will provide you with the best website development services in the UK. Now you don't have to search for cheap services, and our experts would be best for you. 
+        The Website Valley is a digital agency focusing on return on investment and delivering integrated multi-channel services. These services include email marketing, social media marketing, search engine optimisation, and pay-per-click advertising. Before recommending the most effective channels and techniques for your advertising, we analyse the habits and preferences of the target audience. Our digital marketing professionals assist you in achieving your objectives like: 
+
+•	Boosting ROI
+•	Increasing customer lifetime value 
+•	Reducing cost per acquisition 
 
         </div>
       </div>
@@ -542,13 +546,22 @@ input#other {
       <div class="panel-heading" role="tab" id="headingTwo">
         <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          2. Will my website be responsive, quick and cheap?
+          2. Which digital services do you offer?
         </a>
       </h4>
       </div>
       <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
         <div class="panel-body">
-        Every online website visitor uses different mediums to visit your websites such as smartphones, some desktops, and other laptops or tablets to look up your content online. Therefore, we build your website subsequently to assist those visitors. We create a cheap yet responsive and highly adjustable website at an affordable price that lets the users use the website according to the screen size and resolution. Our cheap website building strategy mainly caters to the need of online users as the technology is evolving. 
+        We conduct in-depth strategy workshops with your team to determine the optimal business approach and channels. Then, based on your budget, objectives, and target market, we offer the optimal marketing mix for you. We provide comprehensive marketing services. Our digital services include:
+
+•	PPC campaign management and strategy services 
+•	SEO services and digital PR
+•	Paid and unpaid social media marketing services 
+•	Content marketing services to drive online sales and engagement.
+•	Web design and development services 
+•	Online advertising services to boost your online presence 
+•	Marketing automation services for organising and optimising the campaigns
+•	CRO services, i.e. conversion rate optimisation to get more sales 
 
         </div>
       </div>
@@ -557,13 +570,18 @@ input#other {
       <div class="panel-heading" role="tab" id="headingThree">
         <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          3. Do you offer a money-back guarantee if I am not satisfied with the work? 
+          3. What Makes Us Different from Other UK Digital Agencies? 
         </a>
       </h4>
       </div>
       <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
         <div class="panel-body">
-        Absolutely! Your money is secure with us. However, we work hard to bring you effective results. We have been working for decades now, and it happens only once in a blue moon. We are assured that you'll not have to go through such a situation. Our services may be cheap, but they are the best in our client's favour. However, in case of any act of god, it would take around 30 business working days to return your amount as we have to evaluate our business account to clear all the payments. 
+        Our novel, disruptive, and ground-breaking strategies make us different from other UK digital agencies. We are here to help you achieve your growth objectives more quickly. We take the time to understand your growth concerns, determine what is preventing you from achieving your goals, and address any issues hindering your efforts' efficacy.
+
+•	Our experts were based on their demonstrated expertise in critical areas of digital marketing.
+•	Our senior strategists have 5+ years of expertise in their respective fields. 
+•	We have the most qualified individuals to accelerate your organisation's growth through intelligent digital marketing techniques. 
+•	Our account strategists are trained in all aspects of campaign planning, administration, optimisation, and reporting. 
 
 
         </div>
@@ -573,14 +591,19 @@ input#other {
       <div class="panel-heading" role="tab" id="headingFour">
         <h4 class="panel-title">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          4. Do you do SEO for my website, especially for Google? 
+          4. Why do we need digital solutions? 
 
         </a>
       </h4>
       </div>
       <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
         <div class="panel-body">
-        Yes, we do. We have the best Search engine optimization process that helps you bring your website among the search engines' top searches, including Google. With our services, you will not have to search SEO services near me, as we'll always be here for you. 
+        You cannot deny the importance and need for digital solutions. They have a significant impact on the productivity of a firm since they eliminate many of the obstacles to efficiency. Here are some of the benefits of obtaining our services: 
+
+•	Reach more people, and achieve target objectives
+•	Generate high-quality leads swiftly 
+•	Obtain your customers' behavioural insights and how your firm can perform better 
+•	Stand out and build a positive reputation among your customers. 
 
 
         </div>
@@ -597,7 +620,7 @@ input#other {
       </div>
       <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
         <div class="panel-body">
-        There's no limitation in creating pages on the website. You can create as many as you like. It has been proven beneficial when your pages are internally linked, and page depth is created on your website.    It is best to share your requirements with us before via free consultation, and we'll be more than delighted to guide you.
+        There's no limitation in creating pages on the website. You can create as many as you like. It has been proven beneficial when your pages are internally linked, and page depth is created on your website. It is best to share your requirements with us before via free consultation, and we'll be more than delighted to guide you.
 
 
         </div>
