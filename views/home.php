@@ -214,7 +214,7 @@ input#other {
       </div>
       <div class="col-lg-6">
         <figure class="mfig">
-          <img data-parallaxit data-parallax-value="-13" src="assets/images/new-banner.jpg" alt="new-banner">
+          <img data-parallaxit data-parallax-value="-13" class="lazy" src="assets/images/new-banner.jpg" alt="new-banner">
         </figure>
         <ul class="personalcta">
           <li class="text">
