@@ -83,7 +83,3 @@ else{
 else{
     exit(header("location:/"));
 }
-
-
-
-
