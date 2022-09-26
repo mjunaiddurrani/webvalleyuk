@@ -56,34 +56,34 @@
               <ul class="topajencies">
                 <li style="    margin-right: 25px;">
                   <figure>
-                    <img src="assets/images/trust-verified.png" width="auto" height="auto" alt="trust verified" >
+                    <img src="assets/images/trust-verified.png"  alt="trust verified" >
                   </figure>
                 </li>
                 <li>
                   <figure>
-                    <img src="assets/images/copyscape.png" width="auto" height="auto" alt="copy scape" >
+                    <img src="assets/images/copyscape.png"  alt="copy scape" >
                   </figure>
                 </li>
                 <li>
                   <figure>
-                    <img src="assets/images/partner1.png" width="auto" height="auto" alt="partner one">
+                    <img src="assets/images/partner1.png"  alt="partner one">
                   </figure>
                 </li>
                 <li>
                   <figure>
-                    <img src="assets/images/partner5.png" width="auto" height="auto" alt="partner">
+                    <img src="assets/images/partner5.png"  alt="partner">
                   </figure>
                 </li>
                 <li>
                   <figure>
-                    <img src="assets/images/partner2.png" width="auto" height="auto" alt="partner">
+                    <img src="assets/images/partner2.png"  alt="partner">
                   </figure>
                 </li>
               </ul>
             </div>
             <div class="footer-img">
               <figure>
-                <img src="assets/images/payment-icon.png" width="auto" height="auto" alt="payment icon">
+                <img src="assets/images/payment-icon.png"  alt="payment icon">
               </figure>
             </div>
             <div class="social">
@@ -101,7 +101,7 @@
       <div class="row">
         <div class="col-sm-4">
           <div class="fologo">
-            <img src="assets/images/logof.png"  width="auto" height="auto" alt="logo">
+            <img src="assets/images/logof.png"   alt="logo">
           </div>
        
         </div>

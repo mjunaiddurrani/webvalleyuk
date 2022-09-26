@@ -127,7 +127,7 @@
                   <div class="banner-bot">
                     <ul>
                       <li>
-                        <img src="assets/images/loading.svg" class="lazy" width="auto" height="auto" data-src="assets/images/rateimg.png" alt="rateimg">
+                        <img src="assets/images/loading.svg" class="lazy"  data-src="assets/images/rateimg.png" alt="rateimg">
                       </li>
                       <li>
                         <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/partner1.png" alt="partner1">
@@ -362,7 +362,7 @@
           <ul class="testwrap sldrtstmnl">
             <li>
               <div class="testbox">
-                <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/sarah-ramirez.png" width="auto" height="auto" alt="sarah-ramirez" class="rounded-circle lazy">
+                <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/sarah-ramirez.png"  alt="sarah-ramirez" class="rounded-circle lazy">
 
                 <div class="usertest">
                   <p>They have a quick and highly efficient team of developers and designers in the UK. I'm delighted to opt for their services as they provided me with quality and fantastic web designing services. I couldn't have gotten such excellent services at an affordable price. I'd definitely recommend them and their benefits. </p>
@@ -381,7 +381,7 @@
 
             <li>
               <div class="testbox">
-                <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/bhooshan-ramchurn.png" width="auto" height="auto" alt="bhooshan-ramchurn" class="rounded-circle lazy">
+                <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/bhooshan-ramchurn.png"  alt="bhooshan-ramchurn" class="rounded-circle lazy">
 
                 <div class="usertest">
                   <p>So happy with this type of affordable digital services in the UK. They got me on the right track with their killer branding strategies. I'm glad to collaborate with them for my next big things. </p>
@@ -399,7 +399,7 @@
 
             <li>
               <div class="testbox">
-                <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/michael-vanzille.png" width="auto" height="auto" alt="michael-vanzille" class="rounded-circle lazy">
+                <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/michael-vanzille.png"  alt="michael-vanzille" class="rounded-circle lazy">
 
                 <div class="usertest">
                   <p>We had an initial discussion over the phone call regarding the project, and I got satisfied through the insightful discussion. I have worked with many services like these but could not say this for about any of them. They are a great team that knows their stuff well. I'll continue using their services. Thank you, Website Valley! </p>
@@ -446,7 +446,7 @@
         <div class="col has-border">
           <div class="quality">
             <div class="quality-img">
-              <img src="assets/images/daily-website-visits.svg" width="auto" height="auto" alt="daily-website-visits">
+              <img src="assets/images/daily-website-visits.svg"  alt="daily-website-visits">
             </div>
             <p class="timer h3 h3Heading">1015</p>
             <p class="mad textcentre h4 h4Heading">daily website visits</p>
@@ -456,7 +456,7 @@
         <div class="col has-border nobrd">
           <div class="quality">
             <div class="quality-img">
-              <img src="assets/images/client-coordination.svg" width="auto" height="auto" alt="client-coordination">
+              <img src="assets/images/client-coordination.svg"  alt="client-coordination">
             </div>
             <p class="noplus h3 h3Heading">Successful</p>
             <p class="mad textcentre h4 h4Heading">Client Coordination</p>
@@ -465,7 +465,7 @@
         <div class="col has-border mob-noborder">
           <div class="quality">
             <div class="quality-img">
-              <img src="assets/images/customer-satisfaction.svg" width="auto" height="auto" alt="customer-satisfaction">
+              <img src="assets/images/customer-satisfaction.svg"  alt="customer-satisfaction">
             </div>
             <p class="noplus h3 h3Heading">Excellent</p>
             <p class="mad textcentre h4 h4Heading"> Customer Satisfaction</p>
@@ -474,7 +474,7 @@
         <div class="col has-border nobrd ">
           <div class="quality">
             <div class="quality-img">
-              <img src="assets/images/ownership-rights.svg" width="auto" height="auto" alt="ownership-rights">
+              <img src="assets/images/ownership-rights.svg"  alt="ownership-rights">
             </div>
             <p class="noplus h3 h3Heading "><span class="timer">100</span>%</p>
             <p class="mad textcentre h4 h4Heading">Ownership Rights</p>
@@ -483,7 +483,7 @@
         <div class="col has-border mob-noborder">
           <div class="quality">
             <div class="quality-img">
-              <img src="assets/images/customer-satisfaction.svg" width="auto" height="auto" alt="customer-satisfaction">
+              <img src="assets/images/customer-satisfaction.svg"  alt="customer-satisfaction">
             </div>
             <p class="noplus h3 h3Heading">Money-Back</p>
             <p class="mad textcentre h4 h4Heading"> Guarantee</p>
