@@ -150,6 +150,15 @@ a:active{
     </div>
   </div>
 </div>
+<div class="container text-center">
+  <div class="row">
+    <div class="col-lg-12">
+    <video width="1000" height="500" autoplay muted class="mt-4">
+  <source src="https://download-video.akamaized.net/2/playback/7c566abe-7d0e-46a1-b32d-9b89a978f66d/7c4f5292-40f2e481?__token__=st=1665077172~exp=1665091572~acl=%2F2%2Fplayback%2F7c566abe-7d0e-46a1-b32d-9b89a978f66d%2F7c4f5292-40f2e481%2A~hmac=b0358477f5d6044056a185fc01a2fdb31e9e80cedd191685ac5f847898bd4a20&r=dXMtZWFzdDE%3D" type="video/mp4">
+</video>
+    </div>
+  </div>
+</div>
 
 
 <section class="servicesec">
