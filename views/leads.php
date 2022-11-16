@@ -1,15 +1,14 @@
 <?php
 
 
-include_once($_SERVER['DOCUMENT_ROOT']."/includes/get-dashboard.php");
+include_once($_SERVER['DOCUMENT_ROOT'] . "/includes/get-dashboard.php");
 
 $name = $_REQUEST['name'];
 $email = $_REQUEST['email'];
 $phone = $_REQUEST['phone'];
-if(isset($_REQUEST['steperForm'])){
-    $brief = $_REQUEST['brief'].'/ '.$_REQUEST['step1'].'/ '.$_REQUEST['step2'].'/ '.$_REQUEST['step3'].'/ '.$_REQUEST['step4'].'/ '.$_REQUEST['step5'];
-
-}else{
+if (isset($_REQUEST['steperForm'])) {
+    $brief = $_REQUEST['brief'] . '/ ' . $_REQUEST['step1'] . '/ ' . $_REQUEST['step2'] . '/ ' . $_REQUEST['step3'] . '/ ' . $_REQUEST['step4'] . '/ ' . $_REQUEST['step5'];
+} else {
 
     $brief = $_REQUEST['brief'];
 }
@@ -20,66 +19,72 @@ $tag = $_REQUEST['tag'];
 $price = $_REQUEST['price'];
 $domain = "www.websitevalley.co.uk";
 
-if($_REQUEST["gender"] != ""){
+if ($_REQUEST["gender"] != "") {
     header("location: /");
     exit();
- }
-$data=array(
-'name'=> $name,
-'email'=>$email,
-'phone'=>$phone,
-'brief'=>$brief.' /lead_type:'.$_SESSION['lead_type'],
-'news'=>$news,
-'route'=>$route,
-'brand'=>$brand,
-'tag' => $tag,
-'price'=> $price,
-'domain'=> $domain
+}
+
+$reference_url;
+
+if (strlen($_SESSION['refer_url']) > 500) {
+    $reference_url = substr($_SESSION['refer_url'], 0, 500);
+} else {
+    $reference_url = $_SESSION['refer_url'];
+}
+$data = array(
+    'name' => $name,
+    'email' => $email,
+    'phone' => $phone,
+    'brief' => $brief . ' /lead_type:' . $_SESSION['lead_type'],
+    'news' => $news,
+    'route' => $route,
+    'brand' => $brand,
+    'tag' => $tag,
+    'price' => $price,
+    'domain' => $domain,
+    'reference_url' => $reference_url ?? null
 );
 
-if($_REQUEST['phone'] == '5556660606' || $_REQUEST['phone'] == '555-666-0606'){
+if ($_REQUEST['phone'] == '5556660606' || $_REQUEST['phone'] == '555-666-0606') {
     exit(header("location:/"));
 }
 if (isset($_POST['token'])) {
-$payload=json_encode($data);
-$curl = curl_init();
-curl_setopt_array($curl, array(
-CURLOPT_URL => "$dashboardUrl/customer",
-CURLOPT_RETURNTRANSFER => true,
-CURLOPT_ENCODING => "",
-CURLOPT_MAXREDIRS => 10,
-CURLOPT_TIMEOUT => 30,
-CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-CURLOPT_CUSTOMREQUEST => "POST",
-CURLOPT_POSTFIELDS => $payload,
-CURLOPT_HTTPHEADER => array(
-'Content-Type: application/json',
-),
-));
+    $payload = json_encode($data);
+    $curl = curl_init();
+    curl_setopt_array($curl, array(
+        CURLOPT_URL => "$dashboardUrl/customer",
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_ENCODING => "",
+        CURLOPT_MAXREDIRS => 10,
+        CURLOPT_TIMEOUT => 30,
+        CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+        CURLOPT_CUSTOMREQUEST => "POST",
+        CURLOPT_POSTFIELDS => $payload,
+        CURLOPT_HTTPHEADER => array(
+            'Content-Type: application/json',
+        ),
+    ));
 
-$response = curl_exec($curl);
+    $response = curl_exec($curl);
 
-curl_close($curl);
+    curl_close($curl);
 
-$decodeResponse = json_decode($response);
+    $decodeResponse = json_decode($response);
 
-$msg = $decodeResponse[1];
+    $msg = $decodeResponse[1];
 
 
-// $_SESSION['thanksMsg'] = $msg;
+    // $_SESSION['thanksMsg'] = $msg;
 
-if (headers_sent()) {
-    echo "<script>
+    if (headers_sent()) {
+        echo "<script>
     window.open('/thank-you/?thanksMsg=$msg','_self')
     </script>";
-    echo "Redirect failed. Please click on this link: <a href='/thank-you/?thanksMsg=$msg'>/thank-you/?thanksMsg=$msg</a>";
-}
-else{
+        echo "Redirect failed. Please click on this link: <a href='/thank-you/?thanksMsg=$msg'>/thank-you/?thanksMsg=$msg</a>";
+    } else {
 
-    exit(header("location:/thank-you/?thanksMsg=$msg"));
-}
-
-}
-else{
+        exit(header("location:/thank-you/?thanksMsg=$msg"));
+    }
+} else {
     exit(header("location:/"));
 }
