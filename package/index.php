@@ -1,51 +1,66 @@
-
 <!doctype html>
 <html lang="en">
 
 <head>
 
-<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php') ?>
-<?php
-$url = $_SERVER['REQUEST_URI'];
-$urlPrams = explode('/',$url);
-$category =$urlPrams[2];
-$packageSlug = $urlPrams[3];
+    <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php') ?>
+    <?php
+        $url = $_SERVER['REQUEST_URI'];
+        $urlPrams = explode('/',$url);
+        $parentCat =$urlPrams[count($urlPrams)-3];
+        $category =$urlPrams[count($urlPrams)-2];
+        $packageSlug = $urlPrams[count($urlPrams)-1];
 
-$packageArray = (array)$pacakges->$category->packagesArray;
-$package = $packageArray[$packageSlug];
+        // var_dump($parentCat);die;
 
-?>
+        // $packageArray = (array)$pacakges->$category->packagesArray;
+        // $package = $packageArray[$packageSlug];
+        if($parentCat != "package"){
+            $packageArray = (array)$pacakges->$parentCat->children->$category->packages;
+            
+        }else{
+            $packageArray = (array)$pacakges->$category->packages;
 
-<title><?= $package->heading ?>| Website Valley </title>
-<meta name="description" content="<?= $package->heading ?> package allows live conferencing features and tailored client/user dashboards with a strong semi-automated admin panel.">
+        }
+        
+        $package = $packageArray[$packageSlug];
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    ?>
 
-<link rel="icon" href="favicon.ico" type="image/x-icon" />
-<link href="/css/m-style.css" rel="stylesheet" type="text/css" />
-<link href="/css/new-inner-package.css" rel="stylesheet" type="text/css" />
-<link href="https://fonts.googleapis.com/css?family=Bai+Jamjuree:300,400,500,600,700|Libre+Franklin:400,500,600,700,800,900&amp;display=swap" rel="stylesheet">
+    <title><?= $package->heading ?>| Website Valley </title>
+    <meta name="description"
+        content="<?= $package->heading ?> package allows live conferencing features and tailored client/user dashboards with a strong semi-automated admin panel.">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link href="/css/m-style.css" rel="stylesheet" type="text/css" />
+    <link href="/css/new-inner-package.css" rel="stylesheet" type="text/css" />
+    <link
+        href="https://fonts.googleapis.com/css?family=Bai+Jamjuree:300,400,500,600,700|Libre+Franklin:400,500,600,700,800,900&amp;display=swap"
+        rel="stylesheet">
 
 
-<style>
-  header .navbar {
-    background: #042048;
-    animation: header .7s ease-in-out;
-}
-</style>
+    <style>
+    header .navbar {
+        background: #042048;
+        animation: header .7s ease-in-out;
+    }
+    </style>
 </head>
+
 <body class="inerservice">
 
 
 
-<div class="mobile-nav"> <a href="/" class="logo-main"> <img src="/images/home/logo.png" alt="*" /></a>
-  
-</div>
-<main class="app-container">
+    <div class="mobile-nav"> <a href="/" class="logo-main"> <img src="/images/home/logo.png" alt="*" /></a>
 
-<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/header.php') ?>
- 
+    </div>
+    <main class="app-container">
+
+        <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/header.php') ?>
+
 
 
 
@@ -66,15 +81,18 @@ $package = $packageArray[$packageSlug];
                             <div class="subs-pac bronze ">
                                 <h3><?= $package->heading ?></h3>
                                 <h6><span class="old">£<?= $package->amount *2 ?></span><?= $package->amount ?>
-                                    <!-- <b>USD</b> --><span><b class="monthss"></b><?= $package->description ?></span></h6>
+                                    <!-- <b>USD</b> --><span><b class="monthss"></b><?= $package->description ?></span>
+                                </h6>
                                 <a href="tel:+4402038087061" class="ordrrrr ">Order Now</a>
 
                                 <div class="actions row">
                                     <div class="col-md-5 col-xs-6">
-                                        <a href="javascript:;" onclick="setButtonURL();" target="_self" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
+                                        <a href="javascript:;" onclick="setButtonURL();" target="_self"
+                                            class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                                     </div>
                                     <div class="col-md-7 col-xs-6">
-                                        <a href="tel:442038087061" class="numberbtn"><i class="fa fa-phone-square"></i> +442038087061</a>
+                                        <a href="tel:442038087061" class="numberbtn"><i class="fa fa-phone-square"></i>
+                                            +442038087061</a>
                                     </div>
 
                                 </div>
@@ -89,12 +107,12 @@ $package = $packageArray[$packageSlug];
                                     </div>
                                     <div class="body">
                                         <ul class="subscription-list">
-                                        <?php foreach($package->details as $detail):?>
+                                            <?php foreach($package->details as $detail):?>
                                             <li>
                                                 <h6><?= $detail->detail?></h6>
                                             </li>
-                                        <?php endforeach;?>
-                                           
+                                            <?php endforeach;?>
+
                                         </ul>
                                     </div>
                                 </div>
@@ -130,7 +148,7 @@ $package = $packageArray[$packageSlug];
                                         <span class="icon-location"></span>
                                     </div>
                                     <div class="textpart">
-                                        <p> 54 park avenue barking, Essex, IG11 8QU,  UK</p>
+                                        <p> 54 park avenue barking, Essex, IG11 8QU, UK</p>
                                     </div>
                                 </div>
                             </li>
@@ -160,9 +178,10 @@ $package = $packageArray[$packageSlug];
                         <div class="home-banner-content">
                             <div class="col-lg-8 offset-lg-2 inner-content text-left">
                                 <div class="form-box-main clearfix">
-                                      <h2>Let’s talk about your next Big thing!</h2>
-                                    <p>Heads up! We require that you sign up for Website Valleyservices and packages. We make all your dreams come true in a successful project.</p>
- <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/form.php');?>
+                                    <h2>Let’s talk about your next Big thing!</h2>
+                                    <p>Heads up! We require that you sign up for Website Valleyservices and packages. We
+                                        make all your dreams come true in a successful project.</p>
+                                    <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/form.php');?>
 
                                 </div>
 
@@ -180,11 +199,11 @@ $package = $packageArray[$packageSlug];
 
 
 
-<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/footer.php');?>
-<!-- <script src="../assets/js/mlib.js"></script> 
+        <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/footer.php');?>
+        <!-- <script src="../assets/js/mlib.js"></script> 
 <script src="../assets/js/jquery.cookie.js" defer></script>  -->
-<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/scripts.php');?>
-<script src="/js/functions.js" defer></script> 
+        <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/scripts.php');?>
+        <script src="/js/functions.js" defer></script>
 </body>
 
 </html>

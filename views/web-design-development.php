@@ -192,9 +192,8 @@
     <div class="container text-center">
         <div class="row">
             <div class="col-lg-12">
-                <video width="1000" height="500" autoplay  controls class="mt-4">
-                    <source
-                        id="web-video"
+                <video width="1000" height="500" autoplay controls class="mt-4">
+                    <source id="web-video"
                         src="https://download-video.akamaized.net/2/playback/7c566abe-7d0e-46a1-b32d-9b89a978f66d/7c4f5292-40f2e481?__token__=st=1666707877~exp=1666722277~acl=%2F2%2Fplayback%2F7c566abe-7d0e-46a1-b32d-9b89a978f66d%2F7c4f5292-40f2e481%2A~hmac=5d8272e0934563d8a1ca2dad4a34e523f61424a6baba90fab12dabca4a445b6e&r=dXMtZWFzdDE%3D"
                         type="video/mp4">
                 </video>
