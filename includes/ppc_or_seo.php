@@ -30,7 +30,14 @@ if (!isset($_SESSION['lead_type'])) {
         $_SESSION['lead_type'] = "SEO";
       }
       if (!isset($_SESSION["refer_url"])) {
-        $_SESSION["refer_url"] = $_SERVER["HTTP_REFERER"];
+        $reqUri;
+        if($_SERVER['REQUEST_URI'] == "/"){
+          $reqUri = "home";
+        }
+        else{
+          $reqUri = $_SERVER['REQUEST_URI'];
+        }
+        $_SESSION["refer_url"] = $_SERVER["HTTP_REFERER"] . "--" . $reqUri ;
       }
     }
   }
