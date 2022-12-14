@@ -298,3 +298,143 @@
 <!--  </div>-->
 
 <!--</div>-->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+</script>
+<script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity=" sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+</script>
+<!-- <script src="js/main.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.13.0/dist/sweetalert2.all.min.js"></script>
+
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"> -->
+<link href="https://cdn.jsdelivr.net/npm/smartwizard@5/dist/css/smart_wizard_all.min.css" rel="stylesheet" type="text/css" />
+<script src="https://cdn.jsdelivr.net/npm/smartwizard@5/dist/js/jquery.smartWizard.min.js" type="text/javascript">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/smartwizard@5/dist/js/jquery.smartWizard.min.js" type="text/javascript"></script>
+
+<style>
+  @media screen and (max-width: 640px) {
+    .sw>.nav {
+      flex-direction: initial !important;
+
+    }
+
+    .form-box-main form input[type=checkbox]:not(old)+label,
+    input[type=radio]:not(old)+label {
+      font-size: 12px !important;
+    }
+  }
+</style>
+<script>
+  $(".btn-theme-outline").click(function() {
+    $("#modalSteper").modal("show")
+    $('#stepwizard').smartWizard({
+      hiddenSteps: []
+    });
+  })
+  $(document).ready(function() {
+    $("#otherSelectionBox").on('click', function() {
+      $("#others-req").prop('checked', true);
+    })
+    $("#otherSelectionBox").on('keyup', function() {
+      let value = $(this).val();
+      $("#others-req").val(value);
+    })
+
+    $("#other-step2-input").on('click', function() {
+      $("#other-step2").prop('checked', true);
+    })
+    $("#other-step2-input").on('keyup', function() {
+      let value = $(this).val();
+      $("#other-step2").val(value);
+    })
+
+    $("#step3-input").on('click', function() {
+      $("#step3-radio").prop('checked', true);
+    })
+    $("#step3-input").on('keyup', function() {
+      let value = $(this).val();
+      $("#step3-radio").val(value);
+    })
+
+    $("#step4-input").on('click', function() {
+      $("#step4-radio").prop('checked', true);
+    })
+    $("#step4-input").on('keyup', function() {
+      let value = $(this).val();
+      $("#step4-radio").val(value);
+    })
+
+    $("#step5-input").on('click', function() {
+      $("#step5-radio").prop('checked', true);
+    })
+    $("#step5-input").on('keyup', function() {
+      let value = $(this).val();
+      $("#step5-radio").val(value);
+    })
+    $('#modalSteper .close').click(function() {
+      window.history.pushState({}, "", "/");
+      $('#modalSteper').modal('hide');
+    })
+
+    // setTimeout(() => {
+    //   $('#modalSteper').modal('show');
+    //   $('#stepwizard').smartWizard({
+    //     hiddenSteps: []
+    //   });
+
+    // }, 10000);
+
+    $("#stepwizard").on("stepContent", function(e, anchorObject, currentStepIndex, nextStepIndex,
+      stepDirection) {
+      window.history.pushState({}, "", "/" + anchorObject.attr('href'));
+      console.log('now step is ', anchorObject.attr('href'));
+      // if(anchorObject.prevObject.length - 1 == nextStepIndex){
+      //     // e.preventDefault();
+      //     console.log('anchor obj',anchorObject);
+      //     console.log('current step',currentStepIndex);
+      //     console.log('next stp',nextStepIndex);
+      //     console.log('step dir',stepDirection);
+      //     let finalButton= $(" .sw-btn-next",e.target);
+      //     finalButton.text('submit form');
+      //     finalButton.addClass('myClassR');
+      //     finalButton.attr('type','submit');
+      //     finalButton.click(function(e){
+      //       $(this).removeClass("disabled");
+      //       console.log('heelo',$(".form-steper"));
+      //       console.log('e',e.target);
+      //       $("#sterperform").submit();
+
+      //     });
+      //     // $(".sw-btn-next.myClassR").click(function(e){
+      //     //   e.preventDefault();
+      //     //   console.log('e',e);
+      //     //   alert('hello')
+      //     // })
+      // }else{
+      //     // alert('this is not the last step');                
+      // }
+    });
+
+
+
+
+  });
+
+
+
+  $(function() {
+    $("input[name='other1']").click(function() {
+      $('.other1').removeAttr("disabled");
+    });
+  });
+
+  $('form').submit(function() {
+    $(this).find('button').attr("disabled", true);
+    $(this).find('input[type="submit"]').attr("disabled", true);
+    $(this).find('button[type="submit"]').attr("disabled", true);
+    $(this).submit();
+  });
+</script>
