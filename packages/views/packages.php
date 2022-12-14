@@ -127,7 +127,7 @@ $api = new Api;
                                         <div class="row">
 
                                             <div class="col-md-12">
-                                                <a href="javascript:void(0)"
+                                                <a href="javascript:void(0)"data-toggle="modal" data-target="#modalForDiscount"
                                                     class="btn-packages btn-packages2 btn-theme-outline"
                                                     tabindex="0">Order Now </a>
 
