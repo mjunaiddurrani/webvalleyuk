@@ -59,7 +59,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <ul class="top-info-list">
             <li><a href="tel:+442038087061"><img src="assets/images/uk-flag.png" alt="UK Flag" />+442038087061</a></li>
             <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
-            <li><a href="javascript:;" onclick="setButtonURL();"  class="btn-main">Let's Get Started</a></li>
+            <li><a href="javascript:;"  class="btn-main modalOpen">Let's Get Started</a></li>
           </ul>
         </div>
       </div>
@@ -148,7 +148,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <input type="hidden" name="tag" value="modal-auto">
                     <input type="hidden" name="price" value="null">
                     <input type="hidden" name="news" value="1">
-<input type="text" class="jun"  name="gender">
+                    <input type="text" class="jun"  name="gender">
 								</div>
 							<div class="col-md-6 ">
 								<textarea name="brief" required class="form-control"  style="" placeholder="Write your project description"></textarea>

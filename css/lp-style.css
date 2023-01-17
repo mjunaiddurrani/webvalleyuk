@@ -157,7 +157,7 @@ button.play.rounded-box.state-playing {
     top: 0;
     width: 100%;
     height: 100%;
-    background: #68bef10008c;
+    /* background: #68bef10008c; */
     /* z-index: 1; */
 }
 .inerservice-banner .isb-textwrapper {

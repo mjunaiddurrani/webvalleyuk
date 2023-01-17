@@ -3484,17 +3484,16 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     <script>
 
     setTimeout(function(){  
-    // $("#modalForDiscount").modal("show");
+    $("#modalForDiscount").modal("show");
     
    
     $(document).on('click','.liveChat',function(){
         $zopim.livechat.window.show();
 
     });
-
-
     
 }, 15000);
+
 $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
 
 $(document).on('click','.clickbutton',function(){
@@ -3546,6 +3545,7 @@ $(document).on('click','.clickbutton',function(){
 <script>
   function setButtonURL(){
   //CUGICHelper.bubbleChat.toggle();
+  
   $zopim.livechat.window.toggle();
   // LC_API.open_chat_window();
   //Tawk_API.toggle();

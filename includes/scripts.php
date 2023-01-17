@@ -111,13 +111,11 @@ $(document).on("click",".ys-container",function(){
 
 
 setTimeout(function(){
-    // console.log("asdasdsa");   
-         $('.ys-layer').addClass("visible");
-         $('.ys-container').addClass("visible");
-         $('.ys-container').addClass("finished");
-         // $('.ys-popup-content').fadeIn();
-
-
+  // console.log("asdasdsa");   
+  $('.ys-layer').addClass("visible");
+  $('.ys-container').addClass("visible");
+  $('.ys-container').addClass("finished");
+  // $('.ys-popup-content').fadeIn();
 },60000);
 
 $('.modalOpen').click(function(){
