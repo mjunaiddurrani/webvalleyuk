@@ -723,6 +723,7 @@
             <div class="smallboxes packagesslider">
                     <?php 
                     $pacakgesOf = "combo-packages";
+                    $pacakges = $pacakges->package_categories;
                     foreach($pacakges->$pacakgesOf->packages as $package):
                     
                     if($package->amount < 1000){

@@ -860,7 +860,13 @@
                             <div class="smallboxes packagesslider">
                                 <?php 
                     $pacakgesOf = "web-design";
-                    foreach($pacakges->$pacakgesOf->packages as $package):?>
+                    $pacakges = $pacakges->package_categories;
+                    foreach($pacakges->$pacakgesOf->packages as $package):
+                    
+                    
+                    ?>
+
+                    
                                 <!-- bst-selr    use this class to make it best seller -->
                                 <div class="smallbox ">
                                     <div class="package_inner">

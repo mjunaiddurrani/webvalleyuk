@@ -68,6 +68,7 @@ $api = new Api;
                 <div class="col-lg-12">
                     <ul class="nav nav-pills">
                         <?php 
+                        $pacakges = $pacakges->package_categories;
               $categoryCounter = 0;
               foreach($pacakges as $category):?>
                         <li><a data-toggle="pill" href="#pills-web-<?=$category->id?>"
