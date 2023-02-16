@@ -196,7 +196,7 @@ if(window.location.pathname=="/"){
         "name": "websitevalley",
         "url": "https://www.websitevalley.co.uk/",
         "logo": "https://www.websitevalley.co.uk/assets/images/logo.png",
-        "contactPoint": { "@type": "ContactPoint", "telephone": "+442038087061", "contactType": "customer service" },
+        "contactPoint": { "@type": "ContactPoint", "telephone": "+14423191348", "contactType": "customer service" },
         "sameAs": ["https://www.facebook.com/websitevalley/", "https://twitter.com/websitevalley", "https://www.instagram.com/websitevalley/", "https://www.linkedin.com/company/websitevalley/"]
     }
 </script>

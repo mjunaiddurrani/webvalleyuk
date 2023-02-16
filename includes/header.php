@@ -57,7 +57,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="col-lg-6">
           <ul class="top-info-list">
-            <li><a href="tel:+442038087061"><img src="assets/images/uk-flag.png" alt="UK Flag" />+442038087061</a></li>
+            <li><a href="tel:+14423191348"><img src="assets/images/uk-flag.png" alt="UK Flag" />+14423191348</a></li>
             <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
             <li><a href="javascript:;"  class="btn-main modalOpen">Let's Get Started</a></li>
           </ul>

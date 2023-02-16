@@ -69,7 +69,7 @@
               <figcaption>Get in Touch with Sales</figcaption>
             </figure>
             <p>We are more than willing to let you know of our services through our Sales team. Call at your convenience.</p>
-            <a href="tel:+442038087061" class="btn-secondary">Call Us: +442038087061</a>
+            <a href="tel:+14423191348" class="btn-secondary">Call Us: +14423191348</a>
           </div>
           <div class="contactbox">
             <figure>
@@ -130,7 +130,7 @@
             </div>
             <div class="chunk">
               <h3>Phone</h3>
-              <a href="tel:+442038087061">+442038087061</a>
+              <a href="tel:+14423191348">+14423191348</a>
               
             </div>
             <div class="chunk">

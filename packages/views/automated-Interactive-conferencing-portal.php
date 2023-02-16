@@ -109,7 +109,7 @@
                         <div class="col-lg-6">
                             <ul class="top-info-list">
                                 <li>
-                                    <a href="tel:+442038087061"><img src="../assets/images/uk-flag.png" alt="UK Flag" />+442038087061</a>
+                                    <a href="tel:+14423191348"><img src="../assets/images/uk-flag.png" alt="UK Flag" />+14423191348</a>
                                 </li>
                                 <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
                                 <li><a href="javascript:;" onclick="setButtonURL();" class="btn-main">Let's Get Started</a></li>
@@ -196,7 +196,7 @@
                                         <a href="javascript:;" onclick="setButtonURL();" target="_self" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                                     </div>
                                     <div class="col-md-7 col-xs-6">
-                                        <a href="tel:442038087061" class="numberbtn"><i class="fa fa-phone-square"></i> +442038087061</a>
+                                        <a href="tel:14423191348" class="numberbtn"><i class="fa fa-phone-square"></i> +14423191348</a>
                                     </div>
 
                                 </div>
@@ -396,7 +396,7 @@
                                         <span class="icon-phone2"></span>
                                     </div>
                                     <div class="textpart">
-                                        <a href="tel:+442038087061" class="callbx">Call Us +442038087061</a>
+                                        <a href="tel:+14423191348" class="callbx">Call Us +14423191348</a>
                                     </div>
                                 </div>
                             </li>
@@ -473,7 +473,7 @@
                         <div class="col-lg-3">
                             <h3 class="xsmtpx-30">About</h3>
                             <ul class="linkinglist">
-                                <li><a href="tel:+442038087061">+442038087061</a></li>
+                                <li><a href="tel:+14423191348">+14423191348</a></li>
                                 <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
                                 <li><a class="address"> 54 park avenue barking, Essex, IG11 8QU,  UK</a></li>
                             </ul>
@@ -554,7 +554,7 @@
 
 
         <div class="mobile-cta hidden-sm-up">
-            <a href="tel:+442038087061" class="xicon phone">
+            <a href="tel:+14423191348" class="xicon phone">
                 <i class="icon-phone"></i>
             </a>
         </div>
@@ -565,9 +565,9 @@
                     <span class="icoo"><i class="icon-chat"></i></span>
                     <span>Chat With Us</span>
                 </a>
-                <a href="tel:+442038087061" class="call_wrap">
+                <a href="tel:+14423191348" class="call_wrap">
                     <span class="icoo"><i class="icon-phone2"></i></span>
-                    <span>+442038087061</span>
+                    <span>+14423191348</span>
                 </a>
             </div>
         </div>
@@ -666,7 +666,7 @@
 
                             <div class="fldst btnattach">
                                 <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-                                <a class="callus" href="tel:+442038087061"> Free design consultation <i class="fa fa-phone"></i>  +442038087061</a>
+                                <a class="callus" href="tel:+14423191348"> Free design consultation <i class="fa fa-phone"></i>  +14423191348</a>
                             </div>
                             <div class="fldst-two">
                                 <input type="text" name="Name" placeholder="Enter Name" required="">

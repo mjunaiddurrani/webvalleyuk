@@ -552,8 +552,8 @@ button.play.rounded-box.state-playing {
                             <div class="row">
                               <div class="col-md-6 col-xs-6">
                                 <div class="act-box1">
-                                  <a class="spek-us" tabindex="0" href="tel:+442038087061">
-                                    <span><small>Speak with us</small>+442038087061</span>
+                                  <a class="spek-us" tabindex="0" href="tel:+14423191348">
+                                    <span><small>Speak with us</small>+14423191348</span>
                                   </a>
                                 </div>
                               </div>

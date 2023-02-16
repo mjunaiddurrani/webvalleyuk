@@ -35,7 +35,7 @@
                 <div class="col-lg-3">
                     <p class="xsmtpx-30 h3">About</p>
                     <ul class="linkinglist">
-                        <li><a href="tel:+442038087061">+442038087061</a></li>
+                        <li><a href="tel:+14423191348">+14423191348</a></li>
                         <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
                         <li><a class="address"> 54 park avenue barking, Essex, IG11 8QU, UK</a></li>
                         <!-- <li><a class="address"> 104 Meads Lane, Ilford IG3<br> 8PE, UK</a></li> -->
@@ -131,7 +131,7 @@
 
 
 <div class="mobile-cta hidden-sm-up">
-    <a href="tel:+442038087061" class="xicon phone">
+    <a href="tel:+14423191348" class="xicon phone">
         <i class="icon-phone"></i>
     </a>
 </div>
@@ -142,9 +142,9 @@
             <span class="icoo"><i class="icon-chat"></i></span>
             <span>Chat With Us</span>
         </a>
-        <a href="tel:+442038087061" class="call_wrap">
+        <a href="tel:+14423191348" class="call_wrap">
             <span class="icoo"><i class="icon-phone2"></i></span>
-            <span>+442038087061</span>
+            <span>+14423191348</span>
         </a>
     </div>
 </div>
@@ -239,8 +239,8 @@
 
                     <div class="fldst btnattach">
                         <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-                        <a class="callus" href="tel:+442038087061"> Free design consultation <i class="fa fa-phone"></i>
-                            +442038087061</a>
+                        <a class="callus" href="tel:+14423191348"> Free design consultation <i class="fa fa-phone"></i>
+                            +14423191348</a>
                     </div>
                     <div class="fldst-two">
                         <input type="text" name="name" placeholder="Enter Name" required="">

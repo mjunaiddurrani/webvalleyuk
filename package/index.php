@@ -91,8 +91,8 @@
                                             class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                                     </div>
                                     <div class="col-md-7 col-xs-6">
-                                        <a href="tel:442038087061" class="numberbtn"><i class="fa fa-phone-square"></i>
-                                            +442038087061</a>
+                                        <a href="tel:14423191348" class="numberbtn"><i class="fa fa-phone-square"></i>
+                                            +14423191348</a>
                                     </div>
 
                                 </div>
@@ -159,7 +159,7 @@
                                         <span class="icon-phone2"></span>
                                     </div>
                                     <div class="textpart">
-                                        <a href="tel:+442038087061" class="callbx">Call Us +442038087061</a>
+                                        <a href="tel:+14423191348" class="callbx">Call Us +14423191348</a>
                                     </div>
                                 </div>
                             </li>

@@ -292,8 +292,8 @@
                           <div class="row">
                             <div class="col-md-6 col-xs-6">
                               <div class="act-box1">
-                                <a class="spek-us" tabindex="0" href="tel:+442038087061">
-                                  <span><small>Speak with us</small>+442038087061</span>
+                                <a class="spek-us" tabindex="0" href="tel:+14423191348">
+                                  <span><small>Speak with us</small>+14423191348</span>
                                 </a>
                               </div>
                             </div>
@@ -513,7 +513,7 @@
   <!--              <span class="icon-mobile2 phone"></span>-->
   <!--              <h3 class="text-left">-->
   <!--              <span class="mad">Call us now to get started </span>-->
-  <!--              +442038087061 </h3><div class="slash"></div>-->
+  <!--              +14423191348 </h3><div class="slash"></div>-->
   <!--            </div>-->
   <!--            <div class="col-lg-5 col-sm-12 mail">-->
   <!--              <span class="icon-envelope-o mail"></span>-->
