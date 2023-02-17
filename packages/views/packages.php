@@ -6,10 +6,10 @@
 
 <head>
 
-    <title>Designing, Developing, Marketing, and Branding Packages </title>
+    <title>Complete Business Start Up Packages | Get 50% OFF</title>
 
     <meta name="description"
-        content="We have a professional in-house team who is ready to work on your project at any time. Our Packages are designed to fulfill your budget needs with ease.">
+        content="Looking to start a business online? check out our complete business start up packages to help your business establish a strong online presence.">
 
 
     <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?>
@@ -57,13 +57,8 @@ $api = new Api;
         <div class="container my-5">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
-                    <h3 class="text-center" style="font-size: 30px; font-weight:600;">How Much Do We Charge For Our
-                        Services?</h3>
-                    <p>Our quick, professional services may be affordable, but they are not cheap. We have a mission to
-                        create creative, authentic, and valuable designs. We aim to offer our services with a great
-                        passion for driving results for our costumes. Our top creative-led design and development agency
-                        enables your brand image to become the best, firm, marketable, media-worthy at an affordable
-                        price.</p>
+                    <h3 class="text-center" style="font-size: 30px; font-weight:600;">Business Start Up Packages</h3>
+                    <p>Our business startup packages are a comprehensive solution for entrepreneurs looking to launch a successful website. We offer a range of essential tools such as business planning, legal compliance, branding, web design and development services to get your business up and running. We provide an all-in-one solution to save time and money. Whether you're a new entrepreneur or an experienced business owner, start up business packages can give you the support and resources you need to succeed.</p>
                 </div>
                 <div class="col-lg-12">
                     <ul class="nav nav-pills">

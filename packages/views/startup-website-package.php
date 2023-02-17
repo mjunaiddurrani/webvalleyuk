@@ -6,9 +6,9 @@
 
 
 <head>
-    <title>Web Design Development Startup Packages for Enterprises</title>
+    <title>Startup Website Package | Web Design for Startups</title>
 
-    <meta name="description" content="At Website Valley, we are offering affordable Web Design Development Startup Packages for Enterprises so that you have the perfect web design experience.">
+    <meta name="description" content="Looking for a startup website package? We offer affordable web design for startups to help your business create an effective online presence.">
 
 
 
