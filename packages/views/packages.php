@@ -47,6 +47,7 @@
 $api = new Api;
 // $data = $api->hit('GET','http://127.0.0.1:8000/api/packages/websitevalley.co.uk');
 
+// var_dump($pacakges->package_categories);die;
 ?>
 
 
@@ -57,13 +58,13 @@ $api = new Api;
         <div class="container my-5">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
-                    <h3 class="text-center" style="font-size: 30px; font-weight:600;">Business Start Up Packages</h3>
-                    <p>Our business startup packages are a comprehensive solution for entrepreneurs looking to launch a successful website. We offer a range of essential tools such as business planning, legal compliance, branding, web design and development services to get your business up and running. We provide an all-in-one solution to save time and money. Whether you're a new entrepreneur or an experienced business owner, start up business packages can give you the support and resources you need to succeed.</p>
+                    <h1 class="text-center" style="font-size: 30px; font-weight:600;color: #000;">Business Start Up Packages</h1>
+                    <h1 style="font-size: 15px;line-height: 1.4;text-align: center;margin-top: 15px;margin-bottom: 22px;">Our business startup packages are a comprehensive solution for entrepreneurs looking to launch a successful website. We offer a range of essential tools such as business planning, legal compliance, branding, web design and development services to get your business up and running. We provide an all-in-one solution to save time and money. Whether you're a new entrepreneur or an experienced business owner, start up business packages can give you the support and resources you need to succeed.</h1>
                 </div>
                 <div class="col-lg-12">
                     <ul class="nav nav-pills">
                         <?php 
-                        $pacakges = $pacakges->package_categories;
+                        $pacakges = $pacakges;
               $categoryCounter = 0;
               foreach($pacakges as $category):?>
                         <li><a data-toggle="pill" href="#pills-web-<?=$category->id?>"
