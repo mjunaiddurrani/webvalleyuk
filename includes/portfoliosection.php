@@ -3,8 +3,8 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-12"> 
-        <h2>We design and develop websites for every size of<br> business. Let's take a look atour professional <br>portfolio design online.</h2>
-        <p>Our portfolio is built with passion, skills, hard work, and tons of creativeness. </p>
+        <h2>Take A Look At Some Of Our Professional Web Agency Work.</h2>
+        <p>See our portfolio for a range of visually appealing and functional websites.</p>
       </div>  
       <div class="col-lg-12"> 
           <ul class="nav nav-pills">
