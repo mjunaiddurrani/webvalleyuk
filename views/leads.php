@@ -1,28 +1,33 @@
 <?php
-
-
+// session_start();
 include_once($_SERVER['DOCUMENT_ROOT'] . "/includes/get-dashboard.php");
+include_once($_SERVER['DOCUMENT_ROOT'] . "/class/Api.class.php");
 
-$name = $_REQUEST['name'];
-$email = $_REQUEST['email'];
-$phone = $_REQUEST['phone'];
-if (isset($_REQUEST['steperForm'])) {
-    $brief = $_REQUEST['brief'] . '/ ' . $_REQUEST['step1'] . '/ ' . $_REQUEST['step2'] . '/ ' . $_REQUEST['step3'] . '/ ' . $_REQUEST['step4'] . '/ ' . $_REQUEST['step5'];
-} else {
+$brief = (isset($_REQUEST['brief'])?$_REQUEST['brief']:" "). ' | ' .  (isset($_REQUEST['company'])?$_REQUEST['company']:" ") ." | ".  (isset($_REQUEST['budget'])?$_REQUEST['budget']:" "); 
 
-    $brief = $_REQUEST['brief'];
+function get_client_ip()
+{
+    $ipaddress = '';
+    if (isset($_SERVER['HTTP_CLIENT_IP']))
+        $ipaddress = $_SERVER['HTTP_CLIENT_IP'];
+    else if (isset($_SERVER['HTTP_X_FORWARDED_FOR']))
+        $ipaddress = $_SERVER['HTTP_X_FORWARDED_FOR'];
+    else if (isset($_SERVER['HTTP_X_FORWARDED']))
+        $ipaddress = $_SERVER['HTTP_X_FORWARDED'];
+    else if (isset($_SERVER['HTTP_FORWARDED_FOR']))
+        $ipaddress = $_SERVER['HTTP_FORWARDED_FOR'];
+    else if (isset($_SERVER['HTTP_FORWARDED']))
+        $ipaddress = $_SERVER['HTTP_FORWARDED'];
+    else if (isset($_SERVER['REMOTE_ADDR']))
+        $ipaddress = $_SERVER['REMOTE_ADDR'];
+    else
+        $ipaddress = null;
+    return $ipaddress;
+    // return $_SERVER['REMOTE_ADDR'];
 }
-$news = $_REQUEST['news'];
-$route = $_REQUEST['route'];
-$brand = $_REQUEST['brand'];
-$tag = $_REQUEST['tag'];
-$price = $_REQUEST['price'];
-$domain = "www.websitevalley.co.uk";
 
-if ($_REQUEST["gender"] != "") {
-    header("location: /");
-    exit();
-}
+$route = explode('?', $_REQUEST['route']);
+$route = $route[0];
 
 $reference_url;
 
@@ -31,60 +36,66 @@ if (strlen($_SESSION['refer_url']) > 500) {
 } else {
     $reference_url = $_SESSION['refer_url'];
 }
+
+
+
 $data = array(
-    'name' => $name,
-    'email' => $email,
-    'phone' => $phone,
-    'brief' => $brief . ' /lead_type:' . $_SESSION['lead_type'],
-    'news' => $news,
+    'name' => $_REQUEST['name'],
+    'email' => $_REQUEST['email'],
+    'phone' => $_REQUEST['phone'],
+    'website_url' => $_SERVER['HTTP_HOST'],
+    'brief'=>$brief,
+    'source' => $_SESSION['lead_type'],
+    'news' => 1,
     'route' => $route,
-    'brand' => $brand,
-    'tag' => $tag,
-    'price' => $price,
-    'domain' => $domain,
-    'reference_url' => $reference_url ?? null
+    'brand' => $_REQUEST['brand'],
+    'tag' => $_REQUEST['tag'],
+    'price' => $_REQUEST['price'],
+    'domain' => $_SERVER['HTTP_HOST'],
+    'ip_address' => get_client_ip(),
+    'server_ip' => $_SERVER['SERVER_ADDR'] ?? null,
+    'reference_url' => $reference_url ?? null,
 );
 
-if ($_REQUEST['phone'] == '5556660606' || $_REQUEST['phone'] == '555-666-0606') {
-    exit(header("location:/"));
-}
-if (isset($_POST['token'])) {
-    $payload = json_encode($data);
-    $curl = curl_init();
-    curl_setopt_array($curl, array(
-        CURLOPT_URL => "$dashboardUrl/customer",
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_ENCODING => "",
-        CURLOPT_MAXREDIRS => 10,
-        CURLOPT_TIMEOUT => 30,
-        CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-        CURLOPT_CUSTOMREQUEST => "POST",
-        CURLOPT_POSTFIELDS => $payload,
-        CURLOPT_HTTPHEADER => array(
-            'Content-Type: application/json',
-        ),
-    ));
-
-    $response = curl_exec($curl);
-
-    curl_close($curl);
-
-    $decodeResponse = json_decode($response);
-
-    $msg = $decodeResponse[1];
 
 
-    // $_SESSION['thanksMsg'] = $msg;
+// print_r($data);
+// die();
 
-    if (headers_sent()) {
-        echo "<script>
-    window.open('/thank-you/?thanksMsg=$msg','_self')
-    </script>";
-        echo "Redirect failed. Please click on this link: <a href='/thank-you/?thanksMsg=$msg'>/thank-you/?thanksMsg=$msg</a>";
-    } else {
-
-        exit(header("location:/thank-you/?thanksMsg=$msg"));
+try {
+    function random_string($length)
+    {
+        return bin2hex(random_bytes($length));
     }
-} else {
+    $fileName = random_string(5) . date("Y-m-d_h_i_sA") . ".txt";
+    $path = $_SERVER['DOCUMENT_ROOT'] . '/.hkjgdshagkjhadskjhfkjdsafhakjdsfhakjdshgf';
+
+    if (!file_exists($path)) {
+        mkdir($path, 0777, true);
+    }
+
+    $myfile = fopen($path . '/' . $fileName, "w");
+    $txt = json_encode($_REQUEST);
+    fwrite($myfile, $txt);
+    fclose($myfile);
+} catch (\Exception $e) {
+    $error = $e->getMessage();
+}
+
+$api = new Api();
+$res = $api->hit($dashboardUrl . "/customer", $data, "POST");
+
+// var_dump($res);
+// die();
+$res = json_decode($res);
+
+
+
+
+$msg = $res[1];
+
+header("location:/thank-you/?successMsg=$msg");
+
+if (!$msg) {
     exit(header("location:/"));
 }
