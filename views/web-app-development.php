@@ -197,7 +197,7 @@ Maximise your market potential and take your sales to the next level with our we
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-2 d-none d-lg-block">
-        <img src="assets/images/leftsection.jpg" alt="left-section-design" class="img-fluid make-height">
+        <img src="assets/images/leftsection.jpg" alt="left-section-design" class="img-fluid">
       </div>
       <div class="col-lg-10 col-md-12 measure-height">
         <div class="col-lg-4 offset-lg-3">
@@ -260,7 +260,7 @@ Maximise your market potential and take your sales to the next level with our we
             </div>
           </div>
           <div class="col-lg-6">
-            <img src="assets/images/rightSection.jpg" alt="left-section-design" class="img-fluid make-height ">
+            <img src="assets/images/rightSection.jpg" alt="left-section-design" class="img-fluid ">
 
           </div>
         </div>

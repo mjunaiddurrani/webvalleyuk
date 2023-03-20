@@ -21,7 +21,7 @@ $_SESSION['csrf'] = $csrf;
 
 $metaData = json_decode(file_get_contents($_SERVER['DOCUMENT_ROOT'].'/json/metaData.json'),true);
 $pacakges = json_decode(file_get_contents($_SERVER['DOCUMENT_ROOT'].'/json/packages.json'));
-$curruntPage = "https://www.websitevalley.co.uk".$pageUri;
+$curruntPage = "https://127.0.0.1:9000/updateBrand.php?token=4ef81179fbfb0ac711af4949fe4b85f1&backUrl=http://dev.dashboard.ourbase.camp/brands".$pageUri;
 
 if(array_key_exists($curruntPage,$metaData)){
   $metaTitle = $metaData[$curruntPage]['meta_data']['metaTitle'];
