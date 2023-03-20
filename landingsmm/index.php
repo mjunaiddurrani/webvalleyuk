@@ -2682,7 +2682,28 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
     </div>
   </div>
 </footer>
-
+<div class="dis" style="background:#000;">
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+        <div class="global_disclamer text-center p-1">
+	<h2 style="color: #fff; font-weight: 400px; font-size: 20px; margin: 0; line-height: 40px;">Disclaimer:</h2>
+	<p style="color:#fff; font-weight: 400px; font-size: 14px; line-height: 26px;">
+ All company logos and trademarks appearing on our website are the property of their respective owners.
+ We are not affiliated, associated, endorsed by, or in any way officially connected with these companies
+ or their trademarks. The use of these logos and trademarks does not imply any endorsement, affiliation,
+ or relationship between us and the respective companies. We solely use these logos and trademarks for 
+identification purposes only. All information and content provided on our website is for informational 
+purposes only and should not be construed as professional advice. We do not guarantee the accuracy or 
+completeness of any information provided on our website. We are not responsible for any errors or omissions, 
+or for the results obtained from the use of this information. Any reliance you place on such information 
+is strictly at your own risk.
+</p>
+</div>
+        </div>
+    </div>
+</div>
+</div>
 
 <div id="load-wrapp" class="load-wrapp">
   <div class="load-10">

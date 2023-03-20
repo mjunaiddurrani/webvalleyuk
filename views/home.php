@@ -124,7 +124,7 @@
                   <div class="mybtnwrap">
                     <a href="javascript:void(0)" class="btn-theme-outline ">Develop my Website </a>
                   </div>
-                  <div class="banner-bot">
+                  <!-- <div class="banner-bot">
                     <ul>
                       <li>
                         <img src="assets/images/loading.svg" class="lazy"  data-src="assets/images/rateimg.png" alt="rateimg">
@@ -136,7 +136,7 @@
                         <img src="assets/images/loading.svg" class="lazy" data-src="assets/images/partner5.png" alt="partner5">
                       </li>
                     </ul>
-                  </div>
+                  </div> -->
 
                 </div>
               </div>
