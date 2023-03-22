@@ -361,8 +361,7 @@
                     <div class="txtwrap">
                         <h2>Innovating with our Affordable Web Design Winchester </h2>
                         <p>It is difficult to create a distinct brand image online in these modern digital times. Much more is expected of you as a brand. Our web design company in the United Kingdom has the utmost respect for your brand, which is shown in the services we provide. Our rapid design website firm will guarantee that your brand is media-worthy and that your specific business value proposition is highlighted.</p>
-                        <h3>Are You Thinking to Search for a “Best Web Design Company?” </h3>
-                        <p>We are here to help you out with everything possible if you are searching for the “best web design near me.” We take a step-by-step approach to fully comprehending your company's objectives and delivering a swift and intuitive encounter for your website that inspires people to trust your brand.</p>
+                        
                     </div>
                 </div>
                 <div class="col-lg-6 mt-5">
@@ -379,20 +378,19 @@
                 </div>
                 <div class="col-lg-6 mt-5">
                     <div class="txtwrap">
-                        <h3 class="text-left h2 font-29">You Get Us Every Time When You Think ‘’Web Designers Near Me’’</h3>
-                        <p class="text-left">Our UK web design company covers numerous affordable web design packages tailored to your specific needs. Our skilled Winchester web designers will work with you to create a completely unique site that will provide the highest ROI. </p>
-                        <p>We guarantee our designs will exceed your expectations and will add credibility to your business. The nitty-gritty of the designing process should not concern you, but it should be the end product that should match your desired outcome. </p>
-                        <p>
-                        Our designers are professional, and with the help of our project managers, your project will be completed well within the deadline. Trust our process, and put an end to your quest to find a website designer near me. The results will prove our competence and commitment. 
+                        <h3 class="text-left h2 font-29">Are You Thinking to Search for a “Best Web Design Company?</h3>
+                        <p class="text-left">We are here to help you out with everything possible if you are searching for the “best web design near me.” We take a step-by-step approach to fully comprehending your company's objectives and delivering a swift and intuitive encounter for your website that inspires people to trust your brand. 
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-6 mt-3">
                     <div class="txtwrap">
-                        <h3 class="h2 font-29">Let’s Hop On a Quick Call.</h3>
-                        <p>Sometimes it’s the little things that can make a big difference. If you feel that having an updated and modern design won’t make a difference. You’re keeping yourself and your business from progressing on untapped grounds losing out on the potential of maximizing your business’ profitability. 
+                        <h3 class="h2 font-29">You Get Us Every Time When You Think ‘’Web Designers Near Me</h3>
+                        <p>Our UK web design company covers numerous affordable web design packages tailored to your specific needs. Our skilled Winchester web designers will work with you to create a completely unique site that will provide the highest ROI. 
                             <span id="dots">...</span>
-                            <span id="more"> We’re a click away from revolutionizing your online identity and attracting customers that you never knew existed. Our vibrant and modern designs will make a difference. The ball is in your court now. Through our services, you will gain the following:
+                            <span id="more"> We guarantee our designs will exceed your expectations and will add credibility to your business. The nitty-gritty of the designing process should not concern you, but it should be the end product that should match your desired outcome. <BR></BR>
+Our designers are professional, and with the help of our project managers, your project will be completed well within the deadline. Trust our process, and put an end to your quest to find a website designer near me. The results will prove our competence and commitment.
+
 
                             </span>
                         </p>
@@ -413,16 +411,17 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="txtwrap">
-                        <span class="text-left h2 font-29">Transform Your Business with Our Web Development Partnership </span>
-                        <p class="text-left">Ready to take your business to a greater level with our services web development? Partner with Website Valley, the leading web development agency, and enjoy top-notch services that will impress your clients and increase your profitability. Our team of expert web developers creates vibrant, modern, and smooth layouts to grab your visitors’ attention and boost your online presence. Reap the benefits of our services, including:
+                        <span class="text-left h2 font-29">Let’s Hop On a Quick Call. </span>
+                        <p class="text-left">Sometimes it’s the little things that can make a big difference. If you feel that having an updated and modern design won’t make a difference. You’re keeping yourself and your business from progressing on untapped grounds losing out on the potential of maximizing your business’ profitability. <br><br>
+                        We’re a click away from revolutionizing your online identity and attracting customers that you never knew existed. Our vibrant and modern designs will make a difference. The ball is in your court now. Through our services, you will gain the following:
 
 </p>
 
                         <ul class="myticks mb-5">
-                            <li class="text-black">Unmatched Customer Satisfaction</li>
-                            <li class="text-black">No-Risk Money Back Guarantee</li>
-                            <li class="text-black">Full Ownership with 100% Copyrights</li>
-                            <li class="text-black">Seamless Collaboration for Optimal Results</li>
+                            <li class="text-black">Improved Exposure</li>
+                            <li class="text-black">Strong Brand Image</li>
+                            <li class="text-black">Constant Collaboration</li>
+                            <li class="text-black">Value to your money</li>
                         </ul>
                     </div>
                 </div>
