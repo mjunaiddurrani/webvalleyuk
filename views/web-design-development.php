@@ -410,7 +410,14 @@
                                 to develop our new website on a short deadline. We'd continue working with them as they
                                 have been such a great help to us. We're happy to collaborate with them for our website
                                 project development and maintenance at a cheap website design services package.
+                                <ul class="myticks mb-5" style="display:none;" id="new-ul">
+                                    <li class="text-black">Improved Exposure</li>
+                                    <li class="text-black">Strong Brand Image</li>
+                                    <li class="text-black">Constant Collaboration</li>
+                                    <li class="text-black">Value to your money</li>
+                                </ul>
                             </span>
+
                         </p>
                         <button onclick="myFunction()" id="myBtn">Read more <i class="fas fa-arrow-right"></i></button>
                     </div>
@@ -567,7 +574,7 @@
                 <div class="col-lg-12">
 
                     <div class="text text-center">
-                        <h2 class="font-39">Let’s Look At Some Of Our Website Design and Development Projects.</h2>
+                        <h2 class="font-39">Let’s Look At Some Of Our Website Design Projects.</h2>
                         <p>We are happy to share some of the best works with you.</p>
                     </div>
 
@@ -748,8 +755,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
-                    <h2 class="h2 font-32 text-center">Our Web Design and Development Packages.</h2>
-                    <p>Our website development packages have something for everyone.
+                    <h2 class="h2 font-32 text-center">Our Web Design Packages.</h2>
+                    <p>Our affordable website design packages have something for everyone.
                     </p>
                 </div>
                 <div class="col-lg-12">
@@ -889,15 +896,18 @@
         var dots = document.getElementById("dots");
         var moreText = document.getElementById("more");
         var btnText = document.getElementById("myBtn");
+        var newUl = document.getElementById("new-ul");
 
         if (dots.style.display === "none") {
             dots.style.display = "inline";
             btnText.innerHTML = "Read more";
             moreText.style.display = "none";
+            newUl.style.display = "none";
         } else {
             dots.style.display = "none";
             btnText.innerHTML = "Read less";
             moreText.style.display = "inline";
+            newUl.style.display = "block";
         }
     }
     </script>
