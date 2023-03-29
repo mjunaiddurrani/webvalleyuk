@@ -12,11 +12,16 @@ $url = $_SERVER['REQUEST_URI'];
 //     exit();
 // }
 
-// if(strstr($url,'/packages',false)){
-//     require_once('./packages/index.php');
-//     exit();
-// }
+if(strpos($url,'web-design-development/web-design-company')){
+    require_once('./views/web-design-company.php');
+    exit();
+}
 
+if($url == addslashes("/web-design-company/") || $url == "/web-design-company"){
+    header("HTTP/1.1 301 Moved Permanently");
+    header("Location: /web-design-development/web-design-company/");
+    exit();
+}
 
 $current_url = explode('?', $url);
 $url = $current_url[0];

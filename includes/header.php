@@ -16,7 +16,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="/web-app-development/">Web App Development</a></li>
           <li><a href="/web-design-development/">Web Design Development</a></li>
           <li><a href="/mobile-app-development/">Mobile App Development</a></li>
-          <li><a href="/web-design-company/">Web Design Company</a></li>
+          <li><a href="/web-design-development/web-design-company/">Web Design Company</a></li>
           <li><a href="/ecommerce-web-development/">Ecommerce Web Development</a></li>
           <li><a href="/branding/">Branding</a></li>
          
@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li class="home"><a href="/">Home</a></li>
               <li class="serviceli"><a href="">Services</a>
                 <ul>
-        <li><a href="/web-design-company/">Web Design Company</a></li>
+        <li><a href="/web-design-development/web-design-company/">Web Design Company</a></li>
                   <li><a href="/web-design-development/">Web Design Development</a></li>
                   <li class="ecommerce"><a href="/ecommerce-web-development/">Ecommerce Web Development</a></li>
                   <li class="web"><a href="/web-app-development/">Web App Development</a></li><li><a href="/mobile-app-development/">Mobile App Development</a></li>
