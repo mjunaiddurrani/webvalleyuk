@@ -211,7 +211,9 @@
             <ul class="myticks">
               <li class="text-black">Top Ecommerce Solutions</li>
               <li class="text-black">Affordable Website Maintenance</li>
-              <li class="text-black">Professional Branding Services</li>
+              <li class="text-black" onClick="location.href='/branding/'" style="cursor:pointer;">
+                Professional Branding Services
+              </li>
               <li class="text-black">Quick Web Application Development</li>
               <li class="text-black">Fast and Efficient Website Development</li>
             </ul>
@@ -588,7 +590,7 @@
           </div>
           <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
             <div class="panel-body">
-            The cost of building a website varies depending on the project’s scope and complexity. Many website development agencies offer custom quotes based on the customer’s specific needs. Some factors that can influence the cost include the type of website, the number of pages, and the level of customisation required. Finding a balance between quality and affordability is important when selecting a website development agency.
+            The cost of building a website varies depending on the project’s scope and complexity. Many website development agencies offer custom quotes based on the customer’s specific needs. Some factors that can influence the cost include the type of website, the number of pages, and the level of customisation required. Finding a balance between quality and affordability is important when selecting a <a href="/web-design-development/" style="color: #000;">website development agency.</a>
             </div>
           </div>
         </div>

@@ -308,7 +308,7 @@ At Website Valley, we offer the latest and greatest in iOS mobile app developmen
               
   <div class="left">
     <h2 class="font-35">Elevate Your Brand with Custom Mobile Applications </h2>
-    <h3>Custom mobile apps that boost brand presence, revenue, and reputation.</h3>
+    <h3>Custom mobile apps that boost <a href="/branding/" style="color:#000;">brand</a> presence, revenue, and reputation.</h3>
     <p>Unleash your brand’s potential with our top-notch mobile app development service. Our team, with years of experience and innovative minds, creates custom applications that boost brand presence, revenue, and reputation. We have you covered for iOS, Android, gaming, and virtual or augmented reality. Partner with us and establish a bond of trust that will take your brand to new heights.</p>
     <ul class="pointlisting">
       <li>Diversified and top-notch app development service.</li>

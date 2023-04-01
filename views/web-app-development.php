@@ -155,7 +155,9 @@ Maximise your market potential and take your sales to the next level with our we
 
             <li class="text-black myTickLiNew text-left">Cutting-edge Web Application Development</li>
             <li class="text-black myTickLiNew text-left">Affordable Website Maintenance</li>
-            <li class="text-black myTickLiNew text-left">Professional Branding Solutions</li>
+            <li class="text-black myTickLiNew text-left" onClick="location.href='/branding/'" style="cursor:pointer;">
+              Professional Branding Solutions
+            </li>
             <li class="text-black myTickLiNew text-left">Rapid Website Development</li>
             <!-- <li class="text-black myTickLiNew text-left">Quick Website Development </li> -->
           </ul>
@@ -215,7 +217,7 @@ Maximise your market potential and take your sales to the next level with our we
             <div class="contexthere">
               <h4><b>Maximise Your Online Reach</b></h4>
               <p>
-              Get advantage of your online presence with the help of our web-based app development company. Our experts will create high-performing applications that will help you reach a wider audience and improve your income streams.</p>
+              Get advantage of your online presence with the help of our web-based <a href="/mobile-app-development/" style="color:#000;">app development company.</a> Our experts will create high-performing applications that will help you reach a wider audience and improve your income streams.</p>
             </div>
             <div class="contexthere">
               <h4><b>Customers-Centric Approach to Web Portal Development</b></h4>
