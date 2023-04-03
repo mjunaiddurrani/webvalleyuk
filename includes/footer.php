@@ -297,6 +297,7 @@ is strictly at your own risk.
 
 </main>
 
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <script type="application/ld+json">
 {
@@ -320,3 +321,10 @@ is strictly at your own risk.
 <!--  </div>-->
 
 <!--</div>-->
+
+<script>
+    $(".clickbutton").click(function(){
+        $('.floatbutton').toggleClass("active");
+        $('.crossplus').toggleClass("rotate");
+    });
+</script>

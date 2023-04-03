@@ -241,7 +241,7 @@
                                     <ul class="myticks">
                                         <li class="text-black"> Attractive WordPress designs </li>
                                         <li class="text-black"> Market-focused eCommerce design</li>
-                                        <li class="text-black" onClick="location.href='/web-design-development/'" style="cursor:pointer;">
+                                        <li class="text-primary" onClick="location.href='/web-design-development/'" style="cursor:pointer;">
                                             Website Development Services
                                         </li>
                                         <li class="text-black"> Niche-centered designs </li>
@@ -354,7 +354,7 @@
                 <div class="col-lg-6 mt-3">
                     <div class="txtwrap">
                         <h3 class="text-left h2 font-29">Single Page Website Design </h3>
-                        <p class="text-left">A single-page website is simply one that has only one HTML page. There are no other web pages, like Features, About Us, or <a href="/contact/" style="color:#000;">Contact Us page.</a> A one-page website works well with images if designed the right way. It boosts the engagement of the users who land on the website as they are mobile-friendly and compact. </p>
+                        <p class="text-left">A single-page website is simply one that has only one HTML page. There are no other web pages, like Features, About Us, or <a href="/contact/" style="color:#007bff;">Contact Us page.</a> A one-page website works well with images if designed the right way. It boosts the engagement of the users who land on the website as they are mobile-friendly and compact. </p>
                         <h3 class="text-left">Perfection in Execution</h3>
                         <p class="text-left">It is essential that your requirements are clearly defined. This enables the designing team to remain true to your goals while providing you with a design that satisfies your business needs. Here at Website Valley, we ensure none of your demands go unaddressed while adhering to quality standards. </p>
                     </div>
@@ -421,7 +421,7 @@ Our designers are professional, and with the help of our project managers, your 
 
                         <ul class="myticks mb-5">
                             <li class="text-black">Improved Exposure</li>
-                            <li class="text-black" onClick="location.href='/branding/'" style="cursor:pointer;">Strong Brand Image</li>
+                            <li class="text-primary" onClick="location.href='/branding/'" style="cursor:pointer;">Strong Brand Image</li>
                             <li class="text-black">Constant Collaboration</li>
                             <li class="text-black">Value to your money</li>
                         </ul>

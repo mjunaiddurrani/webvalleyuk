@@ -103,3 +103,7 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
   <?=$headFileContent;?>
 
 <?php endif;?>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TMM78JN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->

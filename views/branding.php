@@ -851,7 +851,7 @@
       </div>
       <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
         <div class="panel-body">
-        If you are searching for a <a href="/web-design-development/" style="color:#000;">website design and Development</a> according to your brand strategy, you need to provide us with your brand guide. At our top branding company, the minimum requirement for corporate brand identity creation you need to provide us with the colour palette, typography choice, font style, image reference, a logo or a business card design online. If you do not have any brand guide, our top branding company can work alongside you to create the perfect brand development strategy for future reference. Often, our clients come to us to build a logo, but seeing the finished product, they request us to design and develop their website. Henceforth, we provide them with the complete brand identity package.
+        If you are searching for a <a href="/web-design-development/" style="color:#007bff;">website design and Development</a> according to your brand strategy, you need to provide us with your brand guide. At our top branding company, the minimum requirement for corporate brand identity creation you need to provide us with the colour palette, typography choice, font style, image reference, a logo or a business card design online. If you do not have any brand guide, our top branding company can work alongside you to create the perfect brand development strategy for future reference. Often, our clients come to us to build a logo, but seeing the finished product, they request us to design and develop their website. Henceforth, we provide them with the complete brand identity package.
 
 
         </div>

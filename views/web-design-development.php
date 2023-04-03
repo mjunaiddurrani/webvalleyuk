@@ -220,7 +220,7 @@
                                     <p>As a top-tier web development agency, we understand the significance of having a strong online presence for your business. That’s why we offer a range of services, from custom website development to ecommerce solutions, to help you reach your marketing goals and grow your business quickly. Our full-stack web development expertise and affordable web development services are curated to give you the exposure you need to succeed in today’s digital landscape.</p>
                                     <ul  class="myticks listitem" style="color:black;">
                                         <li>Custom website development</li>
-                                        <li onClick="location.href='/ecommerce-web-development/'" style="cursor:pointer;">Customised Ecommerce Solutions</li>
+                                        <li class="text-primary" onClick="location.href='/ecommerce-web-development/'" style="cursor:pointer;color:#007bff!important;">Customised Ecommerce Solutions</li>
                                         <li>Expert full-stack web development</li>
                                         <li>Affordable web packages and deals</li>
                                         <li>Proven success in growing businesses online</li>
@@ -233,7 +233,7 @@
                                             <span class="h3  font-18">Increase your ROI, and cultivate a loyal audience
                                                 for your site </span>
                                             <p>With expert website designers' help, you can grow your business
-                                                significantly, Our <a href="/web-design-development/web-design-company/" style="color:#000;">custom website design company</a> offers unique sites
+                                                significantly, Our <a href="/web-design-development/web-design-company/" style="color:#007bff;">custom website design company</a> offers unique sites
                                                 that gain your visitors' attention and help you make longer working
                                                 relations with them.</p>
 
