@@ -9,8 +9,6 @@
 # END WordPress
 RewriteEngine on
 Redirect 301 "/index.html" "/"
-Redirect 301 "https://www.websitevalley.co.uk/blog/contact/" "https://www.websitevalley.co.uk/contact/"
-Redirect 301 "https://www.websitevalley.co.uk/blog/how-to-find-the-best-local-website-designers/" "https://www.websitevalley.co.uk/blog/how-to-find-the-best-local-website-designer/"
 
 # Force www: from http://stackoverflow.com/a/4958847/1078583
 RewriteCond %{HTTP_HOST} !^$
