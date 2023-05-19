@@ -494,7 +494,7 @@ At Website Valley, we offer the latest and greatest in iOS mobile app developmen
         <div>
           <figure>
           <!-- <img src="assets/images/call.png" alt="imgae"> -->
-          <a href="tel:+14423191348"><img src="assets/images/call.png" alt="mobile icon"></a>
+          <a href="tel:+442038856237"><img src="assets/images/call.png" alt="mobile icon"></a>
           </figure>
         </div>
       </div>
