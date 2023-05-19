@@ -85,7 +85,7 @@
 
   <div class="slider-wrapper">
     <div class="container">
-      <div class="topformcontainer" style="width: 700px;margin-right: -120px;margin-top:-40px">
+      <div class="topformcontainer" style="width: 700px;margin-top:-40px">
         <div id="slideshow1" class="shownImage">
           <img src="assets/images/loading.svg" data-src="assets/images/2b.png" alt="fire protection partner" class="lazy" style="width: 700px;">
           <img src="assets/images/loading.svg" data-src="assets/images/3b.png" alt="explore the world of age" class="lazy" style="width: 700px;">
