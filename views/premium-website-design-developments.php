@@ -676,7 +676,7 @@ if (isset($_SERVER['HTTPS'])) {
       </div>
     </div>
 </section>  
-<section class="packagesmain">
+<section class="packagesmain d-none">
     <div class="container-custom">
       <div class="row">
         <div class="col-lg-8 offset-lg-2">

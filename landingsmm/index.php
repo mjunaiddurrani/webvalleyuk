@@ -794,7 +794,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
 
 <!-- Packages Section Begin -->
 
-<section class="package-section logo_pacages seo_packages pd-70">
+<section class="package-section logo_pacages seo_packages pd-70 d-none">
   <div class="container">
     <div class="row">
       <div class="col-md-12">

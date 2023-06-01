@@ -60,7 +60,7 @@
 
         <div class="works-wrap">
 
-            <section class="subscribe-fold sec-padding-60">
+            <section class="subscribe-fold sec-padding-60 d-none d-none">
 
                 <div class="container">
                     <div class="col-md-12">
