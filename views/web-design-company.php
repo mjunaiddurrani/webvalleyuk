@@ -729,7 +729,7 @@ Our designers are professional, and with the help of our project managers, your 
 
 
 
-    <section class="sec-padding pricing-sec">
+    <section class="sec-padding pricing-sec d-none ">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
