@@ -1089,7 +1089,7 @@
   </section>
 
 
-  <section class="sec-padding pricing-sec packages-sec-before">
+  <section class="sec-padding pricing-sec packages-sec-before d-none">
     <div class="container">
       <div class="row">
 

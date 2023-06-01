@@ -53,7 +53,7 @@ $api = new Api;
 
 
 
-    <section class="sec-padding pricing-sec packages-sec-before mt-5"
+    <section class="sec-padding pricing-sec packages-sec-before mt-5 d-none"
         style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%);">
         <div class="container my-5">
             <div class="row">

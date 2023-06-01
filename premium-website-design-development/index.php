@@ -510,7 +510,7 @@ button.play.rounded-box.state-playing {
  <div class="portfolioHere">
  <?php include($_SERVER['DOCUMENT_ROOT'].'/includes/portfoliosection.php');?>
  </div>
- <section class="sec-padding pricing-sec packages-sec-before " style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%);">
+ <section class="sec-padding pricing-sec packages-sec-before d-none " style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%);">
   <div class="container my-5">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
