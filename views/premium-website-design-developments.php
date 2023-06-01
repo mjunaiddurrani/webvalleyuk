@@ -284,7 +284,7 @@ if (isset($_SERVER['HTTPS'])) {
         </ul>
       </li>
       <li><a href="/portfolio/">Portfolio</a></li>
-      <li><a href="/packages/">Packages</a></li>
+      <!-- <li><a href="/packages/">Packages</a></li> -->
       <li><a href="/about-us/">About</a></li>
       <li><a href="/contact/">Contact</a></li>
     </ul>
@@ -345,7 +345,7 @@ if (isset($_SERVER['HTTPS'])) {
                 <li><a href="/branding/">Branding</a></li>
 
                 <li><a href="/portfolio/">Portfolio</a></li>
-                <li><a href="/packages/">Packages</a></li>
+                <!-- <li><a href="/packages/">Packages</a></li> -->
                 <li><a href="/about-us/">About</a></li>
                 <li><a href="/contact-us/">Contact</a></li>
               </ul>
@@ -1266,7 +1266,7 @@ if (isset($_SERVER['HTTPS'])) {
           <h3 class="xshide">Company</h3>
           <ul class="linkinglist">
            <li><a href="/portfolio/">Portfolio</a></li>
-      <li><a href="/packages/">Packages</a></li>
+      <!-- <li><a href="/packages/">Packages</a></li> -->
       <li><a href="/about-us/">About</a></li>
       <li><a href="/contact-us/">Contact</a></li>
           </ul>

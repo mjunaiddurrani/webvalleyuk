@@ -389,7 +389,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="/packages/startup-video-package/">View Details</a>
+      <!-- <a href="/packages/startup-video-package/">View Details</a> -->
       <a href="order88b5.html?pack=9" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -430,7 +430,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="/packages/classic-video-package/">View Details</a>
+      <!-- <a href="/packages/classic-video-package/">View Details</a> -->
       <a href="orderf484.html?pack=10" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -471,7 +471,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="/packages/premium-video-package/">View Details</a>
+      <!-- <a href="/packages/premium-video-package/">View Details</a> -->
       <a href="order35dd.html?pack=11" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -511,7 +511,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="/packages/unlimited-animation-package/">View Details</a>
+      <!-- <a href="/packages/unlimited-animation-package/">View Details</a> -->
       <a href="order9842.html?pack=12" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -562,7 +562,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="/packages/professional-3d-vfx-animation/">View Details</a>
+      <!-- <a href="/packages/professional-3d-vfx-animation/">View Details</a> -->
       <a href="order0743.html?pack=13" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -613,7 +613,7 @@
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="/packages/elite-3d-vfx-animation/">View Details</a>
+      <!-- <a href="/packages/elite-3d-vfx-animation/">View Details</a> -->
       <a href="orderdab3.html?pack=14" class="btn-packages">Place Your Order</a>
     </div>
   </div>

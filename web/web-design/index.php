@@ -612,15 +612,15 @@ ul, li {
                                 <li id=menu-item-348
                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-83 current_page_item menu-item-348">
                                     <a href="/web-app-development/" aria-current=page>Web App Development</a></li>
-                                <li id=menu-item-347
+                                <!-- <li id=menu-item-347
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a
-                                        href=/combo-packages/>Combo Packages</a></li>
+                                        href=/combo-packages/>Combo Packages</a></li>  -->
                            
                             </ul>
                         </li>
-                        <li id=menu-item-343
+                        <!-- <li id=menu-item-343
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a
-                                href=/packages/>Packages</a></li>
+                                href=/packages/>Packages</a></li> -->
                         <li id=menu-item-515
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a
                                 href="/portfolio/">Our Work</a></li>
@@ -1122,7 +1122,7 @@ ul, li {
       </div>
     </div></div>
     <div class="price-btnwrap">
-      <a href="../../packages/startup-website-package/">View Details</a> 
+      <!-- <a href="../../packages/startup-website-package/">View Details</a>  -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1176,7 +1176,7 @@ ul, li {
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="../../packages/professional-website-package/">View Details</a>
+      <!-- <a href="../../packages/professional-website-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1236,7 +1236,7 @@ ul, li {
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="../../packages/elite-website-package/">View Details</a>
+      <!-- <a href="../../packages/elite-website-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1300,7 +1300,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/e-commerce-website-package/">View Details</a>
+      <!-- <a href="../../packages/e-commerce-website-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1367,7 +1367,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/silver-website-package/">View Details</a>
+      <!-- <a href="../../packages/silver-website-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1422,7 +1422,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/e-commerce-startup-package/">View Details</a> 
+      <!-- <a href="../../packages/e-commerce-startup-package/">View Details</a>  -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1470,7 +1470,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/e-commerce-professional-package/">View Details</a>
+      <!-- <a href="../../packages/e-commerce-professional-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a> 
     </div>
   </div>
@@ -1543,7 +1543,7 @@ ul, li {
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/e-commerce-elite-package/">View Details</a>
+      <!-- <a href="../../packages/e-commerce-elite-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1623,7 +1623,7 @@ ul, li {
       </div>
     </div></div>
     <div class="price-btnwrap">
-      <a href="../../packages/business-website-package/">View Details</a> 
+      <!-- <a href="../../packages/business-website-package/">View Details</a>  -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1709,7 +1709,7 @@ ul, li {
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="../../packages/automated-Interactive-conferencing-portal/">View Details</a>
+      <!-- <a href="../../packages/automated-Interactive-conferencing-portal/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1835,7 +1835,7 @@ Place purchasing requests.</li>
     </div>
     </div>
       <div class="price-btnwrap">
-      <a href="../../packages/automated-interactive-e-Commerce-website/">View Details</a>
+      <!-- <a href="../../packages/automated-interactive-e-Commerce-website/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1893,7 +1893,7 @@ Place purchasing requests.</li>
     </div>
   </div>
     <div class="price-btnwrap">
-      <a href="../../packages/stationery-package/">View Details</a>
+      <!-- <a href="../../packages/stationery-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -1940,7 +1940,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/infographic-package/">View Details</a> 
+      <!-- <a href="../../packages/infographic-package/">View Details</a>  -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -1987,7 +1987,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/brochure-flyer-package/">View Details</a> 
+      <!-- <a href="../../packages/brochure-flyer-package/">View Details</a>  -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2037,7 +2037,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/startup-video-package/">View Details</a>
+      <!-- <a href="../../packages/startup-video-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -2078,7 +2078,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/classic-video-package/">View Details</a>
+      <!-- <a href="../../packages/classic-video-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2119,7 +2119,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/premium-video-package/">View Details</a>
+      <!-- <a href="../../packages/premium-video-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2159,7 +2159,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/unlimited-animation-package/">View Details</a>
+      <!-- <a href="../../packages/unlimited-animation-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2210,7 +2210,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/professional-3d-vfx-animation/">View Details</a>
+      <!-- <a href="../../packages/professional-3d-vfx-animation/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2261,7 +2261,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/elite-3d-vfx-animation/">View Details</a>
+      <!-- <a href="../../packages/elite-3d-vfx-animation/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
   </div>
@@ -2330,7 +2330,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/seo-booster-package/">View Details</a>
+      <!-- <a href="../../packages/seo-booster-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -2399,7 +2399,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/seo-value-package/">View Details</a>
+      <!-- <a href="../../packages/seo-value-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -2471,7 +2471,7 @@ Place purchasing requests.</li>
     </div>
     </div>
     <div class="price-btnwrap">
-      <a href="../../packages/seo-pro-package/">View Details</a>
+      <!-- <a href="../../packages/seo-pro-package/">View Details</a> -->
       <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount" class="btn-packages">Place Your Order</a>
     </div>
 
@@ -2809,9 +2809,9 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                     <li id=menu-item-454
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454">
                                         <a href="/portfolio/">Our Work</a></li>
-                                    <li id=menu-item-455
+                                    <!-- <li id=menu-item-455
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455">
-                                        <a href=/packages/>Packages</a></li>
+                                        <a href=/packages/>Packages</a></li> -->
                                     <li id=menu-item-453
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453">
                                         <a href=/contact-us/>Contact Us</a></li>
@@ -2829,9 +2829,9 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                                     <li id=menu-item-456
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456">
                                         <a href=/video-animation/>Video Animation</a></li>
-                                    <li id=menu-item-459
+                                    <!-- <li id=menu-item-459
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459">
-                                        <a href=/combo-packages/>Combo Packages</a></li>
+                                        <a href=/combo-packages/>Combo Packages</a></li> -->
                                     <li id=menu-item-457
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457">
                                         <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get a Free Quote</a></li>

@@ -2098,7 +2098,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
 
     </div>
 
-    <div class="col-md-12 text-center">
+    <!-- <div class="col-md-12 text-center">
       <div class="full-learn">
         <a href="packages/">
           <div class="arrow-parent">
@@ -2110,7 +2110,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
           </div>
         </a>
       </div>
-    </div> 
+    </div>  -->
 
   </div>
 </section>
@@ -2632,8 +2632,8 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
         <div class="footer-item">
           <h2>Packages</h2>
           <ul>
-          <li><a href="/packages/">Packages</a></li>
-            <li><a href="/combo-packages/">Combo Packages</a></li>
+          <!-- <li><a href="/packages/">Packages</a></li> -->
+            <!-- <li><a href="/combo-">Combo Packages</a></li> -->
             <li><a href="/portfolio/">Portfolio</a></li>
           </ul>
         </div>

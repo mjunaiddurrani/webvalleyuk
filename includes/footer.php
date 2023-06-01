@@ -19,8 +19,8 @@
                 <div class="col-lg-3">
                     <p class="xsmtpx-30 h3">Quick Links</p>
                     <ul class="linkinglist">
-                        <li><a href="/packages/">Packages</a></li>
-                        <li><a href="/combo-packages/">Combo Packages</a></li>
+                        <!-- <li><a href="/packages/">Packages</a></li>
+                        <li><a href="/combo-packages/">Combo Packages</a></li> -->
                         <li><a href="/portfolio/">Portfolio</a></li>
 
 

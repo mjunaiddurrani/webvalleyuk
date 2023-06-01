@@ -72,8 +72,8 @@
                 </li>
 
 
-                <li><a href="/combo-packages/">Combo Packages</a></li>
-                <li><a href="/packages/">Packages</a></li>
+                <!-- <li><a href="/combo-packages/">Combo Packages</a></li> -->
+                <!-- <li><a href="/packages/">Packages</a></li> -->
                 <li><a href="/portfolio/">Portfolio</a></li>
                 <li><a href="/contact/">Contact</a></li>
             </ul>
@@ -152,8 +152,8 @@
 
 
 
-                                    <li class=""><a href="/combo-packages/">Combo Packages</a></li>
-                                    <li class=""><a href="/packages/">Packages</a></li>
+                                    <!-- <li class=""><a href="/combo-packages/">Combo Packages</a></li> -->
+                                    <!-- <li class=""><a href="/packages/">Packages</a></li> -->
 
                                     <li class=""><a href="/portfolio/">Portfolio</a></li>
                                     <li class=""><a href="/contact/">Contact</a></li>
@@ -456,8 +456,8 @@
                             <h3 class="xsmtpx-30">Quick Links</h3>
                             <ul class="linkinglist">
 
-                                <li><a href="/packages/">Packages</a></li>
-                                <li><a href="/combo-packages/">Combo Packages</a></li>
+                                <!-- <li><a href="/packages/">Packages</a></li> -->
+                                <!-- <li><a href="/combo-packages/">Combo Packages</a></li> -->
                                 <li><a href="/portfolio/">Portfolio</a></li>
 
 
@@ -632,10 +632,7 @@
                                                 <script>
                                                     
                                                 </script>
-                                                <input type="hidden" name="hiddencapcha" value="">
-                                                <input type="hidden" name="ctry" value="">
-                                                <input type="hidden" name="pc" value="">
-                                                <input type="hidden" id="locationURL" name="page" value="https://websitevalley.co.uk/ourpackages/automated-Interactive-conferencing-portal" />
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -681,11 +678,7 @@
                                 <script>
                                     
                                 </script>
-                                <input type="hidden" name="hiddencapcha" value="">
-                                <input type="hidden" name="ctry" value="">
-                                <input type="hidden" name="pc" value="">
-
-                                <input type="hidden" id="location" name="locationURL" value="http://websitevalley.co.uk/ourpackages/automated-Interactive-conferencing-portal" />
+                               
                             </div>
 
 
@@ -907,7 +900,5 @@
         }, 2000);
     </script>
 </body>
-
-<!-- Mirrored from websitevalley.co.uk/ourpackages/automated-Interactive-conferencing-portal by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Jan 2021 17:41:18 GMT -->
 
 </html>

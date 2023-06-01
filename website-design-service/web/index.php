@@ -1168,7 +1168,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/startup-website-package/">View Details</a>
+                    <!-- <a href="../../packages/startup-website-package/">View Details</a> -->
 
                     <div class="row">
                       <div class="col-md-6">
@@ -1244,7 +1244,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/professional-website-package/">View Details</a>
+                    <!-- <a href="../../packages/professional-website-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -1322,7 +1322,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/elite-website-package/">View Details</a>
+                    <!-- <a href="../../packages/elite-website-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -1404,7 +1404,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/e-commerce-website-package/">View Details</a>
+                    <!-- <a href="../../packages/e-commerce-website-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -1489,7 +1489,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/silver-website-package/">View Details</a>
+                    <!-- <a href="../../packages/silver-website-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -1563,7 +1563,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/e-commerce-startup-package/">View Details</a>
+                    <!-- <a href="../../packages/e-commerce-startup-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -1629,7 +1629,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/e-commerce-professional-package/">View Details</a>
+                    <!-- <a href="../../packages/e-commerce-professional-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -1720,7 +1720,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/e-commerce-elite-package/">View Details</a>
+                    <!-- <a href="../../packages/e-commerce-elite-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -1820,7 +1820,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/business-website-package/">View Details</a>
+                    <!-- <a href="../../packages/business-website-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -1924,7 +1924,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/automated-Interactive-conferencing-portal/">View Details</a>
+                    <!-- <a href="../../packages/automated-Interactive-conferencing-portal/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2068,7 +2068,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/automated-interactive-e-Commerce-website/">View Details</a>
+                    <!-- <a href="../../packages/automated-interactive-e-Commerce-website/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2145,7 +2145,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/stationery-package/">View Details</a>
+                    <!-- <a href="../../packages/stationery-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2210,7 +2210,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/infographic-package/">View Details</a>
+                    <!-- <a href="../../packages/infographic-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2275,7 +2275,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/brochure-flyer-package/">View Details</a>
+                    <!-- <a href="../../packages/brochure-flyer-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2344,7 +2344,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/startup-video-package/">View Details</a>
+                    <!-- <a href="../../packages/startup-video-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2403,7 +2403,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/classic-video-package/">View Details</a>
+                    <!-- <a href="../../packages/classic-video-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2462,7 +2462,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/premium-video-package/">View Details</a>
+                    <!-- <a href="../../packages/premium-video-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2520,7 +2520,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/unlimited-animation-package/">View Details</a>
+                    <!-- <a href="../../packages/unlimited-animation-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2589,7 +2589,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/professional-3d-vfx-animation/">View Details</a>
+                    <!-- <a href="../../packages/professional-3d-vfx-animation/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2658,7 +2658,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/elite-3d-vfx-animation/">View Details</a>
+                    <!-- <a href="../../packages/elite-3d-vfx-animation/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2746,7 +2746,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/seo-booster-package/">View Details</a>
+                    <!-- <a href="../../packages/seo-booster-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2833,7 +2833,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/seo-value-package/">View Details</a>
+                    <!-- <a href="../../packages/seo-value-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">
@@ -2923,7 +2923,7 @@
                     </div>
                   </div>
                   <div class="price-btnwrap">
-                    <a href="../../packages/seo-pro-package/">View Details</a>
+                    <!-- <a href="../../packages/seo-pro-package/">View Details</a> -->
                     <div class="row">
 
                       <div class="col-md-12">

@@ -284,8 +284,8 @@
                             <h3 class="xsmtpx-30">Quick Links</h3>
                             <ul class="linkinglist">
 
-                                <li><a href="/packages/">Packages</a></li>
-                                <li><a href="/combo-packages/">Combo Packages</a></li>
+                                <!-- <li><a href="/packages/">Packages</a></li> -->
+                                <!-- <li><a href="/combo-packages/">Combo Packages</a></li> -->
                                 <li><a href="/portfolio/">Portfolio</a></li>
 
 
