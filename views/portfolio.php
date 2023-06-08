@@ -1183,6 +1183,14 @@
     </a>
   </li>
   <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/6b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/6.png" alt="imgae">
+      </figure>
+    </a>
+  </li>
+ 
+  <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/3b.png">
       <figure>
         <img src="assets/images/portfolio/ecom/thumb/3.png" alt="imgae">
@@ -1196,21 +1204,6 @@
       </figure>
     </a>
   </li>
-
-  <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/5b.png">
-      <figure>
-        <img src="assets/images/portfolio/ecom/thumb/5.png" alt="imgae">
-      </figure>
-    </a>
-  </li>
-  <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/6b.png">
-      <figure>
-        <img src="assets/images/portfolio/ecom/thumb/6.png" alt="imgae">
-      </figure>
-    </a>
-  </li>
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/7b.png">
       <figure>
@@ -1219,12 +1212,22 @@
     </a>
   </li>
   <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/8b.png">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/13b.png">
       <figure>
-        <img src="assets/images/portfolio/ecom/thumb/8.png" alt="imgae">
+        <img src="assets/images/portfolio/ecom/thumb/13.png" alt="imgae">
       </figure>
     </a>
   </li>
+  <li class="border-box-effect logoportfo" data-category="transition">
+    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/14b.png">
+      <figure>
+        <img src="assets/images/portfolio/ecom/thumb/14.png" alt="imgae">
+      </figure>
+    </a>
+  </li>
+  
+  
+  
 
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/9b.png">
@@ -1249,28 +1252,14 @@
       </figure>
     </a>
   </li>
-  <li class="border-box-effect logoportfo" data-category="transition">
+  <!-- <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/12b.png">
       <figure>
         <img src="assets/images/portfolio/ecom/thumb/12.png" alt="imgae">
       </figure>
     </a>
-  </li>
-
-  <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/13b.png">
-      <figure>
-        <img src="assets/images/portfolio/ecom/thumb/13.png" alt="imgae">
-      </figure>
-    </a>
-  </li>
-  <li class="border-box-effect logoportfo" data-category="transition">
-    <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/14b.png">
-      <figure>
-        <img src="assets/images/portfolio/ecom/thumb/14.png" alt="imgae">
-      </figure>
-    </a>
-  </li>
+  </li> -->
+  
 
   <li class="border-box-effect logoportfo" data-category="transition">
     <a class="" data-fancybox="port" tabindex="-1"  href="assets/images/portfolio/ecom/15b.png">
