@@ -23,17 +23,17 @@ if($url == addslashes("/web-design-company/") || $url == "/web-design-company"){
     exit();
 }
 
-if($url == addslashes("/blog/contact/") || $url == "/blog/contact"){
-    header("HTTP/1.1 301 Moved Permanently");
-    header("Location: /contact/");
-    exit();
-}
+// if($url == addslashes("/blog/contact/") || $url == "/blog/contact"){
+//     header("HTTP/1.1 301 Moved Permanently");
+//     header("Location: /contact/");
+//     exit();
+// }
 
-if($url == addslashes("/blog/how-to-find-the-best-local-website-designers/") || $url == "/blog/how-to-find-the-best-local-website-designers"){
-    header("HTTP/1.1 301 Moved Permanently");
-    header("Location: /blog/how-to-find-the-best-local-website-designer/");
-    exit();
-}
+// if($url == addslashes("/blog/how-to-find-the-best-local-website-designers/") || $url == "/blog/how-to-find-the-best-local-website-designers"){
+//     header("HTTP/1.1 301 Moved Permanently");
+//     header("Location: /blog/how-to-find-the-best-local-website-designer/");
+//     exit();
+// }
 
 $current_url = explode('?', $url);
 $url = $current_url[0];
