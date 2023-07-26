@@ -4,7 +4,7 @@
 <head>
 
   <title>London-Based Website Agency - Website Valley</title>
-  <meta name="description" content="Website Valley is the best web agency in London, UK. We specialise in building websites, apps, brands, and bespoke digital solutions that get results.">
+  <meta name="description" content="Website Valley is the best Web agency in London, UK. We specialise in building websites, apps, brands, and bespoke digital solutions that get results.">
   <?php include_once('includes/head.php'); ?>
   <!-- seo  -->
   <meta property="og:locale" content="en_GB" />
