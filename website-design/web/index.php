@@ -1141,7 +1141,7 @@ body {background: #eee;}
       <li>YouTube Page Design</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
       <li>Mobile Responsive will be Additional £99*</li>
       <li>CMS will be Additional £149*</li>
     </div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 50px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
@@ -1203,7 +1203,7 @@ body {background: #eee;}
       <li>Complete Deployment</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
       <li>Mobile Responsive will be Additional £99*</li>
     </div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 47px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
     
@@ -1270,7 +1270,7 @@ body {background: #eee;}
         <li>Complete Deployment</li>
         <li>100% Satisfaction Guarantee</li>
         <li>100% Unique Design Guarantee</li>
-        <li>100% Money Back Guarantee *</li>
+        
     </div><div id="mCSB_3_scrollbar_vertical" class="mCSB_scrollTools mCSB_3_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_3_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 30px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
     
     
@@ -1341,7 +1341,7 @@ body {background: #eee;}
         <li>100% Ownership Rights</li>
         <li>100% Satisfaction Guarantee</li>
         <li>100% Unique Design Guarantee</li>
-        <li>100% Money Back Guarantee *</li>
+        
     </div><div id="mCSB_4_scrollbar_vertical" class="mCSB_scrollTools mCSB_4_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_4_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 26px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
     
     
@@ -1414,7 +1414,7 @@ body {background: #eee;}
         <li>100% Ownership Rights</li>
         <li>100% Satisfaction Guarantee</li>
         <li>100% Unique Design Guarantee</li>
-        <li>100% Money Back Guarantee *</li>
+        
     </div><div id="mCSB_5_scrollbar_vertical" class="mCSB_scrollTools mCSB_5_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a><div class="mCSB_draggerContainer"><div id="mCSB_5_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 18px; max-height: 114px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown" style="display: block;"></a></div></div></ul>
     
     
@@ -1476,7 +1476,7 @@ body {background: #eee;}
       <li>Unlimited Revisions</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
     </div><div id="mCSB_6_scrollbar_vertical" class="mCSB_scrollTools mCSB_6_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_6_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
     
     <div class="actions">
@@ -1530,7 +1530,7 @@ body {background: #eee;}
       <li>Unlimited Revisions</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
     </div><div id="mCSB_7_scrollbar_vertical" class="mCSB_scrollTools mCSB_7_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_7_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
     
     <div class="actions">
@@ -1609,7 +1609,7 @@ body {background: #eee;}
       <li>100% Ownership Rights</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
     </div><div id="mCSB_8_scrollbar_vertical" class="mCSB_scrollTools mCSB_8_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_8_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
     
     <div class="actions">
@@ -1696,7 +1696,7 @@ body {background: #eee;}
       <li>100% Ownership Rights</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
     </div><div id="mCSB_9_scrollbar_vertical" class="mCSB_scrollTools mCSB_9_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a><div class="mCSB_draggerContainer"><div id="mCSB_9_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div><a href="#" class="mCSB_buttonDown"></a></div></div></ul>
     
     <div class="actions">
@@ -1758,7 +1758,7 @@ body {background: #eee;}
       <li>Complete Deployment</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>Money Back Guarantee</li>
+      
       <li><strong>Key features</strong></li>
       <li>Automated Course Creation</li>
       <li>Video Conferencing</li>
@@ -1848,7 +1848,7 @@ body {background: #eee;}
         <li>Complete Deployment</li>
         <li>100% Satisfaction Guarantee</li>
         <li>100% Unique Design Guarantee</li>
-        <li>Money Back Guarantee</li>
+        
         <li><strong>Automated Inventory/Shipping/Supplier Module:</strong></li>
         <li>Manage thousands to millions of inventory with ease and check stock levels in real-time. Receive low inventory notifications and generate purchase orders to replenish your stock.</li>
         

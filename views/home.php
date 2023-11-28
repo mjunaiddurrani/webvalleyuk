@@ -171,7 +171,7 @@
                     <img src="assets/images/years-experience.svg" alt="years-experience">
                   </figure>
                   <p class="timer h3 h3Heading">7</p>
-                  <p>Years Experience</p>
+                  <p>Years Of Experience</p>
                 </div>
               </li>
               <li>
@@ -205,8 +205,8 @@
       <div class="row">
         <div class="col-lg-6">
           <div class="txtwrap">
-            <h2>Website Agency London - The All-Inclusive Platform for Your Business</h2>
-            <p>At Website Agency London, we believe that your business deserves nothing but the best when it comes to online presence and branding. That’s why we offer a full-fledged, all-inclusive platform that combines design, development, and branding services. With our professional support and online developers and designers’ team, your business will generate more leads and income in no time.</p>
+            <h2>Website Valley UK - The All-Inclusive Platform for Your Business</h2>
+            <p>At Website Valley UK, we believe that your business deserves nothing but the best when it comes to online presence and branding. That’s why we offer a full-fledged, all-inclusive platform that combines design, development, and branding services. With our professional support and online developers and designers’ team, your business will generate more leads and income in no time.</p>
             <p>As a trusted website agency in London, we cater to every type of industry-specific client and ensure that our services bring effective results. Here are just a few of the many services we offer:</p>
             <ul class="myticks">
               <li class="text-black">Top Ecommerce Solutions</li>
@@ -486,7 +486,7 @@
             <p class="mad textcentre h4 h4Heading">Ownership Rights</p>
           </div>
         </div>
-        <div class="col has-border mob-noborder">
+        <!-- <div class="col has-border mob-noborder">
           <div class="quality">
             <div class="quality-img">
               <img src="assets/images/customer-satisfaction.svg"  alt="customer-satisfaction">
@@ -494,7 +494,7 @@
             <p class="noplus h3 h3Heading">Money-Back</p>
             <p class="mad textcentre h4 h4Heading"> Guarantee</p>
           </div>
-        </div>
+        </div> -->
 
       </div>
 
@@ -863,32 +863,32 @@
 
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
-                      <input type="radio" name="step5" id="500_999" value="$500 - $999">
-                      <label class="labels" for="500_999">$500 - $999</label>
+                      <input type="radio" name="step5" id="500_999" value="£500 - £999">
+                      <label class="labels" for="500_999">£500 - £999</label>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
-                      <input type="radio" name="step5" id="1000_1999" value="$1,000 - $1,999">
-                      <label class="labels" for="1000_1999">$1,000 - $1,999</label>
+                      <input type="radio" name="step5" id="1000_1999" value="£1,000 - £1,999">
+                      <label class="labels" for="1000_1999">£1,000 - £1,999</label>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
-                      <input type="radio" name="step5" id="2000_2999" value="$2,000 - $2,999">
-                      <label class="labels" for="2000_2999">$2,000 - $2,999</label>
+                      <input type="radio" name="step5" id="2000_2999" value="£2,000 - £2,999">
+                      <label class="labels" for="2000_2999">£2,000 - £2,999</label>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
-                      <input type="radio" name="step5" id="3000_4999" value="$3,000 - $4,999">
-                      <label class="labels" for="3000_4999">$3,000 - $4,999</label>
+                      <input type="radio" name="step5" id="3000_4999" value="£3,000 - £4,999">
+                      <label class="labels" for="3000_4999">£3,000 - £4,999</label>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-md-12 d-flex radioText">
-                      <input type="radio" name="step5" id="5000_more" value="$5,000 or more">
-                      <label class="labels" for="5000_more">$5,000 or more</label>
+                      <input type="radio" name="step5" id="5000_more" value="£5,000 or more">
+                      <label class="labels" for="5000_more">£5,000 or more</label>
                     </div>
                   </div>
                 </div>

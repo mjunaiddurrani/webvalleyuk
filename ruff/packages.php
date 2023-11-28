@@ -92,7 +92,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
       <li>YouTube Page Design</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
       <li>Mobile Responsive will be Additional £99*</li>
       <li>CMS will be Additional £149*</li>
     </ul>
@@ -150,7 +150,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
       <li>Complete Deployment</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
       <li>Mobile Responsive will be Additional £99*</li>
     </ul>
     <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
@@ -217,7 +217,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
         <li>Complete Deployment</li>
         <li>100% Satisfaction Guarantee</li>
         <li>100% Unique Design Guarantee</li>
-        <li>100% Money Back Guarantee *</li>
+        
     </ul>
     <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
     
@@ -288,7 +288,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
         <li>100% Ownership Rights</li>
         <li>100% Satisfaction Guarantee</li>
         <li>100% Unique Design Guarantee</li>
-        <li>100% Money Back Guarantee *</li>
+        
     </ul>
     <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
     
@@ -361,7 +361,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
         <li>100% Ownership Rights</li>
         <li>100% Satisfaction Guarantee</li>
         <li>100% Unique Design Guarantee</li>
-        <li>100% Money Back Guarantee *</li>
+        
     </ul>
     <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
     
@@ -447,7 +447,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
       <li>100% Ownership Rights</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
     </ul>
     <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
     <div class="actions">
@@ -509,7 +509,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
       <li>Complete Deployment</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>Money Back Guarantee</li>
+      
       <li><strong>Key features</strong></li>
       <li>Automated Course Creation</li>
       <li>Video Conferencing</li>
@@ -599,7 +599,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
         <li>Complete Deployment</li>
         <li>100% Satisfaction Guarantee</li>
         <li>100% Unique Design Guarantee</li>
-        <li>Money Back Guarantee</li>
+        
         <li><strong>Automated Inventory/Shipping/Supplier Module:</strong></li>
         <li>Manage thousands to millions of inventory with ease and check stock levels in real-time. Receive low inventory notifications and generate purchase orders to replenish your stock.</li>
         
@@ -730,7 +730,7 @@ Place purchasing requests.</li>
       <li>Unlimited Revisions</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
     </ul>
     <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
     <div class="actions">
@@ -784,7 +784,7 @@ Place purchasing requests.</li>
       <li>Unlimited Revisions</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
     </ul>
     <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
     <div class="actions">
@@ -863,7 +863,7 @@ Place purchasing requests.</li>
       <li>100% Ownership Rights</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
     </ul>
     <p class="text-center ad-don">Add on: <span>£50</span> for 24 Hours Rush Delivery</p>
     <div class="actions">
@@ -1664,8 +1664,8 @@ Place purchasing requests.</li>
                 <p class="h3">JV</p>
               </div>
               <div class="usertest">
-                <h4>Websitevalley Rocked!!</h4>
-                <p>I am extremely happy with websitevalley. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
+                <h4>Web site valley Rocked!!</h4>
+                <p>I am extremely happy with web Site Valley. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
                 <h6>— Mike Miller, Project Owner</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -1684,7 +1684,7 @@ Place purchasing requests.</li>
                 <p class="h3">TR</p>
               </div>
               <div class="usertest">
-                <h4>Big Shout-out to the websitevalley Team!!</h4>
+                <h4>Big Shout-out to the web site valley Team!!</h4>
                 <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -1705,7 +1705,7 @@ Place purchasing requests.</li>
               </div>
               <div class="usertest">
                 <h4>We Couldn't Ask for a Better Job!!</h4>
-                <p>I want to thank websitevalley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevalley in the future. </p>
+                <p>I want to thank web site valley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with web site valley in the future. </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -1762,7 +1762,7 @@ Place purchasing requests.</li>
 
 
 
-        <p class="h2 text-center">Our Clients</p>
+        <p class="h2 text-center" style="margin-top:50px;">Our Clients</p>
         <ul class="mycli mslider">
              <li class="first"><img src="assets/images/spo1.jpg" alt="imgae" width="40" height="40"></li>
              <li><img src="assets/images/spo2.png" alt="imgae" width="223" height="40"></li>

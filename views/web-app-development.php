@@ -107,7 +107,7 @@ Maximise your market potential and take your sales to the next level with our we
 
               <div>
                 <ul class="figureslide">
-                  <li><p><span>100%</span> Money-back Guarantee</p></li>
+                  <!-- <li><p><span>100%</span> Money-back Guarantee</p></li> -->
                   <li><p><span>100%</span> Satisfaction Guaranteed</p></li>
                   <li><p><span>100%</span> Custom <br> Design</p></li>
                   <li><p>Unlimited <br> Revisions</p></li>
@@ -237,6 +237,10 @@ Maximise your market potential and take your sales to the next level with our we
               Designing a website can be challenging, but with our web app development experts, it doesn’t have to be. With over 15 years of experience, we’ll help you reach your audience more effectively and conveniently, giving you the tools you require to succeed.
               </p>
             </div>
+            
+          </div>
+          <div class="col-lg-6">
+            <!-- <img src="assets/images/rightSection.jpg" alt="left-section-design" class="img-fluid "> -->
             <div class="contexthere">
               <h6><b>The Perfect Partner </b></h6>
               <p>
@@ -260,10 +264,6 @@ Maximise your market potential and take your sales to the next level with our we
               <p>
               Need guidance on web applications or want some advice? Our free consultants are here to help. A few minutes of conversation with us can relieve your stress and help you make informed decisions. Contact us today to upgrade your business.    </p>
             </div>
-          </div>
-          <div class="col-lg-6">
-            <img src="assets/images/rightSection.jpg" alt="left-section-design" class="img-fluid ">
-
           </div>
         </div>
       </div>

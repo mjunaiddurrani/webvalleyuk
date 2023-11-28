@@ -105,7 +105,8 @@
 
               <div>
                 <ul class="figureslide">
-                  <li><p><span>100%</span> Money-back Guarantee</p></li>
+                  <!-- <li><p><span>100%</span> 
+                   Guarantee</p></li> -->
                   <li><p><span>100%</span> Satisfaction Guaranteed</p></li>
                   <li><p><span>100%</span> Custom <br> Design</p></li>
                   <li><p>Unlimited <br> Revisions</p></li>
@@ -150,7 +151,7 @@
           <p class="text-left">Our team of expert mobile app developers will work closely with you to create a custom app that meets your specific needs and exceeds your expectations. Whether it’s iOS, Android, gaming, or virtual reality, our developers have the skills and experience to make it happen. Don’t wait; hire developers for the app today and see the difference a top-quality mobile app can make for your business!</p>
           <h5>Calculated Steps on Every Stage </h5>
           <p>Our every step is calculated and considerate. Throughout our working experience, we have provided excellent development services that have resulted in the 100% satisfaction of our clients. Here's what our firm in the UK can build for you. For any custom design and Development, please book your consultations for free at our mobile app production agency.</p>
-          <ul class="myticks">
+          <ul class="myticks uui">
             <li class="text-black myTickLiNew text-left"> iOS Mobile Apps  </li>
             <li class="text-black myTickLiNew text-left"> iPhone Application Development </li>
             <li class="text-black myTickLiNew text-left"> Android App Development </li>

@@ -4,7 +4,10 @@
 }
 
 
-
+/* .form-steper{
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+} */
 .modal-content {
     position: relative;
     display: -webkit-box;
@@ -22,7 +25,10 @@
     border-radius: 0.3rem;
     outline: 0;
 }
-
+.sw-theme-default {
+    /* border: 1px solid #eee; */
+    padding-left: 20px !important;
+    padding-right: 20px !important; }
 .modal-header {
     display: -webkit-box;
     display: -ms-flexbox;

@@ -162,9 +162,9 @@
 
                                 <div>
                                     <ul class="figureslide">
-                                        <li>
+                                        <!-- <li>
                                             <p><span>100%</span> Money-back Guarantee</p>
-                                        </li>
+                                        </li> -->
                                         <li>
                                             <p><span>100%</span> Satisfaction Guaranteed</p>
                                         </li>

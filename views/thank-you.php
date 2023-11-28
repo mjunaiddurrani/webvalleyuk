@@ -3,6 +3,7 @@
 <head>
   <?php include_once('includes/styles.php') ?>
   <?php include_once('includes/head.php') ?>
+  <!-- <link rel="stylesheet" href="css/icofont.min.css"> -->
     <title>website valley Thank you page</title>
 
 </head>
@@ -14,6 +15,9 @@
           <div class="col-lg-9">
             <h1 class="text-white mb-4 font-medium" style="position: relative;top: 200px;"><?php if(isset($_REQUEST['thanksMsg'])){ echo $_REQUEST['thanksMsg'];} ?></h1>
             <h1 class="text-white mb-4 font-medium" style="position: relative;top: 200px;"><?php if(isset($_REQUEST['successMsg'])){ echo $_REQUEST['successMsg'];} ?></h1>
+            <div class="gg" style="margin-top: 240px !important;">
+            <a href="javascript:;" onclick="history.back();" class="btn-main modalOpen">Go Back</a>
+            </div>
           </div>
         </div>
       </div>
@@ -21,7 +25,7 @@
 
     
     <?php include_once('includes/footer.php');?>
-    <?php include_once('includes/scripts.php');?>
+    
     
   </body>
 </html>

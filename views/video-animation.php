@@ -121,7 +121,7 @@
 
               <div>
                 <ul class="figureslide">
-                  <li><p><span>100%</span> Money-back Guarantee</p></li>
+                  <!-- <li><p><span>100%</span> Money-back Guarantee</p></li> -->
                   <li><p><span>100%</span> Satisfaction Guaranteed</p></li>
                   <li><p><span>100%</span> Custom <br> Design</p></li>
                   <li><p>Unlimited <br> Revisions</p></li>
@@ -691,8 +691,8 @@
                 <p class="h3">JV</p>
               </div>
               <div class="usertest">
-                <h4>Websitevalley Rocked!!</h4>
-                <p>I am extremely happy with websitevalley. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
+                <h4>Web site valley Rocked!!</h4>
+                <p>I am extremely happy with web Site Valley. They solved a huge source of frustration and do a much better job than website designers that charge thousands of dollars. Please, please you owe it to your business and company to use these guys.</p>
                 <h6>— Mike Miller, Project Owner</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -711,7 +711,7 @@
                 <p class="h3">TR</p>
               </div>
               <div class="usertest">
-                <h4>Big Shout-out to the websitevalley Team!!</h4>
+                <h4>Big Shout-out to the web site valley Team!!</h4>
                 <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -732,7 +732,7 @@
               </div>
               <div class="usertest">
                 <h4>We Couldn't Ask for a Better Job!!</h4>
-                <p>I want to thank websitevalley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevalley in the future. </p>
+                <p>I want to thank web site valley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with web site valley in the future. </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -789,7 +789,7 @@
 
 
 
-        <p class="h2 text-center">Our Clients</p>
+        <p class="h2 text-center" style="margin-top:50px;">Our Clients</p>
         <ul class="mycli mslider">
              <li class="first"><img src="assets/images/spo1.jpg" alt="imgae" width="40" height="40"></li>
              <li><img src="assets/images/spo2.png" alt="imgae" width="223" height="40"></li>
@@ -845,7 +845,7 @@
           <h4 class="mad textcentre">100% Ownership <br> Rights</h4>
         </div>
       </div>
-      <div class="col has-border nobrd " >
+      <!-- <div class="col has-border nobrd " >
         <div class="quality">
         <div class="quality-img">
           <span class="icon-Secure-Money-Back-Guarantee mad">
@@ -854,7 +854,7 @@
         </div>
         <h4 class="mad textcentre">Secure Money Back Guarantee</h4>
         </div>
-      </div>
+      </div> -->
       <div class="col" >
         <div class="quality">
           <div class="quality-img"><span class="icon-Industry-Proven-Professionals mad"></span></div>

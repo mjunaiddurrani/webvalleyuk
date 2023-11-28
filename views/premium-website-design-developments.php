@@ -708,7 +708,7 @@ if (isset($_SERVER['HTTPS'])) {
           <li>48 to 72 hours TAT</li>
           <li>100% Satisfaction Guarantee</li>
           <li>100% Unique Design Guarantee</li>
-          <li>100% Money Back Guarantee *</li>
+          
           <li>Mobile Responsive will be Additional £200*</li>
           <li>CMS will be Additional £250*</li>
         </ul>

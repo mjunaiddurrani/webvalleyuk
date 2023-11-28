@@ -108,7 +108,7 @@
 
               <div>
                 <ul class="figureslide">
-                  <li><p><span>100%</span> Money-back Guarantee</p></li>
+                  <!-- <li><p><span>100%</span> Money-back Guarantee</p></li> -->
                   <li><p><span>100%</span> Satisfaction Guaranteed</p></li>
                   <li><p><span>100%</span> Custom <br> Design</p></li>
                   <li><p>Unlimited <br> Revisions</p></li>
@@ -131,7 +131,7 @@
       <div class="col-lg-6">
         <div class="txtwrap">
           <span class="h2">Best Ecommerce Development Agency For Your Business</span>
-          <p>Bid farewell to your search for ‘’ecommerce website developer near me.’’ You have found us! Our pinnacle approach is to design a seamless shopping experience for your customers. We believe that your website should reflect the same level of convenience as a physical store. Thus, we help you break through convoluted website development, make your site less frustrating, and spike customer loyalty metrics.</p>
+          <p class="mt-3">Bid farewell to your search for ‘’ecommerce website developer near me.’’ You have found us! Our pinnacle approach is to design a seamless shopping experience for your customers. We believe that your website should reflect the same level of convenience as a physical store. Thus, we help you break through convoluted website development, make your site less frustrating, and spike customer loyalty metrics.</p>
      
         </div>
       </div>
@@ -714,7 +714,7 @@ Distinctive Approach for Scalability:
                 <p class="h3 h3Heading">JV</p>
               </div>
               <div class="usertest">
-                <span class="h4">Websitevalley Rocked!!</span>
+                <span class="h4">Web site valley Rocked!!</span>
                 <p>I just wanted to thank Website valley for their web design & development services and for doing phenomenal work for our website. I'm genuinely thankful for having you guys work on a web project. If someone is looking for trustworthy eCommerce Development Services, then you are at the right place. They truly know how to keep their clients satisfied and happy with their services.</p>
                 <h6>— Mike Miller, Project Owner</h6>
                 <div class="ratings">
@@ -734,7 +734,7 @@ Distinctive Approach for Scalability:
                 <p class="h3 h3Heading">TR</p>
               </div>
               <div class="usertest">
-                <span class="h4">Big Shout-out to the websitevalley Team!!</span>
+                <span class="h4">Big Shout-out to the web site valley Team!!</span>
                 <p>Wow! They turned my dream into reality and bring it to live. from Logo creation, Web development they have been Rocking it all through. They have the talented team you can trust.</p>
                 <h6>— Bhooshan Ramchurn, SteamWipe</h6>
                 <div class="ratings">
@@ -755,7 +755,7 @@ Distinctive Approach for Scalability:
               </div>
               <div class="usertest">
                 <span class="h4">We Couldn't Ask for a Better Job!!</span>
-                <p>I want to thank websitevalley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with websitevalley in the future. </p>
+                <p>I want to thank web site valley team for doing such a great job on our Website, it was easy and phenominal. Thankyou very much and looking forward to doing business with web site valley in the future. </p>
                 <h6>— Michael Vanzille, Achievers Day School</h6>
                 <div class="ratings">
                   <span class="icon-star"></span>
@@ -868,7 +868,7 @@ Distinctive Approach for Scalability:
           <p class="mad textcentre h4 font-18">100% Ownership <br> Rights</p>
         </div>
       </div>
-      <div class="col has-border nobrd " >
+      <!-- <div class="col has-border nobrd " >
         <div class="quality">
         <div class="quality-img">
           <span class="icon-Secure-Money-Back-Guarantee mad">
@@ -877,7 +877,7 @@ Distinctive Approach for Scalability:
         </div>
         <p class="mad textcentre font-18 h4">Secure Money Back Guarantee</p>
         </div>
-      </div>
+      </div> -->
       <div class="col" >
         <div class="quality">
           <div class="quality-img"><span class="icon-Industry-Proven-Professionals mad"></span></div>

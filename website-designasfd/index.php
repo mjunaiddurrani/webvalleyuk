@@ -1026,7 +1026,7 @@
                           <li>YouTube Page Design</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>100% Money Back Guarantee *</li>
+                          
                           <li>Mobile Responsive will be Additional £99*</li>
                           <li>CMS will be Additional £149*</li>
                         </div>
@@ -1091,7 +1091,7 @@
                           <li>Complete Deployment</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>100% Money Back Guarantee *</li>
+                          
                           <li>Mobile Responsive will be Additional £99*</li>
                         </div>
                         <div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a>
@@ -1164,7 +1164,7 @@
                           <li>Complete Deployment</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>100% Money Back Guarantee *</li>
+                          
                         </div>
                         <div id="mCSB_3_scrollbar_vertical" class="mCSB_scrollTools mCSB_3_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a>
                           <div class="mCSB_draggerContainer">
@@ -1241,7 +1241,7 @@
                           <li>100% Ownership Rights</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>100% Money Back Guarantee *</li>
+                          
                         </div>
                         <div id="mCSB_4_scrollbar_vertical" class="mCSB_scrollTools mCSB_4_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a>
                           <div class="mCSB_draggerContainer">
@@ -1320,7 +1320,7 @@
                           <li>100% Ownership Rights</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>100% Money Back Guarantee *</li>
+                          
                         </div>
                         <div id="mCSB_5_scrollbar_vertical" class="mCSB_scrollTools mCSB_5_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: block;"><a href="#" class="mCSB_buttonUp" style="display: block;"></a>
                           <div class="mCSB_draggerContainer">
@@ -1389,7 +1389,7 @@
                           <li>Unlimited Revisions</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>100% Money Back Guarantee *</li>
+                          
                         </div>
                         <div id="mCSB_6_scrollbar_vertical" class="mCSB_scrollTools mCSB_6_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a>
                           <div class="mCSB_draggerContainer">
@@ -1449,7 +1449,7 @@
                           <li>Unlimited Revisions</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>100% Money Back Guarantee *</li>
+                          
                         </div>
                         <div id="mCSB_7_scrollbar_vertical" class="mCSB_scrollTools mCSB_7_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a>
                           <div class="mCSB_draggerContainer">
@@ -1534,7 +1534,7 @@
                           <li>100% Ownership Rights</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>100% Money Back Guarantee *</li>
+                          
                         </div>
                         <div id="mCSB_8_scrollbar_vertical" class="mCSB_scrollTools mCSB_8_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a>
                           <div class="mCSB_draggerContainer">
@@ -1628,7 +1628,7 @@
                           <li>100% Ownership Rights</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>100% Money Back Guarantee *</li>
+                          
                         </div>
                         <div id="mCSB_9_scrollbar_vertical" class="mCSB_scrollTools mCSB_9_scrollbar mCS-light-1 mCSB_scrollTools_vertical" style="display: none;"><a href="#" class="mCSB_buttonUp"></a>
                           <div class="mCSB_draggerContainer">
@@ -1697,7 +1697,7 @@
                           <li>Complete Deployment</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>Money Back Guarantee</li>
+                          
                           <li><strong>Key features</strong></li>
                           <li>Automated Course Creation</li>
                           <li>Video Conferencing</li>
@@ -1793,7 +1793,7 @@
                           <li>Complete Deployment</li>
                           <li>100% Satisfaction Guarantee</li>
                           <li>100% Unique Design Guarantee</li>
-                          <li>Money Back Guarantee</li>
+                          
                           <li><strong>Automated Inventory/Shipping/Supplier Module:</strong></li>
                           <li>Manage thousands to millions of inventory with ease and check stock levels in real-time. Receive low inventory notifications and generate purchase orders to replenish your stock.</li>
 

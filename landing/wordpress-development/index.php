@@ -528,7 +528,7 @@
                                             <p>After Sales Support</p>
                                             <p>100% Unique Design Guarantee</p>
                                             <p>100% Ownership Rights</p>
-                                            <p>100% Money Back Guarantee</p>
+                                            
                                         </div>
                                         <div class=product-selectplan> <a
                                                 href="https://logopoppin.com/order-package?Services=Professional%20Website"
@@ -556,7 +556,7 @@
                                             <p>After Sales Support</p>
                                             <p>100% Unique Design Guarantee</p>
                                             <p>100% Ownership Rights</p>
-                                            <p>100% Money Back Guarantee</p>
+                                            
                                         </div>
                                         <div class=product-selectplan> <a
                                                 href="https://logopoppin.com/order-package?Services=Economy%20Website"
@@ -599,7 +599,7 @@
                                             <p>Complete Source files</p>
                                             <p>100% Unique Design Guarantee</p>
                                             <p>100% Ownership Rights</p>
-                                            <p>100% Money Back Guarantee</p>
+                                            
                                         </div>
                                         <div class=product-selectplan> <a
                                                 href="https://logopoppin.com/order-package?Services=Elite%20Website"

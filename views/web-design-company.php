@@ -162,9 +162,9 @@
 
                                 <div>
                                     <ul class="figureslide">
-                                        <li>
+                                        <!-- <li>
                                             <p><span>100%</span> Money-back Guarantee</p>
-                                        </li>
+                                        </li> -->
                                         <li>
                                             <p><span>100%</span> Satisfaction Guaranteed</p>
                                         </li>
@@ -268,7 +268,7 @@
 
     <section class="mprocess pbpx-0  newCreatedSection">
         <div class="container">
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-lg-6 my-auto">
                     <div class="txtwrap">
                         <h2>Put Full-Stop To Your Search For Website Design Company Near Me </h2>
@@ -282,20 +282,20 @@
                     </figure>
 
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 mt-4">
                     <figure class="mfig">
                         <img src="assets/images/start-your-own-website.png" alt="imgae">
                     </figure>
 
                 </div>
-                <div class="col-lg-6 align-self-center">
+                <div class="col-lg-6 align-self-center mt-4">
                     <div class="txtwrap ">
                         <h3 class="text-left h2  font-29">Static Website Design</h3>
                         <p class="text-left">This simplistic yet over-the-top website has interconnected web pages marked with a graphics-based logo. The minimalistic designs, along with captivating text-holding placement, make it an ideal choice for aspiring authors and organisations. </p>
 
                     </div>
                 </div>
-                <div class="col-lg-6 mt-5 my-auto">
+                <div class="col-lg-6 mt-5 my-auto mt-4">
                     <div class="txtwrap">
                         <h3 class="text-left h2  font-29">Dynamic Website Design </h3>
                         <p>A dynamic website involves web programming and database design. A dynamic website comprises information and material that varies depending on elements such as the site's viewer, the time of day, the time zone, or the country's native language.</p>
@@ -310,19 +310,19 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-6 mt-5">
+                <div class="col-lg-6 mt-5 mt-4">
                     <figure class="mfig">
                         <img src="assets/images/custom-website-design.png" alt="imgae">
                     </figure>
 
                 </div>
-                <div class="col-lg-6 mt-5">
+                <div class="col-lg-6 mt-5 mt-4">
                     <figure class="mfig">
                         <img src="assets/images/promote-your-local-business.png" alt="imgae">
                     </figure>
 
                 </div>
-                <div class="col-lg-6 mt-3">
+                <div class="col-lg-6 mt-3 mt-4">
                     <div class="txtwrap ">
                         <h3 class="text-left">Liquid Website Design </h3>
                         <p class="text-left">The sizes of page components in liquid web design are proportionate to the size of the display or browser window. A liquid website grows or shrinks depending on the current viewport width. In order to implement the liquid design, fluid grids are used. Our team of designers is well-equipped with such expertise, ensuring the design is as fluid as required.</p>
@@ -331,7 +331,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6 mt-5 my-auto">
+                <div class="col-lg-6 mt-5 my-auto mt-4">
                     <div class="txtwrap">
                         <h3 class="h2 font-29">Adaptive Website Design </h3>
                         <p>Adaptive design is the creation of a Graphical User Interface (GUI) that adjusts to multiple screen sizes. Designers use it in GUIs such as websites, which must work on devices of various sizes. </p>
@@ -339,19 +339,19 @@
                         <p>Our designers follow modern techniques and use advanced technologies to deliver website designs that are unique. The colour combinations and clarity in font make the website design aesthetically pleasing.</p>
                     </div>
                 </div>
-                <div class="col-lg-6 mt-5">
+                <div class="col-lg-6 mt-5 mt-4">
                     <figure class="mfig">
                         <img src="assets/images/hire-professional-website-designer.png" alt="imgae">
                     </figure>
 
                 </div>
-                <div class="col-lg-6 mt-5">
+                <div class="col-lg-6 mt-5 mt-4">
                     <figure class="mfig">
                         <img src="assets/images/website-made-to-fit.png" alt="imgae">
                     </figure>
 
                 </div>
-                <div class="col-lg-6 mt-3">
+                <div class="col-lg-6 mt-3 mt-4">
                     <div class="txtwrap">
                         <h3 class="text-left h2 font-29">Single Page Website Design </h3>
                         <p class="text-left">A single-page website is simply one that has only one HTML page. There are no other web pages, like Features, About Us, or <a href="/contact/" style="color:#007bff;">Contact Us page.</a> A one-page website works well with images if designed the right way. It boosts the engagement of the users who land on the website as they are mobile-friendly and compact. </p>
@@ -359,26 +359,26 @@
                         <p class="text-left">It is essential that your requirements are clearly defined. This enables the designing team to remain true to your goals while providing you with a design that satisfies your business needs. Here at Website Valley, we ensure none of your demands go unaddressed while adhering to quality standards. </p>
                     </div>
                 </div>
-                <div class="col-lg-6 mt-2">
+                <div class="col-lg-6 mt-2 mt-4">
                     <div class="txtwrap">
                         <h2>Innovating with our Affordable Web Design Winchester </h2>
                         <p>It is difficult to create a distinct brand image online in these modern digital times. Much more is expected of you as a brand. Our web design company in the United Kingdom has the utmost respect for your brand, which is shown in the services we provide. Our rapid design website firm will guarantee that your brand is media-worthy and that your specific business value proposition is highlighted.</p>
                         
                     </div>
                 </div>
-                <div class="col-lg-6 mt-5">
+                <div class="col-lg-6 mt-5 mt-4">
                     <figure class="mfig">
                         <img src="assets/images/affordable-website-design-package.png" alt="imgae">
                     </figure>
 
                 </div>
-                <div class="col-lg-6 mt-2">
+                <div class="col-lg-6 mt-2 mt-4">
                     <figure class="mfig">
                         <img src="assets/images/approchable-and-acessible.png" alt="imgae">
                     </figure>
 
                 </div>
-                <div class="col-lg-6 mt-5">
+                <div class="col-lg-6 mt-5 mt-4">
                     <div class="txtwrap">
                         <h3 class="text-left h2 font-29">Are You Thinking to Search for a “Best Web Design Company?</h3>
                         <p class="text-left">We are here to help you out with everything possible if you are searching for the “best web design near me.” We take a step-by-step approach to fully comprehending your company's objectives and delivering a swift and intuitive encounter for your website that inspires people to trust your brand. 
@@ -411,7 +411,7 @@ Our designers are professional, and with the help of our project managers, your 
                     </figure>
 
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 mt-4">
                     <div class="txtwrap">
                         <span class="text-left h2 font-29">Let’s Hop On a Quick Call. </span>
                         <p class="text-left">Sometimes it’s the little things that can make a big difference. If you feel that having an updated and modern design won’t make a difference. You’re keeping yourself and your business from progressing on untapped grounds losing out on the potential of maximizing your business’ profitability. <br><br>

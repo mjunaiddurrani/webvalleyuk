@@ -132,9 +132,9 @@
                                             <li>
                                                 <h6>100% Unique Design Guarantee</h6>
                                             </li>
-                                            <li>
+                                            <!-- <li>
                                                 <h6>100% Money Back Guarantee *</h6>
-                                            </li>
+                                            </li> -->
                                             <li>
                                                 <h6>Mobile Responsive will be Additional £99*</h6>
                                             </li>

@@ -1006,7 +1006,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                       <li>YouTube Page Design</li>
                       <li>100% Satisfaction Guarantee</li>
                       <li>100% Unique Design Guarantee</li>
-                      <li>100% Money Back Guarantee *</li>
+                      
                       <li>Mobile Responsive will be Additional £99*</li>
                       <li>CMS will be Additional £149*</li>
                 </ul>
@@ -1052,7 +1052,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                   <li>Complete Deployment</li>
                   <li>100% Satisfaction Guarantee</li>
                   <li>100% Unique Design Guarantee</li>
-                  <li>100% Money Back Guarantee *</li>
+                  
                   <li>Mobile Responsive will be Additional £99*</li>
                 </ul>
               </div>
@@ -1106,7 +1106,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                     <li>Complete Deployment</li>
                     <li>100% Satisfaction Guarantee</li>
                     <li>100% Unique Design Guarantee</li>
-                    <li>100% Money Back Guarantee *</li>
+                    
                 </ul>
               </div>
               <span class="text-center features_text">More FEATURES</span>
@@ -1163,7 +1163,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                     <li>100% Ownership Rights</li>
                     <li>100% Satisfaction Guarantee</li>
                     <li>100% Unique Design Guarantee</li>
-                    <li>100% Money Back Guarantee *</li>
+                    
                 </ul>
               </div>
               <span class="text-center features_text">More FEATURES</span>
@@ -1224,7 +1224,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                     <li>100% Ownership Rights</li>
                     <li>100% Satisfaction Guarantee</li>
                     <li>100% Unique Design Guarantee</li>
-                    <li>100% Money Back Guarantee *</li>
+                    
                 </ul>
               </div>
               <span class="text-center features_text">More FEATURES</span>
@@ -1268,7 +1268,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                   <li>48 to 72 hours TAT</li>
                   <li>100% Unique Design Guarantee</li>
                   <li>100% Satisfaction Guarantee</li>
-                  <li>100% Money Back Guarantee *</li>
+                  
                   <li>100% Ownership Rights</li>
                 </ul>
               </div>
@@ -1310,7 +1310,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                   <li>All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)</li>
                   <li>100% Satisfaction Guarantee</li>
                   <li>100% Unique Design Guarantee</li>
-                  <li>100% Money Back Guarantee *</li>
+                  
                   <li>100% Ownership Rights</li>
                 </ul>
               </div>
@@ -1352,7 +1352,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                   <li>100% Ownership Rights</li>
                   <li>100% Satisfaction Guarantee</li>
                   <li>100% Unique Design Guarantee</li>
-                  <li>100% Money Back Guarantee *</li>
+                  
                   <li>15% Discount on your next order</li>
                 </ul>
               </div>
@@ -1585,7 +1585,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                   <li>Print Ready Formats</li>
                   <li>UNLIMITED Revisions</li>
                   <li>100% Satisfaction Guarantee</li>
-                  <li>100% Money Back Guarantee *</li>
+                  
                 </ul>
               </div>
               <span class="text-center features_text">More FEATURES</span>
@@ -1621,7 +1621,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                   <li>Flyer Design</li>
                   <li>Brochure Design (Bi-fold/Tri-fold)</li>
                   <li>100% Satisfaction Guarantee</li>
-                  <li>100% Money Back Guarantee *</li>
+                  
                 </ul>
               </div>
               <span class="text-center features_text">More FEATURES</span>
@@ -1657,7 +1657,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
                   <li>UNLIMITED Revisions</li>
                   <li>T-Shirt Design</li>
                   <li>100% Satisfaction Guarantee</li>
-                  <li>100% Money Back Guarantee *</li>
+                  
                 </ul>
               </div>
               <span class="text-center features_text">More FEATURES</span>
@@ -1703,7 +1703,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
       <li>Unlimited Revisions</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
                 </ul>
               </div>
               <span class="text-center features_text">More FEATURES</span>
@@ -1747,7 +1747,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
       <li>Unlimited Revisions</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
                 </ul>
               </div>
               <span class="text-center features_text">More FEATURES</span>
@@ -1816,7 +1816,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
       <li>100% Ownership Rights</li>
       <li>100% Satisfaction Guarantee</li>
       <li>100% Unique Design Guarantee</li>
-      <li>100% Money Back Guarantee *</li>
+      
                 </ul>
               </div>
               <span class="text-center features_text">More FEATURES</span>

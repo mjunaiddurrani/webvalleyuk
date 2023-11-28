@@ -58,11 +58,11 @@
 
 <p>We provide revision depending upon the package you selected. Customers can ask us for unlimited free revisions and we will revise their design without any additional charges provided that the design and concept remains the same. Revision Turnaround Time would be 48 hours.</p>
 
-<p><strong>Refund Policy / Money Back Guarantee</strong></p>
+<p><strong>Refund Policy</strong></p>
 <p>Please be advised that 30% administration charges will be applicable on all orders cancelled within 24 hours IF they are not initiated. Furthermore, the refund policy will be void in case there's a change of mind.</p>
 <p>In any event, any deposited funds for a project shall not be subject to refund after delivery if the initial design concepts are approved, or a change is requested unless websitevalley cancels or terminates your Contract for a reason other than your breach or non-performance. </p>
 
-<ul>
+<ul class="ccmama">
         <p> <strong>All refund requests will be fulfilled as per the following arrangement:</strong></p>
         
          <li>  You make a request when the initial concepts for a logo are offered. However once you approve or request changes in the initial designs, the refund offer becomes void and refund request will not be entertained.</li>
@@ -80,14 +80,14 @@
 </li>
          <li>  For example, if you order logo and web design service and approve the logo, you can claim refund for the website service at the time of initial design only. </li>
          <li>  A refund request will need to have a valid reason which must be qualified against the design brief and customer feedback for revisions. Unless a concept has not been designed according to the brief, a refund will not be given however further revisions will be provided until complete satisfaction</li>
-         <li>  Money back guarantee is based on that the order is placed in good faith. Where a customer has placed design orders with more than one design agency for the same job with the intention to claim refund, we do not consider it a good faith. In such a case we reserve the right to decline a refund request. </li>
+         <!-- <li>  Money back guarantee is based on that the order is placed in good faith. Where a customer has placed design orders with more than one design agency for the same job with the intention to claim refund, we do not consider it a good faith. In such a case we reserve the right to decline a refund request. </li> -->
          <li>  All design jobs require customer feedback before finalizing the design therefore it is only fair that the customer gets involved and provides feedback in order to get the desired results. </li>
          <li>  100% unique design guarantee entitles you to a re-draw if our designed logo is to be found considerably similar to another logo design that may already exist. Any resemblance to an existing design will be merely a coincidence and Website Valleywill not accept any responsibility or claim of any compensation in such a case. It is the client's responsibility to get their art work copyrighted.</li>
         <li> If a client is inactive for more then 01 Month then the refund is voided.</li>
         </ul> 
-<p><strong>How to claim your refund</strong></p>
+<!-- <p><strong>How to claim your refund</strong></p> -->
          <p><strong>To assure your refund request is approved, please make sure you meet the following requirements</strong><p>
-         <ul>
+         <ul class="ccmama">
           <li>  Claim your refund specifying your concern by contacting us via any of the following three modes:
             <ul>
              <li>  Toll free # +442038856237</li>
@@ -126,6 +126,11 @@ is strictly at your own risk.</p>
       </div></div>
 
 </section>
+<style>
+  .ccmama li{
+    color:#000;
+  }
+</style>
 <?php include_once('includes/footer.php');?>
 <?php include_once('includes/scripts.php');?>
 

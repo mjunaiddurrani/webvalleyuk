@@ -713,7 +713,7 @@
                 <p class="h3">JV</p>
               </div>
               <div class="usertest">
-                <p class="h4">Websitevalley Rocked!!</p>
+                <p class="h4">Web site valley Rocked!!</p>
                 <p>The brand design experts at Website Valley truly exceeded my expectations. They helped me create a cohesive brand identity that truly represents my business, from the logo design to the custom stationery design. Their attention to detail and commitment to delivering the best experience for my consumers is unparalleled. Thank you, Website Valley!</p>
                 <h6>– Ella Ben</h6>
                 <div class="ratings">
@@ -733,7 +733,7 @@
                 <p class="h3">TR</p>
               </div>
               <div class="usertest">
-                <p class="h4">Big Shout-out to the websitevalley Team!!</p>
+                <p class="h4">Big Shout-out to the web site valley Team!!</p>
                 <p>I recently underwent a re-branding process with Website Valley, and I couldn’t be happier with the results. The team was professional, responsive, and really listened to my needs. They provided expert guidance and support throughout the entire process, and I couldn’t be happier with the outcome. I would highly recommend their business branding services to anyone looking to take their brand to the next level.</p>
                 <h6>–Sam Daniels</h6>
                 <div class="ratings">
