@@ -23,7 +23,7 @@
                         <div class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-none d-md-block">
                             <div class="ttff">
                                 <ul>
-                                <li class=" logoportfo border-box-effect" data-category="transition">
+                                    <li class=" webdeign border-box-effect" data-category="transition">
                                         <a class="" data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/1.jpg">
                                             <figure>
@@ -32,57 +32,57 @@
                                             </figure>
                                         </a>
                                     </li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
-                                            href="assets/images/portfolio/web/ui/1.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/1.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition">
+                                        <a data-fancybox="port" tabindex="-1" href="assets/images/portfolio/web/ui/1.jpg">
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/1.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a class="" data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/2.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/2.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/2.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/3.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/3.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/3.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/4.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/4.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/4.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
 
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/5.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/5.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/5.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/6.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/6.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/6.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/7.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/7.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/7.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/8.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/8.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/8.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
 
-                                      <!-- <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <!-- <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                               href="assets/images/portfolio/web/ui/9.jpg">
                                               <figure><img
                                                   src="assets/images/loading.svg" class="nolazy"
@@ -92,61 +92,61 @@
                             </div>
                             <div class="ttff">
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/10.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/10.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/10.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/11.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/11.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/11.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/12.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/12.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/12.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
 
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/13.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/13.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/13.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/14.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/14.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/14.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/15.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/15.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/15.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/16.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/16.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/16.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/17.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/17.jpg"
-                                                alt="thumbnail"></figure></a></li>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/17.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/18.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/18.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/18.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                         </div>
@@ -154,184 +154,184 @@
                             dir="rtl">
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/1.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/1.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/1.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/2.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/2.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/2.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/3.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/3.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/3.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/4.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/4.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/4.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/5.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/5.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/5.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/6.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/6.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/6.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/7.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/7.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/7.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/8.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/8.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/8.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/9.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/9.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/9.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-block d-md-none ttff">
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/10.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/10.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/10.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/11.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/11.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/11.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/12.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/12.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/12.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/13.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/13.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/13.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/14.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/14.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/14.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/15.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/15.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/15.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/16.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/16.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/16.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/17.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/17.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/17.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                             <div>
                                 <ul>
-                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
+                                    <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox="port" tabindex="-1"
                                             href="assets/images/portfolio/web/ui/18.jpg">
-                                            <figure><img
-                                                src="assets/images/loading.svg" class="nolazy"
-                                                data-src="assets/images/portfolio/web/thumbnail/18.jpg"
-                                                alt="thumbnail"></figure></a></li>
+                                            <figure><img src="assets/images/loading.svg" class="nolazy"
+                                                    data-src="assets/images/portfolio/web/thumbnail/18.jpg"
+                                                    alt="thumbnail"></figure>
+                                        </a></li>
                                 </ul>
                             </div>
                         </div>
