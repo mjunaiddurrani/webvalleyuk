@@ -21,7 +21,7 @@
 
                     <div id="webdd" class="tab-pane active">
                         <div class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-none d-md-block">
-                            <div>
+                            <div class="ttff">
                                 <ul>
                                 <li class=" logoportfo border-box-effect" data-category="transition">
                                         <a class="" data-fancybox="port" tabindex="-1"
@@ -90,7 +90,7 @@
                                                   alt="thumbnail"></figure></a></li> -->
                                 </ul>
                             </div>
-                            <div>
+                            <div class="ttff">
                                 <ul>
                                     <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox
                                             href="assets/images/portfolio/web/ui/10.jpg">
@@ -150,7 +150,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="portfoliolist web-design-portfolio-slider2 grid loadmoreweb d-block d-md-none"
+                        <div class="portfoliolist web-design-portfolio-slider2 grid loadmoreweb d-block d-md-none ttff"
                             dir="rtl">
                             <div>
                                 <ul>
@@ -243,7 +243,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-block d-md-none">
+                        <div class="portfoliolist web-design-portfolio-slider grid loadmoreweb d-block d-md-none ttff">
                             <div>
                                 <ul>
                                     <li class=" webdeign border-box-effect" data-category="transition"><a data-fancybox

@@ -9902,7 +9902,8 @@ div.bub-btn {
     }
 
     body .dptestimonials .testwrap .testbox .usertest {
-        width: 100%
+        width: 100%;
+        margin:0;
     }
 
     body .dptestimonials .testwrap .testbox .usertest .h4 {

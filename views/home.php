@@ -365,7 +365,7 @@
       <div class="row">
 
         <div class="col-lg-12">
-          <ul class="testwrap sldrtstmnl">
+          <ul class="testwrap sldrtstmnl ttff">
             <li>
               <div class="testbox">
                 <img src="assets/images/loading.svg" data-src="assets/images/testimonials-icons/sarah-ramirez.png"  alt="sarah-ramirez" class="rounded-circle lazy">
