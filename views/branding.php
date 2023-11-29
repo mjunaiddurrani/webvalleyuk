@@ -48,7 +48,7 @@
 
 <div class="slider-wrapper">
   <section class="banslidee">
-    <div class="item">
+    <!-- <div class="item">
       <div class="home-banner d-flex" style="background-image:url(assets/images/banners/branding-01.png)">
         <div class="container align-self-center">
           <div class="row">
@@ -64,7 +64,7 @@
                   <li>Brand strategy development to set you apart </li>
                   <li>Keep business soul alive in your brand image and design</li>
                   <li>Maximise your marketing efforts with a distinct brand identity</li>
-                  <!-- <li>Marketing Materials Development</li> -->
+                  <li>Marketing Materials Development</li>
                 </ul>
                 <a href="" data-toggle="modal" data-target="#modalForDiscount" class="btn-theme" >Get a Design Now </a>
               </div>
@@ -72,7 +72,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="item">
       <div class="home-banner d-flex" style="background-image:url(assets/images/banners/branding-02.png)">
         <div class="container align-self-center">

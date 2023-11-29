@@ -9945,7 +9945,7 @@ div.bub-btn {
     }
 
     .floatbutton {
-        display: none
+        display: none !important;
     }
 
     .topformcontainer {
@@ -13809,7 +13809,7 @@ p.parafloat span {
     body .dptestimonials,
     body .filterportfolio,
     body section.qualities {
-        padding: 30px 0
+        padding: 30px 0 !important; 
     }
 
     .mtpx-100 {
@@ -14117,13 +14117,15 @@ p.parafloat span {
     }
 
     .ecomm .home-banner-content h1 {
-        font-size: 30px
+        font-size: 31px
     }
 
     .mprocess {
         padding: 30px 0
     }
-
+    .mprocess .mfig img {
+        margin-left: -30px;
+    }
     .mprocess .txtwrap h2 {
         font-size: 24px
     }
@@ -14137,9 +14139,10 @@ p.parafloat span {
     }
 
     .innerpages .home-banner {
-        height: 490px
+        height: 660px !important
     }
-
+    .myticks li {
+        font-size: 13px;}
     .mtpx-100 {
         margin-top: 30px !important
     }
@@ -14199,7 +14202,7 @@ p.parafloat span {
     }
 }
 
-@media only screen and (max-width:375px) {
+@media only screen and (max-width:390px) {
     .hompg .home-banner-content {
         padding-top: 30px
     }
@@ -14274,7 +14277,7 @@ p.parafloat span {
     }
 
     .home-banner {
-        height: 570px
+        height: 570px !important;
     }
 
     .brndgpge .home-banner {

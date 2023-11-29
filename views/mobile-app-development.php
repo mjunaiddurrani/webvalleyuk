@@ -259,7 +259,7 @@
 </div>
 <div class="col-lg-6 mt-5">
 <div class="txtwrap ">
-<h3 class="text-right">iOS Application Development </h3>
+<h3 class="">iOS Application Development </h3>
 <p class="text-right">
 At Website Valley, we offer the latest and greatest in iOS mobile app development services. As the iPhone continues to evolve, so does our approach to iPhone application development. Our team stays up-to-date with the latest technology to provide top-notch iOS app development for iPhones, iPads, and Apple watches. Hire the best app developers for hire to bring your vision to life.
 </p>
@@ -289,7 +289,7 @@ At Website Valley, we offer the latest and greatest in iOS mobile app developmen
 </div>
 <div class="col-lg-6 mt-5">
 <div class="txtwrap ">
-<h3 class="text-right">Business App Solutions</h3>
+<h3 class="">Business App Solutions</h3>
 <p class="text-right">No matter the size of your enterprise, our collaborative mobile app development team is here to bring your business within reach. We’ll tackle all internal and external problems related to the application development, ensuring the success of your project. Trust in our application development services for the best results.</p>
 
 </div>
