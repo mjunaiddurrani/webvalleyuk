@@ -762,10 +762,10 @@ $(function(){
 
 
 $(document).ready(function(){
-    $(".clickbutton").click(function(){
-        $('.floatbutton').toggleClass("active");
-        $('.crossplus').toggleClass("rotate");
-    });
+    // $(".clickbutton").click(function(){
+    //     $('.floatbutton').toggleClass("active");
+    //     $('.crossplus').toggleClass("rotate");
+    // });
 
     $(".topformswitch").click(function(){
         $('.topformwrap').toggleClass("active");

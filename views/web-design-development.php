@@ -187,23 +187,23 @@
             </div>
         </div>
     </div>
-    <div class="container text-center">
-        <div class="row">
-            <div class="col-lg-12">
-                <!-- <video width="1000" height="500" autoplay controls class="mt-4">
-                    <source id="web-video"
-                        src="https://download-video.akamaized.net/2/playback/7c566abe-7d0e-46a1-b32d-9b89a978f66d/7c4f5292-40f2e481?__token__=st=1666707877~exp=1666722277~acl=%2F2%2Fplayback%2F7c566abe-7d0e-46a1-b32d-9b89a978f66d%2F7c4f5292-40f2e481%2A~hmac=5d8272e0934563d8a1ca2dad4a34e523f61424a6baba90fab12dabca4a445b6e&r=dXMtZWFzdDE%3D"
-                        type="video/mp4">
-                </video> -->
-                <div style="padding:75% 0 0 0;position:relative;"><iframe
-                        src="https://player.vimeo.com/video/775131573?h=8351d2d97d&amp;badge=0&amp;autoplay=1&amp;muted=1 &amp;player_id=0&amp;app_id=58479"
-                        frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
-                        style="position:absolute;top:0;left:0;width:100%;height:100%;"
-                        title="Custom Web Design Company Services.mp4"></iframe></div>
-                <script src="https://player.vimeo.com/api/player.js"></script>
+        <!-- <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-12">
+                    <video width="1000" height="500" autoplay controls class="mt-4">
+                        <source id="web-video"
+                            src="https://download-video.akamaized.net/2/playback/7c566abe-7d0e-46a1-b32d-9b89a978f66d/7c4f5292-40f2e481?__token__=st=1666707877~exp=1666722277~acl=%2F2%2Fplayback%2F7c566abe-7d0e-46a1-b32d-9b89a978f66d%2F7c4f5292-40f2e481%2A~hmac=5d8272e0934563d8a1ca2dad4a34e523f61424a6baba90fab12dabca4a445b6e&r=dXMtZWFzdDE%3D"
+                            type="video/mp4">
+                    </video>
+                    <div style="padding:75% 0 0 0;position:relative;"><iframe
+                            src="https://player.vimeo.com/video/775131573?h=8351d2d97d&amp;badge=0&amp;autoplay=1&amp;muted=1 &amp;player_id=0&amp;app_id=58479"
+                            frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
+                            style="position:absolute;top:0;left:0;width:100%;height:100%;"
+                            title="Custom Web Design Company Services.mp4"></iframe></div>
+                    <script src="https://player.vimeo.com/api/player.js"></script>
+                </div>
             </div>
-        </div>
-    </div>
+        </div> -->
 
 
 

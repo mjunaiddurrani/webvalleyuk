@@ -223,9 +223,6 @@ is strictly at your own risk.
                                     <div class="fldset">
                                         <input name="submit" type="submit" />
 
-                                        <script>
-
-                                        </script>
                                         <input type="hidden" name="hiddencapcha" value="">
                                         <input type="hidden" name="ctry" value="">
                                         <input type="hidden" name="pc" value="">
