@@ -15711,7 +15711,14 @@ h4.panel-title {
 
 .fa-facebook-f {
     color: #fff;
-    transition: .5s ease-in-out
+    transition: .5s ease-in-out;
+    font-family: FontAwesome;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
 }
 
 .fa-facebook-f:hover {
@@ -15733,7 +15740,14 @@ h4.panel-title {
 
 .fa-instagram {
     color: #fff;
-    transition: .5s ease-in-out
+    transition: .5s ease-in-out;
+    font-family: FontAwesome;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
 }
 
 .fa-instagram:hover {
@@ -15741,3 +15755,4 @@ h4.panel-title {
     transition: .5s ease-in-out;
     color: #ff4d4d
 }
+
