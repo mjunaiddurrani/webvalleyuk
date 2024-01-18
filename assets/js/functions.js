@@ -702,28 +702,28 @@ var oldString2=$('.selected-flag').attr('title').toUpperCase();
 
 
 // validate contact form on keyup and submit
-    $("#banform").validate({
-      rules: {
-        username: {
-          required: true,
-          minlength: 2
-        },
-        email: {
-          required: true,
-          email: true
-        },
-        agree: "required"
-      },
-      messages: {
-        username: {
-          required: "Please enter a username",
-          minlength: "Your username must consist of at least 2 characters"
-        },
-        email: "Please enter a valid email address"
-      }
-    });
+    // $("#banform").validate({
+    //   rules: {
+    //     username: {
+    //       required: true,
+    //       minlength: 2
+    //     },
+    //     email: {
+    //       required: true,
+    //       email: true
+    //     },
+    //     agree: "required"
+    //   },
+    //   messages: {
+    //     username: {
+    //       required: "Please enter a username",
+    //       minlength: "Your username must consist of at least 2 characters"
+    //     },
+    //     email: "Please enter a valid email address"
+    //   }
+    // });
 
-    $("#contactForm").validate();
+    // $("#contactForm").validate();
 
 
 

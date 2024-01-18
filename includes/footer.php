@@ -177,7 +177,7 @@ is strictly at your own risk.
         <div class="crossplus"><i class="fa fa-envelope"></i></div>
     </div>
     <div class="banner-form">
-        <span class="font-20">Chat With Us to <br>Avail 50% Discount</span>
+        <span class="font-20">Chat With Us to Avail 50% Discount</span>
         <div class="banform">
             <div class="container">
                 <div class="row">
@@ -189,7 +189,7 @@ is strictly at your own risk.
                             <input type="hidden" name="tag" value="modal-auto">
                             <input type="hidden" name="price" value="null">
                             <input type="hidden" name="news" value="1">
-                            <input type="text" class="jun" name="gender">
+                            
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="fldset">
@@ -209,6 +209,7 @@ is strictly at your own risk.
                                     <div class="fldset">
                                         <input name="phone" class="phone" type="number" placeholder="Phone Number"
                                             required />
+                                            <i class="fa fa-phone" aria-hidden="true"></i>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">

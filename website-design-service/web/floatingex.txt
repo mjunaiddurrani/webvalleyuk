@@ -3204,7 +3204,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
     <div class="floatbutton visible">
     <div class="clickbutton"><div class="crossplus"><i class="fa fa-envelope"></i></div></div>
       <div class="banner-form">
-        <h3>Chat With Us to <br>Avail 50% Discount</h3>
+        <h3>Chat With Us to Avail 50% Discount</h3>
         <div class="banform">
           <div class="container">
             <div class="row">

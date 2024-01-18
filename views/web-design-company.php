@@ -138,7 +138,7 @@
                                     <ul class="countslide">
                                         <li>
                                             <p class="h4"><span class="timer">1300</span>+</p>
-                                            <p>Web Design</p>
+                                            <p>Web <br> Design</p>
                                         </li>
                                         <li>
                                             <p class="h4"><span class="timer">780</span>+</p>
@@ -160,25 +160,7 @@
                                     </ul>
                                 </div>
 
-                                <div>
-                                    <ul class="figureslide">
-                                        <!-- <li>
-                                            <p><span>100%</span> Money-back Guarantee</p>
-                                        </li> -->
-                                        <li>
-                                            <p><span>100%</span> Satisfaction Guaranteed</p>
-                                        </li>
-                                        <li>
-                                            <p><span>100%</span> Custom <br> Design</p>
-                                        </li>
-                                        <li>
-                                            <p>Unlimited <br> Revisions</p>
-                                        </li>
-                                        <li class="nbr">
-                                            <p><span>24 / 7 </span> Customer Support</p>
-                                        </li>
-                                    </ul>
-                                </div>
+                                
 
                             </div>
                         </div>

@@ -1900,8 +1900,8 @@
                                     <p class="h3">JV</p>
                                 </div>
                                 <div class="usertest">
-                                    <h4>Web site valley Rocked!!</h4>
-                                    <p>I am extremely happy with web Site Valley. They solved a huge source of frustration
+                                    <h4>Website Valley Rocked!!</h4>
+                                    <p>I am extremely happy with website Valley. They solved a huge source of frustration
                                         and do a much better job than website designers that charge thousands of
                                         dollars. Please, please you owe it to your business and company to use these
                                         guys.</p>
@@ -1923,7 +1923,7 @@
                                     <p class="h3">TR</p>
                                 </div>
                                 <div class="usertest">
-                                    <h4>Big Shout-out to the web site valley Team!!</h4>
+                                    <h4>Big Shout-out to the Website Valley Team!!</h4>
                                     <p>Wow! They turned my dream into reality and bring it to live. from Logo creation,
                                         Web development they have been Rocking it all through. They have the talented
                                         team you can trust.</p>
@@ -1946,9 +1946,9 @@
                                 </div>
                                 <div class="usertest">
                                     <h4>We Couldn't Ask for a Better Job!!</h4>
-                                    <p>I want to thank web site valley team for doing such a great job on our Website, it
+                                    <p>I want to thank Website Valley team for doing such a great job on our Website, it
                                         was easy and phenominal. Thankyou very much and looking forward to doing
-                                        business with web site valley in the future. </p>
+                                        business with Website Valley in the future. </p>
                                     <h6>— Michael Vanzille, Achievers Day School</h6>
                                     <div class="ratings">
                                         <span class="icon-star"></span>

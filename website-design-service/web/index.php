@@ -702,7 +702,7 @@
                         <input type="hidden" name="tag" value="modal-auto">
                         <input type="hidden" name="price" value="null">
                         <input type="hidden" name="news" value="1">
-                        <input type="text" class="jun" name="gender">
+                        
                       </div>
                       <div class="col-md-6 ">
                         <textarea name="brief" requried class="form-control" style="" placeholder="Write your project description"></textarea>
@@ -3438,7 +3438,7 @@ s144.8-64.8,144.8-144.8" />
       <div class="crossplus"><i class="fa fa-envelope"></i></div>
     </div>
     <div class="banner-form">
-      <h3>Chat With Us to <br>Avail 50% Discount</h3>
+      <h3>Chat With Us to Avail 50% Discount</h3>
       <div class="banform">
         <div class="container">
           <div class="row">
@@ -3450,7 +3450,7 @@ s144.8-64.8,144.8-144.8" />
                 <input type="hidden" name="tag" value="modal-auto">
                 <input type="hidden" name="price" value="null">
                 <input type="hidden" name="news" value="1">
-                <input type="text" class="jun" name="gender">
+                
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="fldset">

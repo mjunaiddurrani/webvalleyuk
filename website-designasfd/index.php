@@ -599,7 +599,7 @@
                         <input type="hidden" name="tag" value="modal-auto">
                         <input type="hidden" name="price" value="null">
                         <input type="hidden" name="news" value="1">
-                        <input type="text" class="jun" name="gender">
+                        
                       </div>
                       <div class="col-md-6 ">
                         <textarea name="brief" required class="form-control" style="" placeholder="Write your project description"></textarea>
@@ -705,7 +705,7 @@
                 <input type="hidden" name="tag" value="modal-auto">
                 <input type="hidden" name="price" value="null">
                 <input type="hidden" name="news" value="1">
-                <input type="text" class="jun" name="gender">
+                
                 <div class=wpforms-field-container>
                   <div id=wpforms-171-field_0-container class="wpforms-field wpforms-field-name" data-field-id=0><label class="wpforms-field-label wpforms-label-hide" for=wpforms-171-field_0>Name <span class=wpforms-required-label>*</span></label>
                     <div class="wpforms-field-row wpforms-field-large">

@@ -37,7 +37,7 @@
 <!-- Mobile Navigation Button Start-->
 <div class="mobile-nav-btn"> <span class="lines"></span> </div>
 
-<header class="header-main">
+<header class="header-main ">
   <div class="top-bar d-none d-lg-block">
     <div class="container">
       <div class="row">

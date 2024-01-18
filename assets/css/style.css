@@ -12093,7 +12093,7 @@ p.parafloat span {
     width: 100%;
     border: 1px solid #e5e5e5;
     background: #fff;
-    padding: 10px 15px 10px 40px;
+    padding: 10px 15px 10px 10px;
     color: gray;
     font-size: 14px;
     border-radius: 8px;
@@ -14118,7 +14118,8 @@ p.parafloat span {
     }
 
     .ecomm .home-banner-content h1 {
-        font-size: 31px
+        font-size: 31px;
+        width:auto;
     }
 
     .mprocess {
@@ -15755,4 +15756,6 @@ h4.panel-title {
     transition: .5s ease-in-out;
     color: #ff4d4d
 }
-
+.banform{
+    margin-top: 20px;
+}

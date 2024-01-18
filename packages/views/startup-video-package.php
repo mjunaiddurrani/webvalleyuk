@@ -344,7 +344,7 @@
                 <div class="crossplus"><i class="fa fa-envelope"></i></div>
             </div>
             <div class="banner-form">
-                <h3>Chat With Us to <br>Avail 50% Discount</h3>
+                <h3>Chat With Us to Avail 50% Discount</h3>
                 <div class="banform">
                     <div class="container">
                         <div class="row">

@@ -110,7 +110,7 @@
 
               <div>
                 <ul class="countslide">
-                  <li><h4><span class="timer">1300</span>+</h4><p>Web Design</p></li>
+                  <li><h4><span class="timer">1300</span>+</h4><p>Web <br> Design</p></li>
                   <li><h4><span class="timer">780</span>+</h4><p>Custom Website Development</p></li>
                   <li><h4><span class="timer">1290</span>+</h4><p>Single Page <br> Websites</p></li>
                   <li><h4><span class="timer">1500</span>+</h4><p>Ecommerce <br> Websites</p></li>
@@ -119,15 +119,7 @@
                 </ul>
               </div>
 
-              <div>
-                <ul class="figureslide">
-                  <!-- <li><p><span>100%</span> Money-back Guarantee</p></li> -->
-                  <li><p><span>100%</span> Satisfaction Guaranteed</p></li>
-                  <li><p><span>100%</span> Custom <br> Design</p></li>
-                  <li><p>Unlimited <br> Revisions</p></li>
-                  <li class="nbr"><p><span>24 / 7 </span> Customer Support</p></li>
-                </ul>
-              </div>
+              
 
             </div>
           </div>
