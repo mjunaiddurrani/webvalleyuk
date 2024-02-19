@@ -61,7 +61,6 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 <base href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].'/landingsmm/' ?>">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="google-site-verification" content="gy6PSMlqKV0kfPcqYFhdqUXgfpeXsasVfzn_EToaZK0" />
 <link rel="icon" href="favicon.png" type="image/x-icon" />
 <link href="../assets/css/m-style.css" rel="stylesheet" type="text/css" />
 <link href="../assets/css/style.css" rel="stylesheet" type="text/css" />
@@ -101,19 +100,9 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
   <link rel="canonical" href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>">
   <link rel="alternate" href="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].''.$_SERVER['REQUEST_URI'] ?>" hreflang="en-GB" />
 
-  
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-194982789-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-194982789-1');
-</script>
 
 
-<!-- head end -->
+
 
 
 
@@ -127,7 +116,6 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 <!-- Start of  Zendesk Widget script -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd" defer type="c8557bf7748ccc07b58855cf-text/javascript"> </script>
 <!-- End of  Zendesk Widget script -->
-<meta name="google-site-verification" content="MiG8AqBFAMCQR5pc28_hxXHNUiMbAMJ70s3qe4zzR_8" />
 
 
   <script async src='cdn-cgi/challenge-platform/h/g/scripts/invisible0955.js?ts=1654516800'></script></head>
