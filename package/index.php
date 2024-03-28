@@ -14,16 +14,16 @@
         // var_dump($parentCat);die;
 
         // $packageArray = (array)$pacakges->$category->packagesArray;
-        $package = $packageArray[$packageSlug];
-        if($parentCat != "package"){
-            $packageArray = (array)$pacakge->$parentCat->children->$category->package;
+        // $package = $packageArray[$packageSlug];
+        // if($parentCat != "package"){
+        //     $packageArray = (array)$pacakge->$parentCat->children->$category->package;
             
-        }else{
-            $packageArray = (array)$pacakge->$category;
+        // }else{
+        //     $packageArray = (array)$pacakge->$category;
 
-        }
+        // }
         
-        $package = $packageArray[$packageSlug];
+        // $package = $packageArray[$packageSlug];
 
     ?>
 
@@ -66,7 +66,7 @@
 
         <div class="works-wrap">
 
-            <section class="subscribe-fold sec-padding-60 ">
+            <section class="subscribe-fold sec-padding-60 d-none ">
 
                 <div class="container">
                     <div class="col-md-12">
