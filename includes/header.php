@@ -23,7 +23,7 @@
       
       
       <!-- <li><a href="/combo-packages/">Combo Packages</a></li> -->
-      <!-- <li><a href="/packages/">Packages</a></li> -->
+      <li><a href="/packages/">Packages</a></li>
       <li><a href="/portfolio/">Portfolio</a></li>
       <li><a href="/contact/">Contact</a></li>
     </ul>
@@ -99,7 +99,7 @@
               <!-- <li class="web"><a href="/blog/">Blog</a></li> -->
                    
                     <!-- <li class="combo"><a href="/combo-packages/">Combo Packages</a></li> -->
-              <!-- <li class="packages"><a href="/packages/">Packages</a></li> -->
+              <li class="packages"><a href="/packages/">Packages</a></li>
               
               <li class="portfolio"><a href="/portfolio/">Portfolio</a></li>
               <li class="contact"><a href="/contact/">Contact</a></li>

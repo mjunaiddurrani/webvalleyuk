@@ -45,15 +45,17 @@
 
     <?php 
 $api = new Api;
-// $data = $api->hit('GET','http://127.0.0.1:8000/api/packages/websitevalley.co.uk');
+ $data = $api->hit('GET','http://127.0.0.1:8000/api/packages/websitevalley.co.uk');
 
-// var_dump($pacakges->package_categories);die;
+//  echo "<pre>"; 
+//  print_r($pacakges->package_categories);
+//  echo "</pre>";
 ?>
 
 
 
 
-    <section class="sec-padding pricing-sec packages-sec-before mt-5 d-none"
+    <section class="sec-padding pricing-sec packages-sec-before mt-5 "
         style="background: linear-gradient(to top, #daeef4 0%,rgba(255,255,255,0) 20%);">
         <div class="container my-5">
             <div class="row">
@@ -64,9 +66,10 @@ $api = new Api;
                 <div class="col-lg-12">
                     <ul class="nav nav-pills">
                         <?php 
-                        $pacakges = $pacakges;
+                        $pacakges = $pacakges->package_categories;
               $categoryCounter = 0;
               foreach($pacakges as $category):?>
+
                         <li><a data-toggle="pill" href="#pills-web-<?=$category->id?>"
                                 class="<?= ($categoryCounter==0?'active show':'')?>"><?=$category->name?></a></li>
                         <?php

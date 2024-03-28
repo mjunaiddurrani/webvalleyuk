@@ -38,15 +38,15 @@
 <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/api.class.php');?>
 
 <?php 
-$api = new Api;
-$websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/websitevalley.co.uk/website-design');
+// $api = new Api;
+// $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/websitevalley.co.uk/website-design');
 
 
 ?>
 
 
 
-<section class="sec-padding pricing-sec mtpx-100 portfolio-page">
+<section class="sec-padding pricing-sec mtpx-100  portfolio-page">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1"> 
@@ -68,7 +68,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
           
 
 
-          <div id="webd" class="tab-pane active">
+          <div id="web2d" class="tab-pane active">
             
             <div class="smallboxes packagesslider">
 <?php foreach($websitePackages as $key => $value):?>            
@@ -127,7 +127,7 @@ $websitePackages = $api->hit('GET',$_SESSION['dashboard'].'/api/packages/website
     </div>
   </div>
   <?php endforeach;?>
-<?php die();?>
+
 
   <div class="smallbox bst-selr">
   <div class="package_inner">

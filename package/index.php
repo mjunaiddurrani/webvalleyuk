@@ -14,12 +14,12 @@
         // var_dump($parentCat);die;
 
         // $packageArray = (array)$pacakges->$category->packagesArray;
-        // $package = $packageArray[$packageSlug];
+        $package = $packageArray[$packageSlug];
         if($parentCat != "package"){
-            $packageArray = (array)$pacakges->$parentCat->children->$category->packages;
+            $packageArray = (array)$pacakge->$parentCat->children->$category->package;
             
         }else{
-            $packageArray = (array)$pacakges->$category->packages;
+            $packageArray = (array)$pacakge->$category;
 
         }
         
@@ -66,7 +66,7 @@
 
         <div class="works-wrap">
 
-            <section class="subscribe-fold sec-padding-60 d-none d-none">
+            <section class="subscribe-fold sec-padding-60 ">
 
                 <div class="container">
                     <div class="col-md-12">

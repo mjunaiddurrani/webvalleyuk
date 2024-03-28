@@ -15759,3 +15759,127 @@ h4.panel-title {
 .banform{
     margin-top: 20px;
 }
+
+#home-pricing-brand .myCard2, #home-pricing-ecom .myCard2, #home-pricing-video .myCard2, #home-pricing-web .myCard2 {
+    border: 1px solid #051d38;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.myCard2 {
+    word-break: break-word;
+}
+.myCard2 .font-32 {
+    font-size: 25px;
+}
+.font-w800 {
+    font-weight: 800;
+}
+.font-32 {
+    font-size: 32px;
+}
+.text-grey {
+    color: #6e6e6e;
+}
+
+.font-13 {
+    font-size: 13px;
+}
+.border-right {
+    border-right: 1px solid #68bef1 !important;
+}
+
+.line-height-45 {
+    line-height: 45px !important;
+}
+.font-w800 {
+    font-weight: 800;
+}
+.font-45 {
+    font-size: 45px;
+}
+.text-center {
+    text-align: center !important;
+}
+.text-red {
+    color: #eb0000 !important;
+}
+
+.text-dec-line-thro {
+    text-decoration: line-through;
+}
+.font-24 {
+    font-size: 24px;
+}
+.contentScroll {
+    /* height: 210px; */
+    margin: 20px 0 0;
+    overflow-y: auto;
+}
+.dot-before {
+    position: relative;
+    padding-left: 25px;
+}
+.dot-before:before {
+    content: '.';
+    color: #69c43c;
+    position: absolute;
+    left: 0;
+    top: -7px;
+    font-size: 50px;
+    line-height: 6px;
+}
+.myCard2 .btn-yellow {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.myCard2 .btn-yellow {
+    margin-top: 15px !important;
+}
+.btn-yellow {
+    color: #111;
+    background-color: #68bef1;
+    padding: 13px 18px;
+    transition: all ease-in-out .3s;
+}
+.btn {
+    letter-spacing: 1px;
+    line-height: 1;
+    font-weight: 700;
+}
+.myCard2 .view-detail {
+    display: block;
+    text-align: center;
+    color: #68bef1;
+    padding: 15px 0;
+    font-weight: 700;
+    border-bottom: 1px solid #68bef1;
+    margin: 0 0 15px;
+}
+.border-right {
+    border-right: 1px solid #68bef1 !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+.text-yellow {
+    color: #68bef1;
+}
+.myCard2 .liveChat, .myCard2 .mob {
+    color: #10142b;
+    font-size: 15px;
+}
+.text-yellow {
+    color: #68bef1;
+}
+.myCard2 .liveChat, .myCard2 .mob {
+    color: #10142b;
+    font-size: 15px;
+}
+
+.text-center {
+    text-align: center !important;
+}

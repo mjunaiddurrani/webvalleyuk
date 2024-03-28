@@ -357,7 +357,7 @@ $(".lptesti").slick({
     ]
 
 });
-
+console.log('hello');
 
 if ($(window).width() < 767) {
   $('.count-slider-for-mobile').slick({
@@ -393,6 +393,71 @@ $('.testslider').slick({
 });
 
 
+$('.slider_css').slick({
+    dots: true,
+    arrows: false,
+    infinite: true,
+    speed: 300,
+    autoplay: true,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    responsive: [{
+            breakpoint: 1399,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                infinite: true,
+                dots: false
+            }
+        }, {
+            breakpoint: 1200,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                infinite: true,
+                dots: false
+            }
+        },
+        {
+            breakpoint: 992,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                dots: false
+
+            }
+        },
+        {
+            breakpoint: 767,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                dots: false
+
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                dots: false
+
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                dots: false
+            }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+    ]
+});
 
 $('.web-design-portfolio-slider').slick({
         dots: true,

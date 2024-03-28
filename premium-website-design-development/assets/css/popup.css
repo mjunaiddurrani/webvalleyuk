@@ -1,0 +1,201 @@
+   .mypopup-wrap {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        display: block;
+        top: 0;
+        left: 0;
+        background-color: rgba(0, 0, 0, .75);
+        /*this sets the slightly see-through black*/
+        z-index: 100;
+        /*Make this less than the existing popup div*/
+    }
+
+    .popupform1 {
+        padding: 0 18px;
+        margin: 0 auto;
+        position: fixed;
+        /* top: 155px !important; */
+        left: 50%;
+        top: 11%;
+        transform: translate(-50%, -50px);
+        background: #fff;
+        width: 99%;
+        border-radius: 23px;
+        padding: 31px;
+        overflow: visible;
+        border-bottom: #6fbff0 5px solid;
+        z-index: 9999;
+        background: #6fbff0;
+        max-width: 500px;
+    }
+
+    .popupform1 h2 {
+        font-size: 23px;
+        color: #ffffff;
+        font-weight: 700;
+        padding-left: 15px;
+        /* border-left: #fcc174 6px solid; */
+        border-left: #000 6px solid;
+        margin-bottom: 12px;
+        line-height: 35px;
+        margin-top: 0;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    .popupform1 h2+p {
+        line-height: 19px;
+        font-size: 24px;
+        margin-bottom: 12px;
+        font-weight: 500;
+        color: #ffff;
+        text-align: center;
+    }
+
+    .popupform1 ul li input[type="text"],
+    .popupform1 ul li input[type="email"],
+    .popupform1 ul li input[type="number"],
+    .popupform1 ul li textarea {
+        background: #fafafa;
+        border: #dcdcdc 1px solid;
+        padding: 12px 12px 10px 10px;
+        width: 100%;
+        border-radius: 7px;
+        font-size: 14px;
+        color: #000;
+        box-shadow: none !important;
+        outline: none 0px !important;
+        margin-left: -22px;
+        margin-bottom: 0px;
+    }
+
+    .popupform1 ul li textarea {
+        height: 90px;
+    }
+
+    .popupform1 ul li input[type="submit"] {
+        /* background: #fcc174; */
+        background: #000;
+        color: #fff;
+        font-size: 18px;
+        border: #000 1px solid;
+        /* border: #fcc174 1px solid; */
+        text-transform: uppercase;
+        font-weight: 600;
+        padding: 4px 50px;
+        letter-spacing: 1px;
+        border-radius: 3px;
+        outline: 0px none;
+        width: 88%;
+        display: inline-block;
+    }
+
+    #overlay1 {
+        position: fixed;/ Sit on top of the page content / display: none;/ Hidden by default / width: 100%;/ Full width (cover the whole page) / height: 100%;/ Full height (cover the whole page) / top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5);/ Black background with opacity / z-index: 2;/ Specify a stack order in case you're using a different order for other elements /
+cursor: pointer;/ Add a pointer on hover /
+    }
+
+    .popupform1 .fancybox-close-small {
+        border: #000 3px solid;
+        /* background: #fcc174; */
+        background: #000;
+        border-radius: 72px;
+        text-align: center;
+        box-shadow: #000 0 0 10px;
+        right: -18px;
+        top: -11px;
+    }
+
+    .fancybox-close-small {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 44px;
+        height: 44px;
+        padding: 0;
+        margin: 0;
+        border: 0;
+        border-radius: 0;
+        outline: none;
+        background: transparent;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .popupform1 .fancybox-close-small:after {
+        color: #fff;
+        font-size: 25px;
+        right: 4px;
+        background: transparent;
+        padding-top: 0;
+        font-size: 20px;
+    }
+
+    .fancybox-close-small:after {
+        position: absolute;
+        top: 2px;
+        right: 5px;
+        width: 30px;
+        height: 30px;
+        font: 20px/30px Arial, Helvetica Neue, Helvetica, sans-serif;
+        color: #888;
+        font-weight: 300;
+        text-align: center;
+        border-radius: 50%;
+        border-width: 0;
+        background: #fff;
+        transition: background .2s;
+        box-sizing: border-box;
+        z-index: 2;
+        content: "x";
+    }
+
+    .popupform1 ul li {
+        list-style: none !important;
+        width: 100%;
+        padding: 0px 6px 8px 0;
+
+    }
+
+    .popupform1 ul li input[type="submit"]:hover {
+        background: #ffff;
+        border: #50223c 1px solid;
+        color: #50223c;
+    }
+
+    @media(max-width:575px) {
+        .popupform1 {
+            top: 15% !important;
+            width: 90% !important;
+            padding: 20px 10px;
+        }
+    }
+
+    @media(max-width:767px) {
+        /* .tterr {
+            margin-top: 30px !important;
+        } */
+
+        .popupform1 {
+            top: 15%;
+            width: 65%;
+        }
+    }
+
+    .bg-overlay {
+        position: fixed;
+        background: rgba(0, 0, 0, 0.5);
+        top: 0;
+        bottom: 0;
+        right: 0px;
+
+        width: 100%;
+        height: auto;
+        z-index: 9999;
+        display: none
+    }
