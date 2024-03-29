@@ -2,6 +2,12 @@
 <html lang="en">
 
 <head>
+    <pre>
+    <!-- <?php $packages = json_decode(file_get_contents($_SERVER['DOCUMENT_ROOT'].'/json/packages.json'));
+ $packages1 = (array)$packages;
+print_r($packages1['web-design'] -> packages );
+?> -->
+</pre>
     <title>Website Valley UK: #1 Web Design & Development Agency in the UK</title>
     <meta name="description"
         content="Bridging the gap between creative IT solutions and disruptive web designs, Website Valley UK offers you the expertise of the UK’s top website and application developers.">
@@ -15,22 +21,22 @@
     <link href="assets/css/custom.css" rel="stylesheet">
     <link rel="icon" href="../favicon.png" type="image/x-icon" />
     <style>
-    .test_slider:not(.slick-initialized)>div {
-        display: none;
-    }
+        .test_slider:not(.slick-initialized)>div {
+            display: none;
+        }
 
-    .test_slider:not(.slick-initialized)>div:first-child {
-        display: block;
-    }
+        .test_slider:not(.slick-initialized)>div:first-child {
+            display: block;
+        }
 
-    .ser_slider:not(.slick-initialized) div {
-        min-width: 400px;
-    }
+        .ser_slider:not(.slick-initialized) div {
+            min-width: 400px;
+        }
 
-    .ser_slider:not(.slick-initialized) {
-        display: flex;
-        overflow: hidden;
-    }
+        .ser_slider:not(.slick-initialized) {
+            display: flex;
+            overflow: hidden;
+        }
     </style>
 </head>
 
@@ -340,8 +346,8 @@
                                 </ul>
                             </div> -->
 
-                            
-                            
+
+
                         </div>
                     </div>
                     <div class="cus-tabs digital">
@@ -1185,6 +1191,9 @@
                     <div class="text-center p-3">
                         <button class="btn btn-cta cta-btn2 btn_theme-2 popupBtn" style="margin:0 auto;">
                             Choose Plan</button>
+                        <div class="mt-3 view_detail">
+                            <a href="/package/web-design/startup-website-package">View Details</a>
+                        </div>
                     </div>
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
@@ -1201,6 +1210,7 @@
                 <div class="price-box">
                     <div class="box-top-section">
                         <div class="plan-name">
+
                             <strong>Professional Website Package</strong>
                             <!-- <span>Suitable for basic startups looking to take it one step at a time.</span> -->
                         </div>
@@ -1269,6 +1279,10 @@
                     <div class="text-center p-3">
                         <button class="btn btn-cta cta-btn2 btn_theme-2 popupBtn" style="margin:0 auto;">
                             Choose Plan</button>
+                        <div class="mt-3 view_detail">
+                            <a href="/package/web-design/professional-website-package ">View Details</a>
+                        </div>
+
                     </div>
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
@@ -1389,6 +1403,9 @@
                     <div class="text-center p-3">
                         <button class="btn btn-cta cta-btn2 btn_theme-2 popupBtn" style="margin:0 auto;">
                             Choose Plan</button>
+                            <div class="mt-3 view_detail">
+                            <a href="/package/web-design/elite-website-package">View Details</a>
+                        </div>
                     </div>
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
@@ -1531,6 +1548,9 @@
                     <div class="text-center p-3">
                         <button class="btn btn-cta cta-btn2 btn_theme-2 popupBtn" style="margin:0 auto;">
                             Choose Plan</button>
+                            <div class="mt-3 view_detail">
+                            <a href="/package/web-design/silver-website-package">View Details</a>
+                        </div>
                     </div>
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
@@ -1675,6 +1695,9 @@
                     <div class="text-center p-3">
                         <button class="btn btn-cta cta-btn2 btn_theme-2 popupBtn" style="margin:0 auto;">
                             Choose Plan</button>
+                            <div class="mt-3 view_detail">
+                            <a href="/package/web-design/business-website-package">View Details</a>
+                        </div>
                     </div>
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
@@ -1887,6 +1910,9 @@
                     <div class="text-center p-3">
                         <button class="btn btn-cta cta-btn2 btn_theme-2 popupBtn" style="margin:0 auto;">
                             Choose Plan</button>
+                            <div class="mt-3 view_detail">
+                            <a href="/package/web-design/automated-conferencing-portal">View Details</a>
+                        </div>
                     </div>
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
@@ -2281,7 +2307,8 @@
                             <div class="price ">
                                 <h2 class="first-color font-40 p-0 m-0"
                                     style="font-size:45px !important; color:#fff !important;">£7000 <del
-                                        class="text-white font-20" style="color: #ec1f1f !important; font-size: 20px;">£14000</del></h2>
+                                        class="text-white font-20"
+                                        style="color: #ec1f1f !important; font-size: 20px;">£14000</del></h2>
                                 <p class=" mb-0 font-16">50% Discounted Price</p>
                             </div>
                         </div>
@@ -2354,7 +2381,8 @@
                                         </p>
                                     </div>
                                     <div class="col-lg-3">
-                                        <a class="numbercta btn-phone btn-theme" href="tel:+44 2038 856237">+44 2038 856237</a>
+                                        <a class="numbercta btn-phone btn-theme" href="tel:+44 2038 856237">+44 2038
+                                            856237</a>
                                     </div>
                                     <div class="col-lg-3">
                                         <a class="chatcta liveChat btn-theme" href="javascript:;">Live Chat</a>
@@ -2373,582 +2401,582 @@
         </div>
     </section>
     <style>
-    a.chatcta,
-    a.numbercta,
-    button.btn-form {
-        background: #000000 !important;
-        color: white !important;
-        padding: 10px 20px;
-        border-radius: 10px;
-        -webkit-animation: 2s cubic-bezier(.25, 0, 0, 1) 3s infinite pulse;
-        animation: 2s cubic-bezier(.25, 0, 0, 1) 3s infinite pulse;
-    }
+        a.chatcta,
+        a.numbercta,
+        button.btn-form {
+            background: #000000 !important;
+            color: white !important;
+            padding: 10px 20px;
+            border-radius: 10px;
+            -webkit-animation: 2s cubic-bezier(.25, 0, 0, 1) 3s infinite pulse;
+            animation: 2s cubic-bezier(.25, 0, 0, 1) 3s infinite pulse;
+        }
 
-    .comboopack {
-        /* background: #f6f6f8; */
-        padding: 90px 0;
-    }
+        .comboopack {
+            /* background: #f6f6f8; */
+            padding: 90px 0;
+        }
 
-    .comboopack .combopackwrap {
-        background: #fff;
-        width: 100%;
-        display: inline-block;
-        box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.06);
-    }
-
-    .comboopack .combopackwrap .headdd {
-        padding: 20px 50px;
-        background: #68bef1;
-        text-align: left;
-        position: relative;
-    }
-
-    .comboopack .combopackwrap .headdd figure {
-        position: absolute;
-        margin-bottom: 0;
-        right: -70px;
-        top: -10px;
-    }
-
-    .comboopack .combopackwrap .headdd figure img {
-        width: 230px;
-    }
-
-    .comboopack .combopackwrap .headdd h3 {
-        text-align: left;
-        padding-bottom: 0;
-        color: #fff;
-        font-size: 34px;
-        text-transform: capitalize;
-    }
-
-    .comboopack .combopackwrap .headdd h3 span {
-        display: block;
-        font-size: 24px;
-        margin-top: 10px;
-    }
-
-    .comboopack .combopackwrap .bodyyy {
-        font-size: 0;
-        padding: 30px 50px;
-    }
-
-    .comboopack .combopackwrap .bodyyy .coll {
-        width: 33.33%;
-        display: inline-block;
-        vertical-align: top;
-        padding: 0 15px;
-    }
-
-    .comboopack .combopackwrap .bodyyy .coll ul li {
-        color: #5c5856;
-        font-size: 15px;
-        padding: 0 0 10px 30px;
-        position: relative;
-        line-height: 1.4;
-    }
-
-    .comboopack .combopackwrap .bodyyy .coll ul li:before {
-        content: "\f00c";
-        font-family: "Font Awesome 6 Pro" !important;
-        position: absolute;
-        left: 0;
-        border: 1px solid;
-        padding: 3px;
-        border-radius: 20%;
-        color: #68bef1;
-        font-size: 10px;
-    }
-
-    .comboopack .combopackwrap .bodyyy .coll ul li.heading {
-        font-weight: 700;
-        color: var(--first-color);
-        padding-left: 0;
-    }
-
-    .comboopack .combopackwrap .bodyyy .coll ul li.heading:before {
-        display: none;
-    }
-
-    .comboopack .combopackwrap .footterr {
-        padding: 30px 50px;
-        font-size: 0;
-        background: #000;
-        border-top: 1px solid #f3f3f3;
-    }
-
-    .comboopack .combopackwrap .footterr .left {
-        display: inline-block;
-        width: 45%;
-        vertical-align: bottom;
-        font-size: 0;
-    }
-
-    .comboopack .combopackwrap .footterr .left .btnwrap {
-        display: inline-block;
-        width: 70%;
-        padding-left: 20px;
-        vertical-align: middle;
-    }
-
-    .comboopack .combopackwrap .footterr .left .btnwrap .numbercta {
-        color: #fff;
-        font-size: 16px;
-        font-weight: 600;
-        margin-right: 15px;
-        padding: 16px 17px;
-        border: 1px solid #fff;
-        /* border-radius: 30px; */
-    }
-
-    .comboopack .combopackwrap .footterr .left .btnwrap .numbercta span {
-        margin-right: 10px;
-    }
-
-    .comboopack .combopackwrap .footterr .left .btnwrap .chatcta {
-        color: #fff;
-        font-size: 16px;
-        font-weight: 600;
-        margin-right: 21px;
-        padding: 15px 30px;
-        border: 1px solid #fff;
-        /* border-radius: 30px; */
-    }
-
-    .comboopack .combopackwrap .footterr .left .btnwrap .chatcta span {
-        margin-right: 10px;
-    }
-
-    .comboopack .combopackwrap .footterr .left .txtt {
-        display: inline-block;
-        width: 25%;
-        vertical-align: middle;
-    }
-
-    .comboopack .combopackwrap .footterr .left .txtt h4 {
-        color: #fff;
-        font-size: 22px;
-        padding-bottom: 0;
-    }
-
-    .comboopack .combopackwrap .footterr .right {
-        display: inline-block;
-        width: 55%;
-        vertical-align: bottom;
-        position: relative;
-    }
-
-    .comboopack .combopackwrap .footterr .right .price {
-        display: inline-block;
-        width: 40%;
-        vertical-align: middle;
-        padding-left: 10px;
-    }
-
-    .comboopack .combopackwrap .footterr .right .price h2 {
-        font-size: 44px;
-        color: var(--first-color);
-        padding-bottom: 0;
-    }
-
-    .comboopack .combopackwrap .footterr .right .price h2 span {
-        position: relative;
-        font-size: 20px;
-        padding-bottom: 0;
-        color: #b3b1b1;
-        margin-left: 10px;
-    }
-
-    .comboopack .combopackwrap .footterr .right figure {
-        margin-bottom: 0;
-        display: inline-block;
-        width: 30%;
-    }
-
-    .comboopack .combopackwrap .footterr .right figure img {
-        width: 180px;
-        position: absolute;
-        top: -50px;
-        left: 0;
-    }
-
-    .comboopack .combopackwrap .footterr .right .price h2 span:before {
-        content: "";
-        width: 60px;
-        height: 2px;
-        display: block;
-        background: #9e9c9c;
-        position: absolute;
-        left: 0;
-        top: 44%;
-    }
-
-    .comboopack .combopackwrap .footterr .right .price h6 {
-        color: #fff;
-        font-size: 21px;
-        padding-bottom: 0;
-    }
-
-    .comboopack .combopackwrap .footterr .right .orderbtn {
-        display: inline-block;
-        vertical-align: middle;
-        width: 30%;
-        text-align: right;
-    }
-
-    @media screen and (max-width: 480px) {
-        .mservices .box.fixwidth {
+        .comboopack .combopackwrap {
+            background: #fff;
             width: 100%;
-            display: block;
-            margin-top: 0;
-        }
-
-        .footer-nav2 {
-            float: none;
-            text-align: center;
-        }
-
-        .footer-nav2 li {
-            float: none;
             display: inline-block;
+            box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.06);
         }
 
-        .copyright {
-            text-align: center;
-        }
-
-        .footer-bottom .fologo {
-            width: 100%;
-            max-width: 150px;
-            margin: 0 auto;
+        .comboopack .combopackwrap .headdd {
+            padding: 20px 50px;
+            background: #68bef1;
+            text-align: left;
+            position: relative;
         }
 
         .comboopack .combopackwrap .headdd figure {
-            display: none;
+            position: absolute;
+            margin-bottom: 0;
+            right: -70px;
+            top: -10px;
         }
 
-        .comboopack .combopackwrap .bodyyy .coll {
-            width: 100% !important;
+        .comboopack .combopackwrap .headdd figure img {
+            width: 230px;
+        }
+
+        .comboopack .combopackwrap .headdd h3 {
+            text-align: left;
+            padding-bottom: 0;
+            color: #fff;
+            font-size: 34px;
+            text-transform: capitalize;
+        }
+
+        .comboopack .combopackwrap .headdd h3 span {
+            display: block;
+            font-size: 24px;
+            margin-top: 10px;
         }
 
         .comboopack .combopackwrap .bodyyy {
-            padding: 30px 10px !important;
+            font-size: 0;
+            padding: 30px 50px;
+        }
+
+        .comboopack .combopackwrap .bodyyy .coll {
+            width: 33.33%;
+            display: inline-block;
+            vertical-align: top;
+            padding: 0 15px;
+        }
+
+        .comboopack .combopackwrap .bodyyy .coll ul li {
+            color: #5c5856;
+            font-size: 15px;
+            padding: 0 0 10px 30px;
+            position: relative;
+            line-height: 1.4;
+        }
+
+        .comboopack .combopackwrap .bodyyy .coll ul li:before {
+            content: "\f00c";
+            font-family: "Font Awesome 6 Pro" !important;
+            position: absolute;
+            left: 0;
+            border: 1px solid;
+            padding: 3px;
+            border-radius: 20%;
+            color: #68bef1;
+            font-size: 10px;
+        }
+
+        .comboopack .combopackwrap .bodyyy .coll ul li.heading {
+            font-weight: 700;
+            color: var(--first-color);
+            padding-left: 0;
+        }
+
+        .comboopack .combopackwrap .bodyyy .coll ul li.heading:before {
+            display: none;
         }
 
         .comboopack .combopackwrap .footterr {
-            padding: 30px 10px !important;
-        }
-
-        .comboopack .combopackwrap .footterr .right figure {
-            display: none !important;
-        }
-
-        .comboopack .combopackwrap .footterr .left .txtt {
-            width: 100% !important;
+            padding: 30px 50px;
+            font-size: 0;
+            background: #000;
+            border-top: 1px solid #f3f3f3;
         }
 
         .comboopack .combopackwrap .footterr .left {
-            width: 100% !important;
+            display: inline-block;
+            width: 45%;
+            vertical-align: bottom;
+            font-size: 0;
         }
 
         .comboopack .combopackwrap .footterr .left .btnwrap {
-            width: 100% !important;
-            padding-left: 0 !important;
+            display: inline-block;
+            width: 70%;
+            padding-left: 20px;
+            vertical-align: middle;
         }
 
         .comboopack .combopackwrap .footterr .left .btnwrap .numbercta {
-            display: block;
-            width: 100%;
-            text-align: center;
-            margin: 20px 0;
+            color: #fff;
+            font-size: 16px;
+            font-weight: 600;
+            margin-right: 15px;
+            padding: 16px 17px;
+            border: 1px solid #fff;
+            /* border-radius: 30px; */
+        }
+
+        .comboopack .combopackwrap .footterr .left .btnwrap .numbercta span {
+            margin-right: 10px;
         }
 
         .comboopack .combopackwrap .footterr .left .btnwrap .chatcta {
-            display: block;
-            width: 100%;
-            text-align: center;
+            color: #fff;
+            font-size: 16px;
+            font-weight: 600;
+            margin-right: 21px;
+            padding: 15px 30px;
+            border: 1px solid #fff;
+            /* border-radius: 30px; */
+        }
+
+        .comboopack .combopackwrap .footterr .left .btnwrap .chatcta span {
+            margin-right: 10px;
+        }
+
+        .comboopack .combopackwrap .footterr .left .txtt {
+            display: inline-block;
+            width: 25%;
+            vertical-align: middle;
+        }
+
+        .comboopack .combopackwrap .footterr .left .txtt h4 {
+            color: #fff;
+            font-size: 22px;
+            padding-bottom: 0;
         }
 
         .comboopack .combopackwrap .footterr .right {
-            width: 100% !important;
+            display: inline-block;
+            width: 55%;
+            vertical-align: bottom;
+            position: relative;
         }
 
         .comboopack .combopackwrap .footterr .right .price {
-            width: 100% !important;
-            margin: 20px 0;
-            padding-left: 0 !important;
-            text-align: center;
+            display: inline-block;
+            width: 40%;
+            vertical-align: middle;
+            padding-left: 10px;
+        }
+
+        .comboopack .combopackwrap .footterr .right .price h2 {
+            font-size: 44px;
+            color: var(--first-color);
+            padding-bottom: 0;
+        }
+
+        .comboopack .combopackwrap .footterr .right .price h2 span {
+            position: relative;
+            font-size: 20px;
+            padding-bottom: 0;
+            color: #b3b1b1;
+            margin-left: 10px;
+        }
+
+        .comboopack .combopackwrap .footterr .right figure {
+            margin-bottom: 0;
+            display: inline-block;
+            width: 30%;
+        }
+
+        .comboopack .combopackwrap .footterr .right figure img {
+            width: 180px;
+            position: absolute;
+            top: -50px;
+            left: 0;
+        }
+
+        .comboopack .combopackwrap .footterr .right .price h2 span:before {
+            content: "";
+            width: 60px;
+            height: 2px;
+            display: block;
+            background: #9e9c9c;
+            position: absolute;
+            left: 0;
+            top: 44%;
+        }
+
+        .comboopack .combopackwrap .footterr .right .price h6 {
+            color: #fff;
+            font-size: 21px;
+            padding-bottom: 0;
         }
 
         .comboopack .combopackwrap .footterr .right .orderbtn {
-            width: 100% !important;
-            text-align: center !important;
+            display: inline-block;
+            vertical-align: middle;
+            width: 30%;
+            text-align: right;
         }
 
-        .bottomSec {
-            bottom: 115px;
+        @media screen and (max-width: 480px) {
+            .mservices .box.fixwidth {
+                width: 100%;
+                display: block;
+                margin-top: 0;
+            }
+
+            .footer-nav2 {
+                float: none;
+                text-align: center;
+            }
+
+            .footer-nav2 li {
+                float: none;
+                display: inline-block;
+            }
+
+            .copyright {
+                text-align: center;
+            }
+
+            .footer-bottom .fologo {
+                width: 100%;
+                max-width: 150px;
+                margin: 0 auto;
+            }
+
+            .comboopack .combopackwrap .headdd figure {
+                display: none;
+            }
+
+            .comboopack .combopackwrap .bodyyy .coll {
+                width: 100% !important;
+            }
+
+            .comboopack .combopackwrap .bodyyy {
+                padding: 30px 10px !important;
+            }
+
+            .comboopack .combopackwrap .footterr {
+                padding: 30px 10px !important;
+            }
+
+            .comboopack .combopackwrap .footterr .right figure {
+                display: none !important;
+            }
+
+            .comboopack .combopackwrap .footterr .left .txtt {
+                width: 100% !important;
+            }
+
+            .comboopack .combopackwrap .footterr .left {
+                width: 100% !important;
+            }
+
+            .comboopack .combopackwrap .footterr .left .btnwrap {
+                width: 100% !important;
+                padding-left: 0 !important;
+            }
+
+            .comboopack .combopackwrap .footterr .left .btnwrap .numbercta {
+                display: block;
+                width: 100%;
+                text-align: center;
+                margin: 20px 0;
+            }
+
+            .comboopack .combopackwrap .footterr .left .btnwrap .chatcta {
+                display: block;
+                width: 100%;
+                text-align: center;
+            }
+
+            .comboopack .combopackwrap .footterr .right {
+                width: 100% !important;
+            }
+
+            .comboopack .combopackwrap .footterr .right .price {
+                width: 100% !important;
+                margin: 20px 0;
+                padding-left: 0 !important;
+                text-align: center;
+            }
+
+            .comboopack .combopackwrap .footterr .right .orderbtn {
+                width: 100% !important;
+                text-align: center !important;
+            }
+
+            .bottomSec {
+                bottom: 115px;
+            }
         }
-    }
 
-    .text-dec-line-thro {
-        text-decoration: line-through;
-    }
+        .text-dec-line-thro {
+            text-decoration: line-through;
+        }
 
-    .border-right {
-        border-right: 1px solid #68bef1 !important;
-    }
+        .border-right {
+            border-right: 1px solid #68bef1 !important;
+        }
 
-    .text-red {
-        color: #eb0000 !important;
-    }
+        .text-red {
+            color: #eb0000 !important;
+        }
 
-    .btn_theme-2:hover {
-        color: #ffffff;
-        box-shadow: inset 0 -100px 0 0 #363636;
-        border-color: #363636;
-    }
+        .btn_theme-2:hover {
+            color: #ffffff;
+            box-shadow: inset 0 -100px 0 0 #363636;
+            border-color: #363636;
+        }
 
-    .btn_theme-2 {
-        position: relative;
-        display: inline-block;
-        padding: 0px 40px;
-        text-align: center;
-        font-size: 18px;
-        font-weight: 500;
-        text-decoration: none;
-        color: #fff;
-        background: #68bef1;
-        cursor: pointer;
-        transition: ease-out 0.5s;
-        border: 2px solid #68bef1;
-        border-radius: 8px;
-        text-transform: capitalize;
-        font-family: 'Outfit', sans-serif;
+        .btn_theme-2 {
+            position: relative;
+            display: inline-block;
+            padding: 0px 40px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: 500;
+            text-decoration: none;
+            color: #fff;
+            background: #68bef1;
+            cursor: pointer;
+            transition: ease-out 0.5s;
+            border: 2px solid #68bef1;
+            border-radius: 8px;
+            text-transform: capitalize;
+            font-family: 'Outfit', sans-serif;
 
-    }
+        }
 
-    #pricing-table {
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        align-items: center;
-        width: 100%;
-        <<<<<<< HEAD
-        /* min-height: 80vh; */
-        /* background: linear-gradient(45deg,#444040, black); */
-        padding: 0px 0px 80px 0px;
-        =======padding: 80px 0px 80px 0px;
-        >>>>>>>cb83b26512304db248f9ef58fcbbb21351893fc8
-    }
+        #pricing-table {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            <<<<<<< HEAD
+            /* min-height: 80vh; */
+            /* background: linear-gradient(45deg,#444040, black); */
+            padding: 0px 0px 80px 0px;
+            =======padding: 80px 0px 80px 0px;
+            >>>>>>>cb83b26512304db248f9ef58fcbbb21351893fc8
+        }
 
-    .price-box-container {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-
-    .price-box {
-        margin: 10px;
-        width: 30.33%;
-        height: auto;
-        border: 1px solid #000;
-        border-radius: 20px;
-    }
-
-    .box-top-section {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        padding: 20px;
-        width: 100%;
-        border-bottom: none;
-        position: relative;
-    }
-
-    .plan-name {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        margin: 10px 5px;
-    }
-
-    .plan-name strong {
-        color: #03468a;
-        font-size: 1.5rem;
-        margin: 5px 0px;
-        text-align: center;
-    }
-
-    .plan-name span {
-        color: #2b2a31;
-        font-size: 0.8rem;
-        text-align: center;
-        height: auto;
-        overflow: auto;
-        padding-right: 5px;
-    }
-
-    .price-section {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        margin: 5px;
-    }
-
-    .price strong {
-        font-size: 40px;
-        color: #000;
-    }
-
-    .price span {
-        font-size: 20px;
-        padding: 0px;
-        margin: 0px;
-        color: #292929;
-        font-weight: 500;
-    }
-
-    .per-month {
-        font-size: 0.8rem;
-        color: #2b2a31;
-    }
-
-    .box-features-section {
-        /* border-top: 1px solid #c9c9c9; */
-        padding: 20px 10px;
-        /* display: flex; */
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        width: 100%;
-        /* border: 1px solid #ebebeb; */
-        /* border-top: 1px solid #c7c7c7; */
-        height: 300px;
-        overflow: auto;
-    }
-
-    .features-box {
-        width: 100%;
-        display: flex;
-        border-radius: 20px;
-        padding: 10px 20px;
-        cursor: pointer;
-        position: relative;
-    }
-
-    .features-box i {
-        color: #000;
-        margin-right: 7px;
-        font-size: 0.9rem;
-        margin-top: 7px;
-    }
-
-    .features-box span {
-        color: #242424;
-        font-size: 15px;
-    }
-
-    .features-box:hover {
-        background-color: #f6f6f7;
-        transition: all ease 0.3s;
-    }
-
-    .feature-details {
-        position: absolute;
-        bottom: 45px;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 100%;
-        height: auto;
-        padding: 10px;
-        background-color: #242424;
-        color: #ebebeb;
-        border-radius: 8px;
-        font-size: 0.8rem;
-        text-align: center;
-        box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.10);
-        display: none;
-        animation: fade 0.2s;
-    }
-
-    .feature-details:after {
-        content: '';
-        width: 0px;
-        height: 0px;
-        border-bottom: 5px solid transparent;
-        border-left: 7px solid transparent;
-        border-top: 7px solid #242424;
-        border-right: 5px solid transparent;
-        position: absolute;
-        left: 50%;
-        top: 100%;
-    }
-
-    .features-box:hover .feature-details {
-        display: block;
-    }
-
-    .Choose-plan-btn {
-        margin-top: 20px;
-        font-size: 15px;
-        color: black;
-        font-weight: 500;
-        text-transform: uppercase;
-        letter-spacing: 0.5px;
-        background-color: #f1c603;
-        padding: 10px;
-        border-radius: 5px;
-    }
-
-    .top-bar {
-        position: absolute;
-        left: 50%;
-        transform: translateX(-50%);
-        top: -20px;
-        height: 40px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-size: 0.9rem;
-        border-radius: 20px;
-        padding: 10px 25px;
-        color: #ffffff;
-        background-color: #2c2c2c;
-        box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.15);
-    }
-
-    .price-box:hover .box-top-section,
-    .price-box:hover .box-features-section {
-        box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.09);
-        transition: all ease 0.2s;
-    }
-
-    @media(max-width:1160px) {
         .price-box-container {
-            width: 800px
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
         }
 
         .price-box {
-            flex-grow: 1;
+            margin: 10px;
+            width: 30.33%;
+            height: auto;
+            border: 1px solid #000;
+            border-radius: 20px;
         }
-    }
 
-    @media(max-width:810px) {
-        .price-box-container {
+        .box-top-section {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
             width: 100%;
+            border-bottom: none;
+            position: relative;
         }
-    }
 
-    @media(max-width:570px) {
-        .price-box {
-            width: 100%;
-            margin: 20px 10px;
-            box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.05);
+        .plan-name {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 10px 5px;
         }
-    }
+
+        .plan-name strong {
+            color: #03468a;
+            font-size: 1.5rem;
+            margin: 5px 0px;
+            text-align: center;
+        }
+
+        .plan-name span {
+            color: #2b2a31;
+            font-size: 0.8rem;
+            text-align: center;
+            height: auto;
+            overflow: auto;
+            padding-right: 5px;
+        }
+
+        .price-section {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 5px;
+        }
+
+        .price strong {
+            font-size: 40px;
+            color: #000;
+        }
+
+        .price span {
+            font-size: 20px;
+            padding: 0px;
+            margin: 0px;
+            color: #292929;
+            font-weight: 500;
+        }
+
+        .per-month {
+            font-size: 0.8rem;
+            color: #2b2a31;
+        }
+
+        .box-features-section {
+            /* border-top: 1px solid #c9c9c9; */
+            padding: 20px 10px;
+            /* display: flex; */
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            width: 100%;
+            /* border: 1px solid #ebebeb; */
+            /* border-top: 1px solid #c7c7c7; */
+            height: 300px;
+            overflow: auto;
+        }
+
+        .features-box {
+            width: 100%;
+            display: flex;
+            border-radius: 20px;
+            padding: 10px 20px;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .features-box i {
+            color: #000;
+            margin-right: 7px;
+            font-size: 0.9rem;
+            margin-top: 7px;
+        }
+
+        .features-box span {
+            color: #242424;
+            font-size: 15px;
+        }
+
+        .features-box:hover {
+            background-color: #f6f6f7;
+            transition: all ease 0.3s;
+        }
+
+        .feature-details {
+            position: absolute;
+            bottom: 45px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100%;
+            height: auto;
+            padding: 10px;
+            background-color: #242424;
+            color: #ebebeb;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            text-align: center;
+            box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.10);
+            display: none;
+            animation: fade 0.2s;
+        }
+
+        .feature-details:after {
+            content: '';
+            width: 0px;
+            height: 0px;
+            border-bottom: 5px solid transparent;
+            border-left: 7px solid transparent;
+            border-top: 7px solid #242424;
+            border-right: 5px solid transparent;
+            position: absolute;
+            left: 50%;
+            top: 100%;
+        }
+
+        .features-box:hover .feature-details {
+            display: block;
+        }
+
+        .Choose-plan-btn {
+            margin-top: 20px;
+            font-size: 15px;
+            color: black;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            background-color: #f1c603;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .top-bar {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            top: -20px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 0.9rem;
+            border-radius: 20px;
+            padding: 10px 25px;
+            color: #ffffff;
+            background-color: #2c2c2c;
+            box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .price-box:hover .box-top-section,
+        .price-box:hover .box-features-section {
+            box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.09);
+            transition: all ease 0.2s;
+        }
+
+        @media(max-width:1160px) {
+            .price-box-container {
+                width: 800px
+            }
+
+            .price-box {
+                flex-grow: 1;
+            }
+        }
+
+        @media(max-width:810px) {
+            .price-box-container {
+                width: 100%;
+            }
+        }
+
+        @media(max-width:570px) {
+            .price-box {
+                width: 100%;
+                margin: 20px 10px;
+                box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.05);
+            }
+        }
     </style>
 
     <!-- WHY SEC STRT -->
@@ -3105,7 +3133,8 @@
                                     Website Valley UK, you’re not just another anonymous number; you’re a Mate!</p>
                             </div>
                             <ul class="conatc-det">
-                                <li><i class="fa-sharp fa-solid fa-phone"></i> <a href="tel:+44 2038 856237">+44 2038 856237</a></li>
+                                <li><i class="fa-sharp fa-solid fa-phone"></i> <a href="tel:+44 2038 856237">+44 2038
+                                        856237</a></li>
                                 <li><i class="fa-solid fa-envelope"></i> <a
                                         href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
                                 <li><i class="fa-sharp fa-solid fa-location-dot"></i> <a href="javascript:void(0)">86-90
@@ -3663,7 +3692,8 @@
                 <div class="col-lg-4 col-md-4">
                     <h3>Contact Info</h3>
                     <ul class="conatact_list">
-                        <li><i class="fa-light fa-location-dot"></i> <a href="javascript:void(0)">54 park avenue barking, Essex, IG11 8QU, UK</a></li>
+                        <li><i class="fa-light fa-location-dot"></i> <a href="javascript:void(0)">54 park avenue
+                                barking, Essex, IG11 8QU, UK</a></li>
                         <li><i class="fa-light fa-envelope"></i> <a
                                 href="mailto:info@thewebsitemasters.co.uk">info@thewebsitemasters.co.uk</a></li>
                         <li><i class="fa-light fa-phone"></i> <a href="tel:+44 2038 856237">+44 2038 856237</a></li>
@@ -3797,101 +3827,101 @@
         </div>
     </div>
     <style>
-    @keyframes hilado {
-        0% {
-            bottom: 10px
+        @keyframes hilado {
+            0% {
+                bottom: 10px
+            }
+
+            100% {
+                bottom: 29px
+            }
         }
 
-        100% {
-            bottom: 29px
-        }
-    }
+        .my-float {
+            margin-top: 9px;
+            color: #fff;
+            font-size: 37px !important;
 
-    .my-float {
-        margin-top: 9px;
-        color: #fff;
-        font-size: 37px !important;
-
-    }
-
-    .my-float:focus,
-    .my-float:hover {
-        color: #fff;
-        box-shadow: none;
-    }
-
-    .float {
-        position: fixed;
-        width: 55px;
-        height: 55px;
-        bottom: 29px;
-        left: 19px;
-        background-color: #25d366;
-        color: #FFF;
-        border-radius: 50px;
-        text-align: center;
-        font-size: 30px;
-        box-shadow: 2px 2px 3px #999;
-        z-index: 100;
-        animation: hilado .7s infinite alternate;
-    }
-
-    .callusnow {
-        position: fixed;
-        width: 55px;
-        height: 55px;
-        /* top: 800px; */
-        bottom: 110px;
-        left: 19px;
-        background-color: #6fbff0;
-        color: #FFF;
-        border-radius: 50px;
-        text-align: center;
-        font-size: 30px;
-        box-shadow: 2px 2px 3px #999;
-        z-index: 100;
-        animation: .7s shakeIt2 infinite alternate;
-    }
-
-    .callusnow:hover {
-        color: #fff;
-    }
-
-    @keyframes shakeIt2 {
-        0% {
-            bottom: 90px;
         }
 
-        100% {
+        .my-float:focus,
+        .my-float:hover {
+            color: #fff;
+            box-shadow: none;
+        }
+
+        .float {
+            position: fixed;
+            width: 55px;
+            height: 55px;
+            bottom: 29px;
+            left: 19px;
+            background-color: #25d366;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 30px;
+            box-shadow: 2px 2px 3px #999;
+            z-index: 100;
+            animation: hilado .7s infinite alternate;
+        }
+
+        .callusnow {
+            position: fixed;
+            width: 55px;
+            height: 55px;
+            /* top: 800px; */
             bottom: 110px;
+            left: 19px;
+            background-color: #6fbff0;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 30px;
+            box-shadow: 2px 2px 3px #999;
+            z-index: 100;
+            animation: .7s shakeIt2 infinite alternate;
         }
-    }
 
-    .btn.btn-social-icon {
-        width: 40px;
-        height: 40px;
-        padding: 0;
-        border-radius: 50px;
-        background: #000;
-        margin: 0 2px;
-        color: #ffffff;
-    }
+        .callusnow:hover {
+            color: #fff;
+        }
+
+        @keyframes shakeIt2 {
+            0% {
+                bottom: 90px;
+            }
+
+            100% {
+                bottom: 110px;
+            }
+        }
+
+        .btn.btn-social-icon {
+            width: 40px;
+            height: 40px;
+            padding: 0;
+            border-radius: 50px;
+            background: #000;
+            margin: 0 2px;
+            color: #ffffff;
+        }
     </style>
 
     <script src="assets/js/jquery-3.6.0.min.js"></script>
 
     <script>
-    $("footer").addClass('footer');
+        $("footer").addClass('footer');
 
-    function removeLoading() {
-        var isloading = true;
-        var footerElement = document.querySelector(".footer");
-        if (isloading) {
+        function removeLoading() {
+            var isloading = true;
+            var footerElement = document.querySelector(".footer");
+            if (isloading) {
 
-            if (footerElement) {
-                $("footer").removeClass('footer');
+                if (footerElement) {
+                    $("footer").removeClass('footer');
 
-                $("head").append(`
+                    $("head").append(`
                 <link href="assets/css/animate.css" rel="stylesheet">
                 <link href="assets/css/slick-theme.css" rel="stylesheet" type="text/css">
                 <link href="assets/css/slick.css" rel="stylesheet" type="text/css">
@@ -3900,7 +3930,7 @@
                 <link href="assets/css/popup.css" rel="stylesheet" type="text/css">
                 `);
 
-                $("footer").append(` 
+                    $("footer").append(` 
 
 
     <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"><\/script>
@@ -3919,28 +3949,28 @@
 
         `);
 
-                $('.myLazy').each(function() {
-                    $(this).attr("src", $(this).attr('data-src'))
-                })
+                    $('.myLazy').each(function () {
+                        $(this).attr("src", $(this).attr('data-src'))
+                    })
 
-                //start
+                    //start
 
-                setTimeout(function() {
+                    setTimeout(function () {
 
-                    $('footer').append(`<script src="assets/js/custom.js"><\/script>`);
+                        $('footer').append(`<script src="assets/js/custom.js"><\/script>`);
 
-                }, 1300);
+                    }, 1300);
 
-                //end
+                    //end
 
+                }
             }
+            //Script Ended
         }
-        //Script Ended
-    }
-    let isloading = false;
-    $(document).mousemove(removeLoading)
-    $(document).on("touchmove", removeLoading)
-    setInterval(removeLoading, 14000);
+        let isloading = false;
+        $(document).mousemove(removeLoading)
+        $(document).on("touchmove", removeLoading)
+        setInterval(removeLoading, 14000);
     </script>
 </body>
 

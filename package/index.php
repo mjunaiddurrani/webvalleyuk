@@ -56,6 +56,31 @@
         background: #042048;
         animation: header .7s ease-in-out;
     }
+    @media only screen and (max-width:676px){
+        .main_btn.only_mobile.d-none {
+    display: flex !important;
+    justify-content: space-around;
+    margin: 60px 0 -20px 0;
+    padding: 0 !important;
+}
+
+
+
+.main_btn.only_mobile.d-none a.modalOpen.ordrrrr,.main_btn.only_mobile.d-none a.modalOpen2.ordrrrr {
+    background: linear-gradient(to right, #2b5876 0, #4e4376 100%);
+    border: none;
+    padding: 10px 17px;
+    color: #fff;
+    box-shadow: none;
+    border-radius: 3px;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    width: 41%;
+    text-align: center;
+}
+    }
     </style>
 </head>
 
@@ -92,7 +117,7 @@
                                 <h6><span class="old">£<?= $package->amount *2 ?></span><?= $package->amount ?>
                                     <!-- <b>USD</b> --><span><b class="monthss"></b><?= $package->description ?></span>
                                 </h6>
-                                <a href="tel:+4402038087061" class="ordrrrr ">Order Now</a>
+                                <a href="javascript:;" class="modalOpen ordrrrr ">Order Now</a>
 
                                 <div class="actions row">
                                     <div class="col-md-5 col-xs-6">
@@ -123,6 +148,10 @@
                                             <?php endforeach;?>
 
                                         </ul>
+                                        <div class="main_btn only_mobile d-none">
+                                        <a href="javascript:;" class="modalOpen ordrrrr ">Get Started</a>
+                                        <a href="tel:+44 2038 856237" class="modalOpen2 ordrrrr ">Contact </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

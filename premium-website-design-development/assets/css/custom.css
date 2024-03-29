@@ -8105,7 +8105,10 @@ section.market-value ul li {
 
 
 
-
+.mt-3.view_detail a {
+  color: black;
+  font-weight: 700;
+}
 
 
 /*screen section */
