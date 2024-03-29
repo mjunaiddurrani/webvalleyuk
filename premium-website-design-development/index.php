@@ -2,10 +2,10 @@
 <html lang="en">
 
 <head>
-    <title>The Website Masters: #1 Web Design & Development Agency in the UK</title>
+    <title>Website Valley UK: #1 Web Design & Development Agency in the UK</title>
     <meta name="description"
-        content="Bridging the gap between creative IT solutions and disruptive web designs, The Website Masters offers you the expertise of the UK’s top website and application developers.">
-    <meta name="keywords" content="Website Development, Application Development, The Website Masters">
+        content="Bridging the gap between creative IT solutions and disruptive web designs, Website Valley UK offers you the expertise of the UK’s top website and application developers.">
+    <meta name="keywords" content="Website Development, Application Development, Website Valley UK">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="assets/images/favicon.webp" type="image/png">
@@ -13,7 +13,7 @@
         integrity="sha512-NZ19NrT58XPK5sXqXnnvtf9T5kLXSzGQlVZL9taZWeTBtXoN3xIfTdxbkQh6QSoJfJgpojRqMfhyqBAAEeiXcA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="assets/css/custom.css" rel="stylesheet">
-    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="../favicon.png" type="image/x-icon" />
     <style>
     .test_slider:not(.slick-initialized)>div {
         display: none;
@@ -51,7 +51,7 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-6 text-right">
                     <div class="header_contact for-mm-4">
                         <ul class="d-flex mb-0 justify-content-end">
-                            <li><a href="tel:+44 74 1837 6703" class="header_cta btn_theme">Call Now</a></li>
+                            <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
                             <li><a href="javascript:;" class="header_cta btn_theme popupBtn">Get a
                                     Quote</a></li>
                         </ul>
@@ -80,7 +80,7 @@
                                             technologies in the industry to help you boost your business.</p>
                                         <div class="header_contact">
                                             <ul class="d-flex mb-0 justify-content-start">
-                                                <li><a href="tel:+44 74 1837 6703" class="header_cta btn_theme">Call
+                                                <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call
                                                         Now</a></li>
                                                 <li><a href="javascript:;" class="header_cta btn_theme popupBtn">Get a
                                                         Quote</a></li>
@@ -91,7 +91,7 @@
                                                 <div class="row">
                                                     <div class="col-md-12">
                                                         <ul>
-                                                            <li><img src="../images/tdf-logo-2.webp" width="65"
+                                                            <li><img src="assets/images/tdf-logo-2.webp" width="65"
                                                                     height="48" alt=""></li>
                                                             <li><img class="lazy" src="assets/images/slide_fold6.webp"
                                                                     alt="image"
@@ -116,8 +116,8 @@
                                                 <div class="sec_head text-center cont">
                                                     <h5 style="font-size:20px; line-height:25px;">Get An Expert
                                                         Consultation <br> And Avail Upto 50% Discount</h5>
-                                                    <p style="color:#68bef1;">or Call Now <a href="tel:+44 74 1837 6703"
-                                                            style="color: #68bef1;">+44 74 1837 6703</a></p>
+                                                    <p style="color:#68bef1;">or Call Now <a href="tel:+44 2038 856237"
+                                                            style="color: #68bef1;">+44 2038 856237</a></p>
                                                 </div>
                                             </div>
                                             <div class="col-lg-12">
@@ -254,7 +254,7 @@
                         yourself.</p>
                 </div>
                 <div class="custom_tabbing_wrpp">
-                    <ul class="d-flex align-items-center gap-1 justify-content-center my-5">
+                    <!-- <ul class="d-flex align-items-center gap-1 justify-content-center my-5">
                         <li data-tab="organic" class="curr-tab">Website Design </li>
                         <li data-tab="digital">Logo Design </li>
                         <li data-tab="website">Branding </li>
@@ -268,58 +268,80 @@
                         <li data-tab="food">Food</li>
                         <li data-tab="health">Health</li>
                         <li data-tab="non-profit">Non Profit</li>
-                    </ul>
+                    </ul> -->
                     <div class="cus-tabs organic curr-tab">
-                        <div class="row ">
-                            <div class="col-md-3">
-                                <a href="../images/home/portfolio/website/1.webp" data-fancybox="demo">
-                                    <img class="lazy" src="../images/home/portfolio/website/1.webp" alt="">
+                        <div class="row p-5">
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/1.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/1.jpg" alt="">
                                 </a>
                             </div>
-                            <div class="col-md-3">
-                                <a href="../images/home/portfolio/website/2.webp" data-fancybox="demo">
-                                    <img class="lazy" src="../images/home/portfolio/website/2.webp" alt="">
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/2.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/2.jpg" alt="">
                                 </a>
                             </div>
-                            <div class="col-md-3">
-                                <a href="../images/home/portfolio/website/3.webp" data-fancybox="demo">
-                                    <img class="lazy" src="../images/home/portfolio/website/3.webp" alt="">
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/3.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/3.jpg" alt="">
                                 </a>
                             </div>
-                            <div class="col-md-3">
-                                <a href="../images/home/portfolio/website/4.webp" data-fancybox="demo">
-                                    <img class="lazy" src="../images/home/portfolio/website/4.webp" alt="">
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/4.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/4.jpg" alt="">
                                 </a>
                             </div>
-                            <div class="col-md-3">
-                                <a href="../images/home/portfolio/website/5.webp" data-fancybox="demo">
-                                    <img class="lazy" src="../images/home/portfolio/website/5.webp" alt="">
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/5.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/5.jpg" alt="">
                                 </a>
                             </div>
-                            <div class="col-md-3">
-                                <a href="../images/home/portfolio/website/6.webp" data-fancybox="demo">
-                                    <img class="lazy" src="../images/home/portfolio/website/6.webp" alt="">
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/6.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/6.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/7.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/7.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/8.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/8.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/9.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/9.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/10.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/10.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/11.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/11.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="col-md-4 mb-5">
+                                <a href="assets/images/shopify/12.jpg" data-fancybox="demo">
+                                    <img class="lazy" src="assets/images/shopify/12.jpg" alt="">
                                 </a>
                             </div>
 
-                            <div class="header_contact for-mm-6 mt-5 mb-2" style="margin-top: 30px !important;">
+                            <!-- <div class="header_contact for-mm-6 mt-5 mb-2" style="margin-top: 30px !important;">
                                 <ul class="d-flex mb-0 justify-content-center">
                                     <li><a data-bs-toggle="collapse" href="#collapseExample" role="button"
                                             aria-expanded="false" aria-controls="collapseExample"
                                             class="header_cta btn_theme">View More</a></li>
                                 </ul>
-                            </div>
+                            </div> -->
 
-                            <div class="col-md-3 collapse colllll-00" id="collapseExample">
-                                <a href="../images/home/portfolio/website/7.webp" data-fancybox="demo">
-                                    <img class="lazy" src="../images/home/portfolio/website/7.webp" alt="">
-                                </a>
-                            </div>
-                            <div class="col-md-3 collapse colllll-00" id="collapseExample">
-                                <a href="../images/home/portfolio/website/8.webp" data-fancybox="demo">
-                                    <img class="lazy" src="../images/home/portfolio/website/8.webp" alt="">
-                                </a>
-                            </div>
+                            
+                            
                         </div>
                     </div>
                     <div class="cus-tabs digital">
@@ -954,7 +976,7 @@
             </div>
             <div class="header_contact mt-5 tterr">
                 <ul class="d-flex mb-0 justify-content-center">
-                    <li><a href="tel:+44 74 1837 6703" class="header_cta btn_theme">Call Now</a></li>
+                    <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
                     <li><a href="javascript:;" onclick="setButtonURL();" class="header_cta btn_theme popupBtn">Get a
                             Quote</a></li>
                 </ul>
@@ -995,7 +1017,7 @@
                                 perfect website that both; you and your clients, will fall in love with.</p>
                             <div class="header_contact">
                                 <ul class="d-flex mb-0 justify-content-start">
-                                    <li><a href="tel:+44 74 1837 6703" class="header_cta btn_theme">Call Now</a></li>
+                                    <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
                                     <li><a href="javascript:;" onclick="setButtonURL();"
                                             class="header_cta btn_theme popupBtn">Get a Quote</a></li>
                                 </ul>
@@ -1028,7 +1050,7 @@
                                 personal playgrounds such as WordPress, React, Angular, Shopify and more!</p>
                             <div class="header_contact">
                                 <ul class="d-flex mb-0 justify-content-start">
-                                    <li><a href="tel:+44 74 1837 6703" class="header_cta btn_theme">Call Now</a></li>
+                                    <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
                                     <li><a href="javascript:;" onclick="setButtonURL();"
                                             class="header_cta btn_theme popupBtn">Get a Quote</a></li>
                                 </ul>
@@ -1079,7 +1101,7 @@
                                 innovation and an open-minded approach to the industry’s changing standards.</p>
                             <div class="header_contact">
                                 <ul class="d-flex mb-0 justify-content-start">
-                                    <li><a href="tel:+44 74 1837 6703" class="header_cta btn_theme">Call Now</a></li>
+                                    <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
                                     <li><a href="javascript:;" onclick="setButtonURL();"
                                             class="header_cta btn_theme popupBtn">Get a Quote</a></li>
                                 </ul>
@@ -1167,7 +1189,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 74 1837 6703">+44 74 1837 6703</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1251,7 +1273,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 74 1837 6703">+44 74 1837 6703</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1371,7 +1393,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 74 1837 6703">+44 74 1837 6703</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1513,7 +1535,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 74 1837 6703">+44 74 1837 6703</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1657,7 +1679,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 74 1837 6703">+44 74 1837 6703</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1869,7 +1891,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 74 1837 6703">+44 74 1837 6703</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -2233,7 +2255,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 74 1837 6703">+44 74 1837 6703</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -2245,7 +2267,7 @@
             </div>
         </div>
     </section>
-    <!-- <section class="comboopack">
+    <section class="comboopack">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -2255,11 +2277,11 @@
                                 <img src="img/images-discount50.png" data-src="assets/images/images-discount50.png"
                                     class="myLazy">
                             </figure>
-                            <h3>Customized web portal <span>Professional Combo</span></h3>
+                            <h3 class="m-0">Customized web portal <span>Professional Combo</span></h3>
                             <div class="price ">
                                 <h2 class="first-color font-40 p-0 m-0"
                                     style="font-size:45px !important; color:#fff !important;">£7000 <del
-                                        class="text-white font-20" style="color:#000 !important;">£14000</del></h2>
+                                        class="text-white font-20" style="color: #ec1f1f !important; font-size: 20px;">£14000</del></h2>
                                 <p class=" mb-0 font-16">50% Discounted Price</p>
                             </div>
                         </div>
@@ -2332,8 +2354,7 @@
                                         </p>
                                     </div>
                                     <div class="col-lg-3">
-                                        <a class="numbercta btn-phone btn-theme" href="tel:+447418376703">+44 74 1837
-                                            6703</a>
+                                        <a class="numbercta btn-phone btn-theme" href="tel:+44 2038 856237">+44 2038 856237</a>
                                     </div>
                                     <div class="col-lg-3">
                                         <a class="chatcta liveChat btn-theme" href="javascript:;">Live Chat</a>
@@ -2350,7 +2371,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
     <style>
     a.chatcta,
     a.numbercta,
@@ -2385,12 +2406,12 @@
     .comboopack .combopackwrap .headdd figure {
         position: absolute;
         margin-bottom: 0;
-        right: 40px;
-        top: 20px;
+        right: -70px;
+        top: -10px;
     }
 
     .comboopack .combopackwrap .headdd figure img {
-        width: 185px;
+        width: 230px;
     }
 
     .comboopack .combopackwrap .headdd h3 {
@@ -2931,13 +2952,13 @@
     </style>
 
     <!-- WHY SEC STRT -->
-    <section class="why_sec mt-5">
+    <section class="why_sec">
         <div class="container">
             <div class="row mb-5">
                 <div class="col-lg-6 centerCol">
                     <div class="sec_head text-center">
                         <h5 class="wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.9s">Why</h5>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="0.9s">The Website Masters?
+                        <h2 class="wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="0.9s">Website Valley UK?
                         </h2>
                         <p class="pe-5 wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="0.9s">Do you want to know
                             why we’re the best choice for you? <br> Because we’re not just your developers. <br>
@@ -3079,15 +3100,14 @@
                         <div class="theme_heading">
                             <div class="sec_head">
                                 <h5>Outplay Your Competition with </h5>
-                                <h2>The Website Masters</h2>
+                                <h2>Website Valley UK</h2>
                                 <p>Our dedication to perfection fuels our pursuit of excellence on all fronts. At
-                                    The Website Masters, you’re not just another anonymous number; you’re a Mate!</p>
+                                    Website Valley UK, you’re not just another anonymous number; you’re a Mate!</p>
                             </div>
                             <ul class="conatc-det">
-                                <li><i class="fa-sharp fa-solid fa-phone"></i> <a href="tel:+44 74 1837 6703">+44 74
-                                        1837 6703</a></li>
+                                <li><i class="fa-sharp fa-solid fa-phone"></i> <a href="tel:+44 2038 856237">+44 2038 856237</a></li>
                                 <li><i class="fa-solid fa-envelope"></i> <a
-                                        href="mailto:info@thewebsitemasters.co.uk">info@thewebsitemasters.co.uk</a></li>
+                                        href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
                                 <li><i class="fa-sharp fa-solid fa-location-dot"></i> <a href="javascript:void(0)">86-90
                                         Paul Street,
                                         London, England, United Kingdom, EC2A 4NE</a></li>
@@ -3207,7 +3227,7 @@
                             <div>
                                 <div class="testi_slide">
 
-                                    <p>A week after I approached The Website Masters, I was given complete control of
+                                    <p>A week after I approached Website Valley UK, I was given complete control of
                                         the
                                         website. I made a few changes, but nothing too drastic. The folks did a fabulous
                                         job with it.</p>
@@ -3237,7 +3257,7 @@
                             <div>
                                 <div class="testi_slide">
 
-                                    <p>A friend recommended me The Website Masters, and the options and possibilities
+                                    <p>A friend recommended me Website Valley UK, and the options and possibilities
                                         they
                                         provided me were a bit overwhelming, but in a good way.</p>
                                     <ul class="stars">
@@ -3285,7 +3305,7 @@
 
                                     <p>My original website was filled with bugs and it kept crashing because of the
                                         traffic I received. My sales have been gradually growing so it was time I had it
-                                        made professionally. I reached out to The Website Masters and they handled
+                                        made professionally. I reached out to Website Valley UK and they handled
                                         everything for me. They provided me with mockups and sample content along with a
                                         few UI options. All in just over a week and before I know it, my website was
                                         ready and better than ever. It was a pleasant experience. They did a great job.
@@ -3318,7 +3338,7 @@
                             <div>
                                 <div class="testi_slide">
 
-                                    <p>I have 4 different brands running right now and The Website Masters has designed
+                                    <p>I have 4 different brands running right now and Website Valley UK has designed
                                         all
                                         their websites. I recommend them cause they’re professional and efficient and
                                         kept me in the loop and they’re suggestions are based on experience and logic.
@@ -3364,7 +3384,7 @@
                                 <div class="testi_slide">
 
                                     <p>My website recently started getting more traffic so I figured it was the perfect
-                                        time to market my business. The Website Masters helped me with the revamp, which
+                                        time to market my business. Website Valley UK helped me with the revamp, which
                                         included redoing the interface and the content along with a few visual changes
                                         in the palette. They did a fantastic job overall.</p>
                                     <ul class="stars">
@@ -3394,7 +3414,7 @@
                             <div>
                                 <div class="testi_slide">
 
-                                    <p>I signed up with The Website Masters around 4 days ago and the designs just blew
+                                    <p>I signed up with Website Valley UK around 4 days ago and the designs just blew
                                         my
                                         mind. They were edgy and aesthetic, just what a fashion website needs. Highly
                                         recommended.</p>
@@ -3410,7 +3430,7 @@
                             <div>
                                 <div class="testi_slide">
 
-                                    <p>The Website Masters has some of the most creative minds in the industry. As an
+                                    <p>Website Valley UK has some of the most creative minds in the industry. As an
                                         investor, I’ve worked with my fair share of web developers and Eric and his team
                                         are in my top 5. They check all the boxes, they’re responsive, efficient,
                                         professional and vocal about their ideas along with being considerate of their
@@ -3461,7 +3481,7 @@
                             <div>
                                 <div class="testi_slide">
 
-                                    <p>I really enjoyed working with The Website Masters, it was a refreshing experience
+                                    <p>I really enjoyed working with Website Valley UK, it was a refreshing experience
                                         and
                                         I learned a lot about how the entire thing works. I’m a bit curious by nature by
                                         Adam was kind enough to not mind my nagging. Really a great guy.</p>
@@ -3507,7 +3527,7 @@
                                 <div class="testi_slide">
 
                                     <p>My major concern with digital agencies is with their unresponsive behavior, but
-                                        that wasn’t a problem at The Website Masters. They were communicative the entire
+                                        that wasn’t a problem at Website Valley UK. They were communicative the entire
                                         time.</p>
                                     <ul class="stars">
                                         <li><i class="fa-solid fa-star"></i></li>
@@ -3522,7 +3542,7 @@
                                 <div class="testi_slide">
 
                                     <p>Pursuing a career as an nft digital artist is no easy feat, and to further grow,
-                                        I needed to move further than social media, The Website Masters helped me with
+                                        I needed to move further than social media, Website Valley UK helped me with
                                         my
                                         website and its optimization and just 2 days ago I sold my first piece on my
                                         website!</p>
@@ -3581,7 +3601,7 @@
                             <div>
                                 <div class="testi_slide">
 
-                                    <p>I reached out to The Website Masters for a shopify website for my ecommerce
+                                    <p>I reached out to Website Valley UK for a shopify website for my ecommerce
                                         business and they
                                         delivered it in just 3 days. I was expecting it to be shallow and riddled with
                                         bugs but I was very wrong. Really efficient and responsive.</p>
@@ -3597,7 +3617,7 @@
                             <div>
                                 <div class="testi_slide">
 
-                                    <p>The developers at The Website Masters put all their effort in every project and
+                                    <p>The developers at Website Valley UK put all their effort in every project and
                                         it
                                         really shows. So far I’ve had websites developed using wordpress, shopify, react
                                         and angular and every one of them was just as good as the last.</p>
@@ -3643,18 +3663,17 @@
                 <div class="col-lg-4 col-md-4">
                     <h3>Contact Info</h3>
                     <ul class="conatact_list">
-                        <li><i class="fa-light fa-location-dot"></i> <a href="javascript:void(0)">86-90 Paul Street,
-                                London, England, United Kingdom, EC2A 4NE</a></li>
+                        <li><i class="fa-light fa-location-dot"></i> <a href="javascript:void(0)">54 park avenue barking, Essex, IG11 8QU, UK</a></li>
                         <li><i class="fa-light fa-envelope"></i> <a
                                 href="mailto:info@thewebsitemasters.co.uk">info@thewebsitemasters.co.uk</a></li>
-                        <li><i class="fa-light fa-phone"></i> <a href="tel:+44 74 1837 6703">+44 74 1837 6703</a></li>
+                        <li><i class="fa-light fa-phone"></i> <a href="tel:+44 2038 856237">+44 2038 856237</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-4">
 
                     <h3>Social Media</h3>
                     <div class="template-demo">
-                        <a href="https://www.facebook.com/thewebsitemastersuk" target="_blank"
+                        <a href="javascripts:;"
                             class="btn btn-social-icon btn-twitter btn-rounded align-items-center d-inline-flex justify-content-center"><i
                                 class="fa fa-facebook fa-lg"></i></a>
                         <!-- <a href="https://www.instagram.com/thewebsitemasters_official/" target="_blank"
@@ -3679,7 +3698,7 @@
 
                         <div class="copyright text-right">
 
-                            <strong>© 2024 Copyright The Website Masters</strong>
+                            <strong>© 2024 Copyright Website Valley UK</strong>
 
                         </div>
 
@@ -3732,7 +3751,7 @@
     <a href="https://wa.me/+447451293263?text=" class="float" target="_blank">
         <i class="fa fa-whatsapp my-float"></i>
     </a>
-    <a href="tel:+447418376703" class="callusnow float"><i class="fa fa-phone" style="margin-top: 13px;"></i></a>
+    <a href="tel:+44 2038 856237" class="callusnow float"><i class="fa fa-phone" style="margin-top: 13px;"></i></a>
     <!-- cursor -->
 
     <div class="ball"></div>
@@ -3740,7 +3759,7 @@
     <!-- End cursor -->
     <div class="bg-overlay" style="display: none;">
         <div style="display: inline-block;" class="popupform1" id="popupform1">
-            <h2>ACTIVATE YOUR The Website Masters COUPON TO AVAIL UPTO 50% DISCOUNT!</h2>
+            <h2>ACTIVATE YOUR Website Valley UK COUPON TO AVAIL UPTO 50% DISCOUNT!</h2>
             <p style="text-decoration:underline;"><strong>LAST 9 COUPON LEFT</strong></p>
             <form action="/leads/" method="POST" style="    padding-left: 50px;">
                 <input type="hidden" name="route">

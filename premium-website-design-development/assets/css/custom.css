@@ -403,8 +403,7 @@ textarea {
 
 /*header css start */
 .main_logo img {
-  width: 160px;
-  filter: invert(1);
+  width: 460px;
 }
 
 .header_cta.theme-btn {
