@@ -44,8 +44,8 @@
     <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/api.class.php');?>
 
     <?php 
-$api = new Api;
- $data = $api->hit('GET','http://127.0.0.1:8000/api/packages/websitevalley.co.uk');
+// $api = new Api;
+//  $data = $api->hit('GET','http://127.0.0.1:8000/api/packages/websitevalley.co.uk');
 
 //  echo "<pre>"; 
 //  print_r($pacakges->package_categories);
@@ -66,7 +66,7 @@ $api = new Api;
                 <div class="col-lg-12">
                     <ul class="nav nav-pills">
                         <?php 
-                        $pacakges = $pacakges->package_categories;
+                        // $pacakges = $pacakges->package_categories;
               $categoryCounter = 0;
               foreach($pacakges as $category):?>
 

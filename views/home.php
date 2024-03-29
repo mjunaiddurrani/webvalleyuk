@@ -280,7 +280,7 @@
             $categoryCounter = 0;
 
             // var_dump($pacakges); die;
-            $pacakges = $pacakges->package_categories;
+            // $pacakges = $pacakges->package_categories;
             foreach ($pacakges as $category) : ?>
             <li><a data-toggle="pill" href="#pills-web-<?= $category->id ?>"
                 class="<?= ($categoryCounter == 0 ? 'active show' : '') ?>"><?= $category->name ?></a></li>

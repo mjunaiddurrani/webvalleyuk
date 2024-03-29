@@ -2,8 +2,10 @@
 <html lang="en">
 
 <head>
+<!-- <pre> -->
+<?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php');?>
 
-    <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/head.php') ?>
+
     <?php
         $url = $_SERVER['REQUEST_URI'];
         $urlPrams = explode('/',$url);
@@ -11,25 +13,32 @@
         $category =$urlPrams[count($urlPrams)-2];
         $packageSlug = $urlPrams[count($urlPrams)-1];
 
-        // var_dump($parentCat);die;
-
-        // $packageArray = (array)$pacakges->$category->packagesArray;
-        // $package = $packageArray[$packageSlug];
-        // if($parentCat != "package"){
-        //     $packageArray = (array)$pacakge->$parentCat->children->$category->package;
-            
-        // }else{
-        //     $packageArray = (array)$pacakge->$category;
-
-        // }
+        // var_dump((array)$pacakges->$category->packages);die;
         
-        // $package = $packageArray[$packageSlug];
+
+        
+        $packageArray = (array)$pacakges->$category->packages;
+        
+        $package = $packageArray[$packageSlug];
+
+         if($parentCat != "package"){
+             $packageArray = (array)$pacakge->$parentCat->children->$category->package;
+            
+         }
+        //  else{
+        //     var_dump($package);die;
+        //      $packageArray = (array)$package->$category;
+        //  };
+        
+        //  var_dump($packageArray);die;
+        
+        //  $package = $packageArray[$packageSlug];
 
     ?>
 
-    <title><?= $package->heading ?>| Website Valley </title>
+    <title><?=$package->heading;?>| Website Valley </title>
     <meta name="description"
-        content="<?= $package->heading ?> package allows live conferencing features and tailored client/user dashboards with a strong semi-automated admin panel.">
+        content="<?=$package->heading;?> package allows live conferencing features and tailored client/user dashboards with a strong semi-automated admin panel.">
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -66,11 +75,11 @@
 
         <div class="works-wrap">
 
-            <section class="subscribe-fold sec-padding-60 d-none ">
+            <section class="subscribe-fold sec-padding-60  ">
 
                 <div class="container">
                     <div class="col-md-12">
-                        <h1 class="myheading"><?= $package->heading ?></h1>
+                        <h1 class="myheading"><?=$package->heading;?></h1>
 
                         <!-- <p class="mytext">Subscription Fee 4 Months £2599 - 30% OFF 5 Keywords</p> -->
                     </div>
@@ -79,7 +88,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-4">
                             <div class="subs-pac bronze ">
-                                <h3><?= $package->heading ?></h3>
+                                <h3><?= $package->heading;?></h3>
                                 <h6><span class="old">£<?= $package->amount *2 ?></span><?= $package->amount ?>
                                     <!-- <b>USD</b> --><span><b class="monthss"></b><?= $package->description ?></span>
                                 </h6>
