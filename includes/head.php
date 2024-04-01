@@ -47,7 +47,8 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
 <link rel="icon" href="favicon.png" type="image/x-icon" />
 <link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
 <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-
+<link href="https://cdn.jsdelivr.net/npm/smartwizard@5/dist/css/smart_wizard_all.min.css" rel="stylesheet"
+    type="text/css" />
 
 
 

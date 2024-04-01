@@ -117,7 +117,7 @@
                                 <h6><span class="old">£<?= $package->amount *2 ?></span><?= $package->amount ?>
                                     <!-- <b>USD</b> --><span><b class="monthss"></b><?= $package->description ?></span>
                                 </h6>
-                                <a href="javascript:;" class="modalOpen ordrrrr ">Order Now</a>
+                                <a href="javascript:;" class="btn-theme-outline  ordrrrr ">Order Now</a>
 
                                 <div class="actions row">
                                     <div class="col-md-5 col-xs-6">
@@ -235,13 +235,13 @@
 
 
 
-
-
         <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/footer.php');?>
         <!-- <script src="../assets/js/mlib.js"></script> 
-<script src="../assets/js/jquery.cookie.js" defer></script>  -->
+        <script src="../assets/js/jquery.cookie.js" defer></script>  -->
         <?php include_once($_SERVER['DOCUMENT_ROOT'].'/includes/scripts.php');?>
         <script src="/js/functions.js" defer></script>
+       
+
 </body>
 
 </html>

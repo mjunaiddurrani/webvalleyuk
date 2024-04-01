@@ -2685,7 +2685,7 @@ ul.myticks.uui li {
     top: 24px
 }
 
-.form-box-main form input[type=checkbox]:not(old)+label,
+/* .form-box-main form input[type=checkbox]:not(old)+label,
 input[type=radio]:not(old)+label {
     display: inline-block;
     margin-left: -28px;
@@ -2695,7 +2695,7 @@ input[type=radio]:not(old)+label {
     font-weight: 500;
     font-size: 14px;
     color: #5b6b7f
-}
+} */
 
 .form-box-main form input[type=checkbox]:not(old):checked+label {
     background-position: 0 -24px
