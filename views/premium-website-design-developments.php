@@ -1276,7 +1276,7 @@ if (isset($_SERVER['HTTPS'])) {
           <ul class="linkinglist">
             <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
             <li><a href="tel:+442038856237">+44 2038 087061</a></li>
-            <li><a class="address">Address: 54 park avenue barking, Essex, IG11 8QU, UK</a></li>
+            <li><a class="address">Address: 156 Tottenham Ct Rd London, England</a></li>
             
             <div class="dmca">
             <a href="//www.dmca.com/Protection/Status.aspx?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=e8023e7e-ce1b-46c1-bf63-1c0fcb4ff438"  alt="DMCA.com Protection Status" /></a> 

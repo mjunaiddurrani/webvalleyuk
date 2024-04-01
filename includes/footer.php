@@ -38,7 +38,7 @@
                     <ul class="linkinglist">
                         <li><a href="tel:+44 2038 856237">+44 2038 856237</a></li>
                         <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
-                        <li><a class="address"> 54 park avenue barking, Essex, IG11 8QU, UK</a></li>
+                        <li><a class="address"> 156 Tottenham Ct Rd London, England</a></li>
                         <!-- <li><a class="address"> 104 Meads Lane, Ilford IG3<br> 8PE, UK</a></li> -->
                     </ul>
                     <!-- <ul class="scalmdia">

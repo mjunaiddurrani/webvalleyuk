@@ -149,7 +149,7 @@
 
                                         </ul>
                                         <div class="main_btn only_mobile d-none">
-                                        <a href="javascript:;" class="modalOpen ordrrrr ">Get Started</a>
+                                        <a href="tel:+44 2038 856237" class="modalOpen2 ordrrrr ">Get Started</a>
                                         <a href="tel:+44 2038 856237" class="modalOpen2 ordrrrr ">Contact </a>
                                         </div>
                                     </div>
@@ -186,7 +186,7 @@
                                         <span class="icon-location"></span>
                                     </div>
                                     <div class="textpart">
-                                        <p> 54 park avenue barking, Essex, IG11 8QU, UK</p>
+                                        <p> 156 Tottenham Ct Rd London, England</p>
                                     </div>
                                 </div>
                             </li>

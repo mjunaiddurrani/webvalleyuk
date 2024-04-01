@@ -2,7 +2,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /***** General CSS *****/
-
+@font-face {
+  font-family: 'icomoon';
+  src: url('path_to_icomoon_font/icomoon.eot');
+  src: url('path_to_icomoon_font/icomoon.eot?#iefix') format('embedded-opentype'),
+       url('path_to_icomoon_font/icomoon.woff') format('woff'),
+       url('path_to_icomoon_font/icomoon.ttf') format('truetype'),
+       url('path_to_icomoon_font/icomoon.svg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 body {
   word-break: break-word;
   font: 15px/25px 'Outfit', sans-serif;
@@ -305,17 +314,21 @@ textarea {
   justify-content: center;
 }
 
-.cus-tabs a::after {
-  position: absolute;
-  content: "";
-  color: #fff;
-  font-size: 20px;
+.cus-tabs a:hover::after {
   font-weight: 500;
   text-transform: uppercase;
-  font-family: Outfit;
-  transition: .3s ease-in-out;
-  transform: scale(0);
-  z-index: 2
+  position: absolute;
+  content: "\f002";
+  font-family: 'Font Awesome 6 Pro';
+  left: 0;
+  top: 40%;
+  z-index: 91;
+  color: #fa130d;
+  display: flex;
+  right: 0;
+  margin: auto;
+  font-size: 40px;
+  justify-content: center;
 }
 
 .for-mm-6 {
@@ -349,10 +362,10 @@ textarea {
   transition: .3s ease-in-out
 }
 
-.cus-tabs a:hover img {
+/* .cus-tabs a:hover img {
   object-position: center bottom;
   transition: 1s ease-in-out .3s
-}
+} */
 
 .saas-app .nav-tabs button {
   height: 65px;
@@ -403,7 +416,8 @@ textarea {
 
 /*header css start */
 .main_logo img {
-  width: 460px;
+  width: 560px;
+  filter: invert(0) brightness(460.5);
 }
 
 .header_cta.theme-btn {
@@ -756,6 +770,8 @@ header {
 
 .main_slider {
   position: relative;
+  background: #042048;
+  padding: 110px 0 50px 0;
 }
 
 .main_slider:after {
@@ -1303,11 +1319,12 @@ ul.conatc-det>li a {
 }
 
 .speak-form {
-  padding: 20px;
-  background: #fff;
-  border-radius: 10px;
-  box-shadow: 7px 4px 9px 0 #00000047;
   position: relative;
+  padding: 20px;
+  border-radius: 17px;
+  box-shadow: 1px -2px 17px #68bef1;
+  background: white;
+  margin: 10px 0 0 0;
 }
 
 .speak-form input,
@@ -1720,7 +1737,7 @@ ul.social a {
 .footer_logo {
   width: 55%;
   margin: 0 0 20px 0;
-  filter: invert(1);
+  /* filter: invert(1); */
 }
 
 /* footer  */
@@ -8090,7 +8107,7 @@ section.market-value ul li {
   display: inline-block;
   padding: 0 10px;
 }
-.best-seller::before{
+/* .best-seller::before{
   content: '';
   width: 105px;
   height: 108px;
@@ -8101,7 +8118,7 @@ section.market-value ul li {
   background-repeat: no-repeat;
   right: -30px;
   top: -30px;
-}
+} */
 
 
 
@@ -8116,3 +8133,34 @@ section.market-value ul li {
 
 
 /*PACKAGES PAGE*/
+.price-box.popular1 {
+  position: relative;
+}
+.price-box.popular1::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: -70px;
+  left: unset;
+  right: -50px;
+  bottom: unset;
+  background: url(../images/best.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 109px;
+  height: 150px;
+  z-index: 999;
+}
+header {
+  position: absolute;
+  width: 100%;
+}
+
+.carousel-caption {
+  height: auto;
+}
+
+.isb-textwrapper h1,.isb-textwrapper p {
+  color: white !important;
+}

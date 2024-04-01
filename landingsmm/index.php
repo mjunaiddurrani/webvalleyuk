@@ -2587,7 +2587,7 @@ BUILD RELATIONSHIPS ALONG WITH YOUR OBTAINER
           <div class="d-flex align-items-center"  data-aos="fade-up" data-aos-duration="1000"> 
             <i class="fa fa-map-o" aria-hidden="true"></i>
             <span>  
-            <a href="javascript:void(0)">54 park avenue barking, Essex, IG11 8QU,  UK</a>
+            <a href="javascript:void(0)">156 Tottenham Ct Rd London, England</a>
             </span>
           </div>
         </div>

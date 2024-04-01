@@ -2,12 +2,7 @@
 <html lang="en">
 
 <head>
-    <pre>
-    <!-- <?php $packages = json_decode(file_get_contents($_SERVER['DOCUMENT_ROOT'].'/json/packages.json'));
- $packages1 = (array)$packages;
-print_r($packages1['web-design'] -> packages );
-?> -->
-</pre>
+
     <title>Website Valley UK: #1 Web Design & Development Agency in the UK</title>
     <meta name="description"
         content="Bridging the gap between creative IT solutions and disruptive web designs, Website Valley UK offers you the expertise of the UK’s top website and application developers.">
@@ -279,62 +274,62 @@ print_r($packages1['web-design'] -> packages );
                         <div class="row p-5">
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/1.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/1.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/1.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/2.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/2.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/2.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/3.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/3.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/3.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/4.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/4.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/4.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/5.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/5.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/5.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/6.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/6.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/6.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/7.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/7.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/7.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/8.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/8.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/8.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/9.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/9.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/9.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/10.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/10.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/10.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/11.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/11.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/11.0.jpg" alt="">
                                 </a>
                             </div>
                             <div class="col-md-4 mb-5">
                                 <a href="assets/images/shopify/12.jpg" data-fancybox="demo">
-                                    <img class="lazy" src="assets/images/shopify/12.jpg" alt="">
+                                    <img class="lazy" src="assets/images/shopify/12.0.jpg" alt="">
                                 </a>
                             </div>
 
@@ -1296,7 +1291,7 @@ print_r($packages1['web-design'] -> packages );
                         </div>
                     </div>
                 </div>
-                <div class="price-box popular">
+                <div class="price-box popular popular1 ">
                     <div class="box-top-section">
                         <div class="plan-name">
                             <strong>Elite Website Package</strong>
@@ -3692,8 +3687,7 @@ print_r($packages1['web-design'] -> packages );
                 <div class="col-lg-4 col-md-4">
                     <h3>Contact Info</h3>
                     <ul class="conatact_list">
-                        <li><i class="fa-light fa-location-dot"></i> <a href="javascript:void(0)">54 park avenue
-                                barking, Essex, IG11 8QU, UK</a></li>
+                        <li><i class="fa-light fa-location-dot"></i> <a href="javascript:void(0)">156 Tottenham Ct Rd London, England</a></li>
                         <li><i class="fa-light fa-envelope"></i> <a
                                 href="mailto:info@thewebsitemasters.co.uk">info@thewebsitemasters.co.uk</a></li>
                         <li><i class="fa-light fa-phone"></i> <a href="tel:+44 2038 856237">+44 2038 856237</a></li>
@@ -3789,7 +3783,7 @@ print_r($packages1['web-design'] -> packages );
     <!-- End cursor -->
     <div class="bg-overlay" style="display: none;">
         <div style="display: inline-block;" class="popupform1" id="popupform1">
-            <h2>ACTIVATE YOUR Website Valley UK COUPON TO AVAIL UPTO 50% DISCOUNT!</h2>
+            <h2>ACTIVATE YOUR COUPON TO AVAIL UPTO 50% DISCOUNT!</h2>
             <p style="text-decoration:underline;"><strong>LAST 9 COUPON LEFT</strong></p>
             <form action="/leads/" method="POST" style="    padding-left: 50px;">
                 <input type="hidden" name="route">

@@ -1479,7 +1479,8 @@ ul.myticks.uui li {
 .subscribe-fold .table-packages .body .subscription-list {
     height: 430px;
     margin-top: 20px;
-    padding: 0
+    padding: 0;
+    overflow-y: auto;
 }
 
 .mCustomScrollBox {
@@ -10238,7 +10239,9 @@ div.bub-btn {
     margin-bottom: 20px;
     clear: both;
     overflow: hidden;
-    margin: 0 10px 20px
+    margin: 0 10px 20px;
+    height: 260px;
+
 }
 
 .border-box-effect img {

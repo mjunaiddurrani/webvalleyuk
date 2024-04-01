@@ -160,7 +160,7 @@
           <div class="infopart">
             <div class="chunk">
               <h3>Headquarters</h3>
-              <p> 54 park avenue barking, Essex, IG11 8QU,  UK</p>
+              <p> 156 Tottenham Ct Rd London, England</p>
 
             </div>
             <div class="chunk">

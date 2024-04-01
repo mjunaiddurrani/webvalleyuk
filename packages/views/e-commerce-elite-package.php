@@ -248,7 +248,7 @@
                                         <span class="icon-location"></span>
                                     </div>
                                     <div class="textpart">
-                                        <p> 54 park avenue barking, Essex, IG11 8QU,  UK</p>
+                                        <p> 156 Tottenham Ct Rd London, England</p>
                                     </div>
                                 </div>
                             </li>
@@ -338,7 +338,7 @@
                             <ul class="linkinglist">
                                 <li><a href="tel:+44 2038 856237">+44 2038 856237</a></li>
                                 <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
-                                <li><a class="address"> 54 park avenue barking, Essex, IG11 8QU,  UK</a></li>
+                                <li><a class="address"> 156 Tottenham Ct Rd London, England</a></li>
                             </ul>
                             <ul class="scalmdia">
                                 <li><a href="https://www.facebook.com/websitevalleyUK/" rel="nofollow"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
