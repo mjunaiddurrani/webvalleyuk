@@ -14125,9 +14125,9 @@ p.parafloat span {
     .mprocess {
         padding: 30px 0
     }
-    .mprocess .mfig img {
+    /* .mprocess .mfig img {
         margin-left: -30px;
-    }
+    } */
     .mprocess .txtwrap h2 {
         font-size: 24px
     }
@@ -15911,4 +15911,48 @@ ul.last_one {
 ul.last_one li {
     flex: 0 0 30%;
     height: 280px;
+}
+
+
+.col-md-12.d-flex.radioText input {
+    margin: -10px 10px 0 0;
+}
+ul.firs_folrrd {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ul.firs_folrrd li {
+    flex: 0 0 29%;
+    height: 321px;
+}
+@media only screen and (max-width:676px){
+    .ttff ul li {
+        flex: 0 0 100%;
+        margin: 0 0 20px 0;
+    }
+    
+    ul.last_one li {
+        flex: 0 0 100%;
+        margin: 0 0 20px 0;
+    }
+    .col-md-12.d-flex.radioText {
+        align-items: center;
+    }
+    
+    .col-md-12.d-flex.radioText label.labels {
+        margin: 10px 0 0px 0;
+    }
+    
+    label.labels input#otherSelectionBox {
+        margin: 6px 0 10px 0;
+    }
+    ul.firs_folrrd li {
+        flex: 0 0 100%;
+        margin: 0 0 10px 0;
+    }
+    #factsTwo{
+        display: none !important;
+    }
 }

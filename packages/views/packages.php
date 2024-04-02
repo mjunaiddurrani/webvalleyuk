@@ -128,7 +128,7 @@
 
                                             <div class="col-md-12">
                                                 <a href="javascript:void(0)"data-toggle="modal" data-target="#modalForDiscount"
-                                                    class="btn-packages btn-packages2 btn-theme-outline"
+                                                    class="btn-packages btn-packages2 hello_buddy "
                                                     tabindex="0">Order Now </a>
 
                                             </div>

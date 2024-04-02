@@ -336,7 +336,7 @@
                     <div class="row">
 
                       <div class="col-md-12">
-                        <a href="javascript:void(0)" class="btn-packages btn-packages2 modalOpen"
+                        <a href="javascript:void(0)" class="btn-packages btn-packages2 hello_buddy"
                           tabindex="0">Order Now </a>
 
                       </div>

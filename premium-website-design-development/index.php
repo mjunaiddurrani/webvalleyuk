@@ -2369,7 +2369,7 @@
 
                         <section class="blackCta py-4" style="background-color:#68bef1;color:#fff">
                             <div class="container">
-                                <div class="row align-items-center">
+                                <div class="row align-items-center mobile_hai_bhae">
                                     <div class="col-lg-3 ">
                                         <p class="font-14 text-center text-lg-left">
                                             For more information speak with us
@@ -3689,7 +3689,7 @@
                     <ul class="conatact_list">
                         <li><i class="fa-light fa-location-dot"></i> <a href="javascript:void(0)">156 Tottenham Ct Rd London, England</a></li>
                         <li><i class="fa-light fa-envelope"></i> <a
-                                href="mailto:info@thewebsitemasters.co.uk">info@thewebsitemasters.co.uk</a></li>
+                                href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
                         <li><i class="fa-light fa-phone"></i> <a href="tel:+44 2038 856237">+44 2038 856237</a></li>
                     </ul>
                 </div>
@@ -3697,12 +3697,12 @@
 
                     <h3>Social Media</h3>
                     <div class="template-demo">
-                        <a href="javascripts:;"
+                        <a target="_blank" href="https://www.facebook.com/websitevalleyuk"
                             class="btn btn-social-icon btn-twitter btn-rounded align-items-center d-inline-flex justify-content-center"><i
                                 class="fa fa-facebook fa-lg"></i></a>
-                        <!-- <a href="https://www.instagram.com/thewebsitemasters_official/" target="_blank"
+                        <a href="https://www.instagram.com/websitevalley/" target="_blank"
                             class="btn btn-social-icon btn-linkedin btn-rounded align-items-center d-inline-flex justify-content-center"><i
-                                class="fa fa-instagram fa-lg"></i></a> -->
+                                class="fa fa-instagram fa-lg"></i></a>
                         <a href="https://uk.trustpilot.com/review/www.thewebsitemasters.co.uk" target="_blank"><img
                                 src="/images/trust.webp" style="width: 120px; filter: brightness(0);" alt=""></a>
                         <a href="https://www.reviews.io/company-reviews/store/www.thewebsitemasters.co.uk"
@@ -3966,6 +3966,24 @@
         $(document).on("touchmove", removeLoading)
         setInterval(removeLoading, 14000);
     </script>
+    <script>
+       
+       if (window.innerWidth < 676) {
+        $(".popupBtn").click(function() {
+        $('.bg-overlay').css('display', 'none');
+        $("#popupform1").css("display", 'none');
+        window.location.href = "tel:+44 2038 856237";
+    });
+
+
+           // Execute your code here when window size is less than 676px
+           console.log("Window size is less than 676px.");
+           // You can add your specific functionality here
+       } else {
+           console.log("Window size is greater than or equal to 676px.");
+           // You can add alternative functionality here if needed
+       }
+       </script>
 </body>
 
 </html>

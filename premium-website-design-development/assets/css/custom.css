@@ -8166,3 +8166,16 @@ header {
   border: none !important;
   box-shadow: 2px 10px 30px 10px #888888 !important;
 }
+
+@media only screen and (max-width:676px){
+  .main_logo img {
+    width: auto;
+}
+.price-box.popular1::before {
+  left: unset;
+  right: -33px;
+  width: 120px;
+  background-size: contain;
+  top: -60px;
+}
+}

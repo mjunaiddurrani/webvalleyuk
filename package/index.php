@@ -81,6 +81,14 @@
     text-align: center;
 }
     }
+    .col-md-12.d-flex.radioText {
+    align-items: center;
+    display: flex;
+}
+
+.col-md-12.d-flex.radioText input {
+    margin: -10px 10px 0 0px;
+}
     </style>
 </head>
 
@@ -148,10 +156,10 @@
                                             <?php endforeach;?>
 
                                         </ul>
-                                        <div class="main_btn only_mobile d-none">
+                                        <!-- <div class="main_btn only_mobile d-none">
                                         <a href="tel:+44 2038 856237" class="modalOpen2 ordrrrr ">Get Started</a>
                                         <a href="tel:+44 2038 856237" class="modalOpen2 ordrrrr ">Contact </a>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
