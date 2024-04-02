@@ -10235,13 +10235,11 @@ div.bub-btn {
     border-radius: 6px;
     position: relative;
     display: inline-block;
-    width: 30%;
-    margin-bottom: 20px;
     clear: both;
     overflow: hidden;
     margin: 0 10px 20px;
-    height: 260px;
-
+    height: 252px;
+    width: 28%;
 }
 
 .border-box-effect img {
@@ -15886,3 +15884,4 @@ h4.panel-title {
 .text-center {
     text-align: center !important;
 }
+

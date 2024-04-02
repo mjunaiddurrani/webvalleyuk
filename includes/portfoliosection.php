@@ -1,5 +1,5 @@
 <section class="sec-padding pricing-sec portfolion pt-0 pt-md-3">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <h2>Take A Look At Some Of Our Professional Web Agency Work.</h2>

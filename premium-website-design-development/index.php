@@ -43,7 +43,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-2 col-md-2 col-sm-6 col-6">
                     <div class="main_logo">
-                        <a href="/"><img src="assets/images/logo.webp" alt="img"></a>
+                        <a href="/"><img src="assets/images/white_logo.png" alt="img"></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 d-none d-md-block">
