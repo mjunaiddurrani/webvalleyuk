@@ -10238,8 +10238,7 @@ div.bub-btn {
     clear: both;
     overflow: hidden;
     margin: 0 10px 20px;
-    height: 252px;
-    width: 28%;
+    height: 344px;
 }
 
 .border-box-effect img {
@@ -15885,3 +15884,31 @@ h4.panel-title {
     text-align: center !important;
 }
 
+
+.portfoliolist.grid.loadmorebrand.web-design-portfolio-slider.d-none.d-md-block div ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portfoliolist.grid.loadmorebrand.web-design-portfolio-slider.d-none.d-md-block div ul li {
+    flex: 0 0 31%;
+}
+.ttff ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ttff ul li {
+    flex: 0 0 31%;
+    height: 210px;
+}
+ul.last_one {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ul.last_one li {
+    flex: 0 0 30%;
+    height: 280px;
+}

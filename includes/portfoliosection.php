@@ -992,7 +992,7 @@
                     <div id="ecom" class="tab-pane">
                         <div class="portfoliolist grid loadmoreecomm web-design-portfolio-slider d-none d-md-block">
                             <div>
-                                <ul>
+                                <ul class="last_one">
                                     <li class="border-box-effect logoportfo" data-category="transition">
                                         <a class="" data-fancybox="port" tabindex="-1"
                                             href="assets/images/shopify/ecom1.png">
