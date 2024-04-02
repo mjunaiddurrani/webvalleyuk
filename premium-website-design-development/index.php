@@ -2370,23 +2370,30 @@
                         <section class="blackCta py-4" style="background-color:#68bef1;color:#fff">
                             <div class="container">
                                 <div class="row align-items-center mobile_hai_bhae">
-                                    <div class="col-lg-3 ">
+                                    <div class="col-md-12">
+                                        <div class="glob_packages_buttonss">
+                                    <ul>
+                                        <li>
                                         <p class="font-14 text-center text-lg-left">
                                             For more information speak with us
                                         </p>
-                                    </div>
-                                    <div class="col-lg-3">
+                                        </li>
+                                        <li>
+                                            <a class="chatcta liveChat btn-theme" href="javascript:;">Live Chat</a>
+                                            
+                                        </li>
+                                        <li>
+                                            <button class="btn btn-theme btn-form popupBtn">Get a Quote</button>
+                                            
+                                        </li>
+                                        <li>
                                         <a class="numbercta btn-phone btn-theme" href="tel:+44 2038 856237">+44 2038
                                             856237</a>
-                                    </div>
-                                    <div class="col-lg-3">
-                                        <a class="chatcta liveChat btn-theme" href="javascript:;">Live Chat</a>
-                                    </div>
-                                    <div class="col-lg-3">
-                                        <div class="">
-                                            <button class="btn btn-theme btn-form popupBtn">Get a Quote</button>
+                                        </li>
+                                    </ul>
                                         </div>
                                     </div>
+                                    
                                 </div>
                             </div>
                         </section>

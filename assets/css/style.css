@@ -15942,7 +15942,7 @@ ul.firs_folrrd li {
     }
     
     .col-md-12.d-flex.radioText label.labels {
-        margin: 10px 0 0px 0;
+        margin: 0px 0 6px 0;
     }
     
     label.labels input#otherSelectionBox {
@@ -15955,4 +15955,26 @@ ul.firs_folrrd li {
     #factsTwo{
         display: none !important;
     }
+    .home-banner.d-flex.overl {
+        padding: 0 0 40px 0;
+    }
+}
+.smallbox.special-package {
+    position: relative;
+    box-shadow: 2px 10px 40px 10px #888888 !important;
+}
+
+.smallbox.special-package::after {
+    content: '';
+    display: block;
+    background: url(../images/best.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: -60px;
+    left: unset;
+    right: -70px;
+    bottom: unset;
 }

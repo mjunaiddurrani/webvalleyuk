@@ -87,8 +87,17 @@
                             <div class="smallboxes packagesslider">
 
                                 <?php foreach($category->packages as $package):?>
+                 
                                 <!-- bst-selr    use this class to make it best seller -->
-                                <div class="smallbox ">
+                                <?php
+                                        $custom_slug = $package->slug;
+                                        if(  $custom_slug == "elite-website-package"  ){
+                                            echo '<div class="smallbox special-package">';
+                                        } else{
+                                            echo '<div class="smallbox">';
+                                        }
+                                        ?>
+                           
                                     <div class="package_inner">
                                         <p class="h4 h4Heading"><?=$package->heading;?></p>
                                         <p class="h2 h2Heading"><span
