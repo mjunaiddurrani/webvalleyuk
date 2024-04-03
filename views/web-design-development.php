@@ -382,16 +382,7 @@
                         <h3 class="h2 font-29">Revamp Your Business with Professional Web Development Services </h3>
                         <p>Our team of quick and professional website developers is here to give your business the online makeover it deserves. Our reasonably priced web development services provide the perfect balance of affordability and quality, ensuring that your business is able to showcase its products and services when required. From website security to stunning layouts, we have got you covered. It is time you take your business to newer heights.
                             <span id="dots">...</span>
-                            <span id="more"> They had a Custom web design service online with affordable web design
-                                packages.They were highly cooperative and understood our brand needs first to deliver
-                                effective results. We've got our web developed by them, and we're happy to hire their
-                                cheap website design services. We got a great looking website, but they created
-                                everything within the budget and the given time.
-
-                                Website Valley was easy to work with, and we quickly understood our needs and were able
-                                to develop our new website on a short deadline. We'd continue working with them as they
-                                have been such a great help to us. We're happy to collaborate with them for our website
-                                project development and maintenance at a cheap website design services package.
+                            <span id="more">
                                 <ul class="myticks mb-5" style="display:none;" id="new-ul">
                                     <li class="text-black">Improved Exposure</li>
                                     <li class="text-black">Strong Brand Image</li>

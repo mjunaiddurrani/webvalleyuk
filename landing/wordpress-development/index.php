@@ -550,7 +550,7 @@
                                             <p>5 banners design</p>
                                             <p>1 jQuery Slider Banner</p>
                                             <p>SEO optimized HTML</p>
-                                            <p>Page Speed Optimization Social Media Integration</p>
+                                            <p>Page Speed optimisation Social Media Integration</p>
                                             <p>FREE Google Friendly Sitemap</p>
                                             <p>Unlimited Revisions</p>
                                             <p>After Sales Support</p>
@@ -591,7 +591,7 @@
                                             <p>FREE Google Friendly Sitemap</p>
                                             <p>Search Engine Submission</p>
                                             <p>SEO optimized HTML</p>
-                                            <p>Page Speed Optimization</p>
+                                            <p>Page Speed optimisation</p>
                                             <p>Industry Specified Team of Expert Designers and Developers</p>
                                             <p>Complete Deployment</p>
                                             <p>Dedicated Accounts Manager</p>

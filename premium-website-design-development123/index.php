@@ -228,7 +228,7 @@
                             <div class="ser_box wow fadeInUp" data-wow-delay="1.0s" data-wow-duration="0.9s">
                                 <img src="assets/images/custom-development.webp" alt="img" class="lazy img-fluid">
                                 <h4>Custom Development</h4>
-                                <p>Tailor to your brand’s specific identity and needs with a fully customizable
+                                <p>Tailor to your brand’s specific identity and needs with a fully customisable
                                     development plan.</p>
                             </div>
                         </div>
@@ -3194,7 +3194,7 @@
                                 <div class="testi_slide">
 
                                     <p>Adam designed my website on WordPress, and the quality is just great. The
-                                        efficiency, optimization, and the UI feels great.</p>
+                                        efficiency, optimisation, and the UI feels great.</p>
                                     <ul class="stars">
                                         <li><i class="fa-solid fa-star"></i></li>
                                         <li><i class="fa-solid fa-star"></i></li>
@@ -3524,7 +3524,7 @@
                                     <p>Pursuing a career as an nft digital artist is no easy feat, and to further grow,
                                         I needed to move further than social media, The Website Masters helped me with
                                         my
-                                        website and its optimization and just 2 days ago I sold my first piece on my
+                                        website and its optimisation and just 2 days ago I sold my first piece on my
                                         website!</p>
                                     <ul class="stars">
                                         <li><i class="fa-solid fa-star"></i></li>
@@ -3729,9 +3729,9 @@
             </div>
         </div>
     </div>
-    <a href="https://wa.me/+447451293263?text=" class="float" target="_blank">
+    <!-- <a href="https://wa.me/+447451293263?text=" class="float" target="_blank">
         <i class="fa fa-whatsapp my-float"></i>
-    </a>
+    </a> -->
     <a href="tel:+447418376703" class="callusnow float"><i class="fa fa-phone" style="margin-top: 13px;"></i></a>
     <!-- cursor -->
 
@@ -3819,19 +3819,19 @@
 
     .callusnow {
         position: fixed;
-        width: 55px;
-        height: 55px;
-        /* top: 800px; */
-        bottom: 110px;
-        left: 19px;
-        background-color: #6fbff0;
-        color: #FFF;
-        border-radius: 50px;
-        text-align: center;
-        font-size: 30px;
-        box-shadow: 2px 2px 3px #999;
-        z-index: 100;
-        animation: .7s shakeIt2 infinite alternate;
+    width: 55px;
+    height: 55px;
+    top: 860px;
+    bottom: 210px;
+    left: 19px;
+    background-color: #6fbff0;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+    animation: .7s shakeIt2 infinite alternate;
     }
 
     .callusnow:hover {

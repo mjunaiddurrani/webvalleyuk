@@ -34,7 +34,7 @@
               </li>
               <li class="nav-item" role="presentation">
                 <button class="nav-link" id="contact2-tab" data-toggle="tab" data-target="#contact2" type="button"
-                  role="tab" aria-controls="contact2" aria-selected="false">Search Engine Optimization</button>
+                  role="tab" aria-controls="contact2" aria-selected="false">Search Engine optimisation</button>
               </li>
               <li class="nav-item" role="presentation">
                 <button class="nav-link" id="contact3-tab" data-toggle="tab" data-target="#contact3" type="button"
@@ -1346,7 +1346,7 @@
                         <div class="contentScroll">
                           <p class="dot-before">5 Keywords</p>
                           <p class="dot-before">Guaranteed Ranking on Google</p>
-                          <p class="dot-before">Off-site Optimization</p>
+                          <p class="dot-before">Off-site optimisation</p>
                           <p class="dot-before">Link Building</p>
                           <p class="dot-before">Social Bookmarking</p>
                           <p class="dot-before">Basic Analytical Report</p>
@@ -1400,8 +1400,8 @@
                         <div class="contentScroll">
                           <p class="dot-before">10 Keywords</p>
                           <p class="dot-before">Guaranteed Ranking on Google</p>
-                          <p class="dot-before">Off-site Optimization</p>
-                          <p class="dot-before">On-site Optimization</p>
+                          <p class="dot-before">Off-site optimisation</p>
+                          <p class="dot-before">On-site optimisation</p>
                           <p class="dot-before">Link Building</p>
                           <p class="dot-before">Social Bookmarking</p>
                           <p class="dot-before">In-depth Site Analysis</p>
@@ -1411,17 +1411,17 @@
                           <p class="dot-before">Mobile Usability Check</p>
                           <p class="dot-before">Competition Analysis</p>
                           <p class="dot-before">Keyword Research</p>
-                          <p class="dot-before">Title &amp; Meta Tags Optimization</p>
-                          <p class="dot-before">Content Optimization</p>
-                          <p class="dot-before">Page Speed Analysis &amp; Optimization</p>
-                          <p class="dot-before">HTML Code Cleanup &amp; Optimization</p>
-                          <p class="dot-before">Internal Link Structuring &amp; Optimization
+                          <p class="dot-before">Title &amp; Meta Tags optimisation</p>
+                          <p class="dot-before">Content optimisation</p>
+                          <p class="dot-before">Page Speed Analysis &amp; optimisation</p>
+                          <p class="dot-before">HTML Code Cleanup &amp; optimisation</p>
+                          <p class="dot-before">Internal Link Structuring &amp; optimisation
                           </p>
-                          <p class="dot-before">Pages H tags Optimization</p>
+                          <p class="dot-before">Pages H tags optimisation</p>
                           <p class="dot-before">Canonicalization/301 Redirect</p>
-                          <p class="dot-before">Website Page Load Optimization</p>
+                          <p class="dot-before">Website Page Load optimisation</p>
                           <p class="dot-before">Schema Markup Implementation</p>
-                          <p class="dot-before">Image &amp; Hyperlink Optimization</p>
+                          <p class="dot-before">Image &amp; Hyperlink optimisation</p>
                           <p class="dot-before">Robots.txt Creation/Analysis</p>
                           <p class="dot-before">Blog Writing (2 - Per Month)</p>
                           <p class="dot-before">Informational Content Writing &amp; Sharing (1
@@ -1459,8 +1459,8 @@
                         <div class="contentScroll">
                           <p class="dot-before">20 Keywords</p>
                           <p class="dot-before">Guaranteed Ranking on Google</p>
-                          <p class="dot-before">Off-site Optimization</p>
-                          <p class="dot-before">On-site Optimization</p>
+                          <p class="dot-before">Off-site optimisation</p>
+                          <p class="dot-before">On-site optimisation</p>
                           <p class="dot-before">Link Building</p>
                           <p class="dot-before">Social Bookmarking</p>
                           <p class="dot-before">In-depth Site Analysis</p>
@@ -1470,20 +1470,20 @@
                           <p class="dot-before">Mobile Usability Check</p>
                           <p class="dot-before">Competition Analysis</p>
                           <p class="dot-before">Keyword Research</p>
-                          <p class="dot-before">Page Speed Analysis &amp; Optimization</p>
-                          <p class="dot-before">Title &amp; Meta Tags Optimization</p>
-                          <p class="dot-before">Content Optimization</p>
-                          <p class="dot-before">HTML Code Cleanup &amp; Optimization</p>
-                          <p class="dot-before">Internal Link Structuring &amp; Optimization
+                          <p class="dot-before">Page Speed Analysis &amp; optimisation</p>
+                          <p class="dot-before">Title &amp; Meta Tags optimisation</p>
+                          <p class="dot-before">Content optimisation</p>
+                          <p class="dot-before">HTML Code Cleanup &amp; optimisation</p>
+                          <p class="dot-before">Internal Link Structuring &amp; optimisation
                           </p>
-                          <p class="dot-before">Pages H tags Optimization</p>
+                          <p class="dot-before">Pages H tags optimisation</p>
                           <p class="dot-before">Canonicalization/301 Redirect</p>
-                          <p class="dot-before">Website Page Load Optimization</p>
+                          <p class="dot-before">Website Page Load optimisation</p>
                           <p class="dot-before">Robots.txt Creation/Analysis</p>
                           <p class="dot-before">Press Release Writing &amp; Distribution</p>
                           <p class="dot-before">Press Release Social Bookmarking</p>
                           <p class="dot-before">Schema Markup Implementation</p>
-                          <p class="dot-before">Image &amp; Hyperlink Optimization</p>
+                          <p class="dot-before">Image &amp; Hyperlink optimisation</p>
                           <p class="dot-before">Google Webmaster Tools Setup</p>
                           <p class="dot-before">Google Analytics Setup &amp; Integration</p>
                           <p class="dot-before">Blog Writing (2 - Per Month)</p>
@@ -1518,8 +1518,8 @@
                         <div class="contentScroll">
                           <p class="dot-before">30 Keywords</p>
                           <p class="dot-before">Guaranteed Ranking on Google</p>
-                          <p class="dot-before">Off-site Optimization</p>
-                          <p class="dot-before">On-site Optimization</p>
+                          <p class="dot-before">Off-site optimisation</p>
+                          <p class="dot-before">On-site optimisation</p>
                           <p class="dot-before">Link Building</p>
                           <p class="dot-before">Social Bookmarking</p>
                           <p class="dot-before">In-depth Site Analysis</p>
@@ -1529,20 +1529,20 @@
                           <p class="dot-before">Mobile Usability Check</p>
                           <p class="dot-before">Competition Analysis</p>
                           <p class="dot-before">Keyword Research</p>
-                          <p class="dot-before">Page Speed Analysis &amp; Optimization</p>
-                          <p class="dot-before">Title &amp; Meta Tags Optimization</p>
-                          <p class="dot-before">Content Optimization</p>
-                          <p class="dot-before">HTML Code Cleanup &amp; Optimization</p>
-                          <p class="dot-before">Internal Link Structuring &amp; Optimization
+                          <p class="dot-before">Page Speed Analysis &amp; optimisation</p>
+                          <p class="dot-before">Title &amp; Meta Tags optimisation</p>
+                          <p class="dot-before">Content optimisation</p>
+                          <p class="dot-before">HTML Code Cleanup &amp; optimisation</p>
+                          <p class="dot-before">Internal Link Structuring &amp; optimisation
                           </p>
-                          <p class="dot-before">Pages H tags Optimization</p>
+                          <p class="dot-before">Pages H tags optimisation</p>
                           <p class="dot-before">Canonicalization/301 Redirect</p>
-                          <p class="dot-before">Website Page Load Optimization</p>
+                          <p class="dot-before">Website Page Load optimisation</p>
                           <p class="dot-before">Robots.txt Creation/Analysis</p>
                           <p class="dot-before">Press Release Writing &amp; Distribution</p>
                           <p class="dot-before">Press Release Social Bookmarking</p>
                           <p class="dot-before">Schema Markup Implementation</p>
-                          <p class="dot-before">Image &amp; Hyperlink Optimization</p>
+                          <p class="dot-before">Image &amp; Hyperlink optimisation</p>
                           <p class="dot-before">Google Webmaster Tools Setup</p>
                           <p class="dot-before">Google Analytics Setup &amp; Integration</p>
                           <p class="dot-before">Blog Writing (2 - Per Month)</p>

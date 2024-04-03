@@ -8,7 +8,7 @@
 <head>
     <title>Our value package builds your brand authority in market</title>
 
-    <meta name="description" content="We conduct complete brand analysis to locate problem with your existing seo strategy. We create powerful backlinks, brand listing, optimization and more.">
+    <meta name="description" content="We conduct complete brand analysis to locate problem with your existing seo strategy. We create powerful backlinks, brand listing, optimisation and more.">
 
 
 
@@ -23,7 +23,7 @@
 <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Our value package builds your brand authority in market" />
-  <meta property="og:description" content="We conduct complete brand analysis to locate problem with your existing seo strategy. We create powerful backlinks, brand listing, optimization and more." />
+  <meta property="og:description" content="We conduct complete brand analysis to locate problem with your existing seo strategy. We create powerful backlinks, brand listing, optimisation and more." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
   <meta property="og:site_name" content="websitevalley" />
   <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
@@ -119,10 +119,10 @@
                                                 <h6>Meta Tags Creation</h6>
                                             </li>
                                             <li>
-                                                <h6>Keyword Optimization</h6>
+                                                <h6>Keyword optimisation</h6>
                                             </li>
                                             <li>
-                                                <h6>Image Optimization</h6>
+                                                <h6>Image optimisation</h6>
                                             </li>
                                             <li>
                                                 <h6>Inclusion of anchors</h6>
@@ -140,7 +140,7 @@
                                             <li>
                                                 <h6>Creation of Sitemaps</h6>
                                             </li>
-                                            <li class="heading">Off Page Optimization</li>
+                                            <li class="heading">Off Page optimisation</li>
                                             <li>
                                                 <h6>Social Bookmarking</h6>
                                             </li>

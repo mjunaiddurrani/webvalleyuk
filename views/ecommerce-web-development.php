@@ -185,7 +185,7 @@
               customers with an exceptional shopping experience while also benefiting from the platform's flexibility,
               scalability, and extensive feature set.</p>
             <ul class="myticks herelist" style="color:black !important;">
-              <li>Customizable Design </li>
+              <li>customisable Design </li>
               <li>Business Scalability</li>
               <li>Comprehensive ecommerce solutions</li>
               <li>Responsive design and mobile-friendly features</li>
@@ -254,8 +254,8 @@
               and security in our custom ecommerce fulfillment services. As your personalised ecommerce website
               developer, we’ll turn your vision into a profitable online store that offers an intuitive user experience
               and keeps customers coming back for more.</p>
-            <p class="font-weight-bold">Your Personalized Ecommerce Website Developer </p>
-            <p>You can call us your personalized ecommerce development services that can turn all your visions into
+            <p class="font-weight-bold">Your personalised Ecommerce Website Developer </p>
+            <p>You can call us your personalised ecommerce development services that can turn all your visions into
               operative websites. With us, you do not just create a website. Instead, you create a whole intuitive user
               experience that makes your visitors come back for more. </p>
           </div>

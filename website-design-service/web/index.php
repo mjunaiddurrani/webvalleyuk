@@ -2686,21 +2686,21 @@
                     <ul class="ticklist2 list-scroll mCustomScrollbar _mCS_21">
                       <div id="mCSB_21" class="mCustomScrollBox mCS-light-1 mCSB_vertical mCSB_inside" tabindex="0" style="max-height: 144px;">
                         <div id="mCSB_21_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
-                          <li class="heading">Campaign Setup and Optimization</li>
+                          <li class="heading">Campaign Setup and optimisation</li>
                           <li>Website Audit</li>
                           <li>Pages Optimized (10 pages) </li>
                           <li>Keyword Research</li>
                           <li>Keyword Grouping</li>
                           <li>Keyword Mapping</li>
-                          <li class="heading">On-Page Optimization</li>
+                          <li class="heading">On-Page optimisation</li>
                           <li>SEO Road Map</li>
                           <li>Blog Creation</li>
                           <li>Webpage Copywriting (3 pages, 350 words per page)</li>
-                          <li>Title Tag Optimization (10 titles)</li>
-                          <li>Meta Description Optimization (10 meta description)</li>
-                          <li>Meta Keyword Optimization (10 meta keywords)</li>
-                          <li>Domain Redirect Optimization (10 domain redirects)</li>
-                          <li>xml Sitemap Optimization</li>
+                          <li>Title Tag optimisation (10 titles)</li>
+                          <li>Meta Description optimisation (10 meta description)</li>
+                          <li>Meta Keyword optimisation (10 meta keywords)</li>
+                          <li>Domain Redirect optimisation (10 domain redirects)</li>
+                          <li>xml Sitemap optimisation</li>
                           <li>Robots.txt Check</li>
                           <li>URL Rewrites (10 URL rewrites)</li>
                           <li>Broken Link Report</li>
@@ -2777,8 +2777,8 @@
 
                           <li class="heading">Webpage</li>
                           <li>Meta Tags Creation</li>
-                          <li>Keyword Optimization </li>
-                          <li>Image Optimization </li>
+                          <li>Keyword optimisation </li>
+                          <li>Image optimisation </li>
                           <li>Inclusion of anchors</li>
 
                           <li class="heading">Tracking and analysis </li>
@@ -2793,7 +2793,7 @@
                           <li>Email Support </li>
                           <li>Phone Support</li>
 
-                          <li class="heading">Off Page Optimization</li>
+                          <li class="heading">Off Page optimisation</li>
                           <li>Social Bookmarking</li>
                           <li>Slide Share Marketing </li>
                           <li>Forums/FAQ’s </li>
@@ -2862,10 +2862,10 @@
                           <li>30 Selected Keywords Targeting </li>
                           <li>30 Pages Keyword Targeted</li>
 
-                          <li class="heading">Webpage Optimization </li>
+                          <li class="heading">Webpage optimisation </li>
                           <li>Meta Tags Creation</li>
-                          <li>Keyword Optimization </li>
-                          <li>Image Optimization </li>
+                          <li>Keyword optimisation </li>
+                          <li>Image optimisation </li>
                           <li>Inclusion of anchors Tags </li>
                           <li>Inclusion of anchors </li>
                           <li>Indexing Modifications</li>
@@ -2883,7 +2883,7 @@
                           <li>Email Support </li>
                           <li>Phone Support</li>
 
-                          <li class="heading">Off Page Optimization </li>
+                          <li class="heading">Off Page optimisation </li>
                           <li>Social Bookmarking</li>
                           <li>Slide Share Marketing </li>
                           <li>Forums/FAQ’s </li>
@@ -3311,7 +3311,7 @@ s144.8-64.8,144.8-144.8" />
               <li>Usability. It is second in the row and it is all about the practical considerations of what makes into design. The user-friendliness, protocols, speed, coding, other details like robtos,txt, sitemaps, etc. ... </li>
               <li>Style. Font size, images, etc.</li>
               <li>Content. Number of pages, word count, etc.</li>
-              <li>Search Engine Optimization. Keywords frequency, density, AMP, etc.</li>
+              <li>Search Engine optimisation. Keywords frequency, density, AMP, etc.</li>
               <li>Social. Place social media accounts, live tweets, etc.</li>
             </ul>
           </div>

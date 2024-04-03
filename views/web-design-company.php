@@ -396,8 +396,8 @@ Our designers are professional, and with the help of our project managers, your 
                 <div class="col-lg-6 mt-4">
                     <div class="txtwrap">
                         <span class="text-left h2 font-29">Let’s Hop On a Quick Call. </span>
-                        <p class="text-left">Sometimes it’s the little things that can make a big difference. If you feel that having an updated and modern design won’t make a difference. You’re keeping yourself and your business from progressing on untapped grounds losing out on the potential of maximizing your business’ profitability. <br><br>
-                        We’re a click away from revolutionizing your online identity and attracting customers that you never knew existed. Our vibrant and modern designs will make a difference. The ball is in your court now. Through our services, you will gain the following:
+                        <p class="text-left">Sometimes it’s the little things that can make a big difference. If you feel that having an updated and modern design won’t make a difference. You’re keeping yourself and your business from progressing on untapped grounds losing out on the potential of maximising your business’ profitability. <br><br>
+                        We’re a click away from revolutionising your online identity and attracting customers that you never knew existed. Our vibrant and modern designs will make a difference. The ball is in your court now. Through our services, you will gain the following:
 
 </p>
 

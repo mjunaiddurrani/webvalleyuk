@@ -8,7 +8,7 @@
 <head>
     <title>Make your brand rank high in search engines through SEO</title>
 
-    <meta name="description" content="Our SEO booster package offers a range of services such as campaign optimization, web audit, keyword research on a page and off-page SEO, and much more.">
+    <meta name="description" content="Our SEO booster package offers a range of services such as campaign optimisation, web audit, keyword research on a page and off-page SEO, and much more.">
 
 
 
@@ -23,7 +23,7 @@
 <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Make your brand rank high in search engines through SEO" />
-  <meta property="og:description" content="Our SEO booster package offers a range of services such as campaign optimization, web audit, keyword research on a page and off-page SEO, and much more." />
+  <meta property="og:description" content="Our SEO booster package offers a range of services such as campaign optimisation, web audit, keyword research on a page and off-page SEO, and much more." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
   <meta property="og:site_name" content="websitevalley" />
   <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
@@ -98,7 +98,7 @@
                                     </div>
                                     <div class="body">
                                         <ul class="subscription-list">
-                                            <li class="heading">Campaign Setup and Optimization</li>
+                                            <li class="heading">Campaign Setup and optimisation</li>
                                             <li>
                                                 <h6>Website Audit</h6>
                                             </li>
@@ -114,7 +114,7 @@
                                             <li>
                                                 <h6>Keyword Mapping</h6>
                                             </li>
-                                            <li class="heading">On-Page Optimization</li>
+                                            <li class="heading">On-Page optimisation</li>
                                             <li>
                                                 <h6>SEO Road Map</h6>
                                             </li>
@@ -125,19 +125,19 @@
                                                 <h6>Webpage Copywriting (3 pages, 350 words per page)</h6>
                                             </li>
                                             <li>
-                                                <h6>Title Tag Optimization (10 titles)</h6>
+                                                <h6>Title Tag optimisation (10 titles)</h6>
                                             </li>
                                             <li>
-                                                <h6>Meta Description Optimization (10 meta description)</h6>
+                                                <h6>Meta Description optimisation (10 meta description)</h6>
                                             </li>
                                             <li>
-                                                <h6>Meta Keyword Optimization (10 meta keywords)</h6>
+                                                <h6>Meta Keyword optimisation (10 meta keywords)</h6>
                                             </li>
                                             <li>
-                                                <h6>Domain Redirect Optimization (10 domain redirects)</h6>
+                                                <h6>Domain Redirect optimisation (10 domain redirects)</h6>
                                             </li>
                                             <li>
-                                                <h6>xml Sitemap Optimization</h6>
+                                                <h6>xml Sitemap optimisation</h6>
                                             </li>
                                             <li>
                                                 <h6>Robots.txt Check</h6>

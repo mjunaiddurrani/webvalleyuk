@@ -4335,7 +4335,10 @@ footer .social-full {
         font-size: var(--font-size-h2)
     }
 }
-
+@media only screen and (max-width:768px) {
+#factsTwo {
+    display: none
+}}
 @media only screen and (max-width:414px) {
     .floatbutton {
         display: none
@@ -6920,7 +6923,7 @@ footer .social-full {
 }
 
 .sec-padding.pricing-sec.portfolion {
-    padding: 0 0 0px
+    padding: 100px 10px 0px !important;
 }
 
 .sec-padding.pricing-sec.portfolion .port-hed {

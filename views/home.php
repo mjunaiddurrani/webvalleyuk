@@ -385,7 +385,7 @@
     <div class="col-lg-6 offset-lg-3">
       <p>
         We strive to help brands create websites that will leave an impactful effect on the audience. Our team of
-        experts is every-ready to take on every challenge.
+        experts is Ever-ready to take on every challenge.
       </p>
       <h3 class="text-orange text-center mt-3 ">
         What Our Customers Have to Say
@@ -403,7 +403,7 @@
 
                 <div class="usertest">
                   <p>I recently hired Website Valley for my business website, and I am very impressed with their work.
-                    Their team of experts was able to deliver a visually appealing and user-friendly website that
+                    Their team of experts were able to deliver a visually appealing and user-friendly website that
                     exceeded my expectations. Their communication and attention to detail were outstanding; I highly
                     recommend their services.</p>
                   <h6>– Jessica Adams</h6>
@@ -483,9 +483,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h2 class="text-center font-weight-bold h2">What Makes Us Different from Other UK Digital Agency</h2>
+          <h2 class="text-center font-weight-bold h2">What Makes Us Different from Other UK Digital Design Agency</h2>
           <p class="text-center">Website Valley sets itself apart by delivering results-driven, innovative, and
-            transparent solutions to our clients. Our team of professionals stays ahead of the latest industry trends
+            transparent solutions to its clients. Our team of professionals stay ahead of the latest industry trends
             and technologies to ensure exceptional customer experiences.
           </p>
         </div>

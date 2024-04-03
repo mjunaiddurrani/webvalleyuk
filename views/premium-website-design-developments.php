@@ -280,7 +280,7 @@ if (isset($_SERVER['HTTPS'])) {
           <li><a href="/mobile-app-development/">Mobile App Development</a></li>
           <li><a href="/branding/">Branding</a></li>
           <li><a href="/video-animation/">Video Animation</a></li>
-          <li><a href="/seo-services/">Search Engine Optimization</a></li>
+          <li><a href="/seo-services/">Search Engine optimisation</a></li>
         </ul>
       </li>
       <li><a href="/portfolio/">Portfolio</a></li>
@@ -337,7 +337,7 @@ if (isset($_SERVER['HTTPS'])) {
                     <li><a href="/web-app-development/">Web Application Development</a></li>
                     <li><a href="/mobile-app-development/">Mobile App Development</a></li>
                     <li><a href="/video-animation/">Video Animation</a></li>
-                    <li><a href="/seo-services/">Search Engine Optimization</a></li>
+                    <li><a href="/seo-services/">Search Engine optimisation</a></li>
                       
                     </ul>
                   </div>
@@ -1257,7 +1257,7 @@ if (isset($_SERVER['HTTPS'])) {
             <li><a href="/mobile-app-development/">Mobile App Development</a></li>
             <li><a href="/branding/">Branding</a></li>
             <li><a href="/video-animation/">Video Animation</a></li>
-            <li><a href="/seo-services/">Search Engine Optimization</a></li>
+            <li><a href="/seo-services/">Search Engine optimisation</a></li>
             
             
           </ul>

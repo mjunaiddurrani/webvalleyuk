@@ -8,7 +8,7 @@
 <head>
     <title>Delivering your SEO needs timely within your budget</title>
 
-    <meta name="description" content="We perform a complete analysis, keyword research, optimization, reporting, link building, local business listing, 24/7 support and more within your budget.">
+    <meta name="description" content="We perform a complete analysis, keyword research, optimisation, reporting, link building, local business listing, 24/7 support and more within your budget.">
 
 
 
@@ -23,7 +23,7 @@
 <meta property="og:locale" content="en_GB" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Delivering your SEO needs timely within your budget" />
-  <meta property="og:description" content="We perform a complete analysis, keyword research, optimization, reporting, link building, local business listing, 24/7 support and more within your budget." />
+  <meta property="og:description" content="We perform a complete analysis, keyword research, optimisation, reporting, link building, local business listing, 24/7 support and more within your budget." />
   <meta property="og:url" content="<?= $requesMet.'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?>" />
   <meta property="og:site_name" content="websitevalley" />
   <meta property="article:publisher" content="https://www.facebook.com/websitevalley" />
@@ -114,15 +114,15 @@
                                             <li>
                                                 <h6>30 Pages Keyword Targeted</h6>
                                             </li>
-                                            <li class="heading">Webpage Optimization </li>
+                                            <li class="heading">Webpage optimisation </li>
                                             <li>
                                                 <h6>Meta Tags Creation</h6>
                                             </li>
                                             <li>
-                                                <h6>Keyword Optimization</h6>
+                                                <h6>Keyword optimisation</h6>
                                             </li>
                                             <li>
-                                                <h6>Image Optimization</h6>
+                                                <h6>Image optimisation</h6>
                                             </li>
                                             <li>
                                                 <h6>Inclusion of anchors Tags</h6>
@@ -159,7 +159,7 @@
                                             <li>
                                                 <h6>Phone Support</h6>
                                             </li>
-                                            <li class="heading">Off Page Optimization </li>
+                                            <li class="heading">Off Page optimisation </li>
                                             <li>
                                                 <h6>Social Bookmarking</h6>
                                             </li>
