@@ -57,7 +57,7 @@
         </div>
         <div class="col-lg-6">
           <ul class="top-info-list">
-            <li><a href="tel:+442038856237"><img src="assets/images/uk-flag.png" alt="UK Flag" />+442038856237</a></li>
+            <li><a href="tel:020 3930 1277"><img src="assets/images/uk-flag.png" alt="UK Flag" />020 3930 1277</a></li>
             <li><a href="javascript:;" onclick="setButtonURL();" target="_self"><span class="icon-chat"></span> Live Chat</a> </li>
             <li><a href="javascript:;"  class="btn-main modalOpen">Let's Get Started</a></li>
           </ul>

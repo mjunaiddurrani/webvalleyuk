@@ -604,8 +604,8 @@
                             <div class="row">
                               <div class="col-md-6 col-xs-6">
                                 <div class="act-box1">
-                                  <a class="spek-us" tabindex="0" href="tel:+442038856237">
-                                    <span><small>Speak with us</small>+442038856237</span>
+                                  <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+                                    <span><small>Speak with us</small>020 3930 1277</span>
                                   </a>
                                 </div>
                               </div>
@@ -654,7 +654,7 @@
                   </li>
                   <li class="ralign">
                     <a href="javascript:;" onclick="setButtonURL();">Speak with our App Strategist</a>
-                    <a href="tel:+442038856237"><h6>+442038856237</h6></a>
+                    <a href="tel:020 3930 1277"><h6>020 3930 1277</h6></a>
                   </li>
                   
                 </ul>

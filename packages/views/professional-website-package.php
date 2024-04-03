@@ -79,7 +79,7 @@
                                         <a href="javascript:;" onclick="setButtonURL();" target="_self" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                                     </div>
                                     <div class="col-md-7 col-xs-6">
-                                        <a href="tel:+44 2038 856237" class="numberbtn"><i class="fa fa-phone-square"></i> +44 2038 856237</a>
+                                        <a href="tel:020 3930 1277" class="numberbtn"><i class="fa fa-phone-square"></i> 020 3930 1277</a>
                                     </div>
 
                                 </div>
@@ -185,7 +185,7 @@
                                         <span class="icon-phone2"></span>
                                     </div>
                                     <div class="textpart">
-                                        <a href="tel:+44 2038 856237" class="callbx">Call Us +44 2038 856237</a>
+                                        <a href="tel:020 3930 1277" class="callbx">Call Us 020 3930 1277</a>
                                     </div>
                                 </div>
                             </li>
@@ -262,7 +262,7 @@
                         <div class="col-lg-3">
                             <h3 class="xsmtpx-30">About</h3>
                             <ul class="linkinglist">
-                                <li><a href="tel:+44 2038 856237">+44 2038 856237</a></li>
+                                <li><a href="tel:020 3930 1277">020 3930 1277</a></li>
                                 <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
                                 <li><a class="address"> 156 Tottenham Ct Rd London, England</a></li>
                             </ul>
@@ -343,7 +343,7 @@
 
 
         <div class="mobile-cta hidden-sm-up">
-            <a href="tel:+44 2038 856237" class="xicon phone">
+            <a href="tel:020 3930 1277" class="xicon phone">
                 <i class="icon-phone"></i>
             </a>
         </div>
@@ -354,9 +354,9 @@
                     <span class="icoo"><i class="icon-chat"></i></span>
                     <span>Chat With Us</span>
                 </a>
-                <a href="tel:+44 2038 856237" class="call_wrap">
+                <a href="tel:020 3930 1277" class="call_wrap">
                     <span class="icoo"><i class="icon-phone2"></i></span>
-                    <span>+44 2038 856237</span>
+                    <span>020 3930 1277</span>
                 </a>
             </div>
         </div>
@@ -455,7 +455,7 @@
 
                             <div class="fldst btnattach">
                                 <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-                                <a class="callus" href="tel:+44 2038 856237"> Free design consultation <i class="fa fa-phone"></i>  +44 2038 856237</a>
+                                <a class="callus" href="tel:020 3930 1277"> Free design consultation <i class="fa fa-phone"></i>  020 3930 1277</a>
                             </div>
                             <div class="fldst-two">
                                 <input type="text" name="Name" placeholder="Enter Name" required="">

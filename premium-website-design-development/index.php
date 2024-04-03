@@ -52,7 +52,7 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-6 text-right">
                     <div class="header_contact for-mm-4">
                         <ul class="d-flex mb-0 justify-content-end">
-                            <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
+                            <li><a href="tel:020 3930 1277" class="header_cta btn_theme">Call Now</a></li>
                             <li><a href="javascript:;" class="header_cta btn_theme popupBtn">Get a
                                     Quote</a></li>
                         </ul>
@@ -81,7 +81,7 @@
                                             technologies in the industry to help you boost your business.</p>
                                         <div class="header_contact">
                                             <ul class="d-flex mb-0 justify-content-start">
-                                                <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call
+                                                <li><a href="tel:020 3930 1277" class="header_cta btn_theme">Call
                                                         Now</a></li>
                                                 <li><a href="javascript:;" class="header_cta btn_theme popupBtn">Get a
                                                         Quote</a></li>
@@ -117,8 +117,8 @@
                                                 <div class="sec_head text-center cont">
                                                     <h5 style="font-size:20px; line-height:25px;">Get An Expert
                                                         Consultation <br> And Avail Upto 50% Discount</h5>
-                                                    <p style="color:#68bef1;">or Call Now <a href="tel:+44 2038 856237"
-                                                            style="color: #68bef1;">+44 2038 856237</a></p>
+                                                    <p style="color:#68bef1;">or Call Now <a href="tel:020 3930 1277"
+                                                            style="color: #68bef1;">020 3930 1277</a></p>
                                                 </div>
                                             </div>
                                             <div class="col-lg-12">
@@ -977,7 +977,7 @@
             </div>
             <div class="header_contact mt-5 tterr">
                 <ul class="d-flex mb-0 justify-content-center">
-                    <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
+                    <li><a href="tel:020 3930 1277" class="header_cta btn_theme">Call Now</a></li>
                     <li><a href="javascript:;" onclick="setButtonURL();" class="header_cta btn_theme popupBtn">Get a
                             Quote</a></li>
                 </ul>
@@ -1018,7 +1018,7 @@
                                 perfect website that both; you and your clients, will fall in love with.</p>
                             <div class="header_contact">
                                 <ul class="d-flex mb-0 justify-content-start">
-                                    <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
+                                    <li><a href="tel:020 3930 1277" class="header_cta btn_theme">Call Now</a></li>
                                     <li><a href="javascript:;" onclick="setButtonURL();"
                                             class="header_cta btn_theme popupBtn">Get a Quote</a></li>
                                 </ul>
@@ -1051,7 +1051,7 @@
                                 personal playgrounds such as WordPress, React, Angular, Shopify and more!</p>
                             <div class="header_contact">
                                 <ul class="d-flex mb-0 justify-content-start">
-                                    <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
+                                    <li><a href="tel:020 3930 1277" class="header_cta btn_theme">Call Now</a></li>
                                     <li><a href="javascript:;" onclick="setButtonURL();"
                                             class="header_cta btn_theme popupBtn">Get a Quote</a></li>
                                 </ul>
@@ -1102,7 +1102,7 @@
                                 innovation and an open-minded approach to the industry’s changing standards.</p>
                             <div class="header_contact">
                                 <ul class="d-flex mb-0 justify-content-start">
-                                    <li><a href="tel:+44 2038 856237" class="header_cta btn_theme">Call Now</a></li>
+                                    <li><a href="tel:020 3930 1277" class="header_cta btn_theme">Call Now</a></li>
                                     <li><a href="javascript:;" onclick="setButtonURL();"
                                             class="header_cta btn_theme popupBtn">Get a Quote</a></li>
                                 </ul>
@@ -1193,7 +1193,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:020 3930 1277">020 3930 1277</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1282,7 +1282,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:020 3930 1277">020 3930 1277</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1405,7 +1405,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:020 3930 1277">020 3930 1277</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1550,7 +1550,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:020 3930 1277">020 3930 1277</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1697,7 +1697,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:020 3930 1277">020 3930 1277</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -1912,7 +1912,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:020 3930 1277">020 3930 1277</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -2276,7 +2276,7 @@
                     <div class="row bot-links" style="padding: 10px;">
                         <div class="col-xl-6 border-right text-center">
                             <div class="text-yellow">Share your idea?</div>
-                            <a class="mob" style="color: #68bef1;" href="tel:+44 2038 856237">+44 2038 856237</a>
+                            <a class="mob" style="color: #68bef1;" href="tel:020 3930 1277">020 3930 1277</a>
                         </div>
                         <div class="col-xl-6 pl-xl-4 text-center">
                             <div class="text-yellow">Want to Discuss?</div>
@@ -2387,8 +2387,7 @@
                                             
                                         </li>
                                         <li>
-                                        <a class="numbercta btn-phone btn-theme" href="tel:+44 2038 856237">+44 2038
-                                            856237</a>
+                                        <a class="numbercta btn-phone btn-theme" href="tel:020 3930 1277">020 3930 1277</a>
                                         </li>
                                     </ul>
                                         </div>
@@ -3135,7 +3134,7 @@
                                     Website Valley UK, you’re not just another anonymous number; you’re a Mate!</p>
                             </div>
                             <ul class="conatc-det">
-                                <li><i class="fa-sharp fa-solid fa-phone"></i> <a href="tel:+44 2038 856237">+44 2038
+                                <li><i class="fa-sharp fa-solid fa-phone"></i> <a href="tel:020 3930 1277">+44 2038
                                         856237</a></li>
                                 <li><i class="fa-solid fa-envelope"></i> <a
                                         href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
@@ -3697,7 +3696,7 @@
                         <li><i class="fa-light fa-location-dot"></i> <a href="javascript:void(0)">156 Tottenham Ct Rd London, England</a></li>
                         <li><i class="fa-light fa-envelope"></i> <a
                                 href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
-                        <li><i class="fa-light fa-phone"></i> <a href="tel:+44 2038 856237">+44 2038 856237</a></li>
+                        <li><i class="fa-light fa-phone"></i> <a href="tel:020 3930 1277">020 3930 1277</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-4">
@@ -3782,7 +3781,7 @@
     <a href="https://wa.me/+447451293263?text=" class="float" target="_blank">
         <i class="fa fa-whatsapp my-float"></i>
     </a>
-    <a href="tel:+44 2038 856237" class="callusnow float"><i class="fa fa-phone" style="margin-top: 13px;"></i></a>
+    <a href="tel:020 3930 1277" class="callusnow float"><i class="fa fa-phone" style="margin-top: 13px;"></i></a>
     <!-- cursor -->
 
     <div class="ball"></div>
@@ -3979,7 +3978,7 @@
         $(".popupBtn").click(function() {
         $('.bg-overlay').css('display', 'none');
         $("#popupform1").css("display", 'none');
-        window.location.href = "tel:+44 2038 856237";
+        window.location.href = "tel:020 3930 1277";
     });
 
 

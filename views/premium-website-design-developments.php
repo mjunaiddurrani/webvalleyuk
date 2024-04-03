@@ -350,7 +350,7 @@ if (isset($_SERVER['HTTPS'])) {
                 <li><a href="/contact-us/">Contact</a></li>
               </ul>
               <ul class="infochannel">
-                <li><a class="numbercta" href="tel:+442038856237"><i class="fa fa-phone" style="color: #dd3854;margin-right: 5px;"></i>+44 2038 087061</a></li>
+                <li><a class="numbercta" href="tel:020 3930 1277"><i class="fa fa-phone" style="color: #dd3854;margin-right: 5px;"></i>+44 2038 087061</a></li>
                 <li><a href="javascript:void(0)" class="btn-primary" onclick="setButtonURL();">Live Chat</a></li>
               </ul>
             </div>
@@ -390,7 +390,7 @@ if (isset($_SERVER['HTTPS'])) {
                       <div class="btn-wrap">
                         <a href="javascript:;" onclick="setButtonURL();" class="btn-primary " >Get Started</a>
                      
-                        <a href="tel:+442038856237" class="btn-secondary-outline">+44 2038 087061</a>
+                        <a href="tel:020 3930 1277" class="btn-secondary-outline">+44 2038 087061</a>
                       </div>
                     </div>
                   </div>
@@ -567,7 +567,7 @@ if (isset($_SERVER['HTTPS'])) {
           
           <div class="btnwrap">
             <a href="javascript:;" onclick="setButtonURL();" class="btn-primary">Chat With Us</a>
-            <a href="tel:+442038856237" class="btn-secondary-outline" tabindex="0">+44 2038 087061</a>
+            <a href="tel:020 3930 1277" class="btn-secondary-outline" tabindex="0">+44 2038 087061</a>
           </div>
         </div>
       </div>
@@ -651,7 +651,7 @@ if (isset($_SERVER['HTTPS'])) {
               
             </div>
             <div class="btn-wrap">
-              <a href="tel:+442038856237" class="btn-primary">+44 2038 087061</a>
+              <a href="tel:020 3930 1277" class="btn-primary">+44 2038 087061</a>
               <!-- <a href="" class="btn-secondary-outline">View more</a> -->
             </div>
           </div>
@@ -669,7 +669,7 @@ if (isset($_SERVER['HTTPS'])) {
             <p>We are a full service digital consultancy with experience and capacity to meet the needs of even the largest most complex of organizations in the world. Our services portfolio enables us to offer clients the best of experiences.</p>
             <div class="btn-wrap">
               <a href="javascript:void(0)" onclick="setButtonURL()" class="btn-secondary">Let's Chat</a>
-              <a href="tel:+442038856237" class="btn-secondary-outline">+44 2038 087061</a>
+              <a href="tel:020 3930 1277" class="btn-secondary-outline">+44 2038 087061</a>
             </div>
           </div>
         </div>
@@ -953,7 +953,7 @@ if (isset($_SERVER['HTTPS'])) {
                   <h4>For more information speak with us</h4>    
                 </div>
                 <div class="btnwrap">
-                  <a class="numbercta" href="tel:+442038856237">+44 2038 087061</a>
+                  <a class="numbercta" href="tel:020 3930 1277">+44 2038 087061</a>
                   <a class="chatcta" href="javascript:;" onclick="setButtonURL()">Live Chat</a>
                 </div>
 
@@ -1013,7 +1013,7 @@ if (isset($_SERVER['HTTPS'])) {
             </ul>
             <div class="btn-wrap">
               <a href="javascript:;" onclick="setButtonURL();" class="btn-primary">Chat Now</a>
-              <a href="tel:+442038856237" class="btn-secondary-outline">+44 2038 087061</a>
+              <a href="tel:020 3930 1277" class="btn-secondary-outline">+44 2038 087061</a>
             </div>
           </div>
         </div>
@@ -1275,7 +1275,7 @@ if (isset($_SERVER['HTTPS'])) {
           <h3 class="xsmtpx-30">About</h3>
           <ul class="linkinglist">
             <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
-            <li><a href="tel:+442038856237">+44 2038 087061</a></li>
+            <li><a href="tel:020 3930 1277">+44 2038 087061</a></li>
             <li><a class="address">Address: 156 Tottenham Ct Rd London, England</a></li>
             
             <div class="dmca">
@@ -1335,9 +1335,9 @@ if (isset($_SERVER['HTTPS'])) {
       <span class="icoo"><i class="fa fa-comment"></i></span>
       <span>Chat With Us</span>
     </a>
-    <a href="tel:+442038856237" class="call_wrap">
+    <a href="tel:020 3930 1277" class="call_wrap">
       <span class="icoo"><i class="fa fa-phone"></i></span>
-      <span> +442038856237 </span>
+      <span> 020 3930 1277 </span>
     </a>
   </div>
   <div class="clickbutton"><div class="crossplus"> LET’S GET STARTED</div></div>
@@ -1429,7 +1429,7 @@ setTimeout(function(){
       if(window.innerWidth > 600){
         $('.ys-container').show();
       }else{
-        window.open('tel:+442038856237','_self');
+        window.open('tel:020 3930 1277','_self');
       }
    
 

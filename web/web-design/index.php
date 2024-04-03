@@ -628,8 +628,8 @@ ul, li {
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a
                                 href=/contact-us/>Contact Us</a></li>
                         <li id=menu-item-8 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8">
-                            <a title=telephoneNumber href="tel:+44 2038 856237"><i
-                                    class="fa fa-phone-alt"></i><span>+44 2038 856237</span></a></li>
+                            <a title=telephoneNumber href="tel:020 3930 1277"><i
+                                    class="fa fa-phone-alt"></i><span>020 3930 1277</span></a></li>
                         <li id=menu-item-345
                             class="custom-btn-bg-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-345">
                             <a href="javascript:void(0)" data-toggle="modal" data-target="#modalForDiscount">Get Free Quote</a></li>
@@ -1107,8 +1107,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1160,8 +1160,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1220,8 +1220,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1284,8 +1284,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1351,8 +1351,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1406,8 +1406,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1454,8 +1454,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1527,8 +1527,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1608,8 +1608,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1693,8 +1693,8 @@ ul, li {
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1819,8 +1819,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1877,8 +1877,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1924,8 +1924,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -1971,8 +1971,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2021,8 +2021,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2062,8 +2062,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2103,8 +2103,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2143,8 +2143,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2194,8 +2194,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2245,8 +2245,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2314,8 +2314,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2383,8 +2383,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2455,8 +2455,8 @@ Place purchasing requests.</li>
       <div class="row">
         <div class="col-md-6 col-xs-6">
           <div class="act-box1">
-            <a class="spek-us" tabindex="0" href="tel:+44 2038 856237">
-              <span><small>Speak with us</small>+44 2038 856237</span>
+            <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+              <span><small>Speak with us</small>020 3930 1277</span>
             </a>
           </div>
         </div>
@@ -2781,7 +2781,7 @@ s144.8-64.8,144.8-144.8" /></svg></div>
                     <div class=icon><i class="fa fa-phone-alt"></i></div>
                     <div class=strip-detial>
                         <h4>Call us (TOLL FREE)</h4>
-                        <h2><a href="tel:+44 2038 856237">+44 2038 856237</a></h2>
+                        <h2><a href="tel:020 3930 1277">020 3930 1277</a></h2>
                     </div>
                 </div>
                 <div class="col-md-5 align-self-center">

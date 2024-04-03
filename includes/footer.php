@@ -36,7 +36,7 @@
                 <div class="col-lg-3">
                     <p class="xsmtpx-30 h3">About</p>
                     <ul class="linkinglist">
-                        <li><a href="tel:+44 2038 856237">+44 2038 856237</a></li>
+                        <li><a href="tel:020 3930 1277">020 3930 1277</a></li>
                         <li><a href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
                         <li><a class="address"> 156 Tottenham Ct Rd London, England</a></li>
                         <!-- <li><a class="address"> 104 Meads Lane, Ilford IG3<br> 8PE, UK</a></li> -->
@@ -153,7 +153,7 @@ is strictly at your own risk.
 </div>
 
 <div class="mobile-cta hidden-sm-up">
-    <a href="tel:+44 2038 856237" class="xicon phone">
+    <a href="tel:020 3930 1277" class="xicon phone">
         <i class="icon-phone"></i>
     </a>
 </div>
@@ -164,9 +164,9 @@ is strictly at your own risk.
             <span class="icoo"><i class="icon-chat"></i></span>
             <span>Chat With Us</span>
         </a>
-        <a href="tel:+44 2038 856237" class="call_wrap">
+        <a href="tel:020 3930 1277" class="call_wrap">
             <span class="icoo"><i class="icon-phone2"></i></span>
-            <span>+44 2038 856237</span>
+            <span>020 3930 1277</span>
         </a>
     </div>
 </div>
@@ -259,8 +259,8 @@ is strictly at your own risk.
 
                     <div class="fldst btnattach">
                         <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-                        <a class="callus" href="tel:+44 2038 856237"> Free design consultation <i class="fa fa-phone"></i>
-                            +44 2038 856237</a>
+                        <a class="callus" href="tel:020 3930 1277"> Free design consultation <i class="fa fa-phone"></i>
+                            020 3930 1277</a>
                     </div>
                     <div class="fldst-two">
                         <input type="text" name="name" placeholder="Enter Name" required="">

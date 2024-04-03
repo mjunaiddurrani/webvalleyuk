@@ -294,7 +294,7 @@ if(window.location.pathname=="/"){
     'opacity': '0',
     'position': 'unset'
 });          $('.modal-open').css('overflow','auto');
-        window.location.href = "tel:+44 2038 856237";
+        window.location.href = "tel:020 3930 1277";
     });
 
 
@@ -429,7 +429,7 @@ if(window.location.pathname=="/"){
         "name": "websitevalley",
         "url": "https://www.websitevalley.co.uk/",
         "logo": "https://www.websitevalley.co.uk/assets/images/logo.png",
-        "contactPoint": { "@type": "ContactPoint", "telephone": "+442038856237", "contactType": "customer service" },
+        "contactPoint": { "@type": "ContactPoint", "telephone": "020 3930 1277", "contactType": "customer service" },
         "sameAs": ["https://www.facebook.com/websitevalley/", "https://twitter.com/websitevalley", "https://www.instagram.com/websitevalley/", "https://www.linkedin.com/company/websitevalley/"]
     }
 </script>
