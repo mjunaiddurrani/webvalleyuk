@@ -540,7 +540,7 @@ button.play.rounded-box.state-playing {
                             <div class="row">
                               <div class="col-md-6 col-xs-6">
                                 <div class="act-box1">
-                                  <a class="spek-us" tabindex="0" href="tel:020 3930 1277">
+                                  <a class="spek-us" tabindex="0" href="tel:+442039301277">
                                     <span><small>Speak with us</small>020 3930 1277</span>
                                   </a>
                                 </div>
@@ -595,7 +595,7 @@ button.play.rounded-box.state-playing {
       <i class="fa fa-comment pur-bg"></i>
       <span class="pur">Chat With Us</span>
     </a>
-    <a href="tel:020 3930 1277" class="call_wrap">
+    <a href="tel:+442039301277" class="call_wrap">
       <i class="fa fa-phone pur-bg"></i>
       <span class="pur">+44 2038 087061</span>
     </a>
@@ -712,7 +712,7 @@ button.play.rounded-box.state-playing {
       if(window.innerWidth > 600){
         $("#modalForDiscount").modal('show');
       }else{
-        window.open('tel:020 3930 1277','_self');
+        window.open('tel:+442039301277','_self');
       }
       
 

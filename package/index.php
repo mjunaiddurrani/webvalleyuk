@@ -133,7 +133,7 @@
                                             class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                                     </div>
                                     <div class="col-md-7 col-xs-6">
-                                        <a href="tel:020 3930 1277" class="numberbtn"><i class="fa fa-phone-square"></i>
+                                        <a href="tel:+442039301277" class="numberbtn"><i class="fa fa-phone-square"></i>
                                             020 3930 1277</a>
                                     </div>
 
@@ -157,8 +157,8 @@
 
                                         </ul>
                                         <!-- <div class="main_btn only_mobile d-none">
-                                        <a href="tel:020 3930 1277" class="modalOpen2 ordrrrr ">Get Started</a>
-                                        <a href="tel:020 3930 1277" class="modalOpen2 ordrrrr ">Contact </a>
+                                        <a href="tel:+442039301277" class="modalOpen2 ordrrrr ">Get Started</a>
+                                        <a href="tel:+442039301277" class="modalOpen2 ordrrrr ">Contact </a>
                                         </div> -->
                                     </div>
                                 </div>
@@ -205,7 +205,7 @@
                                         <span class="icon-phone2"></span>
                                     </div>
                                     <div class="textpart">
-                                        <a href="tel:020 3930 1277" class="callbx">Call Us 020 3930 1277</a>
+                                        <a href="tel:+442039301277" class="callbx">Call Us 020 3930 1277</a>
                                     </div>
                                 </div>
                             </li>

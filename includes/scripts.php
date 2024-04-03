@@ -294,7 +294,7 @@ if(window.location.pathname=="/"){
     'opacity': '0',
     'position': 'unset'
 });          $('.modal-open').css('overflow','auto');
-        window.location.href = "tel:020 3930 1277";
+        window.location.href = "tel:+442039301277";
     });
 
 
