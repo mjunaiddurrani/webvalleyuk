@@ -114,7 +114,7 @@ $_SESSION['dashboard'] = 'http://127.0.0.1:8000';
     
 
 <!-- Start of  Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd" defer type="c8557bf7748ccc07b58855cf-text/javascript"> </script>
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb" defer type="c8557bf7748ccc07b58855cf-text/javascript"> </script>
 <!-- End of  Zendesk Widget script -->
 
 

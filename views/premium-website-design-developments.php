@@ -1419,7 +1419,7 @@ if (isset($_SERVER['HTTPS'])) {
 
 setTimeout(function(){  
     // $("#modalForDiscount").modal("show");
-    $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
+    $('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb"><\/script>');
     $(document).on('click','.liveChat',function(){
         $zopim.livechat.window.show();
 
@@ -1448,7 +1448,7 @@ $('.closePopup').click(function(){
 </script>
 
 <!-- Start of Zendesk Widget script -->
-<!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"></script> -->
+<!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb"></script> -->
 <!-- End of Zendesk Widget script -->
 
  <script type="text/javascript">

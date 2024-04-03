@@ -3494,7 +3494,7 @@ display: inline-block;border-radius: 50px 0px 0px 50px;}
     
 }, 15000);
 
-$('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b24c63b6-64a3-4e62-b7ee-492f535de0cd"><\/script>');
+$('head').append('<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb"><\/script>');
 
 $(document).on('click','.clickbutton',function(){
        $("div.floatbutton").toggleClass("active");
