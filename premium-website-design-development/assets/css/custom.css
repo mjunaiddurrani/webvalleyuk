@@ -8178,6 +8178,14 @@ header {
 }
 
 .glob_packages_buttonss ul li {flex: 0 0 15%;margin: 0 0 0 30px;}
+
+button.chatcta.liveChat.btn-theme.popupBtn {
+    background: #000000 !important;
+    color: white !important;
+    padding: 7px 20px;
+    border-radius: 10px;
+    border: none;
+}
 @media only screen and (max-width:676px){
   .main_logo img {
     width: auto;
@@ -8188,6 +8196,9 @@ header {
   width: 120px;
   background-size: contain;
   top: -60px;
+}
+.combo-text{
+  text-align: center;
 }
 .glob_packages_buttonss ul li {
   flex: 0 0 100%;
@@ -8203,6 +8214,27 @@ header {
 
 section.blackCta.py-4 {
   padding: 0;
-  height: 211px;
+  /* height: 211px; */
+}
+.col-lg-6.text-end.combo-pack {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.col-lg-6.text-end.combo-pack a.numbercta.btn-phone.btn-theme {
+  animation: none;
+}
+
+.col-lg-6.text-end.combo-pack a.chatcta.liveChat.btn-theme {
+  animation: none;
+}
+
+.col-lg-6.text-end.combo-pack a,.col-lg-6.text-end.combo-pack button {
+  margin: 10px 10px 0 10px;
+}
+
+.col-lg-6.text-end.combo-pack a:nth-child(2) {
+  display: none;
 }
 }

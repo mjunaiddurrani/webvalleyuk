@@ -984,136 +984,6 @@
             </div>
         </div>
     </section>
-    <!-- adding section  -->
-    <!-- WEB DESIGN SEC STRT -->
-    <section class="web_design_sec">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="web_design_img position-relative">
-                        <img src="assets/images/tools-left.webp" class="lazy tools-left img-fluid position-absolute"
-                            alt="img">
-                        <img src="assets/images/web_design2.webp" class="lazy web_design2 img-fluid position-absolute"
-                            alt="img">
-                        <img data-src="assets/images/11.gif" src="assets/images/gif-2.webp"
-                            class="myLazy lazy img-fluid w-100 bradius-10" alt="img">
-                        <img src="assets/images/cloud.webp" class="lazy web_design_cloud img-fluid position-absolute"
-                            alt="img">
-                        <img src="assets/images/Mate.webp" class="lazy web_design_mate img-fluid position-absolute"
-                            alt="img">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="web_design_txt sec_head ps-5">
-                        <div class="sec_head">
-                            <h5 class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="0.9s">Inspire Users
-                                with a Captivating</h5>
-                            <h2 class="wow fadeInRight" data-wow-delay="0.6s" data-wow-duration="0.9s">Web Design</h2>
-                            <p class="wow fadeInRight" data-wow-delay="0.8s" data-wow-duration="0.9s">When it comes to
-                                websites, first looks are more important than you might realise. Immersing your clients
-                                with engaging visuals will motivate them to browse your website. But that’s not where we
-                                draw the line; we also incorporate the perfect UI to accommodate your audience so they
-                                can find exactly what they want without wasting any time. This combination of
-                                user-friendliness and an aesthetic sense of style is all we need to conjure up the
-                                perfect website that both; you and your clients, will fall in love with.</p>
-                            <div class="header_contact">
-                                <ul class="d-flex mb-0 justify-content-start">
-                                    <li><a href="tel:+442039301277" class="header_cta btn_theme">Call Now</a></li>
-                                    <li><a href="javascript:;" onclick="setButtonURL();"
-                                            class="header_cta btn_theme popupBtn">Get a Quote</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- WEB DESIGN SEC END -->
-    <!-- DEVELOPMENT PLAN SEC STRT -->
-    <section class="dev_plane_sec">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-7">
-                    <div class="dev_plan_txt sec_head">
-                        <div class="sec_head">
-                            <h5 class="wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="0.9s">Keep the Flow with
-                                a Seamless Web</h5>
-                            <h2 class="wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="0.9s">Development Plan
-                            </h2>
-                            <p class="mb-3 wow fadeInLeft" data-wow-delay="0.8s" data-wow-duration="0.9s">Accessibility
-                                and functionality are the two basic tenets of a good website, and we use the latest in
-                                cutting-edge technology to develop your website’s UX. With the help of some of the best
-                                open source platforms, we keep your website secure, engaging, and functional on all
-                                fronts.</p>
-                            <p class="mb-3 wow fadeInLeft" data-wow-delay="1.0s" data-wow-duration="0.9s">We host a team
-                                of experts who’ve made some of the most powerful web development platforms, their
-                                personal playgrounds such as WordPress, React, Angular, Shopify and more!</p>
-                            <div class="header_contact">
-                                <ul class="d-flex mb-0 justify-content-start">
-                                    <li><a href="tel:+442039301277" class="header_cta btn_theme">Call Now</a></li>
-                                    <li><a href="javascript:;" onclick="setButtonURL();"
-                                            class="header_cta btn_theme popupBtn">Get a Quote</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="dev_plan_img position-relative">
-                        <img src="assets/images/d_plan1.webp" class="lazy d_plan1 img-fluid position-absolute"
-                            alt="img">
-                        <img src="assets/images/d_plan2.webp" class="lazy d_plan2 img-fluid" alt="img">
-                        <img src="assets/images/d_plan3.webp" class="lazy d_plan3 img-fluid position-absolute"
-                            alt="img">
-                        <img src="assets/images/d_plan4.webp" class="lazy d_plan4 img-fluid position-absolute"
-                            alt="img">
-                        <img src="assets/images/d_plan5.webp" class="lazy d_plan5 img-fluid position-absolute"
-                            alt="img">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- DEVELOPMENT PLAN SEC END -->
-    <!-- VALUES SEC STRT -->
-    <section class="value_sec">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="web_design_img position-relative">
-                        <img data-src="assets/images/1.gif" src="assets/images/gif-1.webp"
-                            class="myLazy lazy img-fluid w-100 bradius-10" alt="img">
-                        <img src="assets/images/tools-left.webp" class="lazy tools-left img-fluid position-absolute"
-                            alt="img">
-                        <img src="assets/images/target_blue.webp" class="lazy value_target img-fluid position-absolute"
-                            alt="img">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="web_design_txt sec_head ps-5">
-                        <div class="sec_head">
-                            <h5 class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="0.9s">Living Our</h5>
-                            <h2 class="wow fadeInRight" data-wow-delay="0.6s" data-wow-duration="0.9s">Values</h2>
-                            <p class="mb-3 wow fadeInRight" data-wow-delay="0.8s" data-wow-duration="0.9s">We value our
-                                Clients' time and resources and aspire to offer our utmost dedication to their businesses.
-                                Tired and sick of the old way, we prefer our own agile, transparent, and collaborative
-                                approach. Our method to conducive free-flowing creativity is through cutting-edge
-                                innovation and an open-minded approach to the industry’s changing standards.</p>
-                            <div class="header_contact">
-                                <ul class="d-flex mb-0 justify-content-start">
-                                    <li><a href="tel:+442039301277" class="header_cta btn_theme">Call Now</a></li>
-                                    <li><a href="javascript:;" onclick="setButtonURL();"
-                                            class="header_cta btn_theme popupBtn">Get a Quote</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- VALUES SEC END -->
     <section id="pricing-table">
         <div class="container">
             <div class="sec_head text-center">
@@ -2370,14 +2240,14 @@
                             <div class="container">
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 text-left">
-                                        <p class="font-14 m-0 combo-text" style="font-size: 20px;">
+                                        <p class="font-14 m-0 combo-text" style="font-size: 19px;">
                                             For more information speak with us
                                         </p>
                                     </div>
                                     <div class="col-lg-6 text-end combo-pack">
                                         <a class="numbercta btn-phone btn-theme" href="tel:+020 3930 1277">020 3930 1277</a>
                                         <a class="chatcta liveChat btn-theme" href="javascript:;">Live Chat</a>
-                                        <button class="btn btn-theme btn-form popupBtn">Get a Quote</button>
+                                        <button class="chatcta liveChat btn-theme popupBtn">Get a Quote</button>
                                     </div>
 
                                 </div>
@@ -2390,6 +2260,138 @@
             </div>
         </div>
     </section>
+    <!-- adding section  -->
+    <!-- WEB DESIGN SEC STRT -->
+    <section class="web_design_sec">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="web_design_img position-relative">
+                        <img src="assets/images/tools-left.webp" class="lazy tools-left img-fluid position-absolute"
+                            alt="img">
+                        <img src="assets/images/web_design2.webp" class="lazy web_design2 img-fluid position-absolute"
+                            alt="img">
+                        <img data-src="assets/images/11.gif" src="assets/images/gif-2.webp"
+                            class="myLazy lazy img-fluid w-100 bradius-10" alt="img">
+                        <img src="assets/images/cloud.webp" class="lazy web_design_cloud img-fluid position-absolute"
+                            alt="img">
+                        <img src="assets/images/Mate.webp" class="lazy web_design_mate img-fluid position-absolute"
+                            alt="img">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="web_design_txt sec_head ps-5">
+                        <div class="sec_head">
+                            <h5 class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="0.9s">Inspire Users
+                                with a Captivating</h5>
+                            <h2 class="wow fadeInRight" data-wow-delay="0.6s" data-wow-duration="0.9s">Web Design</h2>
+                            <p class="wow fadeInRight" data-wow-delay="0.8s" data-wow-duration="0.9s">When it comes to
+                                websites, first looks are more important than you might realise. Immersing your clients
+                                with engaging visuals will motivate them to browse your website. But that’s not where we
+                                draw the line; we also incorporate the perfect UI to accommodate your audience so they
+                                can find exactly what they want without wasting any time. This combination of
+                                user-friendliness and an aesthetic sense of style is all we need to conjure up the
+                                perfect website that both; you and your clients, will fall in love with.</p>
+                            <div class="header_contact">
+                                <ul class="d-flex mb-0 justify-content-start">
+                                    <li><a href="tel:+442039301277" class="header_cta btn_theme">Call Now</a></li>
+                                    <li><a href="javascript:;" onclick="setButtonURL();"
+                                            class="header_cta btn_theme popupBtn">Get a Quote</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- WEB DESIGN SEC END -->
+    <!-- DEVELOPMENT PLAN SEC STRT -->
+    <section class="dev_plane_sec">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <div class="dev_plan_txt sec_head">
+                        <div class="sec_head">
+                            <h5 class="wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="0.9s">Keep the Flow with
+                                a Seamless Web</h5>
+                            <h2 class="wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="0.9s">Development Plan
+                            </h2>
+                            <p class="mb-3 wow fadeInLeft" data-wow-delay="0.8s" data-wow-duration="0.9s">Accessibility
+                                and functionality are the two basic tenets of a good website, and we use the latest in
+                                cutting-edge technology to develop your website’s UX. With the help of some of the best
+                                open source platforms, we keep your website secure, engaging, and functional on all
+                                fronts.</p>
+                            <p class="mb-3 wow fadeInLeft" data-wow-delay="1.0s" data-wow-duration="0.9s">We host a team
+                                of experts who’ve made some of the most powerful web development platforms, their
+                                personal playgrounds such as WordPress, React, Angular, Shopify and more!</p>
+                            <div class="header_contact">
+                                <ul class="d-flex mb-0 justify-content-start">
+                                    <li><a href="tel:+442039301277" class="header_cta btn_theme">Call Now</a></li>
+                                    <li><a href="javascript:;" onclick="setButtonURL();"
+                                            class="header_cta btn_theme popupBtn">Get a Quote</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="dev_plan_img position-relative">
+                        <img src="assets/images/d_plan1.webp" class="lazy d_plan1 img-fluid position-absolute"
+                            alt="img">
+                        <img src="assets/images/d_plan2.webp" class="lazy d_plan2 img-fluid" alt="img">
+                        <img src="assets/images/d_plan3.webp" class="lazy d_plan3 img-fluid position-absolute"
+                            alt="img">
+                        <img src="assets/images/d_plan4.webp" class="lazy d_plan4 img-fluid position-absolute"
+                            alt="img">
+                        <img src="assets/images/d_plan5.webp" class="lazy d_plan5 img-fluid position-absolute"
+                            alt="img">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- DEVELOPMENT PLAN SEC END -->
+    <!-- VALUES SEC STRT -->
+    <section class="value_sec">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="web_design_img position-relative">
+                        <img data-src="assets/images/1.gif" src="assets/images/gif-1.webp"
+                            class="myLazy lazy img-fluid w-100 bradius-10" alt="img">
+                        <img src="assets/images/tools-left.webp" class="lazy tools-left img-fluid position-absolute"
+                            alt="img">
+                        <img src="assets/images/target_blue.webp" class="lazy value_target img-fluid position-absolute"
+                            alt="img">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="web_design_txt sec_head ps-5">
+                        <div class="sec_head">
+                            <h5 class="wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="0.9s">Living Our</h5>
+                            <h2 class="wow fadeInRight" data-wow-delay="0.6s" data-wow-duration="0.9s">Values</h2>
+                            <p class="mb-3 wow fadeInRight" data-wow-delay="0.8s" data-wow-duration="0.9s">We value our
+                                Clients' time and resources and aspire to offer our utmost dedication to their businesses.
+                                Tired and sick of the old way, we prefer our own agile, transparent, and collaborative
+                                approach. Our method to conducive free-flowing creativity is through cutting-edge
+                                innovation and an open-minded approach to the industry’s changing standards.</p>
+                            <div class="header_contact">
+                                <ul class="d-flex mb-0 justify-content-start">
+                                    <li><a href="tel:+442039301277" class="header_cta btn_theme">Call Now</a></li>
+                                    <li><a href="javascript:;" onclick="setButtonURL();"
+                                            class="header_cta btn_theme popupBtn">Get a Quote</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- VALUES SEC END -->
+    
+    
     <style>
     a.chatcta,
     a.numbercta,
@@ -3123,8 +3125,7 @@
                                     Website Valley UK, you’re not just another anonymous number; you’re a Mate!</p>
                             </div>
                             <ul class="conatc-det">
-                                <li><i class="fa-sharp fa-solid fa-phone"></i> <a href="tel:+442039301277">+44 2038
-                                        856237</a></li>
+                                <li><i class="fa-sharp fa-solid fa-phone"></i> <a href="tel:+442039301277">020 3930 1277</a></li>
                                 <li><i class="fa-solid fa-envelope"></i> <a
                                         href="mailto:query@websitevalley.co.uk">query@websitevalley.co.uk</a></li>
                                 <li><i class="fa-sharp fa-solid fa-location-dot"></i> <a href="javascript:void(0)">86-90
