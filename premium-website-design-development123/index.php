@@ -3895,7 +3895,7 @@
     <script src="https://assets.codepen.io/16327/gsap-latest-beta.min.js"><\/script>
     <script src="https://unpkg.co/gsap@3/dist/gsap.min.js"><\/script>
     <script src="https://unpkg.com/gsap@3/dist/Draggable.min.js"><\/script>
-    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5bb77dbc-0e01-4f96-9ce0-eb1a469d32d4">
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb">
     <\/script>
 
         `);
