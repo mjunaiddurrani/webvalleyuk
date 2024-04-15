@@ -4,6 +4,7 @@
   <?php include_once('includes/styles.php') ?>
   <?php include_once('includes/head.php') ?>
   <!-- <link rel="stylesheet" href="css/icofont.min.css"> -->
+  
     <title>website valley Thank you page</title>
 
 
@@ -32,7 +33,10 @@
     
     <?php include_once('includes/footer.php');?>
 
-    
+    <!-- Event snippet for Website Signup conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-328008617/2rwzCN3b9aYZEKmHtJwB'});
+</script>
     
   </body>
 </html>
