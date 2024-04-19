@@ -136,7 +136,7 @@
                 <div class="global_disclamer text-center p-1">
                     <h2 style="color: #fff; font-weight: 400px; font-size: 20px; margin: 0; line-height: 40px;">
                         Disclaimer:</h2>
-                    <p style="color:#fff; font-weight: 400px; font-size: 11px; line-height: 20px;">
+                    <p style="color:#fff; font-weight: 400px; font-size: 16px; line-height: 26px;">
                         All company logos and trademarks appearing on our website are the property of their respective
                         owners.
                         We are not affiliated, associated, endorsed by, or in any way officially connected with these
