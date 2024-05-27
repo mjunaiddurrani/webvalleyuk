@@ -8,6 +8,7 @@
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWU lpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha384-ezfgweHGgbAtWuYGtP6/2CzWsiPe/j9+aVQb0IyaLeMgKvqKSXJ+3JJY3xDT+Q5z" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
@@ -41,17 +42,21 @@
 
 <section class="sec_1">
 	<div class="container">
+		<div class="scroll_inner">
+			<p>scroll</p>
+			<i class="fa-solid fa-arrow-right"></i>
+		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div class="banner_inner">
-					<h1>Social Media Marketing Agency</h1>
-					<p>Partner with a top-rated social media marketing agency to establish and grow your presence on targeted channels.</p>
+					<h1>Enhance Your Online Presence with Expert Shopify Store Creation Services</h1>
+					<p>Looking to launch your online store? Look no further! Our top-notch Shopify store creation services are customised to your needs. Get the best Shopify website set-up services here, ensuring your project planning goals and deadlines are met with precision and excellence.</p>
 					<ul>
-						<li><i class="fa-solid fa-location-arrow"></i> Organic Social Media Management</li>
-						<li><i class="fa-solid fa-location-arrow"></i> Social Media Advertising</li>
-						<li><i class="fa-solid fa-location-arrow"></i> Community Management</li>
+						<li><i class="fa-solid fa-location-arrow"></i>Customised Design Solutions</li>
+						<li><i class="fa-solid fa-location-arrow"></i>Mobile Optimisation</li>
+						<li><i class="fa-solid fa-location-arrow"></i>SEO Integration</li>
 					</ul>
-					<button type="button" class="btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">REQUEST A QUOTE </button>
+					<button type="button" class="btn-dark btn-1-2" data-bs-toggle="modal" data-bs-target="#exampleModal">REQUEST A QUOTE </button>
 					<ul class="bottom_points">
 						<li>
 							<span><img src="assets/images/industry.webp" alt=""></span>
@@ -106,33 +111,32 @@
 		<div class="row">
 			<div class="col-md-6">
 				<div class="form_inner">
-					<h2>Shopify Website Design Services</h2>
-					<p>From consulting to marketing, we are a full-service Shopify design agency. Plan, develop, integrate, scale, grow your e-store, all under one roof and with seasoned industry professionals.</p>
+					<h2>Let’s Talk to Make Your Shopify Website Ready!</h2>
+					<p>Looking to get your online store up and running smoothly? Don't waste your time on DIY! Leave your Shopify store set-up to the PROs. Our expert Shopify designers specialize in crafting stunning online storefronts that are primed for success. With our comprehensive Shopify website set-up services, you'll be well-prepared for that all-important first sale. Get ahead of the competition and partner with us today!</p>
 				</div>
 				<div class="accordion">
 					<section class="accordion-item">
-						<h1><span>Shopify</span> Web Consulting</h1>
+						<h1><span>Shopify</span> Shopify Store Set-up</h1>
 						<div class="accordion-item-content">
-							<p>Make the most of this intuitive eCommerce platform. We have extensive experience in planning, designing, integrating and optimizing, as well as marketing Shopify websites. Our consultants can guide you through every stage of your custom Shopify web design process.</p>
+							<p>Many Shopify stores fall short of earning potential due to improper set-up. Opt for professional Shopify store creation to establish your online presence effectively. Our experienced Shopify designers ensure your store is launched quickly, offers personalised experiences, simplifies inventory management, and boasts user-friendly navigation. Partner with our expert Shopify store developers for a confident and successful eCommerce venture.</p>
 						</div>
 					</section>
 					<section class="accordion-item">
-						<h1>Custom Shopify <span>Website Design</span></h1>
+						<h1>Enhance Your Shopify  <span>Theme with Customisation Services</span></h1>
 						<div class="accordion-item-content">
-							<p>Depending on the scope of your Shopify project, we can support you with end-to-end design or provide Shopify UX and UI design as standalone services.</p>
-							<p>Either way, we recommend working with our strategists to plan your digital experience and position it for success.</p>
+							<p>Ensure your Shopify theme reflects your brand and meets customer needs with our conversion-optimized eCommerce templates. Avoid letting rigid templates stifle business growth. Customize your online presence for a seamless, tailored shopping experience that drives expansion and success.</p>
 						</div>
 					</section>
 					<section  class="accordion-item">
-						<h1><span>Shopify</span> Web Development</h1>
+						<h1><span>Expert Maintenance </span>& Support for Your Shopify Store</h1>
 						<div class="accordion-item-content">
-							<p>Looking to redesign, migrate, or build a new Shopify store? We can help! Work with our strategists to plan your new digital experience. Then watch our award-winning designers and expert developers turn it into reality.</p>
+							<p>Keep your Shopify store running smoothly with our maintenance and support services. Our experts conduct regular website checkups to prevent unexpected breakdowns, allowing you to focus on your core business. Trust us to ensure the health and functionality of your Shopify store while you concentrate on growing your business.</p>
 						</div>
 					</section>
 					<section class="accordion-item">
-						<h1>Shopify Website <span>Integration</span></h1>
+						<h1>Upgrade Your Shopify Store  <span>With Expert Integration Services</span></h1>
 						<div class="accordion-item-content">
-							<p>We will recommend the best tools and applications to integrate with your website to improve performance, boost engagement and increase conversions.</p>
+							<p>Enhance your Shopify website with distinctive functionalities, ensuring you shine amidst competitors. Trust our experts for seamless third-party app integration, enhancing your online store's capabilities. Take the next step to enhance your Shopify store with our personalised integration solutions.</p>
 						</div>
 					</section>
 				</div>
@@ -140,13 +144,13 @@
 			<div class="col-md-6">
 				<div class="form_right">
 					<h2>Request A Quote</h2>
-					<p>Elevate Your e-Store’s Web Design With Digital Silk</p>
+					<p>Consult with us today to get your project priced.</p>
 					<form action="/leads/" method="POST">
 						<input type="text" name="name" placeholder="Name*" required>
 						<input type="text" name="service" placeholder="Company Name*" required>
 						<input type="email" name="email" placeholder="Email*" required>
 						<input type="number" name="phone" placeholder="Phone*" required>
-						<textarea name="brief" placeholder="Your Message*"></textarea>
+						<textarea name="brief" placeholder="Your Message"></textarea>
 						<input type="submit">
 					</form>
 				</div>
@@ -177,9 +181,9 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="video_inner">
-					<h5>OUR CLIENTS</h5>
-					<h2>A Trusted Shopify Web Design Agency</h2>
-					<p>We work with both startups and multinationals across industries to create seamless, user-friendly shopping experiences on Shopify.</p>
+					<h5>Enter the Marketplace!</h5>
+					<h2>Start Selling Today with Our Shopify Store Set-up Services!</h2>
+					<p>We have a team of professional Shopify store developers who have created thousands of stores for our clients, giving them a competitive edge.</p>
 				</div>
 			</div>
 		</div>
@@ -192,8 +196,8 @@
 			<div class="col-md-12">
 				<div class="project_inner">
 					<h5>GET INSPIRED</h5>
-					<h2>Featured Website Design Projects</h2>
-					<p>Our websites are designed to connect and convert. Discover the work we have done for businesses of all industries and sizes.</p>
+					<h2>Why Choose Website Valley For Shopify Store Creation?</h2>
+					<p>Choose Website Valley for expert Shopify store creation. Our team of skilled Shopify developers and designers ensures bespoke Shopify websites customised to your brand, driving success in your eCommerce venture.</p>
 				</div>
 			</div>
 		</div>
@@ -201,19 +205,19 @@
 </section>
 
 <section class="tabs_sec">
-	<div class="container">
+	<div class="container-fluid">
 		<div class="row">
 			<div class="col-md-12">
 				<div class="tabs_inner">
 					<ul class="nav nav-tabs" id="myTab" role="tablist">
 						<li class="nav-item" role="presentation">
-							<button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-cart-shopping"></i> Home</button>
+							<button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="fa-solid fa-cart-shopping"></i> ECOMMERCE</button>
 						</li>
 						<li class="nav-item" role="presentation">
-							<button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-regular fa-credit-card"></i> Profile</button>
+							<button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="fa-regular fa-credit-card"></i> B2C</button>
 						</li>
 						<li class="nav-item" role="presentation">
-							<button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-regular fa-handshake"></i> Contact</button>
+							<button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="fa-regular fa-handshake"></i> B2B</button>
 						</li>
 					</ul>
 					<div class="tab-content" id="myTabContent">
@@ -224,11 +228,10 @@
 										<img class="rotate_img" src="assets/images/first_bg.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Discovery and Planning </h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>Initial consultations for project comprehension, cost estimation, and strategic planning.</p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-G2-Esports-portfolio-example.png" alt="">
@@ -239,12 +242,11 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-G2-Esports-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<img src="assets/images/a-3.webp" alt="">
+											<h3>Shopify Store Set-Up </h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We ensure your Shopify store is configured correctly to maximise the latest technologies.</p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/first.webp" alt="">
@@ -255,12 +257,11 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/Buddha_brands_background-760x530.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<img src="assets/images/a-2.svg" alt="">
+											<h3>Shopify Theme Installation </h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We install the premium theme and commence set-up, executing in defined stages.</p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/first.webp" alt="">
@@ -271,12 +272,11 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design.jpeg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<img src="assets/images/a-1.webp" alt="">
+											<h3>Content Replacement </h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>Upon finalising the store layout, we replace placeholder content with authentic material. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/first.webp" alt="">
@@ -287,12 +287,11 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-Paul-Stuart_portfolio-example.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<img src="assets/images/a-4.webp" alt="">
+											<h3>Launching The Store </h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We schedule a launch date and offer assistance throughout the launch period as required. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/first.webp" alt="">
@@ -303,12 +302,11 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<img src="assets/images/a-5.webp" alt="">
+											<h3>Post-Launch Support</h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>Dedicated assistance and troubleshooting to ensure ongoing store success. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/first.webp" alt="">
@@ -324,11 +322,10 @@
 										<img class="rotate_img" src="assets/images/g.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Theme Set-up</h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We ensure your Shopify website theme aligns perfectly with your brand's design and functionality needs.</p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-EV-Universe-portfolio-example.png" alt="">
@@ -340,11 +337,10 @@
 										<img class="rotate_img" src="assets/images/shopify-website-design-company.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Payment Gateway Set-up</h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We integrate your preferred payment gateway, enabling seamless online transactions for your Shopify store. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company.png" alt="">
@@ -356,11 +352,10 @@
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-AUBG.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Shipping and Tax Set-up </h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We configure shipping rates and tax calculations, simplifying complex logistics for your store. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-AUBG-portfolio-example.png" alt="">
@@ -372,11 +367,10 @@
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-sony.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Products Set-up</h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We assist in adding and organising products, making it easy for startup owners.</p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-sony-rewards-portfolio-example.png" alt="">
@@ -388,11 +382,10 @@
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-Nexgen-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Apps Install</h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We install and customise essential apps from the Shopify marketplace to enhance your store's functionality. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-Nexgen-portfolio-example.png" alt="">
@@ -404,11 +397,10 @@
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-SNP-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Testing and Launch</h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>Our team tests all features and provides ongoing support post-launch, ensuring a smooth store operation. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-SNP-portfolio-example.png" alt="">
@@ -418,17 +410,16 @@
 							</div>
 						</div>
 						<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-						<div class="row mt-5">
+							<div class="row mt-5">
 								<div class="col-md-6">
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-Meltano-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Mobile SEO</h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We implement mobile SEO best practices, optimising Shopify websites for search engines with fast load times and structured data. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-Meltano-portfolio-example.png" alt="">
@@ -440,11 +431,10 @@
 										<img class="rotate_img" src="assets/images/shopify-website-design.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Blog Set-up</h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>Our Shopify store creation service sets up a blog effortlessly, overcoming technical challenges with ease. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company.png" alt="">
@@ -456,11 +446,10 @@
 										<img class="rotate_img" src="assets/images/shopify-website-design-.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Navigation and Menu </h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We structure navigation menus, collections, and categories for intuitive browsing in your Shopify store.</p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-AUBG-portfolio-example.png" alt="">
@@ -472,11 +461,10 @@
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-Powr2-portfolio.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Chatbot Set-up </h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>Our Shopify store developers create chatbots, enhancing customer service with 24/7 availability and personalised interactions.</p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-FieldEdge-portfolio-example.png" alt="">
@@ -488,11 +476,10 @@
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-Wodwo-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
-											<h3>Vibrant Online Luggage Store </h3>
+											<h3>Mobile Checkout Customisation</h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>We streamline mobile checkouts, simplifying forms, enabling mobile payments, and optimising the process for higher conversions. </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-Wodwo-portfolio-example.png" alt="">
@@ -500,20 +487,19 @@
 									</div>
 								</div>
 								<div class="col-md-6 mt-5">
-									<div class="image_wraper_main">
+									<!-- <div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-FieldEdge-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
 											<img src="assets/images/first_logo.webp" alt="">
 											<h3>Vibrant Online Luggage Store </h3>
 										</div>
 										<div class="image_content">
-											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>
-											<a href="#">LAUNCH THE WEBSITE</a>
+											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>											
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-FieldEdge-portfolio-example.png" alt="">
 										</div>																												
-									</div>
+									</div> -->
 								</div>
 							</div>
 						</div>
@@ -522,7 +508,7 @@
 			</div>
 			<div class="row mt-5">
 				<div class="proposal_inner">
-					<button class="btn-dark" type="button">REQUEST A PROPOSAL FOR YOUR NEXT PROJECT</button>
+					<button class="btn-dark" type="button">Hire Us Today for Your Professional Shopify Store Creation</button>
 				</div>
 			</div>
 		</div>
@@ -535,8 +521,8 @@
 			<div class="col-md-12">
 				<div class="approch_inner">
 					<h5>OUR APPROACH</h5>
-					<h2>How We Deliver Shopify Website Services</h2>
-					<p>Receive expert guidance, insights and ideas to grow your Shopify store’s reach and performance.</p>
+					<h2>What Sets Website Valley Apart?</h2>
+					<p>We have a professional team that offers unmatched Shopify store creation services.</p>
 				</div>
 				<div class="shopify_tabs">
 					<ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -555,8 +541,8 @@
 							<div class="row mt-5 align-items-center">
 								<div class="col-md-6">
 									<div class="tabs_content">
-										<h2>Expertise</h2>
-										<p>Our team members specialize in different areas of expertise, from web design and development to digital strategies and project management.</p>
+										<h2>Analytics and Reporting Integration</h2>
+										<p>Our Shopify store creation service includes comprehensive analytics and reporting integration. We set up Google Analytics and other tracking tools to provide you with detailed insights into your store's performance, customer behaviour, and sales trends. This data-driven approach enables you to make informed decisions to enhance your eCommerce strategy and drive growth.</p>
 									</div>
 								</div>
 								<div class="col-md-6">
@@ -575,8 +561,8 @@
 								</div>
 								<div class="col-md-6">
 									<div class="tabs_content">
-										<h2>Optimization</h2>
-										<p>We design and develop Shopify stores optimized to attract organic traffic, provide a seamless checkout process and drive conversions.</p>
+										<h2>Custom Development Solutions</h2>
+										<p>Beyond standard Shopify functionalities, we offer custom development solutions to meet unique business needs. Our skilled Shopify developers can create bespoke features and functionalities customised to your specific requirements, ensuring your Shopify store stands out and operates efficiently, providing a seamless shopping experience for your customers.</p>
 									</div>
 								</div>
 							</div>
@@ -585,8 +571,8 @@
 							<div class="row mt-5 align-items-center">
 								<div class="col-md-6">
 									<div class="tabs_content">
-										<h2>Best Practices</h2>
-										<p>We follow industry best practices to deliver an eCommerce website that converts, from intuitive navigation and product filtering to detailed descriptions.</p>
+										<h2>Marketing and Social Media Integration</h2>
+										<p>We seamlessly integrate marketing tools and social media platforms into your Shopify store. This includes setting up email marketing campaigns, social media sharing buttons, and remarketing tags. By connecting your store with your marketing efforts, we help you reach a wider audience, engage customers, and boost conversions.</p>
 									</div>
 								</div>
 								<div class="col-md-6">
@@ -609,8 +595,8 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="designer_inner">
-					<h2>Meet Our Reliable Shopify Website Designers</h2>
-					<p>Request a free consultation to get recommendations and a custom proposal for your<br> custom Shopify web design project.</p>
+					<h2>Schedule Your Consultation Today!</h2>
+					<p>Request a consultation with a professional Shopify store developer.</p>
 					<button type="button" class="btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">BOOK A CONSULTATION</button>
 				</div>
 			</div>
@@ -624,65 +610,61 @@
 			<div class="col-md-12">
 				<div class="faq_inner">
 					<h5>RELATED SERVICES</h5>
-					<h2>Full-Service Digital & Shopify Website Design Agency</h2>
-					<p>Our Shopify services can support your online store’s growth end-to-end, from branding to web design, development and marketing.</p>
+					<h2>Comprehensive Shopify Store Enhancement Services</h2>
+					<p>Website Valley offers a one-stop solution for all your Shopify store creation needs.</p>
 				</div>
 				<div class="faq_tabs">
 					<div class="accordion" id="accordionExample">
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingOne">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-								<span>01</span> Branding
+								<span>01</span> Shopify Integration with Third-Party Platforms
 							</button>
 							</h2>
 							<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
 								<img src="assets/images/acordian_img.jpg" alt="">
-								<p>A unique and recognizable brand identity sets your Shopify website store apart from competitors.</p>
-								<p>Collaborate with award-winning brand designers and strategists on your positioning, visual identity, and style guides.</p>
-								<a href="#">EXPLORE OUR BRANDING SERVICES</a>
+								<p>Expand your store's capabilities by integrating with third-party platforms. Connect with payment gateways, inventory systems, and marketing tools for streamlined operations.</p>
+								<p><a href="/branding/">EXPLORE OUR BRANDING SERVICES</a></p>
 							</div>
 							</div>
 						</div>
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingTwo">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-								<span>02</span> Web Copywriting
+								<span>02</span> Shopify Theme Customisation
 							</button>
 							</h2>
 							<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<p>Work with our expert copywriters to develop on-brand copy for your website.</p>
-								<p>From user experience to SEO, our experts apply industry best practices to deliver copy that inspires engagement and conversions.</p>
+								<p>Personalise your Shopify store's appearance and functionality with our theme customisation services. Our designers personalise themes to match your brand, ensuring a unique online presence that resonates with customers.</p>
 							</div>
 							</div>
 						</div>
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingThree">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-								<span>03</span> Email Marketing
+								<span>03</span>Shopify Store Optimisation
 							</button>
 							</h2>
 							<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<p>Nurture leads and drive repeat purchases with email campaigns.</p>
-								<p>Leverage email automation to reduce cart abandonment.</p>
-								<p>Announce new products, promotions, and special offers to grow revenue.</p>
-								<p>And, gather customer insights to optimize your marketing strategies.</p>
+								<p>Maximise your Shopify store's performance with our optimisation services. We conduct audits to identify areas for improvement, then implement strategies to enhance site speed, user experience, and conversion rates.</p>
+								
 							</div>
 							</div>
 						</div>
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingFour">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-								<span>04</span> Social Media Marketing
+								<span>04</span>Shopify Store Security Audits
 							</button>
 							</h2>
 							<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<p>We create social campaigns that drive leads across platforms.</p>
-								<p>Promote your products and services, engage with your target audience, generate buzz, and drive traffic to your Shopify store.</p>
-								<a href="#">EXPLORE OUR SOCIAL MEDIA MARKETING SERVICES</a>
+								<p>Protect your store from threats with our security audits. Identify vulnerabilities and implement robust measures to safeguard data, transactions, and customer information, ensuring peace of mind for you and your customers.</p>
+
+					
 							</div>
 							</div>
 						</div>
@@ -698,9 +680,9 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="approch_inner">
-					<h5>OUR PROCESS</h5>
-					<h2>Custom Shopify Web Design Process</h2>
-					<p>From research and planning to web design, launch and beyond, we follow an established web design process. Here’s a glimpse at the key stages in our web design process:</p>
+					<h5>Maximising Shopify Store Performance</h5>
+					<h2>Advanced Features for Optimal Shopify Store Performance</h2>
+					<p>At Website Valley, we utilise effective strategies to help you achieve your desired results.</p>
 				</div>
 				<div class="shopify_tabs">
 					<ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -722,9 +704,8 @@
 							<div class="row mt-5 align-items-center">
 								<div class="col-md-6">
 									<div class="tabs_content">
-										<h2>Plan</h2>
-										<p>At the start of every project, we assign a dedicated website strategist to your project.</p>
-										<p>We gather insights on your business, analyze your competitors and define target audiences to uncover opportunities. We use our learnings to plan your website, from the conversion funnels to technical features.</p>
+										<h2>Multi-language and Multi-currency Support</h2>
+										<p>Reach a global audience with multi-language and multi-currency support, allowing customers to shop in their preferred language and currency, enhancing accessibility and boosting international sales.</p>
 									</div>
 								</div>
 								<div class="col-md-6">
@@ -743,8 +724,8 @@
 								</div>
 								<div class="col-md-6">
 									<div class="tabs_content">
-										<h2>Wireframe</h2>
-										<p>We translate the detailed website strategy into a UX design, and make high-fidelity wireframes for key landing pages to show you the flow of messaging and features.</p>
+										<h2>Conversion Rate Optimisation (CRO) Strategies</h2>
+										<p>Implement proven CRO strategies to maximise conversions and sales, including optimised product pages, persuasive call-to-action buttons, streamlined checkout processes, and more, driving revenue and profitability.</p>
 									</div>
 								</div>
 							</div>
@@ -753,9 +734,8 @@
 							<div class="row mt-5 align-items-center">
 								<div class="col-md-6">
 									<div class="tabs_content">
-										<h2>UI Design</h2>
-										<p>If the wireframe is the bones and muscles of your Shopify website, then the UI design is the skin, hair, and all the pretty bits.</p>
-										<p>We’ll prototype your Shopify website to show light animation and give you a realistic feel of the experience. With your approval, prototypes will move into development.</p>
+										<h2>Comprehensive A/B Testing</h2>
+										<p>Conduct comprehensive A/B testing on various elements of your Shopify store, including layouts, designs, product descriptions, and pricing strategies, to identify the most effective strategies for increasing engagement and conversions.</p>
 									</div>
 								</div>
 								<div class="col-md-6">
@@ -774,8 +754,8 @@
 								</div>
 								<div class="col-md-6">
 									<div class="tabs_content">
-										<h2>Wireframe</h2>
-										<p>We translate the detailed website strategy into a UX design, and make high-fidelity wireframes for key landing pages to show you the flow of messaging and features.</p>
+										<h2>Seamless Integration with Marketing Platforms</h2>
+										<p>Integrate your Shopify store seamlessly with leading marketing platforms, such as email marketing software, social media advertising tools, and CRM systems, to create targeted campaigns, drive traffic, and nurture customer relationships.</p>
 									</div>
 								</div>
 							</div>
@@ -792,8 +772,8 @@
 		<div class="row align-items-center">
 			<div class="col-md-6">
 				<div class="cta_inner">
-					<h2>Stay On Top Of Digital Trends</h2>
-					<p>Subscribe to our newsletter to get the latest industry insights and web design best practices delivered to your inbox.</p>
+					<h2>Subscribe To Newsletter</h2>
+					<p>Stay updated with the latest news and exclusive deals and offers by subscribing to our newsletter today!</p>
 				</div>
 			</div>
 			<div class="col-md-6">
@@ -885,61 +865,55 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="faq_inner">					
-					<h2>Shopify Website Design FAQs</h2>
+					<h2>FAQs – Shopify Store Creation</h2>
 				</div>
 				<div class="faq_tabs">
 					<div class="accordion" id="accordionExample">
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingOne">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-								<span>01</span> How much does Shopify web design cost?
+								<span>01</span> How long does it take to create a Shopify store?
 							</button>
 							</h2>
 							<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<p>The cost of a Shopify web design project depends on multiple factors, including the complexity of your online store, the features and functionalities you want your store to have, as well as the expertise of the web design agency you hire. </p>
-								<p> Custom eCommerce projects can cost tens to hundreds of thousands of dollars, so it’s impossible to provide generic estimates. </p>
+								<p>TThe timeframe varies depending on the complexity of your requirements, but typically, our team can have your Shopify store up and running within 2-4 weeks from the initial consultation.</p>
 							</div>
 							</div>
 						</div>
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingTwo">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-								<span>02</span> Why invest in custom Shopify web design?
+								<span>02</span> Do I need to purchase a domain name separately?
 							</button>
 							</h2>
 							<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<p>From the look and feel to the performance, custom Shopify websites outperform themed alternatives every time. </p>
-								<p>A custom design will allow you to create a truly unique experience, consistent with your brand identity. </p>
-								<p>Clean code will allow you to scale your store over time, as well as optimize it for search engines better. </p>
-								<p>Custom may be costlier upfront, but it pays off in longevity and results. </p>
+								<p>No, we can assist you in purchasing and setting up a custom domain name for your Shopify store as part of our services. </p>
 							</div>
 							</div>
 						</div>
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingThree">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-								<span>03</span> How long does custom Shopify web design take?
+								<span>03</span> Do you provide ongoing support after the store is launched?
 							</button>
 							</h2>
 							<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<p>Custom web design can take anywhere between 2 months to up to 6 months or even a year to complete, depending on the website’s complexity. </p>
-								<p>Large projects such as eCommerce stores with many pages can take 6 months or longer to plan, design, develop and launch. </p>
+								<p>Yes, we offer ongoing support and maintenance services to ensure your Shopify store remains secure, up-to-date, and optimized for success post-launch. </p>
 							</div>
 							</div>
 						</div>
 						<div class="accordion-item">
 							<h2 class="accordion-header" id="headingFour">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-								<span>04</span> Can I redesign my current Shopify website?
+								<span>04</span>Can I sell digital products on my Shopify store?
 							</button>
 							</h2>
 							<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<p>Yes, our Shopify experts can update your current website based on your requirements. </p>
-								<p>We will update your design, optimize your product pages, implement a streamlined checkout process and add the features and functionalities you need to ensure a successful e-store. </p>
+								<p>Absolutely, Shopify supports the sale of digital products such as ebooks, software, music, and more. We can help you set up and configure your store to sell digital products seamlessly. </p>
 							</div>
 							</div>
 						</div>
@@ -990,7 +964,7 @@
 		<div class="row align-items-center">
 			<div class="col-md-12">
 				<div class="cta_inner center">
-					<h2>Ready To Grow Your Brand Online?</h2>
+					<h2>Dominate the Untapped Market Segments With a Shopify Store</h2>
 					<button type="button" class="btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">REQUEST A QUOTE</button>
 				</div>
 			</div>
@@ -1003,8 +977,8 @@
 		<div class="row">
 			<div class="col-md-6">
 				<div class="growth_inner">
-					<h5>TAKE THE SILK ROAD TO</h5>
-					<h2>Digitizing Your Business Growth</h2>
+					<h5>Get In Touch With Us Today!</h5>
+					<h2>Establish Your Digital Presence</h2>
 					<ul>
 						<li>
 							<p> Follow Us</p>
@@ -1018,7 +992,7 @@
 			</div>
 			<div class="col-md-6">
 				<div class="growth_form">
-					<h2>Start A Conversation With Us</h2>
+					<h2>Share Your Project Details With Us</h2>
 					<form action="/leads/" method="POST">
 						<input type="text" name="name" placeholder="name" required>
 						<input type="text" name="service" placeholder="Company Name" required>
@@ -1053,7 +1027,7 @@
 				</div>
 				<div class="footer_bottom">
 					<ul>
-						<li><p>©2024 Digital Silk. All rights reserved</p></li>
+						<li><p>©2024 Website Valley. All rights reserved</p></li>
 						<li><a href="/terms-conditions/">Privacy Policy</a></li>
 						<li><a href="/privacy-policy/">Terms & Conditions</a></li>
 						<li><a href="tel:+020 3930 1277">Call us at +020 3930 1277</a></li>
@@ -1083,7 +1057,7 @@
 						<form action="/leads/" method="POST">        
 							<input type="text" name="name" placeholder="Full Name" required="">
 							<input type="email" name="email" placeholder="Email Address" required="">
-							<input type="tel" name="phone" placeholder="Phone Number" required="">                
+							<input type="number" name="phone" placeholder="Phone Number" required="">                
 							<textarea name="brief" placeholder="Enter a brief description about your project"></textarea>
 							<input type="submit" value="Submit">
 						</form> 
@@ -1109,6 +1083,31 @@
 <script>
   AOS.init();
 </script>
+
+                                                                                                                                   
+
+<script>
+
+$(function() {  
+  $('.btn-6')
+    .on('mouseenter', function(e) {
+			var parentOffset = $(this).offset(),
+      		relX = e.pageX - parentOffset.left,
+      		relY = e.pageY - parentOffset.top;
+			$(this).find('span').css({top:relY, left:relX})
+    })
+    .on('mouseout', function(e) {
+			var parentOffset = $(this).offset(),
+      		relX = e.pageX - parentOffset.left,
+      		relY = e.pageY - parentOffset.top;
+    	$(this).find('span').css({top:relY, left:relX})
+    });
+});
+
+
+
+</script>
+
 
 <script>
 function setButtonURL() {
