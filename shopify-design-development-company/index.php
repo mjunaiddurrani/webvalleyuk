@@ -42,10 +42,10 @@
 
 <section class="sec_1">
 	<div class="container">
-		<div class="scroll_inner">
+		<!-- <div class="scroll_inner">
 			<p>scroll</p>
 			<i class="fa-solid fa-arrow-right"></i>
-		</div>
+		</div> -->
 		<div class="row">
 			<div class="col-md-6">
 				<div class="banner_inner">
@@ -57,18 +57,7 @@
 						<li><i class="fa-solid fa-location-arrow"></i>SEO Integration</li>
 					</ul>
 					<button type="button" class="btn-dark btn-1-2" data-bs-toggle="modal" data-bs-target="#exampleModal">REQUEST A QUOTE </button>
-					<ul class="bottom_points">
-						<li>
-							<span><img src="assets/images/industry.webp" alt=""></span>
-							<span>
-								<p>5 Star DesignRush Reviews</p>
-								<i class="fa-solid fa-star"></i>
-								<i class="fa-solid fa-star"></i>
-								<i class="fa-solid fa-star"></i>
-								<i class="fa-solid fa-star"></i>
-								<i class="fa-solid fa-star"></i>
-							</span>
-						</li>
+					<ul class="bottom_points">						
 						<li>
 							<p>Latest Web Design Award</p>
 							<img src="assets/images/industry-right.webp" alt="">
@@ -86,20 +75,7 @@
 						<li><img src="assets/images/shopify-website-design-company-Stundenglass.png" alt=""></li>
 						<li><img src="assets/images/Social-media-marketing.webp" alt=""></li>
 					</ul>
-				</div>
-				<div class="action_wraper">
-					<ul>
-						<li>
-							<span>
-								<i class="fa-solid fa-play"></i></li>
-							</span>
-						<li>
-							<h5>SEE OUR WORK</h5>
-							<h3>IN ACTION</h3>
-							<p>2 MINUTES</p>
-						</li>
-					</ul>
-				</div>
+				</div>				
 			</div>
 		</div>
 	</div>
@@ -232,9 +208,10 @@
 										</div>
 										<div class="image_content">
 											<p>Initial consultations for project comprehension, cost estimation, and strategic planning.</p>											
+											<a href="https://www.rollink.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
-											<img src="assets/images/shopify-website-design-company-G2-Esports-portfolio-example.png" alt="">
+											<img src="assets/images/first.webp" alt="">
 										</div>																												
 									</div>
 								</div>
@@ -247,9 +224,10 @@
 										</div>
 										<div class="image_content">
 											<p>We ensure your Shopify store is configured correctly to maximise the latest technologies.</p>											
+											<a href="https://na.g2esports.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
-											<img src="assets/images/first.webp" alt="">
+											<img src="assets/images/shopify-website-design-company-G2-Esports-portfolio-example.png" alt="">
 										</div>																												
 									</div>
 								</div>
@@ -262,9 +240,10 @@
 										</div>
 										<div class="image_content">
 											<p>We install the premium theme and commence set-up, executing in defined stages.</p>											
+											<a href="https://buddhabrands.ca/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
-											<img src="assets/images/first.webp" alt="">
+											<img src="assets/images/Buddha-Brands-web-design-angled.png" alt="">
 										</div>																												
 									</div>
 								</div>
@@ -277,9 +256,10 @@
 										</div>
 										<div class="image_content">
 											<p>Upon finalising the store layout, we replace placeholder content with authentic material. </p>											
+											<a href="https://www.bang-olufsen.com/en/int" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
-											<img src="assets/images/first.webp" alt="">
+											<img src="assets/images/shopify-website-design-company-bo-portfolio-example.png" alt="">
 										</div>																												
 									</div>
 								</div>
@@ -292,9 +272,10 @@
 										</div>
 										<div class="image_content">
 											<p>We schedule a launch date and offer assistance throughout the launch period as required. </p>											
+											<a href="https://www.paulstuart.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
-											<img src="assets/images/first.webp" alt="">
+											<img src="assets/images/shopify-website-design-company-Paul-Stuart-portfolio-example.png" alt="">
 										</div>																												
 									</div>
 								</div>
@@ -307,9 +288,10 @@
 										</div>
 										<div class="image_content">
 											<p>Dedicated assistance and troubleshooting to ensure ongoing store success. </p>											
+											<a href="https://www.dognomics.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
-											<img src="assets/images/first.webp" alt="">
+											<img src="assets/images/shopify.png" alt="">
 										</div>																												
 									</div>
 								</div>
@@ -321,11 +303,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/g.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/EV-Universe_Logo-254x41.png" alt="">
 											<h3>Theme Set-up</h3>
 										</div>
 										<div class="image_content">
 											<p>We ensure your Shopify website theme aligns perfectly with your brand's design and functionality needs.</p>											
+											<a href="https://www.evuniverse.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-EV-Universe-portfolio-example.png" alt="">
@@ -336,11 +319,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/Evlo_Fitness_logo-125x50.png" alt="">
 											<h3>Payment Gateway Set-up</h3>
 										</div>
 										<div class="image_content">
 											<p>We integrate your preferred payment gateway, enabling seamless online transactions for your Shopify store. </p>											
+											<a href="https://evlofitness.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company.png" alt="">
@@ -351,11 +335,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-AUBG.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/AUBG-logo-75x50.png" alt="">
 											<h3>Shipping and Tax Set-up </h3>
 										</div>
 										<div class="image_content">
 											<p>We configure shipping rates and tax calculations, simplifying complex logistics for your store. </p>											
+											<a href="https://www.aubg.edu/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-AUBG-portfolio-example.png" alt="">
@@ -366,11 +351,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-sony.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/sony-rewards-logo-50x50.png" alt="">
 											<h3>Products Set-up</h3>
 										</div>
 										<div class="image_content">
 											<p>We assist in adding and organising products, making it easy for startup owners.</p>											
+											<a href="https://www.rewards.sony.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-sony-rewards-portfolio-example.png" alt="">
@@ -381,11 +367,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-Nexgen-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/dashboard-design-Nexgen-logo-218x50.png" alt="">
 											<h3>Apps Install</h3>
 										</div>
 										<div class="image_content">
 											<p>We install and customise essential apps from the Shopify marketplace to enhance your store's functionality. </p>											
+											<a href="https://nexgenflightsolutions.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-Nexgen-portfolio-example.png" alt="">
@@ -396,11 +383,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-SNP-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/SNP_Logo-164x50.png" alt="">
 											<h3>Testing and Launch</h3>
 										</div>
 										<div class="image_content">
 											<p>Our team tests all features and provides ongoing support post-launch, ensuring a smooth store operation. </p>											
+											<a href="https://snptherapeutics.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-SNP-portfolio-example.png" alt="">
@@ -415,11 +403,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-Meltano-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/meltano-logo-3-178x50.png" alt="">
 											<h3>Mobile SEO</h3>
 										</div>
 										<div class="image_content">
 											<p>We implement mobile SEO best practices, optimising Shopify websites for search engines with fast load times and structured data. </p>											
+											<a href="https://meltano.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-Meltano-portfolio-example.png" alt="">
@@ -430,11 +419,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/Ventura-Foods-logo-3-254x36.png" alt="">
 											<h3>Blog Set-up</h3>
 										</div>
 										<div class="image_content">
 											<p>Our Shopify store creation service sets up a blog effortlessly, overcoming technical challenges with ease. </p>											
+											<a href="https://www.venturafoods.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company.png" alt="">
@@ -445,11 +435,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/LIG-Solutions-logo-2-52x50.png" alt="">
 											<h3>Navigation and Menu </h3>
 										</div>
 										<div class="image_content">
 											<p>We structure navigation menus, collections, and categories for intuitive browsing in your Shopify store.</p>											
+											<a href="https://ligsolutions.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-AUBG-portfolio-example.png" alt="">
@@ -460,11 +451,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-Powr2-portfolio.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/Powr2-logo-233x50.png" alt="">
 											<h3>Chatbot Set-up </h3>
 										</div>
 										<div class="image_content">
 											<p>Our Shopify store developers create chatbots, enhancing customer service with 24/7 availability and personalised interactions.</p>											
+											<a href="https://powr2.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-FieldEdge-portfolio-example.png" alt="">
@@ -475,11 +467,12 @@
 									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-Wodwo-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/Wodwo-Logo-70x50.png" alt="">
 											<h3>Mobile Checkout Customisation</h3>
 										</div>
 										<div class="image_content">
 											<p>We streamline mobile checkouts, simplifying forms, enabling mobile payments, and optimising the process for higher conversions. </p>											
+											<a href="https://wodwo.co/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-Wodwo-portfolio-example.png" alt="">
@@ -487,19 +480,20 @@
 									</div>
 								</div>
 								<div class="col-md-6 mt-5">
-									<!-- <div class="image_wraper_main">
+									<div class="image_wraper_main">
 										<img class="rotate_img" src="assets/images/shopify-website-design-company-FieldEdge-portfolio-example-760x530.jpg" alt="">
 										<div class="bottom_content">
-											<img src="assets/images/first_logo.webp" alt="">
+											<img src="assets/images/FieldEdge-logo.png" alt="">
 											<h3>Vibrant Online Luggage Store </h3>
 										</div>
 										<div class="image_content">
 											<p>Innovative luggage brand enters the U.S. market with a redesigned digital presence </p>											
+											<a href="https://fieldedge.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
 											<img src="assets/images/shopify-website-design-company-FieldEdge-portfolio-example.png" alt="">
 										</div>																												
-									</div> -->
+									</div>
 								</div>
 							</div>
 						</div>
