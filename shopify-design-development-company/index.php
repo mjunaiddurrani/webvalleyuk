@@ -502,7 +502,7 @@
 			</div>
 			<div class="row mt-5">
 				<div class="proposal_inner">
-					<button class="btn-dark" type="button">Hire Us Today for Your Professional Shopify Store Creation</button>
+					<button class="btn-dark" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Hire Us Today for Your Professional Shopify Store Creation</button>
 				</div>
 			</div>
 		</div>
@@ -985,10 +985,10 @@
 							<i class="fa-regular fa-user"></i>
 							<input type="text" name="name" placeholder="name" required>
 						</div>
-						<div class="same">
+						<!-- <div class="same">
 							<i class="fa-solid fa-house"></i>
 							<input type="text" name="service" placeholder="Company Name" required>
-						</div>
+						</div> -->
 						<div class="same">
 							<i class="fa-regular fa-envelope"></i>
 							<input type="email" name="email" placeholder="Email" required>
@@ -1030,8 +1030,8 @@
 				<div class="footer_bottom">
 					<ul>
 						<li><p>©2024 Website Valley. All rights reserved</p></li>
-						<li><a href="/terms-conditions/">Privacy Policy</a></li>
-						<li><a href="/privacy-policy/">Terms & Conditions</a></li>
+						<li><a href="/privacy-policy/">Privacy Policy</a></li>
+						<li><a href="/terms-conditions/">Terms & Conditions</a></li>
 						<li><a href="tel:+442039301277">Call us at 020 3930 1277</a></li>
 					</ul>
 				</div>
