@@ -1376,6 +1376,9 @@ header.main_header {
   font-size: 22px;
   margin: 0 0 10px 0;
   position: relative;
+  display: flex;
+  gap: 10px;
+  align-items: center;
 }
 
 .banner_inner ul {
@@ -2696,7 +2699,7 @@ ul#myTab li button.active:after {
 }
 
 .image_content a:hover {
-  background: #03caff;
+  background: linear-gradient(217deg,#3081c9 50%,#623eb6 100%);
   padding: 10px 20px;
   color: #fff;
   border-radius: 5px;
@@ -3100,4 +3103,37 @@ section.last_sec {
     padding-bottom: 120px;
 }
   
+}
+.accordion section.accordion-item {
+  position: relative;
+}
+
+.accordion section.accordion-item::after {
+  content: "";
+  display: block;
+  height: 120px;
+  width: 3px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #dde0e7;
+}
+
+.accordion section.accordion-item.active1::after {
+  background: linear-gradient(217deg,#3081c9 50%,#623eb6 100%);
+  height: -webkit-fill-available;
+}
+
+.accordion section.accordion-item.active1::before {
+  left: 0;
+  top: 50%;
+  border: 0 solid transparent;
+  content: "";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-left-color: #623eb6;
+  margin-top: -6px;
+  border-width: 10px;
 }

@@ -31,8 +31,8 @@
 	      </div>
 	    </div>		
 		<div class="col-md-8">
-			<div class="header_btn">
-				<button type="button" class="btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">REQUEST A QUOTE </button>
+			<div class="header_btn banner_inner">
+				<button type="button" class="btn-dark btn-1-2" data-bs-toggle="modal" data-bs-target="#exampleModal">REQUEST A QUOTE </button>
 			</div>
 		</div>
 	  </div>
@@ -59,8 +59,8 @@
 					<button type="button" class="btn-dark btn-1-2" data-bs-toggle="modal" data-bs-target="#exampleModal">REQUEST A QUOTE </button>
 					<ul class="bottom_points">						
 						<li>
-							<p>Latest Web Design Award</p>
-							<img src="assets/images/industry-right.webp" alt="">
+							<!-- <p>Latest Web Design Award</p> -->
+							<!-- <img src="assets/images/industry-right.webp" alt=""> -->
 						</li>
 					</ul>
 				</div>
@@ -135,7 +135,7 @@
 	</div>
 </section>
 
-<section class="sec_3">
+<section class="sec_3 d-none">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -427,7 +427,7 @@
 											<a href="https://www.venturafoods.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
-											<img src="assets/images/shopify-website-design-company.png" alt="">
+											<img src="assets/images/shopify-website-design-company-Ventura-Foods-portfolio-b2b1.webp" alt="">
 										</div>																												
 									</div>
 								</div>
@@ -459,7 +459,7 @@
 											<a href="https://powr2.com/" target="_blank">LAUNCH THE WEBSITE</a>
 										</div>	
 										<div class="right_img">
-											<img src="assets/images/shopify-website-design-company-FieldEdge-portfolio-example.png" alt="">
+											<img src="assets/images/shopify-website-design-company-POWR2-portfolio-power2.webp" alt="">
 										</div>																												
 									</div>
 								</div>
@@ -782,7 +782,7 @@
 	</div>
 </section>
 
-<section class="approch_sec padding_top">
+<section class="approch_sec padding_top d-none">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -966,7 +966,7 @@
 				<div class="growth_inner">
 					<h5>Get In Touch With Us Today!</h5>
 					<h2>Establish Your Digital Presence</h2>
-					<ul>
+					<!-- <ul>
 						<li>
 							<p> Follow Us</p>
 						</li>
@@ -974,7 +974,7 @@
 							<a href="https://www.instagram.com/websitevalley/"><i class="fa-brands fa-instagram"></i></a>
 						</li>
 						<li><i class="fa-brands fa-linkedin-in"></i></li>
-					</ul>
+					</ul> -->
 				</div>
 			</div>
 			<div class="col-md-6">
@@ -1032,7 +1032,7 @@
 						<li><p>©2024 Website Valley. All rights reserved</p></li>
 						<li><a href="/terms-conditions/">Privacy Policy</a></li>
 						<li><a href="/privacy-policy/">Terms & Conditions</a></li>
-						<li><a href="tel:+020 3930 1277">Call us at +020 3930 1277</a></li>
+						<li><a href="tel:+442039301277">Call us at 020 3930 1277</a></li>
 					</ul>
 				</div>
 			</div>				
@@ -1292,7 +1292,17 @@ $(document).ready(function(){
     });
 });
 </script>
+<script>
+        document.querySelectorAll('.accordion-item').forEach(item => {
+            item.addEventListener('mouseover', () => {
+                item.classList.add('active1');
+            });
 
+            item.addEventListener('mouseout', () => {
+                item.classList.remove('active1');
+            });
+        });
+    </script>
 
 </body>
 </html>

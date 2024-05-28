@@ -285,27 +285,7 @@ if(window.location.pathname=="/"){
       }
     }
   </style>
-  <script>
-       
-       if (window.innerWidth < 676) {
-        $(".hello_buddy").click(function() {
-          $("#modalSteper").modal().css('display','none');
-          $(".modal-backdrop").css({
-    'opacity': '0',
-    'position': 'unset'
-});          $('.modal-open').css('overflow','auto');
-        window.location.href = "tel:+442039301277";
-    });
-
-
-           // Execute your code here when window size is less than 676px
-           console.log("Window size is less than 676px.");
-           // You can add your specific functionality here
-       } else {
-           console.log("Window size is greater than or equal to 676px.");
-           // You can add alternative functionality here if needed
-       }
-       </script>
+  
   <script>
     $(".btn-theme-outline, .modalOpen, .hello_buddy").click(function () {
       $("#modalSteper").modal("show")
