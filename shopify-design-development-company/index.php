@@ -18,7 +18,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Chela+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 
 </head>
-<body class="lp_wrap">
+<body>
 
 
 <!-- header -->
@@ -937,14 +937,7 @@
 							<p>Responsive Web Design</p>
 							<p>UI/UX Web Design</p>
 							<p>Website Redesign</p>
-						</li>
-						<li>
-							<h3>Web Design Locations</h3>
-							<p>California Web Design</p>
-							<p>Chicago Web Design</p>
-							<p>Los Angeles Web Design</p>
-							<p>San Francisco Web Design</p>
-						</li>
+						</li>						
 						<li>
 							<h3>eCommerce Services</h3>
 							<p>eCommerce Development</p>
@@ -984,7 +977,7 @@
 							<p> Follow Us</p>
 						</li>
 						<li>
-							<i class="fa-brands fa-instagram"></i>
+							<a href="https://www.instagram.com/websitevalley/"><i class="fa-brands fa-instagram"></i></a>
 						</li>
 						<li><i class="fa-brands fa-linkedin-in"></i></li>
 					</ul>
@@ -994,11 +987,26 @@
 				<div class="growth_form">
 					<h2>Share Your Project Details With Us</h2>
 					<form action="/leads/" method="POST">
-						<input type="text" name="name" placeholder="name" required>
-						<input type="text" name="service" placeholder="Company Name" required>
-						<input type="email" name="email" placeholder="Email" required>
-						<input type="number" name="phone" placeholder="phone" required>
-						<textarea name="brief" placeholder="Your Message"></textarea>
+						<div class="same">
+							<i class="fa-regular fa-user"></i>
+							<input type="text" name="name" placeholder="name" required>
+						</div>
+						<div class="same">
+							<i class="fa-solid fa-house"></i>
+							<input type="text" name="service" placeholder="Company Name" required>
+						</div>
+						<div class="same">
+							<i class="fa-regular fa-envelope"></i>
+							<input type="email" name="email" placeholder="Email" required>
+						</div>
+						<div class="same">
+							<i class="fa-solid fa-phone"></i>
+							<input type="number" name="phone" placeholder="phone" required>
+						</div>
+						<div class="same">
+							<i class="fa-solid fa-message"></i>
+							<textarea name="brief" placeholder="Your Message"></textarea>
+						</div>
 						<input type="submit" value="Submit">
 					</form>
 				</div>
