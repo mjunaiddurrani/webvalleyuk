@@ -584,13 +584,13 @@
 </section>
 
 
-<section class="designer_sec">
+<section class="designer_sec pt-0">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
 				<div class="designer_inner">
-					<h2>Schedule Your Consultation Today!</h2>
-					<p>Request a consultation with a professional Shopify store developer.</p>
+					<!-- <h2>Schedule Your Consultation Today!</h2>
+					<p>Request a consultation with a professional Shopify store developer.</p> -->
 					<button type="button" class="btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">BOOK A CONSULTATION</button>
 				</div>
 			</div>
@@ -951,9 +951,9 @@
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-md-12">
-				<div class="cta_inner center">
+				<div class="cta_inner center banner_inner">
 					<h2>Dominate the Untapped Market Segments With a Shopify Store</h2>
-					<button type="button" class="btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">REQUEST A QUOTE</button>
+					<button type="button" class="btn-dark btn-1-2" data-bs-toggle="modal" data-bs-target="#exampleModal">REQUEST A QUOTE</button>
 				</div>
 			</div>
 		</div>
