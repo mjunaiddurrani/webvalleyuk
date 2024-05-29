@@ -123,7 +123,7 @@
 					<p>Consult with us today to get your project priced.</p>
 					<form action="/leads/" method="POST">
 						<input type="text" name="name" placeholder="Name*" required>
-						<input type="text" name="service" placeholder="Company Name*" required>
+						<!-- <input type="text" name="service" placeholder="Company Name*" required> -->
 						<input type="email" name="email" placeholder="Email*" required>
 						<input type="number" name="phone" placeholder="Phone*" required>
 						<textarea name="brief" placeholder="Your Message"></textarea>
@@ -616,7 +616,7 @@
 							</button>
 							</h2>
 							<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-							<div class="accordion-body">
+							<div class="accordion-body new_body">
 								<img src="assets/images/acordian_img.jpg" alt="">
 								<p>Expand your store's capabilities by integrating with third-party platforms. Connect with payment gateways, inventory systems, and marketing tools for streamlined operations.</p>
 								<p><a href="/branding/">EXPLORE OUR BRANDING SERVICES</a></p>
@@ -630,8 +630,9 @@
 							</button>
 							</h2>
 							<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-							<div class="accordion-body">
+							<div class="accordion-body new_body">
 								<p>Personalise your Shopify store's appearance and functionality with our theme customisation services. Our designers personalise themes to match your brand, ensuring a unique online presence that resonates with customers.</p>
+								<p><a href="javascript:;"  data-bs-toggle="modal" data-bs-target="#exampleModal">Consult An Expert</a></p>
 							</div>
 							</div>
 						</div>
@@ -642,8 +643,9 @@
 							</button>
 							</h2>
 							<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-							<div class="accordion-body">
+							<div class="accordion-body new_body">
 								<p>Maximise your Shopify store's performance with our optimisation services. We conduct audits to identify areas for improvement, then implement strategies to enhance site speed, user experience, and conversion rates.</p>
+								<p><a href="javascript:;"  data-bs-toggle="modal" data-bs-target="#exampleModal">Consult An Expert</a></p>
 								
 							</div>
 							</div>
@@ -655,10 +657,9 @@
 							</button>
 							</h2>
 							<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-							<div class="accordion-body">
+							<div class="accordion-body new_body">
 								<p>Protect your store from threats with our security audits. Identify vulnerabilities and implement robust measures to safeguard data, transactions, and customer information, ensuring peace of mind for you and your customers.</p>
-
-					
+								<p><a href="javascript:;"  data-bs-toggle="modal" data-bs-target="#exampleModal">Consult An Expert</a></p>
 							</div>
 							</div>
 						</div>
@@ -761,7 +762,7 @@
 	</div>
 </section>
 
-<section class="cta_sec">
+<section class="cta_sec d-none">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-md-6">

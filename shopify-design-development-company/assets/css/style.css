@@ -3137,3 +3137,15 @@ section.last_sec {
   margin-top: -6px;
   border-width: 10px;
 }
+.accordion-body.new_body p {
+  width: 90%;
+  text-align: start;
+  display: flex;
+  justify-content: center;
+}
+
+.accordion-body.new_body p a {
+  background: #2beffc;
+  color: #000 !important;
+  border-radius: 5px;
+}
