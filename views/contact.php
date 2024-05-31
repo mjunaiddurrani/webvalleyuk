@@ -154,7 +154,7 @@
         <div class="mapwrap">
 
           <div class="mappart">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2481.3748281106546!2d0.0807980155851441!3d51.543025515919055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a671db33c445%3A0x93498b5101f61825!2s54%20Park%20Ave%2C%20Barking%20IG11%208QU%2C%20UK!5e0!3m2!1sen!2s!4v1624544383327!5m2!1sen!2s"  style="border:0" allowfullscreen></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8357386405432!2d-0.1306683!3d51.516229499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d40012a79%3A0xd7a8f5e932e175a1!2s156%20Tottenham%20Ct%20Rd%2C%20London%20W1D%202DH%2C%20UK!5e0!3m2!1sen!2s!4v1717167265056!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             
           </div>
           <div class="infopart">
