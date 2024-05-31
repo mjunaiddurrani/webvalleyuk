@@ -515,6 +515,403 @@
                         "updated_at": "2021-11-29T12:43:03.000000Z"
                     }]
                 },
+                "business-website-package": {
+                    "id": 165,
+                    "brand_id": 2,
+                    "heading": "Business Website Package",
+                    "slug": "business-website-package",
+                    "description": "Suitable for mid sized startups who are looking to work with a strong R&D, Creative and marketing team to help develop a unique brand identity, strong digital presense, marketing strategies and help select elements to alter consumer behaviour toawrds their business. These strategies will help to compete directly with some of the top competitors in your target market.",
+                    "meta_title": null,
+                    "meta_description": null,
+                    "amount": 1999,
+                    "descountPercentage": 50,
+                    "package_category_id": 23,
+                    "created_at": "2022-05-09T12:30:57.000000Z",
+                    "updated_at": "2022-05-09T12:30:57.000000Z",
+                    "details": [{
+                        "id": 3832,
+                        "package_id": 165,
+                        "detail": "Custom Made, Interactive, Dynamic & High End Design",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3833,
+                        "package_id": 165,
+                        "detail": "Custom WP (or) Custom PHP Development",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3834,
+                        "package_id": 165,
+                        "detail": "1 jQuery Slider Banner",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3835,
+                        "package_id": 165,
+                        "detail": "Up to 10 Custom Made Banner Designs",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3836,
+                        "package_id": 165,
+                        "detail": "10 Stock Images",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3837,
+                        "package_id": 165,
+                        "detail": "Unlimited Revisions",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3838,
+                        "package_id": 165,
+                        "detail": "Special Hover Effects",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3839,
+                        "package_id": 165,
+                        "detail": "Content Management System (CMS)",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3840,
+                        "package_id": 165,
+                        "detail": "Online Appointment\/Scheduling\/Online Ordering Integration (Optional)",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3841,
+                        "package_id": 165,
+                        "detail": "Online Payment Integration (Optional)",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3842,
+                        "package_id": 165,
+                        "detail": "Multi Lingual (Optional)",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3843,
+                        "package_id": 165,
+                        "detail": "Custom Dynamic Forms (Optional)",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3844,
+                        "package_id": 165,
+                        "detail": "Signup Area (For Newsletters, Offers etc.)",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3845,
+                        "package_id": 165,
+                        "detail": "Search Bar",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3846,
+                        "package_id": 165,
+                        "detail": "Live Feeds of Social Networks integration (Optional)",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3847,
+                        "package_id": 165,
+                        "detail": "Mobile Responsive",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3848,
+                        "package_id": 165,
+                        "detail": "15 Seconds 2D Explainer Video",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3849,
+                        "package_id": 165,
+                        "detail": "Voice - Over & Sound Effects",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3850,
+                        "package_id": 165,
+                        "detail": "Professional Script Writing",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3851,
+                        "package_id": 165,
+                        "detail": "Storyboard",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3852,
+                        "package_id": 165,
+                        "detail": "SEO Meta Tags",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3853,
+                        "package_id": 165,
+                        "detail": "FREE 5 Years Domain Name",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3854,
+                        "package_id": 165,
+                        "detail": "Free Google Friendly Sitemap",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3855,
+                        "package_id": 165,
+                        "detail": "Search Engine Submission",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3856,
+                        "package_id": 165,
+                        "detail": "Complete W3C Certified HTML",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3857,
+                        "package_id": 165,
+                        "detail": "Industry Specified Team of Expert Designers and Developers",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3858,
+                        "package_id": 165,
+                        "detail": "Dedicated Accounts Manager",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }, {
+                        "id": 3859,
+                        "package_id": 165,
+                        "detail": "Complete Deployment",
+                        "created_at": "2022-05-09T12:30:57.000000Z",
+                        "updated_at": "2022-05-09T12:30:57.000000Z"
+                    }]
+                },
+                "elite-e-commerce-package": {
+                    "id": 105,
+                    "brand_id": 2,
+                    "heading": "Elite E-Commerce Package",
+                    "slug": "elite-e-commerce-package",
+                    "description": "Suitable for mid sized startups\/enterprises who are looking to take it on the next level and grow their businesses at a much faster pace with a strong brand presence.",
+                    "meta_title": null,
+                    "meta_description": null,
+                    "amount": 3499,
+                    "descountPercentage": 50,
+                    "package_category_id": 23,
+                    "created_at": "2021-11-29T12:56:53.000000Z",
+                    "updated_at": "2021-11-29T12:56:53.000000Z",
+                    "details": [{
+                        "id": 3037,
+                        "package_id": 105,
+                        "detail": "By 6 Award Winning Designers",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3038,
+                        "package_id": 105,
+                        "detail": "Icon Design",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3039,
+                        "package_id": 105,
+                        "detail": "UNLIMITED Revisions",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3040,
+                        "package_id": 105,
+                        "detail": "Print Media",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3041,
+                        "package_id": 105,
+                        "detail": "Stationary Design (BusinessCard,Letterhead & Envelope)",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3042,
+                        "package_id": 105,
+                        "detail": "Invoice Design, Email Signature",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3043,
+                        "package_id": 105,
+                        "detail": "Bi-Fold Brochure (OR) 2 Sided Flyer Design",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3044,
+                        "package_id": 105,
+                        "detail": "Product Catalog Design",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3045,
+                        "package_id": 105,
+                        "detail": "Signage Design (OR) Label Design",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3046,
+                        "package_id": 105,
+                        "detail": "T-Shirt Design (OR) Car Wrap Design",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3047,
+                        "package_id": 105,
+                        "detail": "Website",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3048,
+                        "package_id": 105,
+                        "detail": "E-Commerce Store Design",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3049,
+                        "package_id": 105,
+                        "detail": "Product Detail Page Design",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3050,
+                        "package_id": 105,
+                        "detail": "Unique Banner Slider",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3051,
+                        "package_id": 105,
+                        "detail": "Featured Products Showcase",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3052,
+                        "package_id": 105,
+                        "detail": "Full Shopping Cart Integration",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3053,
+                        "package_id": 105,
+                        "detail": "Unlimited Products",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3054,
+                        "package_id": 105,
+                        "detail": "Unlimited Categories",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3055,
+                        "package_id": 105,
+                        "detail": "Product Rating & Reviews",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3056,
+                        "package_id": 105,
+                        "detail": "Easy Product Search",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3057,
+                        "package_id": 105,
+                        "detail": "Payment Gateway Integration",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3058,
+                        "package_id": 105,
+                        "detail": "Multi-currency Support",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3059,
+                        "package_id": 105,
+                        "detail": "Content Management System",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3060,
+                        "package_id": 105,
+                        "detail": "Customer Log-in Area",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3061,
+                        "package_id": 105,
+                        "detail": "Mobile Responsive",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3062,
+                        "package_id": 105,
+                        "detail": "Social Media Plugins Integration",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3063,
+                        "package_id": 105,
+                        "detail": "Tell a Friend Feature",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3064,
+                        "package_id": 105,
+                        "detail": "Social Media Pages",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3065,
+                        "package_id": 105,
+                        "detail": "Facebook , Twitter, YouTube, Google+ & Pinterest Page Designs",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3066,
+                        "package_id": 105,
+                        "detail": "Value Added Services",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3067,
+                        "package_id": 105,
+                        "detail": "Dedicated Account Manager",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3068,
+                        "package_id": 105,
+                        "detail": "Unlimited Revisions",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }, {
+                        "id": 3069,
+                        "package_id": 105,
+                        "detail": "All Final File Formats",
+                        "created_at": "2021-11-29T12:56:53.000000Z",
+                        "updated_at": "2021-11-29T12:56:53.000000Z"
+                    }]
+                },
+               
                 "automated-conferencing-portal": {
                     "id": 101,
                     "brand_id": 2,
@@ -1300,403 +1697,8 @@
                         "created_at": "2021-11-29T12:52:22.000000Z",
                         "updated_at": "2021-11-29T12:52:22.000000Z"
                     }]
-                },
-                "elite-e-commerce-package": {
-                    "id": 105,
-                    "brand_id": 2,
-                    "heading": "Elite E-Commerce Package",
-                    "slug": "elite-e-commerce-package",
-                    "description": "Suitable for mid sized startups\/enterprises who are looking to take it on the next level and grow their businesses at a much faster pace with a strong brand presence.",
-                    "meta_title": null,
-                    "meta_description": null,
-                    "amount": 3499,
-                    "descountPercentage": 50,
-                    "package_category_id": 23,
-                    "created_at": "2021-11-29T12:56:53.000000Z",
-                    "updated_at": "2021-11-29T12:56:53.000000Z",
-                    "details": [{
-                        "id": 3037,
-                        "package_id": 105,
-                        "detail": "By 6 Award Winning Designers",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3038,
-                        "package_id": 105,
-                        "detail": "Icon Design",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3039,
-                        "package_id": 105,
-                        "detail": "UNLIMITED Revisions",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3040,
-                        "package_id": 105,
-                        "detail": "Print Media",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3041,
-                        "package_id": 105,
-                        "detail": "Stationary Design (BusinessCard,Letterhead & Envelope)",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3042,
-                        "package_id": 105,
-                        "detail": "Invoice Design, Email Signature",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3043,
-                        "package_id": 105,
-                        "detail": "Bi-Fold Brochure (OR) 2 Sided Flyer Design",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3044,
-                        "package_id": 105,
-                        "detail": "Product Catalog Design",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3045,
-                        "package_id": 105,
-                        "detail": "Signage Design (OR) Label Design",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3046,
-                        "package_id": 105,
-                        "detail": "T-Shirt Design (OR) Car Wrap Design",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3047,
-                        "package_id": 105,
-                        "detail": "Website",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3048,
-                        "package_id": 105,
-                        "detail": "E-Commerce Store Design",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3049,
-                        "package_id": 105,
-                        "detail": "Product Detail Page Design",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3050,
-                        "package_id": 105,
-                        "detail": "Unique Banner Slider",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3051,
-                        "package_id": 105,
-                        "detail": "Featured Products Showcase",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3052,
-                        "package_id": 105,
-                        "detail": "Full Shopping Cart Integration",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3053,
-                        "package_id": 105,
-                        "detail": "Unlimited Products",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3054,
-                        "package_id": 105,
-                        "detail": "Unlimited Categories",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3055,
-                        "package_id": 105,
-                        "detail": "Product Rating & Reviews",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3056,
-                        "package_id": 105,
-                        "detail": "Easy Product Search",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3057,
-                        "package_id": 105,
-                        "detail": "Payment Gateway Integration",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3058,
-                        "package_id": 105,
-                        "detail": "Multi-currency Support",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3059,
-                        "package_id": 105,
-                        "detail": "Content Management System",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3060,
-                        "package_id": 105,
-                        "detail": "Customer Log-in Area",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3061,
-                        "package_id": 105,
-                        "detail": "Mobile Responsive",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3062,
-                        "package_id": 105,
-                        "detail": "Social Media Plugins Integration",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3063,
-                        "package_id": 105,
-                        "detail": "Tell a Friend Feature",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3064,
-                        "package_id": 105,
-                        "detail": "Social Media Pages",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3065,
-                        "package_id": 105,
-                        "detail": "Facebook , Twitter, YouTube, Google+ & Pinterest Page Designs",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3066,
-                        "package_id": 105,
-                        "detail": "Value Added Services",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3067,
-                        "package_id": 105,
-                        "detail": "Dedicated Account Manager",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3068,
-                        "package_id": 105,
-                        "detail": "Unlimited Revisions",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }, {
-                        "id": 3069,
-                        "package_id": 105,
-                        "detail": "All Final File Formats",
-                        "created_at": "2021-11-29T12:56:53.000000Z",
-                        "updated_at": "2021-11-29T12:56:53.000000Z"
-                    }]
-                },
-                "business-website-package": {
-                    "id": 165,
-                    "brand_id": 2,
-                    "heading": "Business Website Package",
-                    "slug": "business-website-package",
-                    "description": "Suitable for mid sized startups who are looking to work with a strong R&D, Creative and marketing team to help develop a unique brand identity, strong digital presense, marketing strategies and help select elements to alter consumer behaviour toawrds their business. These strategies will help to compete directly with some of the top competitors in your target market.",
-                    "meta_title": null,
-                    "meta_description": null,
-                    "amount": 1999,
-                    "descountPercentage": 50,
-                    "package_category_id": 23,
-                    "created_at": "2022-05-09T12:30:57.000000Z",
-                    "updated_at": "2022-05-09T12:30:57.000000Z",
-                    "details": [{
-                        "id": 3832,
-                        "package_id": 165,
-                        "detail": "Custom Made, Interactive, Dynamic & High End Design",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3833,
-                        "package_id": 165,
-                        "detail": "Custom WP (or) Custom PHP Development",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3834,
-                        "package_id": 165,
-                        "detail": "1 jQuery Slider Banner",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3835,
-                        "package_id": 165,
-                        "detail": "Up to 10 Custom Made Banner Designs",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3836,
-                        "package_id": 165,
-                        "detail": "10 Stock Images",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3837,
-                        "package_id": 165,
-                        "detail": "Unlimited Revisions",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3838,
-                        "package_id": 165,
-                        "detail": "Special Hover Effects",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3839,
-                        "package_id": 165,
-                        "detail": "Content Management System (CMS)",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3840,
-                        "package_id": 165,
-                        "detail": "Online Appointment\/Scheduling\/Online Ordering Integration (Optional)",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3841,
-                        "package_id": 165,
-                        "detail": "Online Payment Integration (Optional)",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3842,
-                        "package_id": 165,
-                        "detail": "Multi Lingual (Optional)",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3843,
-                        "package_id": 165,
-                        "detail": "Custom Dynamic Forms (Optional)",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3844,
-                        "package_id": 165,
-                        "detail": "Signup Area (For Newsletters, Offers etc.)",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3845,
-                        "package_id": 165,
-                        "detail": "Search Bar",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3846,
-                        "package_id": 165,
-                        "detail": "Live Feeds of Social Networks integration (Optional)",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3847,
-                        "package_id": 165,
-                        "detail": "Mobile Responsive",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3848,
-                        "package_id": 165,
-                        "detail": "15 Seconds 2D Explainer Video",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3849,
-                        "package_id": 165,
-                        "detail": "Voice - Over & Sound Effects",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3850,
-                        "package_id": 165,
-                        "detail": "Professional Script Writing",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3851,
-                        "package_id": 165,
-                        "detail": "Storyboard",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3852,
-                        "package_id": 165,
-                        "detail": "SEO Meta Tags",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3853,
-                        "package_id": 165,
-                        "detail": "FREE 5 Years Domain Name",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3854,
-                        "package_id": 165,
-                        "detail": "Free Google Friendly Sitemap",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3855,
-                        "package_id": 165,
-                        "detail": "Search Engine Submission",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3856,
-                        "package_id": 165,
-                        "detail": "Complete W3C Certified HTML",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3857,
-                        "package_id": 165,
-                        "detail": "Industry Specified Team of Expert Designers and Developers",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3858,
-                        "package_id": 165,
-                        "detail": "Dedicated Accounts Manager",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }, {
-                        "id": 3859,
-                        "package_id": 165,
-                        "detail": "Complete Deployment",
-                        "created_at": "2022-05-09T12:30:57.000000Z",
-                        "updated_at": "2022-05-09T12:30:57.000000Z"
-                    }]
                 }
+                
             },
             "children": []
         },
@@ -1846,6 +1848,7 @@
                         "updated_at": "2022-11-25T16:54:36.000000Z"
                     }]
                 },
+               
                 "corporate-e-commerce-package": {
                     "id": 137,
                     "brand_id": 13,
@@ -1979,6 +1982,190 @@
                         "detail": "Dedicated Accounts Manager",
                         "created_at": "2022-11-25T16:54:47.000000Z",
                         "updated_at": "2022-11-25T16:54:47.000000Z"
+                    }]
+                },
+               
+                "custom-e-commerce-marketplace-package": {
+                    "id": 140,
+                    "brand_id": 13,
+                    "heading": "Custom E Commerce Marketplace Package",
+                    "slug": "custom-e-commerce-marketplace-package",
+                    "description": "Suitable for strong marketplaces where clients can come, sell their products and customers can come and puchase where you make commision out of every sale being done through the portal with multiple revenue models. Includes a strong R&D, Creative and Marketing team to help select every element towards their branding, create strong digital marketing and brand presence strategies.",
+                    "meta_title": null,
+                    "meta_description": null,
+                    "amount": 4999,
+                    "descountPercentage": 50,
+                    "package_category_id": 24,
+                    "created_at": "2021-11-29T13:01:08.000000Z",
+                    "updated_at": "2022-11-25T16:55:08.000000Z",
+                    "details": [{
+                        "id": 12246,
+                        "package_id": 140,
+                        "detail": "Unique Pages and UI Design",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12247,
+                        "package_id": 140,
+                        "detail": "Complete Custom Development",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12248,
+                        "package_id": 140,
+                        "detail": "Newsfeed Integration",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12249,
+                        "package_id": 140,
+                        "detail": "Social Media Plugins Integration",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12250,
+                        "package_id": 140,
+                        "detail": "Advanced Ecommerce Marketplace Features",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12251,
+                        "package_id": 140,
+                        "detail": "Inventory Management",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12252,
+                        "package_id": 140,
+                        "detail": "CRM (Customer Relation Management System)",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12253,
+                        "package_id": 140,
+                        "detail": "Advanced Admin Features 2.0",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12254,
+                        "package_id": 140,
+                        "detail": "Advanced User Features",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12255,
+                        "package_id": 140,
+                        "detail": "Dashboard and Analytics",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12256,
+                        "package_id": 140,
+                        "detail": "Seller\/Shipping Distribution",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12257,
+                        "package_id": 140,
+                        "detail": "Seller Profile Management",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12258,
+                        "package_id": 140,
+                        "detail": "User Profile Management",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12259,
+                        "package_id": 140,
+                        "detail": "General Configuration Features",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12260,
+                        "package_id": 140,
+                        "detail": "Revenue Models",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12261,
+                        "package_id": 140,
+                        "detail": "Featured products",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12262,
+                        "package_id": 140,
+                        "detail": "Google advertisements",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12263,
+                        "package_id": 140,
+                        "detail": "Flash sales Module",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12264,
+                        "package_id": 140,
+                        "detail": "Loyalty Rewards Module",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12265,
+                        "package_id": 140,
+                        "detail": "Upto 40 Stock images",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12266,
+                        "package_id": 140,
+                        "detail": "10 Unique Banner Designs",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12267,
+                        "package_id": 140,
+                        "detail": "JQuery Slider",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12268,
+                        "package_id": 140,
+                        "detail": "Search Engine Submission",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12269,
+                        "package_id": 140,
+                        "detail": "Free Google Friendly Sitemap",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12270,
+                        "package_id": 140,
+                        "detail": "Social Media Page Designs (Facebook, Twitter, Instagram)",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12271,
+                        "package_id": 140,
+                        "detail": "Complete W3C Certified HTML",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12272,
+                        "package_id": 140,
+                        "detail": "Complete Deployment",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
+                    }, {
+                        "id": 12273,
+                        "package_id": 140,
+                        "detail": "Money Back Guarantee",
+                        "created_at": "2022-11-25T16:55:08.000000Z",
+                        "updated_at": "2022-11-25T16:55:08.000000Z"
                     }]
                 },
                 "automated-e-commerce-package": {
@@ -2408,189 +2595,6 @@
                         "detail": "Generate extremely detailed reports for your inventory, sales and services. Filter your reports by date-range and category to see what's making you the most money.",
                         "created_at": "2022-11-25T16:54:58.000000Z",
                         "updated_at": "2022-11-25T16:54:58.000000Z"
-                    }]
-                },
-                "custom-e-commerce-marketplace-package": {
-                    "id": 140,
-                    "brand_id": 13,
-                    "heading": "Custom E Commerce Marketplace Package",
-                    "slug": "custom-e-commerce-marketplace-package",
-                    "description": "Suitable for strong marketplaces where clients can come, sell their products and customers can come and puchase where you make commision out of every sale being done through the portal with multiple revenue models. Includes a strong R&D, Creative and Marketing team to help select every element towards their branding, create strong digital marketing and brand presence strategies.",
-                    "meta_title": null,
-                    "meta_description": null,
-                    "amount": 4999,
-                    "descountPercentage": 50,
-                    "package_category_id": 24,
-                    "created_at": "2021-11-29T13:01:08.000000Z",
-                    "updated_at": "2022-11-25T16:55:08.000000Z",
-                    "details": [{
-                        "id": 12246,
-                        "package_id": 140,
-                        "detail": "Unique Pages and UI Design",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12247,
-                        "package_id": 140,
-                        "detail": "Complete Custom Development",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12248,
-                        "package_id": 140,
-                        "detail": "Newsfeed Integration",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12249,
-                        "package_id": 140,
-                        "detail": "Social Media Plugins Integration",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12250,
-                        "package_id": 140,
-                        "detail": "Advanced Ecommerce Marketplace Features",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12251,
-                        "package_id": 140,
-                        "detail": "Inventory Management",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12252,
-                        "package_id": 140,
-                        "detail": "CRM (Customer Relation Management System)",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12253,
-                        "package_id": 140,
-                        "detail": "Advanced Admin Features 2.0",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12254,
-                        "package_id": 140,
-                        "detail": "Advanced User Features",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12255,
-                        "package_id": 140,
-                        "detail": "Dashboard and Analytics",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12256,
-                        "package_id": 140,
-                        "detail": "Seller\/Shipping Distribution",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12257,
-                        "package_id": 140,
-                        "detail": "Seller Profile Management",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12258,
-                        "package_id": 140,
-                        "detail": "User Profile Management",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12259,
-                        "package_id": 140,
-                        "detail": "General Configuration Features",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12260,
-                        "package_id": 140,
-                        "detail": "Revenue Models",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12261,
-                        "package_id": 140,
-                        "detail": "Featured products",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12262,
-                        "package_id": 140,
-                        "detail": "Google advertisements",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12263,
-                        "package_id": 140,
-                        "detail": "Flash sales Module",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12264,
-                        "package_id": 140,
-                        "detail": "Loyalty Rewards Module",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12265,
-                        "package_id": 140,
-                        "detail": "Upto 40 Stock images",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12266,
-                        "package_id": 140,
-                        "detail": "10 Unique Banner Designs",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12267,
-                        "package_id": 140,
-                        "detail": "JQuery Slider",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12268,
-                        "package_id": 140,
-                        "detail": "Search Engine Submission",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12269,
-                        "package_id": 140,
-                        "detail": "Free Google Friendly Sitemap",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12270,
-                        "package_id": 140,
-                        "detail": "Social Media Page Designs (Facebook, Twitter, Instagram)",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12271,
-                        "package_id": 140,
-                        "detail": "Complete W3C Certified HTML",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12272,
-                        "package_id": 140,
-                        "detail": "Complete Deployment",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
-                    }, {
-                        "id": 12273,
-                        "package_id": 140,
-                        "detail": "Money Back Guarantee",
-                        "created_at": "2022-11-25T16:55:08.000000Z",
-                        "updated_at": "2022-11-25T16:55:08.000000Z"
                     }]
                 },
                 "custom-crm-erp-portal-website-package": {

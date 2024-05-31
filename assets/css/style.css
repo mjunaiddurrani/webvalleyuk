@@ -2601,7 +2601,6 @@ ul.myticks.uui li {
 }
 
 .form-box-main form {
-    width: 80%;
     margin: 0 auto
 }
 
@@ -2717,10 +2716,12 @@ input[type=radio]:not(old)+label {
     color: #fff;
     background: linear-gradient(to right, #2b5876 0, #4e4376 100%);
     border: none;
-    padding: 20px 60px;
-    font-size: 16px;
+    padding: 0;
+    font-size: 22px;
     border-radius: 8px;
-    cursor: pointer
+    cursor: pointer;
+    width: 200px;
+    height: 65px;
 }
 
 .form-box-main form input[type=submit]:after {
@@ -8085,7 +8086,7 @@ div.bub-btn {
 .oddinner-banner {
     height: 350px;
     margin-top: 40px;
-    background: linear-gradient(to bottom, #daeef4 0, rgba(255, 255, 255, 0) 100%)
+    background: linear-gradient(to bottom, #daeef4 0, rgba(255, 255, 255, 0) 100%);
 }
 
 .oddinner-banner .inner-banner-content {
@@ -8099,7 +8100,8 @@ div.bub-btn {
     font-size: 42px;
     font-weight: 700;
     float: none;
-    text-shadow: none
+    text-shadow: none;
+    text-transform: capitalize;
 }
 
 .oddinner-banner .inner-banner-content p {
@@ -8215,7 +8217,9 @@ div.bub-btn {
 
 .maparea .mapwrap .infopart .chunk p {
     font-size: 16px;
-    line-height: 1.4
+    line-height: 1.4;
+    margin: 0;
+    padding: 0 !important;
 }
 
 .maparea .mapwrap .infopart .chunk a {
@@ -8230,7 +8234,8 @@ div.bub-btn {
     font-weight: 700;
     line-height: 1.2;
     padding-bottom: 100px;
-    text-align: center
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .dropdown>ul:before {
@@ -8430,7 +8435,7 @@ div.bub-btn {
 
 .smallboxes .smallbox {
     vertical-align: top;
-    min-height: 430px;
+    min-height: 520px;
     display: inline-block;
     width: 31%;
     box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .1);
@@ -8674,8 +8679,10 @@ div.bub-btn {
     line-height: 1;
     margin-bottom: 15px;
     padding-top: 0;
-    display: inline-block;
-    text-align: left
+    display: block;
+    text-align: center;,
+;,
+    animation: initial;
 }
 
 .smallboxes .smallbox .h2 span {
@@ -9775,7 +9782,8 @@ div.bub-btn {
     .oddinner-banner .inner-banner-content .h3,
     .oddinner-banner .inner-banner-content h3 {
         font-size: 36px;
-        text-align: left
+        text-align: left;
+        text-align: center;
     }
 
     .oddinner-banner .inner-banner-content p {
@@ -9942,7 +9950,7 @@ div.bub-btn {
     }
 
     body .belowform {
-        padding: 50px 0
+        padding: 0 0 40px 0;
     }
 
     .floating_wrap.visible {
@@ -9997,7 +10005,7 @@ div.bub-btn {
     }
 
     body .maparea {
-        padding: 50px 0
+        padding: 0 0 40px 0;
     }
 
     body .maparea .mapwrap .infopart .chunk {
@@ -10024,7 +10032,7 @@ div.bub-btn {
 
     body .oddinner-banner {
         height: 250px;
-        margin-top: 55px
+        margin-top: 55px;
     }
 
     .twoboxes .contactboxeswrap .contactbox {
@@ -11139,7 +11147,8 @@ section.sponsors-sec {
 .dptestimonials h2 {
     font-size: 36px;
     text-align: center;
-    font-weight: 700
+    font-weight: 700;
+    text-transform: capitalize;
 }
 
 .dptestimonials p {
@@ -11174,7 +11183,7 @@ section.sponsors-sec {
     border-radius: 50%;
     text-align: center;
     padding-top: 29px;
-    margin-right: 26px
+    margin-left: 20px;
 }
 
 .dptestimonials .testwrap .testbox .user .h3 {
@@ -15980,4 +15989,8 @@ ul.firs_folrrd li {
     left: unset;
     right: -70px;
     bottom: unset;
+}
+
+ul.mycli.mslider {
+    margin: 20px 0 0 0;
 }

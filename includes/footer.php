@@ -136,7 +136,7 @@
                 <div class="global_disclamer text-center p-1">
                     <h2 style="color: #fff; font-weight: 400px; font-size: 20px; margin: 0; line-height: 40px;">
                         Disclaimer:</h2>
-                    <p style="color:#fff; font-weight: 400px; font-size: 11px; line-height: 20px;">
+                    <p style="color:#fff; font-weight: 400px; font-size: 16px; line-height: 26px;">
                         All company logos and trademarks appearing on our website are the property of their respective
                         owners.
                         We are not affiliated, associated, endorsed by, or in any way officially connected with these
@@ -655,6 +655,55 @@
 <!--  </div>-->
 
 <!--</div>-->
+
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5fe575df-6fd0-413e-b12c-daccdb6b0bfb"></script>
+
+<script>
+  AOS.init();
+</script>
+
+<script>
+function setButtonURL() {
+
+    $zopim.livechat.window.show();
+
+}
+
+function toggleChat() {
+
+    $zopim.livechat.window.show();
+
+}
+</script>
+
+
+<script>
+zE(function() {
+    $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
+        if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
+            $zopim.livechat.window.show();
+        }
+    })
+});
+
+function setButtonURL() {
+
+    $zopim.livechat.window.show();
+
+}
+
+function toggleChat() {
+
+    $zopim.livechat.window.show();
+}
+</script>
+
+
+<script defer type="text/javascript">
+function setButtonURL() {
+    $zopim.livechat.window.toggle();
+}
+</script>
 
 <script>
 $(".clickbutton").click(function() {
